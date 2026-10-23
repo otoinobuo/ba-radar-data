@@ -39,8 +39,8 @@
  "disclosed": "2026-10-21",
  "edition": "php2shell",
  "feeds_n": 40,
- "feeds_ok": 40,
- "generated": "2026-10-23T02:34:38Z",
+ "feeds_ok": 39,
+ "generated": "2026-10-23T14:31:22Z",
  "headline": {
   "attempts": 16,
   "confirmed": 0,
@@ -59,7 +59,7 @@
   {
    "added": "",
    "c": "CVE-2026-109618",
-   "checked": "2026-10-23T02:34:38Z",
+   "checked": "2026-10-23T14:31:22Z",
    "due": "",
    "listed": false,
    "rw": ""
@@ -67,7 +67,7 @@
   {
    "added": "",
    "c": "CVE-2026-109619",
-   "checked": "2026-10-23T02:34:38Z",
+   "checked": "2026-10-23T14:31:22Z",
    "due": "",
    "listed": false,
    "rw": ""
