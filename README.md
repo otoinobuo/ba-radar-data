@@ -1,6 +1,6 @@
 # BA Cybersecurity radar data
 
-Daily snapshots of the four public radars published at [ba-cybersecurity.com/radar](https://ba-cybersecurity.com/radar/). Each snapshot is the `data.json` that the live page was rendered from on that day, copied from the live site.
+Daily snapshots of the five public radars published at [ba-cybersecurity.com/radar](https://ba-cybersecurity.com/radar/). Each snapshot is the `data.json` that the live page was rendered from on that day, copied from the live site.
 
 | Radar | Page | What it records |
 |---|---|---|
@@ -8,6 +8,7 @@ Daily snapshots of the four public radars published at [ba-cybersecurity.com/rad
 | `us` | [US Breach Radar](https://ba-cybersecurity.com/radar/us/) | Cyber incidents disclosed by US organisations (SEC 8-K Item 1.05, HHS, state attorney-general notices) |
 | `waf` | [WAF Rule Watch](https://ba-cybersecurity.com/radar/waf/) | Public rule updates by WAF vendors and which exploited vulnerabilities their texts name |
 | `php2shell` | [PHP2Shell Watch](https://ba-cybersecurity.com/radar/php2shell/) | Public reports on exploitation of CVE-2026-109618 and CVE-2026-109619, and how many say an attack succeeded |
+| `ransomware` | [Ransomware Radar](https://ba-cybersecurity.com/radar/ransomware/) | Ransomware leak-site claims worldwide and statistics from publicly released negotiation chats (snapshots from 2026-10-24) |
 
 ## Files
 
@@ -33,7 +34,7 @@ Published by BA Cybersecurity, Tokyo, Japan · [ORCID 0009-0001-1445-3612](https
 
 ## 日本語
 
-[ba-cybersecurity.com/radar](https://ba-cybersecurity.com/radar/) で公開している 4 つのレーダーの、日ごとの記録です。各ファイルは、その日に公開ページが描画に使った `data.json` を、公開中のサイトから写したものです。
+[ba-cybersecurity.com/radar](https://ba-cybersecurity.com/radar/) で公開している 5 つのレーダーの、日ごとの記録です。各ファイルは、その日に公開ページが描画に使った `data.json` を、公開中のサイトから写したものです。
 
 - `data/<レーダー>/<年>/<年-月-日>.json` — その日(日本時間)の記録。内容が変わった日だけ書きます(生成時刻だけの違いは変化に数えません)。同じ日に 2 回変わったときは後の版を残します。
 - `latest/<レーダー>.json` — 最新の記録。
