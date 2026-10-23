@@ -1,0 +1,2889 @@
+{
+ "asof": "2026-10-23",
+ "coverage": {
+  "any": 14,
+  "kev90": 101,
+  "per_vendor": {
+   "akamai": 0,
+   "aws": 0,
+   "azure": 0,
+   "cloudflare": 14,
+   "crs": 1,
+   "gcp": 1,
+   "imperva": 2,
+   "wafcharm": 2
+  },
+  "radar_obs": 8,
+  "radar_only": 7,
+  "rows": [
+   {
+    "added": "2026-10-20",
+    "c": "CVE-2026-96656",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Plex Media Server",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-20",
+    "c": "CVE-2026-96655",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Plex Media Server",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-20",
+    "c": "CVE-2026-96654",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Plex Media Server",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-20",
+    "c": "CVE-2026-96652",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Plex Media Server",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-20",
+    "c": "CVE-2026-110936",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Siemens Software Center",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-20",
+    "c": "CVE-2026-106931",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "EG Secure Solutions SiteGuard Server Edition",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-16",
+    "c": "CVE-2026-102764",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "BeyondTrust Remote Support",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-16",
+    "c": "CVE-2025-61624",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Fortinet Multiple Products",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-15",
+    "c": "CVE-2026-21589",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-10-12",
+      "t": "WAF - WAF Release - 2026-10-12",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-10-12-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": {
+      "d": "2026-10-08",
+      "t": "CVE-2026-21589: Critical Pre-Authentication File Read Affects Atlassian Data Center Products",
+      "u": "https://www.imperva.com/blog/cve-2026-21589-critical-pre-authentication-file-read-affects-atlassian-data-center-products/"
+     },
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Atlassian Multiple Products",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-14",
+    "c": "CVE-2026-76519",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Cisco Secure Email Gateway",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-14",
+    "c": "CVE-2026-105134",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Ahsay AhsayCBS",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-14",
+    "c": "CVE-2026-105133",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Ahsay AhsayCBS",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-14",
+    "c": "CVE-2026-0322",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Palo Alto Networks PAN-OS",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-13",
+    "c": "CVE-2026-96951",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Microsoft Windows",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-13",
+    "c": "CVE-2026-104935",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Ivanti Connect Secure",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-08",
+    "c": "CVE-2023-22894",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Strapi Strapi",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-08",
+    "c": "CVE-2021-3199",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "ONLYOFFICE Docs",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-08",
+    "c": "CVE-2016-3081",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Apache Struts",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-08",
+    "c": "CVE-2015-5477",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "ISC BIND",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-08",
+    "c": "CVE-2015-3306",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "ProFTPD ProFTPD",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-04",
+    "c": "CVE-2026-88779",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Citrix NetScaler",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-02",
+    "c": "CVE-2026-102490",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Zammad GmbH Zammad",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-02",
+    "c": "CVE-2026-102489",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Zammad GmbH Zammad",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-01",
+    "c": "CVE-2026-104286",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Fortinet FortiMail",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-30",
+    "c": "CVE-2026-76504",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Cisco Catalyst SD-WAN Manager",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-29",
+    "c": "CVE-2026-86950",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Apple Multiple Products",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-27",
+    "c": "CVE-2026-88772",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-10-19",
+      "t": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+      "u": "https://blog.cloudflare.com/protect-your-netscaler-gateway/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Citrix NetScaler",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-27",
+    "c": "CVE-2026-88771",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-10-01",
+      "t": "WAF - WAF Release - 2026-10-01 - Emergency",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-10-01-emergency-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Citrix NetScaler",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-25",
+    "c": "CVE-2026-87902",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-09-25",
+      "t": "WAF - WAF Release - 2026-09-25 - Emergency",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-09-25-emergency-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "WordPress Core",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-25",
+    "c": "CVE-2026-67279",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "MikroTik RouterOS",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-25",
+    "c": "CVE-2026-65660",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Microsoft SharePoint",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-24",
+    "c": "CVE-2026-71362",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Adobe Commerce and Magento",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-24",
+    "c": "CVE-2026-5430",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "WSO2 Multiple Products",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-22",
+    "c": "CVE-2026-94127",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-10-06",
+      "t": "WAF - WAF Release - 2026-10-06",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-10-06-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "F5 BIG-IP APM",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-22",
+    "c": "CVE-2026-93952",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Arista VeloCloud Orchestrator",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-22",
+    "c": "CVE-2026-93616",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Check Point Multiple Products",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-22",
+    "c": "CVE-2026-85102",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Check Point Multiple Products",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-21",
+    "c": "CVE-2026-7273",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Zyxel GS1900 Series Switches",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-18",
+    "c": "CVE-2026-53266",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Linux Kernel",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-18",
+    "c": "CVE-2025-39964",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Linux Kernel",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-18",
+    "c": "CVE-2025-39682",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Linux Kernel",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-16",
+    "c": "CVE-2026-87886",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Acronis Backup",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-16",
+    "c": "CVE-2026-76460",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Cisco Identity Services Engine",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-16",
+    "c": "CVE-2026-58704",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Google Pixel",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-14",
+    "c": "CVE-2026-76461",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Cisco Secure Email Gateway",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-11",
+    "c": "CVE-2026-85706",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-09-30",
+      "t": "WAF - WAF Release - 2026-09-30",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-09-30-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "GitLab Community Edition and Enterprise Edition",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-11",
+    "c": "CVE-2026-84869",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "ConnectWise ScreenConnect",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-11",
+    "c": "CVE-2026-42018",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-09-25",
+      "t": "WAF - WAF Release - 2026-09-25 - Emergency",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-09-25-emergency-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "JFrog Artifactory",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-11",
+    "c": "CVE-2026-42016",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "JFrog Artifactory",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-10",
+    "c": "CVE-2026-86060",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "MikroTik RouterOS",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-10",
+    "c": "CVE-2026-67277",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "MikroTik RouterOS",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-09",
+    "c": "CVE-2026-87491",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Google Chromium V8",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-09",
+    "c": "CVE-2026-20079",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-04-15",
+      "t": "WAF - WAF Release - 2026-04-15",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-04-15-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Cisco Secure Firewall Management Center (FMC) and Security Cloud Control (SCC)…",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-09",
+    "c": "CVE-2026-19490",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Citrix NetScaler",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-09",
+    "c": "CVE-2025-25249",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Fortinet Multiple Products",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-08",
+    "c": "CVE-2026-86218",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "N-able N-central",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-08",
+    "c": "CVE-2026-85880",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Microsoft Windows",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-08",
+    "c": "CVE-2026-81963",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Microsoft Windows",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-08",
+    "c": "CVE-2026-75650",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-09-10",
+      "t": "WAF - WAF Release - 2026-09-10 - Emergency",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-09-10-emergency-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": {
+      "d": "2026-09-10",
+      "t": "Imperva Customers Protected Against StyleSmuggler (CVE-2026-75650) in Adobe Commerce and Magento Ope",
+      "u": "https://www.imperva.com/blog/imperva-customers-protected-against-stylesmuggler-cve-2026-75650-in-adobe-commerce-and-magento-open-source/"
+     },
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Adobe Commerce and Magento",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-04",
+    "c": "CVE-2026-85046",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Google Chromium V8",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-02",
+    "c": "CVE-2026-9586",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Sangoma Switchvox",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-02",
+    "c": "CVE-2026-83549",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "SonicWall SMA1000 Appliances",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-02",
+    "c": "CVE-2026-83548",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "SonicWall SMA1000 Appliances",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-02",
+    "c": "CVE-2026-82329",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-09-25",
+      "t": "WAF - WAF Release - 2026-09-25 - Emergency",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-09-25-emergency-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "JFrog Artifactory",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-02",
+    "c": "CVE-2026-59822",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "BerriAI LiteLLM",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-02",
+    "c": "CVE-2026-49869",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Kestra Kestra OSS",
+    "src": "kev"
+   },
+   {
+    "added": "2026-09-02",
+    "c": "CVE-2026-48710",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Kludex Starlette",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-31",
+    "c": "CVE-2026-82078",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "PaperCut NG/MF",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-31",
+    "c": "CVE-2026-81578",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "PaperCut NG/MF",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-27",
+    "c": "CVE-2026-66384",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "JFrog Artifactory",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-27",
+    "c": "CVE-2026-53362",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Linux Kernel",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-27",
+    "c": "CVE-2023-49105",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "ownCloud ownCloud",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-26",
+    "c": "CVE-2026-8452",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Citrix NetScaler ADC and NetScaler Gateway",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-26",
+    "c": "CVE-2022-0995",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Linux Kernel",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-26",
+    "c": "CVE-2021-23758",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Ajax.NET Professional Ajax.NET Professional",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-26",
+    "c": "CVE-2019-1068",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Microsoft SQL Server",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-26",
+    "c": "CVE-2015-5287",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Red Hat Automatic Bug Reporting Tool",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-26",
+    "c": "CVE-2015-3246",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Red Hat Libuser",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-25",
+    "c": "CVE-2026-60004",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Gitea Gitea",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-24",
+    "c": "CVE-2026-21962",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-21",
+    "c": "CVE-2026-73570",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Synacor Zimbra Collaboration Suite (ZCS)",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-20",
+    "c": "CVE-2026-72530",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "TrueConf Server",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-20",
+    "c": "CVE-2026-72529",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "TrueConf Server",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-19",
+    "c": "CVE-2026-64849",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "MLflow MLflow",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-18",
+    "c": "CVE-2026-65400",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Apple macOS",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-18",
+    "c": "CVE-2026-59310",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Broadcom VMware vCenter",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-18",
+    "c": "CVE-2026-55040",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Microsoft SharePoint",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-18",
+    "c": "CVE-2026-33824",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Microsoft Internet Key Exchange (IKE) Service Extensions",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-17",
+    "c": "CVE-2025-62593",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Ray-Project Ray",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-11",
+    "c": "CVE-2026-72898",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [
+     "jp"
+    ],
+    "p": "Metabase Metabase",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-11",
+    "c": "CVE-2026-68820",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Microsoft Windows Ancillary Function Driver for WinSock",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-11",
+    "c": "CVE-2026-20349",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall…",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-07",
+    "c": "CVE-2026-8037",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-07-14",
+      "t": "WAF - WAF Release - 2026-07-14",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-07-14-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Progress LoadMaster",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-05",
+    "c": "CVE-2026-63077",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "JetBrains TeamCity",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-04",
+    "c": "CVE-2026-9198",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "IBM Langflow",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-04",
+    "c": "CVE-2026-34486",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Apache Tomcat",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-04",
+    "c": "CVE-2026-18556",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "N-able N-central",
+    "src": "kev"
+   },
+   {
+    "added": "2026-08-03",
+    "c": "CVE-2026-18577",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "N-able N-central",
+    "src": "kev"
+   },
+   {
+    "added": "2026-07-29",
+    "c": "CVE-2026-20316",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Cisco Secure Firewall Management Center (FMC)",
+    "src": "kev"
+   },
+   {
+    "added": "2026-07-27",
+    "c": "CVE-2026-16812",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Arista VeloCloud Orchestrator",
+    "src": "kev"
+   },
+   {
+    "added": "2026-07-27",
+    "c": "CVE-2025-68686",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Fortinet FortiOS",
+    "src": "kev"
+   },
+   {
+    "added": "",
+    "c": "CVE-2026-63030",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-07-21",
+      "t": "WAF - WAF Release - 2026-07-21",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-07-21-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": {
+      "d": "2026-07-21",
+      "t": "WordPress Coreの脆弱性「wp2shell」（CVE-2026-63030、CVE-2026-60137）に関する注意喚起とWafCharmでの対応について",
+      "u": "https://www.wafcharm.com/jp/news/20260721/"
+     }
+    },
+    "obs": [
+     "jp"
+    ],
+    "p": "",
+    "src": "radar"
+   },
+   {
+    "added": "",
+    "c": "CVE-2026-60137",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-07-21",
+      "t": "WAF - WAF Release - 2026-07-21",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-07-21-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": {
+      "d": "2026-07-21",
+      "t": "WordPress Coreの脆弱性「wp2shell」（CVE-2026-63030、CVE-2026-60137）に関する注意喚起とWafCharmでの対応について",
+      "u": "https://www.wafcharm.com/jp/news/20260721/"
+     }
+    },
+    "obs": [
+     "jp"
+    ],
+    "p": "",
+    "src": "radar"
+   },
+   {
+    "added": "",
+    "c": "CVE-2025-55182",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2025-12-03",
+      "t": "WAF - WAF Release - 2025-12-03 - Emergency",
+      "u": "https://developers.cloudflare.com/changelog/post/2025-12-03-emergency-waf-release/"
+     },
+     "crs": {
+      "d": "2026-01-05",
+      "t": "v4.22.0",
+      "u": "https://github.com/coreruleset/coreruleset/releases/tag/v4.22.0"
+     },
+     "gcp": {
+      "d": "2025-12-03",
+      "t": "Cloud Armor release notes: December 03, 2025",
+      "u": "https://docs.cloud.google.com/armor/docs/release-notes#December_03_2025"
+     },
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [
+     "jp"
+    ],
+    "p": "",
+    "src": "radar"
+   },
+   {
+    "added": "",
+    "c": "CVE-2024-4577",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [
+     "jp"
+    ],
+    "p": "",
+    "src": "radar"
+   },
+   {
+    "added": "",
+    "c": "CVE-2021-20837",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [
+     "jp"
+    ],
+    "p": "",
+    "src": "radar"
+   },
+   {
+    "added": "",
+    "c": "CVE-2021-20717",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [
+     "jp"
+    ],
+    "p": "",
+    "src": "radar"
+   },
+   {
+    "added": "",
+    "c": "CVE-2017-5638",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [
+     "jp"
+    ],
+    "p": "",
+    "src": "radar"
+   }
+  ],
+  "targets": 108
+ },
+ "edition": "waf",
+ "feeds_n": 10,
+ "feeds_ok": 10,
+ "generated": "2026-10-23T02:37:22Z",
+ "method": {
+  "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
+  "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
+  "inclusion": "An update is listed with the date and wording the vendor published; nothing is rewritten or scored. CVE IDs are taken only when they appear verbatim in the vendor's text.",
+  "inclusion_ja": "更新は、各社が公開した日付と文言のまま載せる。書き換えも採点もしない。CVE ID は、各社の本文に逐語で現れるものだけを取る。",
+  "limits": "Vendors differ in how much they publish: Cloudflare names CVEs in nearly every release, AWS and Google rarely do, and some vendors (Fastly, F5, Trend Micro) publish nothing readable without a login. Counts compare how often vendors publish, not how well they protect. Blog posts and advisories describe a protection that may predate or follow the date shown.",
+  "limits_ja": "公開の量は各社で違う。Cloudflare はほぼ毎回 CVE を名指しし、AWS と Google はまれにしか名指ししない。Fastly・F5・Trend Micro のようにログインなしでは読める情報が無い社もある。件数は公開の頻度の比較であって、防御の優劣ではない。ブログや注意喚起が述べる防御は、表示の日付より前または後のことがある。",
+  "sources": "Vendors' own public pages are read once a day (feeds where they exist, otherwise the page itself): the Cloudflare WAF change log, the AWS Managed Rules changelog, OWASP CRS releases, Google Cloud Armor release notes, Azure service updates that name WAF, the Akamai Application Security changelog, WafCharm vulnerability advisories, and Imperva and Cloudflare blog posts that name a CVE ID. Requests identify themselves, wait at least a second per host and follow robots.txt.",
+  "sources_ja": "各社が自ら公開しているページを日に 1 回読む(フィードがあればフィード、なければ頁そのもの)。Cloudflare の WAF 変更履歴、AWS Managed Rules の変更履歴、OWASP CRS のリリース、Google Cloud Armor のリリースノート、WAF に触れる Azure のサービス更新、Akamai Application Security の変更履歴、WafCharm の脆弱性注意喚起、CVE ID を挙げる Imperva と Cloudflare のブログ。取得は識別子つきで、1 ホスト 1 秒以上あけ、robots.txt に従う。"
+ },
+ "sources": [
+  {
+   "how": "RSS (change log, blog)",
+   "how_ja": "RSS(変更履歴・ブログ)",
+   "name": "Cloudflare WAF managed rules change log + blog",
+   "note": "Rule releases back to 2025-01; blog posts only when they name a CVE ID and a WAF/protection word.",
+   "note_ja": "ルール更新は 2025-01 まで。ブログは CVE ID と WAF/保護の語を含む投稿だけ。",
+   "ok": true,
+   "url": "https://developers.cloudflare.com/waf/change-log/",
+   "v": "cloudflare"
+  },
+  {
+   "how": "HTML table, one row per change",
+   "how_ja": "HTML 表(変更 1 行ずつ)",
+   "name": "AWS Managed Rules changelog",
+   "note": "Rule-group version and date; CVE IDs are rarely named.",
+   "note_ja": "ルールグループの版と日付。CVE ID を名指しすることは少ない。",
+   "ok": true,
+   "url": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html",
+   "v": "aws"
+  },
+  {
+   "how": "GitHub releases API (unauthenticated)",
+   "how_ja": "GitHub releases API(認証なし)",
+   "name": "OWASP CRS releases",
+   "note": "Open-source rule set used by many WAFs.",
+   "note_ja": "多くの WAF が使うオープンソースのルールセット。",
+   "ok": true,
+   "url": "https://github.com/coreruleset/coreruleset/releases",
+   "v": "crs"
+  },
+  {
+   "how": "Atom feed",
+   "how_ja": "Atom フィード",
+   "name": "Google Cloud Armor release notes",
+   "note": "Product release notes; rarely CVE-level.",
+   "note_ja": "製品のリリースノート。CVE 単位の記載は少ない。",
+   "ok": true,
+   "url": "https://docs.cloud.google.com/armor/docs/release-notes",
+   "v": "gcp"
+  },
+  {
+   "how": "RSS filtered by WAF / ruleset wording",
+   "how_ja": "RSS を WAF・ルールセットの語で絞る",
+   "name": "Azure service updates (WAF items)",
+   "note": "Feature and ruleset announcements; DRS versions are not itemised in the feed.",
+   "note_ja": "機能・ルールセットの告知。DRS の版はフィードに個別には出ない。",
+   "ok": true,
+   "url": "https://azure.microsoft.com/updates/",
+   "v": "azure"
+  },
+  {
+   "how": "HTML list + Markdown of each entry",
+   "how_ja": "HTML 一覧と各項目の Markdown",
+   "name": "Akamai Application Security changelog",
+   "note": "API and product notes; individual rule updates are not published here.",
+   "note_ja": "API・製品の更新。個別のルール更新はここには載らない。",
+   "ok": true,
+   "url": "https://techdocs.akamai.com/application-security/changelog",
+   "v": "akamai"
+  },
+  {
+   "how": "RSS, posts naming a CVE ID",
+   "how_ja": "RSS(CVE ID を名指しする投稿)",
+   "name": "Imperva blog",
+   "note": "Blog posts only; the release-notes portal is rendered in the browser and cannot be read mechanically.",
+   "note_ja": "ブログ投稿のみ。リリースノートのポータルはブラウザ描画で、機械的には読めない。",
+   "ok": true,
+   "url": "https://www.imperva.com/blog/",
+   "v": "imperva"
+  },
+  {
+   "how": "HTML list, category 'vulnerability advisories'",
+   "how_ja": "HTML 一覧(カテゴリ「脆弱性の注意喚起」)",
+   "name": "WafCharm news (vulnerability advisories)",
+   "note": "Japanese advisories that state WafCharm's response.",
+   "note_ja": "WafCharm の対応を述べる日本語の注意喚起。",
+   "ok": true,
+   "url": "https://www.wafcharm.com/jp/news/",
+   "v": "wafcharm"
+  },
+  {
+   "how": "JSON catalogue",
+   "how_ja": "JSON カタログ",
+   "name": "CISA Known Exploited Vulnerabilities",
+   "note": "Reference list of target CVEs (added in the last 90 days).",
+   "note_ja": "対象 CVE の基準(直近 90 日に追加された分)。",
+   "ok": true,
+   "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+   "v": "kev"
+  },
+  {
+   "how": "",
+   "how_ja": "",
+   "name": "Fastly documentation changes",
+   "note": "Monthly roll-ups of every documentation change with no WAF-specific item; no rule-level feed.",
+   "note_ja": "文書変更の月次まとめで、WAF 固有の項目がなく、ルール単位のフィードもない。",
+   "ok": false,
+   "url": "https://docs.fastly.com/changes/",
+   "v": "fastly"
+  },
+  {
+   "how": "",
+   "how_ja": "",
+   "name": "F5 attack signature updates",
+   "note": "The signature update notes sit behind a customer login.",
+   "note_ja": "シグネチャ更新情報は顧客ログインの内側にある。",
+   "ok": false,
+   "url": "",
+   "v": "f5"
+  },
+  {
+   "how": "",
+   "how_ja": "",
+   "name": "Trend Micro IPS rule updates",
+   "note": "No public, login-free, machine-readable rule-update feed was found.",
+   "note_ja": "ログイン不要で機械的に読める公開のルール更新フィードが見つからなかった。",
+   "ok": false,
+   "url": "",
+   "v": "trend"
+  }
+ ],
+ "totals": {
+  "items_all": 341,
+  "n30": 35,
+  "n90": 63,
+  "since": "2022-02-01",
+  "vendors30": 8
+ },
+ "updates": [
+  {
+   "cve": [
+    "CVE-2026-111497"
+   ],
+   "d": "2026-10-22",
+   "k": "cve_coverage",
+   "t": "Node2Shell: From Brotli Data to Remote Code Execution",
+   "u": "https://www.imperva.com/blog/node2shell-from-brotli-data-to-remote-code-execution/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "k": "cve_coverage",
+   "t": "PHP2Shell: Early Attack Activity Through Imperva’s Lens",
+   "u": "https://www.imperva.com/blog/php2shell-early-attack-activity-through-impervas-lens/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-109618"
+   ],
+   "d": "2026-10-22",
+   "k": "rules_update",
+   "t": "PHP application managed rule group : Released static version 2.4 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-22-1fe879a585",
+   "v": "aws",
+   "ver": "2.4"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Free Ruleset",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-free/",
+   "v": "cloudflare",
+   "ver": "2026-10-22 Emergency"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Managed Ruleset",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-cfmr/",
+   "v": "cloudflare",
+   "ver": "2026-10-22 Emergency"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "k": "cve_coverage",
+   "t": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の注意喚起および、WafCharmでの対応に関して",
+   "u": "https://www.wafcharm.com/jp/news/20261022-1/",
+   "v": "wafcharm",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-109619",
+    "CVE-2026-109618"
+   ],
+   "d": "2026-10-21",
+   "k": "rules_update",
+   "t": "PHP application managed rule group : Released static version 2.3 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-21-1c14d4bcce",
+   "v": "aws",
+   "ver": "2.3"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "k": "cve_coverage",
+   "t": "PHP2Shell: When PHP Runs Out of Memory at the Wrong Moment",
+   "u": "https://www.imperva.com/blog/php2shell-vulnerability-updates/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619",
+    "CVE-2026-10961"
+   ],
+   "d": "2026-10-21",
+   "k": "cve_coverage",
+   "t": "Cloudflare deploys protections against php2shell vulnerability",
+   "u": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-21",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-21 - Emergency - Cloudflare Free Ruleset",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-free/",
+   "v": "cloudflare",
+   "ver": "2026-10-21 Emergency"
+  },
+  {
+   "cve": [],
+   "d": "2026-10-21",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-21 - Emergency - Cloudflare Managed Ruleset",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-cfmr/",
+   "v": "cloudflare",
+   "ver": "2026-10-21 Emergency"
+  },
+  {
+   "cve": [],
+   "d": "2026-10-20",
+   "k": "release",
+   "t": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
+   "u": "https://azure.microsoft.com/updates?id=577156",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-88771",
+    "CVE-2026-88772"
+   ],
+   "d": "2026-10-19",
+   "k": "cve_coverage",
+   "t": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+   "u": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-19",
+   "k": "release",
+   "t": "Cloud Armor release notes: October 19, 2026",
+   "u": "https://docs.cloud.google.com/armor/docs/release-notes#October_19_2026",
+   "v": "gcp",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-15",
+   "k": "rules_update",
+   "t": "AWS WAF Bot Control rule group: Released static version 7.0 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-15-5ef181c312",
+   "v": "aws",
+   "ver": "7.0"
+  },
+  {
+   "cve": [],
+   "d": "2026-10-14",
+   "k": "release",
+   "t": "Cloud Armor release notes: October 14, 2026",
+   "u": "https://docs.cloud.google.com/armor/docs/release-notes#October_14_2026",
+   "v": "gcp",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-14",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-14 - Emergency",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-14-emergency-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-10-14 Emergency"
+  },
+  {
+   "cve": [],
+   "d": "2026-10-12",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - Scheduled changes for 2026-10-19",
+   "u": "https://developers.cloudflare.com/changelog/post/scheduled-waf-release/",
+   "v": "cloudflare",
+   "ver": "scheduled 2026-10-19"
+  },
+  {
+   "cve": [
+    "CVE-2026-102989",
+    "CVE-2026-21589"
+   ],
+   "d": "2026-10-12",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-12",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-12-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-10-12"
+  },
+  {
+   "cve": [],
+   "d": "2026-10-09",
+   "k": "release",
+   "t": "WAF, Rules - Failed detections field available in Rules",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-09-failed-detections/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-21589"
+   ],
+   "d": "2026-10-08",
+   "k": "cve_coverage",
+   "t": "CVE-2026-21589: Critical Pre-Authentication File Read Affects Atlassian Data Center Products",
+   "u": "https://www.imperva.com/blog/cve-2026-21589-critical-pre-authentication-file-read-affects-atlassian-data-center-products/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-08",
+   "k": "release",
+   "t": "Manage and enforce script behavior rules with Client-Side Protection API",
+   "u": "https://techdocs.akamai.com/application-security/changelog/oct-8-2026-manage-and-enforce-script-behavior-rules-with-client-side-protection-api",
+   "v": "akamai",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-08",
+   "k": "release",
+   "t": "[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
+   "u": "https://azure.microsoft.com/updates?id=574343",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-07",
+   "k": "release",
+   "t": "Protect your LLMs with Firewall for AI API",
+   "u": "https://techdocs.akamai.com/application-security/changelog/oct-7-2026-firewall-for-ai-api",
+   "v": "akamai",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-07",
+   "k": "release",
+   "t": "WAF - Updated unsafe topic detection for AI Security for Apps",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-07-ai-security-for-apps-unsafe-topic-detection/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-46373",
+    "CVE-2026-46374"
+   ],
+   "d": "2026-10-06",
+   "k": "cve_coverage",
+   "t": "The Hidden DoS Vector in SQL Parsers",
+   "u": "https://www.imperva.com/blog/the-hidden-dos-vector-in-sql-parsers/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-94127",
+    "CVE-2026-94543"
+   ],
+   "d": "2026-10-06",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-06",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-06-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-10-06"
+  },
+  {
+   "cve": [],
+   "d": "2026-10-05",
+   "k": "release",
+   "t": "[In preview] Public Preview: IPv6 Support for Application Gateway WAF",
+   "u": "https://azure.microsoft.com/updates?id=573861",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2014-6271"
+   ],
+   "d": "2026-10-02",
+   "k": "rules_update",
+   "t": "v4.25.2 (LTS)",
+   "u": "https://github.com/coreruleset/coreruleset/releases/tag/v4.25.2",
+   "v": "crs",
+   "ver": "4.25.2"
+  },
+  {
+   "cve": [],
+   "d": "2026-10-02",
+   "k": "rules_update",
+   "t": "v4.30.0",
+   "u": "https://github.com/coreruleset/coreruleset/releases/tag/v4.30.0",
+   "v": "crs",
+   "ver": "4.30.0"
+  },
+  {
+   "cve": [
+    "CVE-2026-88771"
+   ],
+   "d": "2026-10-01",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-01 - Emergency",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-01-emergency-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-10-01 Emergency"
+  },
+  {
+   "cve": [
+    "CVE-2026-85706"
+   ],
+   "d": "2026-09-30",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-09-30",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-30-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-09-30"
+  },
+  {
+   "cve": [
+    "CVE-2026-23864"
+   ],
+   "d": "2026-09-28",
+   "k": "cve_coverage",
+   "t": "New Remote DoS Attacks Against GraphQL Java",
+   "u": "https://www.imperva.com/blog/new-remote-dos-attacks-against-graphql-java/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2025-66414",
+    "CVE-2025-53967"
+   ],
+   "d": "2026-09-25",
+   "k": "cve_coverage",
+   "t": "From Debugging to Code Execution: RCE in Microsoft DevLabs’ DebugMCP?",
+   "u": "https://www.imperva.com/blog/from-debugging-to-code-execution-rce-in-microsoft-devlabs-debugmcp/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-87902",
+    "CVE-2026-42018",
+    "CVE-2026-82329"
+   ],
+   "d": "2026-09-25",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-09-25 - Emergency",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-25-emergency-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-09-25 Emergency"
+  },
+  {
+   "cve": [],
+   "d": "2026-09-22",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-09-22",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-22-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-09-22"
+  },
+  {
+   "cve": [],
+   "d": "2026-09-17",
+   "k": "release",
+   "t": "Cloud Armor release notes: September 17, 2026",
+   "u": "https://docs.cloud.google.com/armor/docs/release-notes#September_17_2026",
+   "v": "gcp",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-09-16",
+   "k": "rules_update",
+   "t": "SQL database managed rule group : Released static version 2.5 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-09-16-71ed826e77",
+   "v": "aws",
+   "ver": "2.5"
+  },
+  {
+   "cve": [],
+   "d": "2026-09-15",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-09-15",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-15-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-09-15"
+  },
+  {
+   "cve": [
+    "CVE-2026-75650"
+   ],
+   "d": "2026-09-10",
+   "k": "cve_coverage",
+   "t": "Imperva Customers Protected Against StyleSmuggler (CVE-2026-75650) in Adobe Commerce and Magento Open Source",
+   "u": "https://www.imperva.com/blog/imperva-customers-protected-against-stylesmuggler-cve-2026-75650-in-adobe-commerce-and-magento-open-source/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-75650"
+   ],
+   "d": "2026-09-10",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-09-10 - Emergency",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-10-emergency-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-09-10 Emergency"
+  },
+  {
+   "cve": [
+    "CVE-2026-75604"
+   ],
+   "d": "2026-09-08",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-09-08",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-08-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-09-08"
+  },
+  {
+   "cve": [],
+   "d": "2026-09-07",
+   "k": "release",
+   "t": "WAF - Attack Signature Detection is now available in Early Access",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-07-attack-signature-detection/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-09-07",
+   "k": "release",
+   "t": "WAF - Enforce positive security with Application Profiles",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-07-application-profiles/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-09-02",
+   "k": "release",
+   "t": "[In preview] Public Preview: Azure Front Door profile and route level WAF policies",
+   "u": "https://azure.microsoft.com/updates?id=569804",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-09-01",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-09-01",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-01-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-09-01"
+  },
+  {
+   "cve": [],
+   "d": "2026-09-01",
+   "k": "release",
+   "t": "WAF - Updated PII detection for AI Security for Apps",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-09-01-ai-security-for-apps-pii-detection/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-08-28",
+   "k": "rules_update",
+   "t": "Core rule set (CRS) managed rule group : Released static version 1.23 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-08-28-b0e2203067",
+   "v": "aws",
+   "ver": "1.23"
+  },
+  {
+   "cve": [],
+   "d": "2026-08-27",
+   "k": "release",
+   "t": "Cloud Armor release notes: August 27, 2026",
+   "u": "https://docs.cloud.google.com/armor/docs/release-notes#August_27_2026",
+   "v": "gcp",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-75604"
+   ],
+   "d": "2026-08-26",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-08-26 - Emergency",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-08-26-emergency-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-08-26 Emergency"
+  },
+  {
+   "cve": [],
+   "d": "2026-08-25",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-08-25",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-08-25-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-08-25"
+  },
+  {
+   "cve": [],
+   "d": "2026-08-24",
+   "k": "release",
+   "t": "[Launched] Generally Available: Custom block response code and body for Application Gateway WAF",
+   "u": "https://azure.microsoft.com/updates?id=569504",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-08-20",
+   "k": "release",
+   "t": "WAF - Leaked credentials detection now scans Authorization headers",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-08-20-leaked-credentials-authorization-header/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-08-19",
+   "k": "release",
+   "t": "Cloud Armor release notes: August 19, 2026",
+   "u": "https://docs.cloud.google.com/armor/docs/release-notes#August_19_2026",
+   "v": "gcp",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-08-17",
+   "k": "rules_update",
+   "t": "v4.29.0",
+   "u": "https://github.com/coreruleset/coreruleset/releases/tag/v4.29.0",
+   "v": "crs",
+   "ver": "4.29.0"
+  },
+  {
+   "cve": [
+    "CVE-2026-65640"
+   ],
+   "d": "2026-08-17",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-08-17",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-08-17-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-08-17"
+  },
+  {
+   "cve": [],
+   "d": "2026-08-13",
+   "k": "release",
+   "t": "AI-powered WAF detections",
+   "u": "https://techdocs.akamai.com/application-security/changelog/aug-13-2026-ai-powered-waf-detections",
+   "v": "akamai",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-08-12",
+   "k": "release",
+   "t": "[Launched] Generally Available: Batch rule updates for Azure Front Door",
+   "u": "https://azure.microsoft.com/updates?id=569246",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-08-12",
+   "k": "rules_update",
+   "t": "SQL database managed rule group : Released static version 2.4 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-08-12-088c6e8dd8",
+   "v": "aws",
+   "ver": "2.4"
+  },
+  {
+   "cve": [
+    "CVE-2026-61511",
+    "CVE-2019-17132"
+   ],
+   "d": "2026-08-11",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-08-11",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-08-11-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-08-11"
+  },
+  {
+   "cve": [
+    "CVE-2026-64638"
+   ],
+   "d": "2026-08-07",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-08-07",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-08-07-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-08-07"
+  },
+  {
+   "cve": [
+    "CVE-2026-50522",
+    "CVE-2026-66066"
+   ],
+   "d": "2026-08-04",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-08-04",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-08-04-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-08-04"
+  },
+  {
+   "cve": [],
+   "d": "2026-07-29",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-07-29",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-07-29-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-07-29"
+  }
+ ],
+ "vendor_table": [
+  {
+   "gap": 4,
+   "k": [
+    "cve_coverage",
+    "release",
+    "rules_update"
+   ],
+   "last": "2026-10-22",
+   "lt": "WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Free Ruleset",
+   "lu": "https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-free/",
+   "n30": 15,
+   "n90": 31,
+   "name": "Cloudflare",
+   "v": "cloudflare",
+   "ver": "2026-10-22 Emergency"
+  },
+  {
+   "gap": 13,
+   "k": [
+    "rules_update"
+   ],
+   "last": "2026-10-22",
+   "lt": "PHP application managed rule group : Released static version 2.4 of this rule group.",
+   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-22-1fe879a585",
+   "n30": 3,
+   "n90": 6,
+   "name": "AWS WAF",
+   "v": "aws",
+   "ver": "2.4"
+  },
+  {
+   "gap": 38,
+   "k": [
+    "rules_update"
+   ],
+   "last": "2026-10-02",
+   "lt": "v4.25.2 (LTS)",
+   "lu": "https://github.com/coreruleset/coreruleset/releases/tag/v4.25.2",
+   "n30": 2,
+   "n90": 3,
+   "name": "OWASP CRS",
+   "v": "crs",
+   "ver": "4.25.2"
+  },
+  {
+   "gap": 21,
+   "k": [
+    "release"
+   ],
+   "last": "2026-10-19",
+   "lt": "Cloud Armor release notes: October 19, 2026",
+   "lu": "https://docs.cloud.google.com/armor/docs/release-notes#October_19_2026",
+   "n30": 2,
+   "n90": 5,
+   "name": "Google Cloud Armor",
+   "v": "gcp",
+   "ver": ""
+  },
+  {
+   "gap": 12,
+   "k": [
+    "release"
+   ],
+   "last": "2026-10-20",
+   "lt": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
+   "lu": "https://azure.microsoft.com/updates?id=577156",
+   "n30": 3,
+   "n90": 6,
+   "name": "Azure WAF",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "gap": 28,
+   "k": [
+    "release"
+   ],
+   "last": "2026-10-08",
+   "lt": "Manage and enforce script behavior rules with Client-Side Protection API",
+   "lu": "https://techdocs.akamai.com/application-security/changelog/oct-8-2026-manage-and-enforce-script-behavior-rules-with-client-side-protection-api",
+   "n30": 2,
+   "n90": 3,
+   "name": "Akamai",
+   "v": "akamai",
+   "ver": ""
+  },
+  {
+   "gap": 6,
+   "k": [
+    "cve_coverage"
+   ],
+   "last": "2026-10-22",
+   "lt": "Node2Shell: From Brotli Data to Remote Code Execution",
+   "lu": "https://www.imperva.com/blog/node2shell-from-brotli-data-to-remote-code-execution/",
+   "n30": 7,
+   "n90": 8,
+   "name": "Imperva",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "gap": null,
+   "k": [
+    "cve_coverage"
+   ],
+   "last": "2026-10-22",
+   "lt": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の注意喚起および、WafCharmでの対応に関して",
+   "lu": "https://www.wafcharm.com/jp/news/20261022-1/",
+   "n30": 1,
+   "n90": 1,
+   "name": "WafCharm",
+   "v": "wafcharm",
+   "ver": ""
+  }
+ ],
+ "vendors": [
+  {
+   "id": "cloudflare",
+   "name": "Cloudflare"
+  },
+  {
+   "id": "aws",
+   "name": "AWS WAF"
+  },
+  {
+   "id": "crs",
+   "name": "OWASP CRS"
+  },
+  {
+   "id": "gcp",
+   "name": "Google Cloud Armor"
+  },
+  {
+   "id": "azure",
+   "name": "Azure WAF"
+  },
+  {
+   "id": "akamai",
+   "name": "Akamai"
+  },
+  {
+   "id": "imperva",
+   "name": "Imperva"
+  },
+  {
+   "id": "wafcharm",
+   "name": "WafCharm"
+  }
+ ]
+}
