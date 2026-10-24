@@ -9,3 +9,4 @@ date_jst,radar,file,generated_utc,asof,sha256,bytes,source_url
 2026-10-24,waf,data/waf/2026/2026-10-24.json,2026-10-24T01:30:18Z,2026-10-24,86e3589a359aeb097e8c88a4793bb8f4a4be051b9f43886299b8025f178ae602,68290,https://ba-cybersecurity.com/radar/waf/data.json
 2026-10-24,php2shell,data/php2shell/2026/2026-10-24.json,2026-10-24T02:30:55Z,2026-10-24,a1254b6a1f7ba8d18f4ecfe061dcd4f9f2c9ff1a6e84bc735ba7f5ee4e933a62,51620,https://ba-cybersecurity.com/radar/php2shell/data.json
 2026-10-24,ransomware,data/ransomware/2026/2026-10-24.json,2026-10-24T03:05:45Z,2026-10-23,819dddf9117b830027d8d317817d03a98b7948388c77f8f00b72675c1794acc1,85780,https://ba-cybersecurity.com/radar/ransomware/data.json
+2026-10-24,php2shell,data/php2shell/2026/2026-10-24.json,2026-10-24T14:31:43Z,2026-10-24,1f0f19e2cc14037c4964103f25ed0d8b22adb9b2d6d19a4aab9747372e1e2808,56893,https://ba-cybersecurity.com/radar/php2shell/data.json
