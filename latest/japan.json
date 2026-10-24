@@ -1,6 +1,110 @@
 {
- "generated": "2026-10-23T02:39:04Z",
+ "generated": "2026-10-23T23:56:21Z",
  "incidents": [
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "デジタルアーツ",
+     "u": "https://www.daj.jp/"
+    }
+   ],
+   "o": "デジタルアーツ",
+   "oe": "Digital Arts Inc.",
+   "on": "https://www.daj.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-23",
+     "t": "運用環境に第三者が不正侵入、1年以上前の痕跡も - デジタルアーツ",
+     "u": "https://www.security-next.com/191844"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "カプコン",
+     "u": "https://www.capcom.co.jp/"
+    }
+   ],
+   "o": "カプコン",
+   "oe": "Capcom Co., Ltd.",
+   "on": "https://www.capcom.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-23",
+     "t": "「CAPCOM ID」で情報流出、パスワードの不正変更も - カプコン",
+     "u": "https://www.security-next.com/191838"
+    }
+   ],
+   "t": "leak",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "江戸川区",
+     "u": "https://www.city.edogawa.tokyo.jp/"
+    }
+   ],
+   "o": "江戸川区",
+   "oe": "Edogawa City",
+   "on": "https://www.city.edogawa.tokyo.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-23",
+     "t": "採用内定式の案内メールを誤送信、メアド流出 - 江戸川区",
+     "u": "https://www.security-next.com/191724"
+    }
+   ],
+   "t": "leak",
+   "v": "email",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "イオングループの一部Ｗｅｂサイトへの不正アクセスによるシステムメンテナンスについて｜イオン株式会社",
+     "u": "https://www.aeon.info/wp-content/uploads/news/important/pdf/2026/10/261021R_2.pdf"
+    }
+   ],
+   "o": "イオン株式会社",
+   "oe": "Aeon Co., Ltd.",
+   "on": "https://www.aeon.info/wp-content/uploads/news/important/pdf/2026/10/261021R_2.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-23",
+     "t": "グループの一部ウェブサイトに不正アクセス、個人情報流出の有無を調査―イオン",
+     "u": "https://cybersecurity-jp.com/news/117646"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
   {
    "d": "2026-10-23",
    "ls": "none_found",
@@ -12,7 +116,7 @@
     }
    ],
    "o": "カーセンサーnet",
-   "oe": "",
+   "oe": "CarSensor.net",
    "on": "https://www.recruit.co.jp/newsroom/pressrelease/2026/1021_149447.html",
    "os": "found",
    "s": [
@@ -43,7 +147,7 @@
     }
    ],
    "o": "アバハウスインターナショナル",
-   "oe": "",
+   "oe": "Abahouse International",
    "on": "https://abahouse.co.jp/news/2005",
    "os": "found",
    "s": [
@@ -69,7 +173,7 @@
     }
    ],
    "o": "講談社BECK 従業員",
-   "oe": "",
+   "oe": "Kodansha BECK email accounts",
    "on": "https://kodansha-beck.co.jp/news/unauthorizedaccess20261002",
    "os": "found",
    "s": [
@@ -94,8 +198,8 @@
      "u": "https://www.moonstar.co.jp/information/2026/10/post-4.html"
     }
    ],
-   "o": "ムーンスター",
-   "oe": "",
+   "o": "株式会社ムーンスター",
+   "oe": "MoonStar",
    "on": "https://www.moonstar.co.jp/information/2026/10/post-4.html",
    "os": "found",
    "s": [
@@ -107,8 +211,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "credential",
+   "x": "yes"
   },
   {
    "d": "2026-10-23",
@@ -120,8 +224,8 @@
      "u": "https://www.saferinternet.or.jp/info/35403"
     }
    ],
-   "o": "さくらのレンタルサーバ",
-   "oe": "",
+   "o": "セーファーインターネット協会",
+   "oe": "Safer Internet Association",
    "on": "https://www.saferinternet.or.jp/info/35403",
    "os": "found",
    "s": [
@@ -133,7 +237,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -157,7 +261,7 @@
     }
    ],
    "o": "お名前 .com デスクトップクラウド",
-   "oe": "",
+   "oe": "Onamae.com Desktop Cloud",
    "on": "https://www.onamae.com/news/article/11584",
    "os": "found",
    "s": [
@@ -169,15 +273,23 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-10-22",
    "ls": "none_found",
-   "o": "リクルートの中古車情報サービス",
-   "oe": "",
-   "os": "candidate",
+   "nn": [
+    {
+     "d": "",
+     "t": "リクルート",
+     "u": "https://www.recruit.co.jp/"
+    }
+   ],
+   "o": "リクルート",
+   "oe": "Recruit Holdings Co., Ltd.",
+   "on": "https://www.recruit.co.jp/",
+   "os": "found",
    "s": [
     {
      "h": "security-next.com",
@@ -187,14 +299,14 @@
     }
    ],
    "t": "leak",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-22",
    "ls": "none_found",
    "o": "フジテレビ",
-   "oe": "",
+   "oe": "Fuji Television Network",
    "os": "not_found",
    "s": [
     {
@@ -211,9 +323,22 @@
   {
    "d": "2026-10-22",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "外部委託先への不正アクセスに伴うお客様情報の漏洩について",
+     "u": "https://www.iwaicosmo.co.jp/news/2026/10161410.html"
+    },
+    {
+     "d": "2026-10-20",
+     "t": "外部委託先への不正アクセスに伴うお客様情報の漏洩について(第2報)",
+     "u": "https://www.iwaicosmo.co.jp/info/2026/10201710.html"
+    }
+   ],
    "o": "不正取引も行われた岩井コスモ証券",
-   "oe": "",
-   "os": "not_found",
+   "oe": "Iwaco Securities",
+   "on": "https://www.iwaicosmo.co.jp/news/2026/10161410.html",
+   "os": "found",
    "s": [
     {
      "h": "piyolog.hatenadiary.jp",
@@ -223,15 +348,23 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
    "d": "2026-10-22",
    "ls": "none_found",
-   "o": "キャンペーン事務局",
-   "oe": "",
-   "os": "candidate",
+   "nn": [
+    {
+     "d": "",
+     "t": "国土交通省",
+     "u": "https://www.mlit.go.jp/"
+    }
+   ],
+   "o": "国土交通省",
+   "oe": "Ministry of Land, Infrastructure, Transport and Tourism",
+   "on": "https://www.mlit.go.jp/",
+   "os": "found",
    "s": [
     {
      "h": "security-next.com",
@@ -254,8 +387,8 @@
      "u": "https://ssl4.eir-parts.net/doc/4372/tdnet/2896738/00.pdf"
     }
    ],
-   "o": "ユミルリンクのメール配信サービスの一部サーバシステム",
-   "oe": "",
+   "o": "ユミルリンク株式会社",
+   "oe": "YMIRLINK, Inc.",
    "on": "https://ssl4.eir-parts.net/doc/4372/tdnet/2896738/00.pdf",
    "os": "found",
    "s": [
@@ -281,7 +414,7 @@
     }
    ],
    "o": "Z会",
-   "oe": "",
+   "oe": "Z-kai",
    "on": "https://www.zkai.co.jp/post-120678",
    "os": "found",
    "s": [
@@ -307,7 +440,7 @@
     }
    ],
    "o": "ファンケルとアテニア",
-   "oe": "",
+   "oe": "FANCL EC site",
    "on": "https://www.fancl.jp/news/pdf/husei.pdf",
    "os": "found",
    "s": [
@@ -333,7 +466,7 @@
     }
    ],
    "o": "ジャパンタイムズグループ会社",
-   "oe": "",
+   "oe": "Japan Times Group",
    "on": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/566349.pdf",
    "os": "found",
    "s": [
@@ -359,7 +492,7 @@
     }
    ],
    "o": "エネルギー・金属鉱物資源機構",
-   "oe": "",
+   "oe": "Energy, Metals and Mineral Resources Agency",
    "on": "https://www.jogmec.go.jp/news/information/information_00706.html",
    "os": "found",
    "s": [
@@ -812,6 +945,12 @@
      "p": "2026-10-21",
      "t": "電話とメールで受付 ～ IPAが不正アクセス特別相談窓口を開設",
      "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56518.html"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-23",
+     "t": "不正アクセス特別相談窓口を開設、企業・組織の初動対応を支援―IPA",
+     "u": "https://cybersecurity-jp.com/news/117650"
     }
    ],
    "t": "unauthorized_access",
@@ -2556,6 +2695,12 @@
      "p": "2026-10-14",
      "t": "ConoHa WING byGMO に不正アクセス、不正プログラムを設置",
      "u": "https://scan.netsecurity.ne.jp/article/2026/10/14/56450.html"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-23",
+     "t": "GMO「デスクトップクラウド」で侵害 - 利用者から金融口座の不正操作報告",
+     "u": "https://www.security-next.com/191883"
     }
    ],
    "t": "unauthorized_access",

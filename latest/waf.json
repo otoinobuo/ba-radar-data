@@ -1,8 +1,8 @@
 {
- "asof": "2026-10-23",
+ "asof": "2026-10-24",
  "coverage": {
   "any": 14,
-  "kev90": 101,
+  "kev90": 103,
   "per_vendor": {
    "akamai": 0,
    "aws": 0,
@@ -16,6 +16,40 @@
   "radar_obs": 8,
   "radar_only": 7,
   "rows": [
+   {
+    "added": "2026-10-23",
+    "c": "CVE-2026-114625",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Arista VeloCloud Orchestrator",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-23",
+    "c": "CVE-2026-110447",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Collabora Collabora Online – Built-in CODE Server",
+    "src": "kev"
+   },
    {
     "added": "2026-10-20",
     "c": "CVE-2026-96656",
@@ -1949,12 +1983,12 @@
     "src": "radar"
    }
   ],
-  "targets": 108
+  "targets": 110
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-10-23T02:37:22Z",
+ "generated": "2026-10-24T01:30:18Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2088,13 +2122,25 @@
   }
  ],
  "totals": {
-  "items_all": 341,
-  "n30": 35,
-  "n90": 63,
+  "items_all": 342,
+  "n30": 36,
+  "n90": 64,
   "since": "2022-02-01",
   "vendors30": 8
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "k": "rules_update",
+   "t": "PHP application managed rule group : Released static version 2.5 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-22-5c784981fd",
+   "v": "aws",
+   "ver": "2.5"
+  },
   {
    "cve": [
     "CVE-2026-111497"
@@ -2191,6 +2237,7 @@
   },
   {
    "cve": [
+    "CVE-2026-115560",
     "CVE-2026-109618",
     "CVE-2026-109619",
     "CVE-2026-10961"
@@ -2759,13 +2806,13 @@
     "rules_update"
    ],
    "last": "2026-10-22",
-   "lt": "PHP application managed rule group : Released static version 2.4 of this rule group.",
-   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-22-1fe879a585",
-   "n30": 3,
-   "n90": 6,
+   "lt": "PHP application managed rule group : Released static version 2.5 of this rule group.",
+   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-22-5c784981fd",
+   "n30": 4,
+   "n90": 7,
    "name": "AWS WAF",
    "v": "aws",
-   "ver": "2.4"
+   "ver": "2.5"
   },
   {
    "gap": 38,
