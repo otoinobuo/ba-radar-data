@@ -9,7 +9,7 @@
   "sec8k": "2023-12-18"
  },
  "edition": "us",
- "generated": "2026-10-25T01:05:47Z",
+ "generated": "2026-10-25T04:09:06Z",
  "incidents": [
   {
    "a": null,
@@ -37967,7 +37967,7 @@
    "sec": "other",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "email_phishing",
    "vl": [],
    "x": "unknown"
   },
@@ -40549,9 +40549,9 @@
    "sec": "other",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "webapp_vuln",
    "vl": [],
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "a": 27174,
@@ -41577,7 +41577,7 @@
    ],
    "sec": "healthcare",
    "st": "",
-   "t": "data_breach",
+   "t": "ransomware",
    "v": "unknown",
    "vl": [],
    "x": "unknown"
@@ -41620,7 +41620,7 @@
    "sec": "other",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "email_phishing",
    "vl": [],
    "x": "unknown"
   },
@@ -42261,7 +42261,7 @@
    ],
    "sec": "other",
    "st": "",
-   "t": "data_breach",
+   "t": "ransomware",
    "v": "unknown",
    "vl": [],
    "x": "unknown"
@@ -98334,7 +98334,7 @@
     "stateag": 39
    },
    "press": 0,
-   "ransomware": 0,
+   "ransomware": 2,
    "sec8k": 0,
    "stateag": 42
   },
@@ -98700,8 +98700,8 @@
    "claim": 0,
    "claim_checked": 194,
    "ext_no": 20,
-   "ext_unknown": 941,
-   "ext_yes": 33,
+   "ext_unknown": 940,
+   "ext_yes": 34,
    "lag": {
     "by_ch": {
      "ca": {
@@ -98736,18 +98736,18 @@
    "official_only": 986,
    "press_only": 7,
    "prev": 765,
-   "route_unknown": 797,
+   "route_unknown": 794,
    "routes": {
     "cloud_misconfig": 3,
     "credential": 13,
     "device": 1,
-    "email_phishing": 119,
+    "email_phishing": 121,
     "insider": 4,
     "misdirected": 13,
     "physical": 2,
     "third_party": 25,
-    "unknown": 797,
-    "webapp_vuln": 17
+    "unknown": 794,
+    "webapp_vuln": 18
    },
    "sectors": {
     "education": 26,
@@ -98761,9 +98761,9 @@
     "technology": 3
    },
    "types": {
-    "data_breach": 520,
+    "data_breach": 518,
     "intrusion": 462,
-    "ransomware": 12
+    "ransomware": 14
    },
    "vuln": 11,
    "vulns_top": [
@@ -99022,8 +99022,8 @@
    "claim": 0,
    "claim_checked": 194,
    "ext_no": 34,
-   "ext_unknown": 2337,
-   "ext_yes": 33,
+   "ext_unknown": 2336,
+   "ext_yes": 34,
    "lag": {
     "by_ch": {
      "ca": {
@@ -99058,18 +99058,18 @@
    "official_only": 2396,
    "press_only": 7,
    "prev": null,
-   "route_unknown": 2143,
+   "route_unknown": 2140,
    "routes": {
     "cloud_misconfig": 3,
     "credential": 13,
     "device": 1,
-    "email_phishing": 168,
+    "email_phishing": 170,
     "insider": 4,
     "misdirected": 25,
     "physical": 4,
     "third_party": 26,
-    "unknown": 2143,
-    "webapp_vuln": 17
+    "unknown": 2140,
+    "webapp_vuln": 18
    },
    "sectors": {
     "education": 103,
@@ -99083,9 +99083,9 @@
     "technology": 9
    },
    "types": {
-    "data_breach": 1632,
+    "data_breach": 1630,
     "intrusion": 757,
-    "ransomware": 15
+    "ransomware": 17
    },
    "vuln": 11,
    "vulns_top": [

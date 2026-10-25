@@ -1,5 +1,5 @@
 {
- "asof": "2026-10-23",
+ "asof": "2026-10-24",
  "coverage": {
   "chats_updated": "2026-09-21",
   "claims_from": "2020-01-12",
@@ -9,10 +9,6 @@
   "threat_from": "2020-01-12"
  },
  "daily": [
-  {
-   "d": "2026-07-26",
-   "n": 43
-  },
   {
    "d": "2026-07-27",
    "n": 44
@@ -368,20 +364,24 @@
   {
    "d": "2026-10-23",
    "n": 50
+  },
+  {
+   "d": "2026-10-24",
+   "n": 1
   }
  ],
  "edition": "ransomware",
- "generated": "2026-10-24T03:05:45Z",
+ "generated": "2026-10-25T05:36:27Z",
  "groups": [
   {
    "chats": 2,
    "deadline_median": null,
-   "described_share": 0.007,
+   "described_share": 0.006,
    "first": "2022-10-08",
    "g": "qilin",
    "last": "2026-10-23",
-   "n30": 102,
-   "n365": 1427,
+   "n30": 96,
+   "n365": 1425,
    "released_share": 0.0
   },
   {
@@ -391,7 +391,7 @@
    "first": "2025-09-09",
    "g": "the gentlemen",
    "last": "2026-10-23",
-   "n30": 125,
+   "n30": 122,
    "n365": 1019,
    "released_share": 0.003
   },
@@ -402,7 +402,7 @@
    "first": "2023-04-29",
    "g": "akira",
    "last": "2026-10-23",
-   "n30": 32,
+   "n30": 30,
    "n365": 602,
    "released_share": 0.0
   },
@@ -413,7 +413,7 @@
    "first": "2023-08-09",
    "g": "inc ransom",
    "last": "2026-10-22",
-   "n30": 36,
+   "n30": 32,
    "n365": 485,
    "released_share": 0.0
   },
@@ -424,7 +424,7 @@
    "first": "2023-12-13",
    "g": "dragonforce",
    "last": "2026-10-18",
-   "n30": 12,
+   "n30": 7,
    "n365": 393,
    "released_share": 0.003
   },
@@ -435,7 +435,7 @@
    "first": "2025-12-05",
    "g": "lockbit5",
    "last": "2026-10-23",
-   "n30": 24,
+   "n30": 23,
    "n365": 389,
    "released_share": 0.0
   },
@@ -480,7 +480,7 @@
    "g": "safepay",
    "last": "2026-10-12",
    "n30": 25,
-   "n365": 261,
+   "n365": 256,
    "released_share": 0.0
   },
   {
@@ -523,7 +523,7 @@
    "first": "2026-04-01",
    "g": "krybit",
    "last": "2026-10-04",
-   "n30": 11,
+   "n30": 8,
    "n365": 163,
    "released_share": 0.0
   },
@@ -545,7 +545,7 @@
    "first": "2026-01-23",
    "g": "shinyhunters",
    "last": "2026-10-02",
-   "n30": 4,
+   "n30": 3,
    "n365": 136,
    "released_share": 0.023
   },
@@ -574,6 +574,17 @@
   {
    "chats": 0,
    "deadline_median": null,
+   "described_share": 0.892,
+   "first": "2026-06-15",
+   "g": "deadlock",
+   "last": "2026-10-24",
+   "n30": 7,
+   "n365": 111,
+   "released_share": 0.01
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
    "described_share": 0.0,
    "first": "2025-07-07",
    "g": "payoutsking",
@@ -581,17 +592,6 @@
    "n30": 8,
    "n365": 110,
    "released_share": 0.0
-  },
-  {
-   "chats": 0,
-   "deadline_median": null,
-   "described_share": 0.891,
-   "first": "2026-06-15",
-   "g": "deadlock",
-   "last": "2026-10-24",
-   "n30": 6,
-   "n365": 110,
-   "released_share": 0.01
   },
   {
    "chats": 0,
@@ -629,17 +629,6 @@
   {
    "chats": 0,
    "deadline_median": null,
-   "described_share": 0.0,
-   "first": "2022-08-18",
-   "g": "ransomhouse",
-   "last": "2026-10-13",
-   "n30": 6,
-   "n365": 96,
-   "released_share": 0.233
-  },
-  {
-   "chats": 0,
-   "deadline_median": null,
    "described_share": 0.085,
    "first": "2025-02-25",
    "g": "anubis",
@@ -649,13 +638,24 @@
    "released_share": 0.0
   },
   {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.0,
+   "first": "2022-08-18",
+   "g": "ransomhouse",
+   "last": "2026-10-13",
+   "n30": 6,
+   "n365": 93,
+   "released_share": 0.23
+  },
+  {
    "chats": 1,
    "deadline_median": null,
    "described_share": 0.333,
    "first": "2025-08-06",
    "g": "pear",
    "last": "2026-10-23",
-   "n30": 10,
+   "n30": 7,
    "n365": 90,
    "released_share": 0.0
   },
@@ -666,7 +666,7 @@
    "first": "2026-08-06",
    "g": "storm",
    "last": "2026-10-19",
-   "n30": 25,
+   "n30": 23,
    "n365": 89,
    "released_share": 0.0
   },
@@ -678,18 +678,7 @@
    "g": "worldleaks",
    "last": "2026-07-22",
    "n30": 0,
-   "n365": 89,
-   "released_share": 0.0
-  },
-  {
-   "chats": 0,
-   "deadline_median": null,
-   "described_share": 0.975,
-   "first": "2024-08-02",
-   "g": "lynx",
-   "last": "2026-08-29",
-   "n30": 0,
-   "n365": 80,
+   "n365": 86,
    "released_share": 0.0
   },
   {
@@ -700,6 +689,17 @@
    "g": "killsec3",
    "last": "2026-09-27",
    "n30": 46,
+   "n365": 79,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.975,
+   "first": "2024-08-02",
+   "g": "lynx",
+   "last": "2026-08-29",
+   "n30": 0,
    "n365": 79,
    "released_share": 0.0
   }
@@ -998,7 +998,7 @@
   {
    "groups": 74,
    "m": "2026-10",
-   "n": 835,
+   "n": 836,
    "top": {
     "akira": 28,
     "n0n": 136,
@@ -1262,7 +1262,7 @@
    "o": "Anne Arundel County",
    "out": "",
    "sec": "government",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Anne%20Arundel%20County"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Anne%20Arundel%20County"
   },
   {
    "cc": "",
@@ -1272,7 +1272,7 @@
    "o": "Sheppard, Mullin, Richter & Hampton LLP",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Sheppard%2C%20Mullin%2C%20Richter%20%26%20Hampton%20LLP"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sheppard%2C%20Mullin%2C%20Richter%20%26%20Hampton%20LLP"
   },
   {
    "cc": "US",
@@ -1282,7 +1282,7 @@
    "o": "Astemo株式会社",
    "out": "",
    "sec": "",
-   "u": "https://ba-cybersecurity.com/radar/?q=Astemo%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE"
+   "u": "https://ba-cybersecurity.com/radar/#q=Astemo%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE"
   },
   {
    "cc": "",
@@ -1292,7 +1292,7 @@
    "o": "Accela, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Accela%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Accela%2C%20Inc."
   },
   {
    "cc": "US",
@@ -1302,7 +1302,7 @@
    "o": "WindRose Health Network",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=WindRose%20Health%20Network"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=WindRose%20Health%20Network"
   },
   {
    "cc": "US",
@@ -1312,7 +1312,7 @@
    "o": "Nutex Health Inc.",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Nutex%20Health%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Nutex%20Health%20Inc."
   },
   {
    "cc": "US",
@@ -1322,7 +1322,7 @@
    "o": "Next Level Medical, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Next%20Level%20Medical%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Next%20Level%20Medical%2C%20LLC"
   },
   {
    "cc": "",
@@ -1332,7 +1332,7 @@
    "o": "Novocure Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Novocure%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Novocure%20Inc."
   },
   {
    "cc": "",
@@ -1342,7 +1342,7 @@
    "o": "Interim HealthCare Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Interim%20HealthCare%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Interim%20HealthCare%20Inc."
   },
   {
    "cc": "",
@@ -1352,7 +1352,7 @@
    "o": "Fox Rothschild LLP",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Fox%20Rothschild%20LLP"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Fox%20Rothschild%20LLP"
   },
   {
    "cc": "",
@@ -1362,7 +1362,7 @@
    "o": "Gardiner Family Chiropractic, PC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Gardiner%20Family%20Chiropractic%2C%20PC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Gardiner%20Family%20Chiropractic%2C%20PC"
   },
   {
    "cc": "IN",
@@ -1372,7 +1372,7 @@
    "o": "The Kenaitze Indian Tribe",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=The%20Kenaitze%20Indian%20Tribe"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Kenaitze%20Indian%20Tribe"
   },
   {
    "cc": "",
@@ -1382,7 +1382,7 @@
    "o": "Ernst & Young LLP",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Ernst%20%26%20Young%20LLP"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ernst%20%26%20Young%20LLP"
   },
   {
    "cc": "US",
@@ -1392,7 +1392,7 @@
    "o": "Advantage Home Health Care",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Advantage%20Home%20Health%20Care"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Advantage%20Home%20Health%20Care"
   },
   {
    "cc": "",
@@ -1402,7 +1402,7 @@
    "o": "Opportune LLP",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Opportune%20LLP"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Opportune%20LLP"
   },
   {
    "cc": "",
@@ -1412,7 +1412,7 @@
    "o": "Baraga County Memorial Hospital",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Baraga%20County%20Memorial%20Hospital"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Baraga%20County%20Memorial%20Hospital"
   },
   {
    "cc": "",
@@ -1422,7 +1422,7 @@
    "o": "COMHAR, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=COMHAR%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=COMHAR%2C%20Inc."
   },
   {
    "cc": "",
@@ -1432,7 +1432,7 @@
    "o": "Life Bridges, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Life%20Bridges%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Life%20Bridges%2C%20Inc."
   },
   {
    "cc": "US",
@@ -1442,7 +1442,7 @@
    "o": "The Lawson Roofing Co Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=The%20Lawson%20Roofing%20Co%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Lawson%20Roofing%20Co%20Inc."
   },
   {
    "cc": "",
@@ -1452,7 +1452,7 @@
    "o": "Singing River Health System",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Singing%20River%20Health%20System"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Singing%20River%20Health%20System"
   },
   {
    "cc": "US",
@@ -1462,7 +1462,7 @@
    "o": "Michigan Surgical Center, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Michigan%20Surgical%20Center%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Michigan%20Surgical%20Center%2C%20LLC"
   },
   {
    "cc": "",
@@ -1472,7 +1472,7 @@
    "o": "Champaign-Urbana Public Health District",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Champaign-Urbana%20Public%20Health%20District"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Champaign-Urbana%20Public%20Health%20District"
   },
   {
    "cc": "",
@@ -1482,7 +1482,7 @@
    "o": "Capital Family Physicians",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Capital%20Family%20Physicians"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Capital%20Family%20Physicians"
   },
   {
    "cc": "",
@@ -1492,7 +1492,7 @@
    "o": "Peña and Bromberg",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Pe%C3%B1a%20and%20Bromberg"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Pe%C3%B1a%20and%20Bromberg"
   },
   {
    "cc": "",
@@ -1502,7 +1502,7 @@
    "o": "DentaQuest, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=DentaQuest%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DentaQuest%2C%20LLC"
   },
   {
    "cc": "",
@@ -1512,7 +1512,7 @@
    "o": "John G. Yphantides, a Professional Law Corporation",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=John%20G.%20Yphantides%2C%20a%20Professional%20Law%20Corporation"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=John%20G.%20Yphantides%2C%20a%20Professional%20Law%20Corporation"
   },
   {
    "cc": "",
@@ -1522,7 +1522,7 @@
    "o": "American Board of Preventive Medicine",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=American%20Board%20of%20Preventive%20Medicine"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=American%20Board%20of%20Preventive%20Medicine"
   },
   {
    "cc": "",
@@ -1532,7 +1532,7 @@
    "o": "DeMera DeMera Cameron, LLP",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=DeMera%20DeMera%20Cameron%2C%20LLP"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DeMera%20DeMera%20Cameron%2C%20LLP"
   },
   {
    "cc": "US",
@@ -1542,7 +1542,7 @@
    "o": "Clinical Registry Solutions",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Clinical%20Registry%20Solutions"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Clinical%20Registry%20Solutions"
   },
   {
    "cc": "",
@@ -1552,7 +1552,7 @@
    "o": "Morning Star Tours",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Morning%20Star%20Tours"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Morning%20Star%20Tours"
   },
   {
    "cc": "",
@@ -1562,7 +1562,7 @@
    "o": "Cushman & Wakefield",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Cushman%20%26%20Wakefield"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cushman%20%26%20Wakefield"
   },
   {
    "cc": "",
@@ -1572,7 +1572,7 @@
    "o": "Towerpoint Wealth, LLC",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Towerpoint%20Wealth%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Towerpoint%20Wealth%2C%20LLC"
   },
   {
    "cc": "",
@@ -1582,7 +1582,7 @@
    "o": "See’s Candies, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=See%E2%80%99s%20Candies%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=See%E2%80%99s%20Candies%2C%20Inc."
   },
   {
    "cc": "US",
@@ -1592,7 +1592,7 @@
    "o": "Mid Florida Dermatology & Plastic Surgery",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Mid%20Florida%20Dermatology%20%26%20Plastic%20Surgery"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mid%20Florida%20Dermatology%20%26%20Plastic%20Surgery"
   },
   {
    "cc": "",
@@ -1602,7 +1602,7 @@
    "o": "Frost Bank",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Frost%20Bank"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Frost%20Bank"
   },
   {
    "cc": "",
@@ -1612,7 +1612,7 @@
    "o": "Minidoka Memorial Hospital",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Minidoka%20Memorial%20Hospital"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Minidoka%20Memorial%20Hospital"
   },
   {
    "cc": "US",
@@ -1622,7 +1622,7 @@
    "o": "South Florida Injury Centers, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=South%20Florida%20Injury%20Centers%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=South%20Florida%20Injury%20Centers%2C%20Inc."
   },
   {
    "cc": "",
@@ -1632,7 +1632,7 @@
    "o": "Flash Charm, Inc. d/b/a Idera",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Flash%20Charm%2C%20Inc.%20d/b/a%20Idera"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Flash%20Charm%2C%20Inc.%20d/b/a%20Idera"
   },
   {
    "cc": "",
@@ -1642,7 +1642,7 @@
    "o": "Kannarr Eye Care",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Kannarr%20Eye%20Care"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Kannarr%20Eye%20Care"
   },
   {
    "cc": "",
@@ -1652,7 +1652,7 @@
    "o": "Signature Healthcare Corporation",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Signature%20Healthcare%20Corporation"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Signature%20Healthcare%20Corporation"
   },
   {
    "cc": "US",
@@ -1662,7 +1662,7 @@
    "o": "United Medical Doctors",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=United%20Medical%20Doctors"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=United%20Medical%20Doctors"
   },
   {
    "cc": "",
@@ -1672,7 +1672,7 @@
    "o": "Community Connections",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Community%20Connections"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Community%20Connections"
   },
   {
    "cc": "US",
@@ -1682,7 +1682,7 @@
    "o": "Alliance Roofing Company, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Alliance%20Roofing%20Company%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Alliance%20Roofing%20Company%2C%20Inc."
   },
   {
    "cc": "",
@@ -1692,7 +1692,7 @@
    "o": "UFP TECHNOLOGIES INC",
    "out": "",
    "sec": "manufacturing",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=UFP%20TECHNOLOGIES%20INC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=UFP%20TECHNOLOGIES%20INC"
   },
   {
    "cc": "",
@@ -1702,7 +1702,7 @@
    "o": "Ampex Data Systems Corporation",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Ampex%20Data%20Systems%20Corporation"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ampex%20Data%20Systems%20Corporation"
   },
   {
    "cc": "US",
@@ -1712,7 +1712,7 @@
    "o": "Monmouth University",
    "out": "",
    "sec": "education",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Monmouth%20University"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Monmouth%20University"
   },
   {
    "cc": "",
@@ -1722,7 +1722,7 @@
    "o": "Ameriprise Financial, Inc.",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Ameriprise%20Financial%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ameriprise%20Financial%2C%20Inc."
   },
   {
    "cc": "",
@@ -1732,7 +1732,7 @@
    "o": "Plaza Home Mortgage, Inc.",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Plaza%20Home%20Mortgage%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Plaza%20Home%20Mortgage%2C%20Inc."
   },
   {
    "cc": "",
@@ -1742,7 +1742,7 @@
    "o": "Texollini, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Texollini%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Texollini%2C%20Inc."
   },
   {
    "cc": "",
@@ -1752,7 +1752,7 @@
    "o": "FMRS Health Systems, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=FMRS%20Health%20Systems%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=FMRS%20Health%20Systems%2C%20Inc."
   },
   {
    "cc": "",
@@ -1762,7 +1762,7 @@
    "o": "Eyemart Express, LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Eyemart%20Express%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Eyemart%20Express%2C%20LLC"
   },
   {
    "cc": "",
@@ -1772,7 +1772,7 @@
    "o": "Eyemart Express, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Eyemart%20Express%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Eyemart%20Express%2C%20LLC"
   },
   {
    "cc": "",
@@ -1782,7 +1782,7 @@
    "o": "Sierra Management Group",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Sierra%20Management%20Group"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sierra%20Management%20Group"
   },
   {
    "cc": "",
@@ -1792,7 +1792,7 @@
    "o": "T.A. Solberg Co., Inc",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=T.A.%20Solberg%20Co.%2C%20Inc"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=T.A.%20Solberg%20Co.%2C%20Inc"
   },
   {
    "cc": "",
@@ -1802,7 +1802,7 @@
    "o": "Rocky Mountain Care",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Rocky%20Mountain%20Care"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Rocky%20Mountain%20Care"
   },
   {
    "cc": "",
@@ -1812,7 +1812,7 @@
    "o": "Wynn Resorts, Limited",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Wynn%20Resorts%2C%20Limited"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Wynn%20Resorts%2C%20Limited"
   },
   {
    "cc": "",
@@ -1822,7 +1822,7 @@
    "o": "Stockton Cardiology Medical Group",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Stockton%20Cardiology%20Medical%20Group"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Stockton%20Cardiology%20Medical%20Group"
   },
   {
    "cc": "",
@@ -1832,7 +1832,7 @@
    "o": "Mercer Advisors Inc.",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Mercer%20Advisors%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mercer%20Advisors%20Inc."
   },
   {
    "cc": "",
@@ -1842,7 +1842,7 @@
    "o": "Modoc Medical Center",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Modoc%20Medical%20Center"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Modoc%20Medical%20Center"
   },
   {
    "cc": "",
@@ -1852,7 +1852,7 @@
    "o": "JC Resorts LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=JC%20Resorts%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=JC%20Resorts%20LLC"
   },
   {
    "cc": "",
@@ -1862,7 +1862,7 @@
    "o": "Lusamerica Foods",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Lusamerica%20Foods"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Lusamerica%20Foods"
   },
   {
    "cc": "US",
@@ -1872,7 +1872,7 @@
    "o": "Grandview Family Medicine",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Grandview%20Family%20Medicine"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Grandview%20Family%20Medicine"
   },
   {
    "cc": "US",
@@ -1882,7 +1882,7 @@
    "o": "Southern Illinois Dermatology",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Southern%20Illinois%20Dermatology"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Southern%20Illinois%20Dermatology"
   },
   {
    "cc": "",
@@ -1892,7 +1892,7 @@
    "o": "Tri-Cities Gastroenterology",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Tri-Cities%20Gastroenterology"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Tri-Cities%20Gastroenterology"
   },
   {
    "cc": "",
@@ -1902,7 +1902,7 @@
    "o": "Associated Endocrinologists",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Associated%20Endocrinologists"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Associated%20Endocrinologists"
   },
   {
    "cc": "",
@@ -1912,7 +1912,7 @@
    "o": "The Beacon Mutual Insurance Company",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=The%20Beacon%20Mutual%20Insurance%20Company"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Beacon%20Mutual%20Insurance%20Company"
   },
   {
    "cc": "US",
@@ -1922,7 +1922,7 @@
    "o": "Rocky Mountain Associated Physicians, P.C.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Rocky%20Mountain%20Associated%20Physicians%2C%20P.C."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Rocky%20Mountain%20Associated%20Physicians%2C%20P.C."
   },
   {
    "cc": "US",
@@ -1932,7 +1932,7 @@
    "o": "MACT Health Board Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=MACT%20Health%20Board%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MACT%20Health%20Board%20Inc."
   },
   {
    "cc": "US",
@@ -1942,7 +1942,7 @@
    "o": "Bayside Dental",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Bayside%20Dental"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Bayside%20Dental"
   },
   {
    "cc": "US",
@@ -1952,7 +1952,7 @@
    "o": "Orthopaedic Specialists of Massachusetts, PC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Orthopaedic%20Specialists%20of%20Massachusetts%2C%20PC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Orthopaedic%20Specialists%20of%20Massachusetts%2C%20PC"
   },
   {
    "cc": "",
@@ -1962,7 +1962,7 @@
    "o": "About Women Ob/Gyn, PC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=About%20Women%20Ob/Gyn%2C%20PC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=About%20Women%20Ob/Gyn%2C%20PC"
   },
   {
    "cc": "",
@@ -1972,7 +1972,7 @@
    "o": "Apex Spine & Neurosurgery, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Apex%20Spine%20%26%20Neurosurgery%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Apex%20Spine%20%26%20Neurosurgery%2C%20LLC"
   },
   {
    "cc": "US",
@@ -1982,7 +1982,7 @@
    "o": "Resource Corporation of America",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Resource%20Corporation%20of%20America"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Resource%20Corporation%20of%20America"
   },
   {
    "cc": "",
@@ -1992,7 +1992,7 @@
    "o": "OSI Systems, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=OSI%20Systems%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OSI%20Systems%2C%20Inc."
   },
   {
    "cc": "",
@@ -2002,7 +2002,7 @@
    "o": "Shore Gardens Rehabilitation and Nursing Center, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Shore%20Gardens%20Rehabilitation%20and%20Nursing%20Center%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Shore%20Gardens%20Rehabilitation%20and%20Nursing%20Center%2C%20LLC"
   },
   {
    "cc": "",
@@ -2012,7 +2012,7 @@
    "o": "Cedar Valley Services",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Cedar%20Valley%20Services"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cedar%20Valley%20Services"
   },
   {
    "cc": "",
@@ -2022,7 +2022,7 @@
    "o": "Lonich Patton Ehrlich Policastri",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Lonich%20Patton%20Ehrlich%20Policastri"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Lonich%20Patton%20Ehrlich%20Policastri"
   },
   {
    "cc": "",
@@ -2032,7 +2032,7 @@
    "o": "Mid-South Pulmonary & Sleep Specialists P.C.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Mid-South%20Pulmonary%20%26%20Sleep%20Specialists%20P.C."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mid-South%20Pulmonary%20%26%20Sleep%20Specialists%20P.C."
   },
   {
    "cc": "",
@@ -2042,7 +2042,7 @@
    "o": "AllerVie Health",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=AllerVie%20Health"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=AllerVie%20Health"
   },
   {
    "cc": "",
@@ -2052,7 +2052,7 @@
    "o": "Columbia Medical Practice",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Columbia%20Medical%20Practice"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Columbia%20Medical%20Practice"
   },
   {
    "cc": "",
@@ -2062,7 +2062,7 @@
    "o": "Nottingham Village",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Nottingham%20Village"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Nottingham%20Village"
   },
   {
    "cc": "US",
@@ -2072,7 +2072,7 @@
    "o": "Medical Center, LLP",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Medical%20Center%2C%20LLP"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Medical%20Center%2C%20LLP"
   },
   {
    "cc": "",
@@ -2082,7 +2082,7 @@
    "o": "GlobalLogic Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=GlobalLogic%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=GlobalLogic%20Inc."
   },
   {
    "cc": "US",
@@ -2092,7 +2092,7 @@
    "o": "Heart South Cardiovascular Group",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Heart%20South%20Cardiovascular%20Group"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Heart%20South%20Cardiovascular%20Group"
   },
   {
    "cc": "",
@@ -2102,7 +2102,7 @@
    "o": "Soapy Joe’s Car Wash",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Soapy%20Joe%E2%80%99s%20Car%20Wash"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Soapy%20Joe%E2%80%99s%20Car%20Wash"
   },
   {
    "cc": "",
@@ -2112,7 +2112,7 @@
    "o": "Spindletop Center",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Spindletop%20Center"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Spindletop%20Center"
   },
   {
    "cc": "US",
@@ -2122,7 +2122,7 @@
    "o": "The South Alabama Regional Planning Commission",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=The%20South%20Alabama%20Regional%20Planning%20Commission"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20South%20Alabama%20Regional%20Planning%20Commission"
   },
   {
    "cc": "",
@@ -2132,7 +2132,7 @@
    "o": "Cabinets 2000, LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Cabinets%202000%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cabinets%202000%2C%20LLC"
   },
   {
    "cc": "",
@@ -2142,7 +2142,7 @@
    "o": "Richmond Behavioral Health Authority",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Richmond%20Behavioral%20Health%20Authority"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Richmond%20Behavioral%20Health%20Authority"
   },
   {
    "cc": "",
@@ -2152,7 +2152,7 @@
    "o": "Archer Health",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Archer%20Health"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Archer%20Health"
   },
   {
    "cc": "IN",
@@ -2162,7 +2162,7 @@
    "o": "Cerenade",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Cerenade"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cerenade"
   },
   {
    "cc": "US",
@@ -2172,7 +2172,7 @@
    "o": "MedStar Health, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=MedStar%20Health%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MedStar%20Health%2C%20Inc."
   },
   {
    "cc": "",
@@ -2182,7 +2182,7 @@
    "o": "TransUnion LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=TransUnion%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=TransUnion%20LLC"
   },
   {
    "cc": "US",
@@ -2192,7 +2192,7 @@
    "o": "Judson Center",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Judson%20Center"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Judson%20Center"
   },
   {
    "cc": "",
@@ -2202,7 +2202,7 @@
    "o": "Watsonville Community Hospital",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Watsonville%20Community%20Hospital"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Watsonville%20Community%20Hospital"
   },
   {
    "cc": "US",
@@ -2212,7 +2212,17 @@
    "o": "Insightin Health, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Insightin%20Health%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Insightin%20Health%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-09-26",
+   "dd": "2025-10-31",
+   "e": "us",
+   "o": "Expert MRI",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Expert%20MRI"
   },
   {
    "cc": "",
@@ -2222,17 +2232,7 @@
    "o": "Expert MRI",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Expert%20MRI"
-  },
-  {
-   "cc": "",
-   "d": "2025-09-26",
-   "dd": "2025-10-31",
-   "e": "us",
-   "o": "Expert MRI",
-   "out": "",
-   "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Expert%20MRI"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Expert%20MRI"
   },
   {
    "cc": "",
@@ -2242,17 +2242,7 @@
    "o": "VirMedice, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=VirMedice%2C%20LLC"
-  },
-  {
-   "cc": "",
-   "d": "2025-09-26",
-   "dd": "2026-03-25",
-   "e": "us",
-   "o": "Dubroff, Easley, & Lovell, LLP",
-   "out": "",
-   "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Dubroff%2C%20Easley%2C%20%26%20Lovell%2C%20LLP"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=VirMedice%2C%20LLC"
   },
   {
    "cc": "",
@@ -2262,7 +2252,17 @@
    "o": "Dubroff, Easley, & Lovell, LLP",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Dubroff%2C%20Easley%2C%20%26%20Lovell%2C%20LLP"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Dubroff%2C%20Easley%2C%20%26%20Lovell%2C%20LLP"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-26",
+   "dd": "2026-03-25",
+   "e": "us",
+   "o": "Dubroff, Easley, & Lovell, LLP",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Dubroff%2C%20Easley%2C%20%26%20Lovell%2C%20LLP"
   },
   {
    "cc": "",
@@ -2272,7 +2272,7 @@
    "o": "Tri Century Eye Care PC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Tri%20Century%20Eye%20Care%20PC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Tri%20Century%20Eye%20Care%20PC"
   },
   {
    "cc": "",
@@ -2282,7 +2282,7 @@
    "o": "Madison Healthcare Services",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Madison%20Healthcare%20Services"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Madison%20Healthcare%20Services"
   },
   {
    "cc": "",
@@ -2292,7 +2292,7 @@
    "o": "Thomas Safran and Associates",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Thomas%20Safran%20and%20Associates"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Thomas%20Safran%20and%20Associates"
   },
   {
    "cc": "",
@@ -2302,7 +2302,7 @@
    "o": "Wakefield & Associates, LLC",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Wakefield%20%26%20Associates%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Wakefield%20%26%20Associates%2C%20LLC"
   },
   {
    "cc": "",
@@ -2312,7 +2312,7 @@
    "o": "Survival Flight, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Survival%20Flight%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Survival%20Flight%2C%20Inc."
   },
   {
    "cc": "",
@@ -2322,7 +2322,7 @@
    "o": "Gl Veneer, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Gl%20Veneer%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Gl%20Veneer%2C%20Inc."
   },
   {
    "cc": "",
@@ -2332,7 +2332,7 @@
    "o": "Monterey Mushrooms, LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Monterey%20Mushrooms%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Monterey%20Mushrooms%2C%20LLC"
   },
   {
    "cc": "US",
@@ -2342,7 +2342,7 @@
    "o": "Oakland Museum of California",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Oakland%20Museum%20of%20California"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Oakland%20Museum%20of%20California"
   },
   {
    "cc": "",
@@ -2352,7 +2352,7 @@
    "o": "OB-GYN Associates",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=OB-GYN%20Associates"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OB-GYN%20Associates"
   },
   {
    "cc": "",
@@ -2362,7 +2362,7 @@
    "o": "Steel Encounters, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Steel%20Encounters%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Steel%20Encounters%2C%20Inc."
   },
   {
    "cc": "US",
@@ -2372,7 +2372,7 @@
    "o": "Inotiv, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Inotiv%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Inotiv%2C%20Inc."
   },
   {
    "cc": "US",
@@ -2382,7 +2382,7 @@
    "o": "Assisted Living Pharmacy Service, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Assisted%20Living%20Pharmacy%20Service%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Assisted%20Living%20Pharmacy%20Service%2C%20LLC"
   },
   {
    "cc": "",
@@ -2392,7 +2392,7 @@
    "o": "La Perouse, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=La%20Perouse%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=La%20Perouse%2C%20LLC"
   },
   {
    "cc": "",
@@ -2402,7 +2402,7 @@
    "o": "Carrollton Ear, Nose and Throat, PC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Carrollton%20Ear%2C%20Nose%20and%20Throat%2C%20PC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Carrollton%20Ear%2C%20Nose%20and%20Throat%2C%20PC"
   },
   {
    "cc": "",
@@ -2412,7 +2412,7 @@
    "o": "New American Funding, LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=New%20American%20Funding%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=New%20American%20Funding%2C%20LLC"
   },
   {
    "cc": "",
@@ -2422,7 +2422,7 @@
    "o": "The Institute of Culinary Education",
    "out": "",
    "sec": "education",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=The%20Institute%20of%20Culinary%20Education"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Institute%20of%20Culinary%20Education"
   },
   {
    "cc": "",
@@ -2432,7 +2432,7 @@
    "o": "Integrated Silicon Solution, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Integrated%20Silicon%20Solution%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Integrated%20Silicon%20Solution%2C%20Inc."
   },
   {
    "cc": "",
@@ -2442,7 +2442,7 @@
    "o": "Alert Medical Alarms",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Alert%20Medical%20Alarms"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Alert%20Medical%20Alarms"
   },
   {
    "cc": "",
@@ -2452,17 +2452,7 @@
    "o": "Mount Rogers Community Services",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Mount%20Rogers%20Community%20Services"
-  },
-  {
-   "cc": "US",
-   "d": "2025-06-06",
-   "dd": "2025-08-15",
-   "e": "us",
-   "o": "Optima Tax Relief, LLC",
-   "out": "",
-   "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Optima%20Tax%20Relief%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mount%20Rogers%20Community%20Services"
   },
   {
    "cc": "US",
@@ -2472,7 +2462,17 @@
    "o": "Optima Tax Relief, LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Optima%20Tax%20Relief%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Optima%20Tax%20Relief%2C%20LLC"
+  },
+  {
+   "cc": "US",
+   "d": "2025-06-06",
+   "dd": "2025-08-15",
+   "e": "us",
+   "o": "Optima Tax Relief, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Optima%20Tax%20Relief%2C%20LLC"
   },
   {
    "cc": "",
@@ -2482,7 +2482,7 @@
    "o": "Davies, McFarland & Carroll LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Davies%2C%20McFarland%20%26%20Carroll%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Davies%2C%20McFarland%20%26%20Carroll%20LLC"
   },
   {
    "cc": "",
@@ -2492,7 +2492,7 @@
    "o": "Sandhills Medical Foundation",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Sandhills%20Medical%20Foundation"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sandhills%20Medical%20Foundation"
   },
   {
    "cc": "",
@@ -2502,7 +2502,7 @@
    "o": "Naper Grove Vision Care",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Naper%20Grove%20Vision%20Care"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Naper%20Grove%20Vision%20Care"
   },
   {
    "cc": "",
@@ -2512,7 +2512,7 @@
    "o": "Precision Tax Relief LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Precision%20Tax%20Relief%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Precision%20Tax%20Relief%20LLC"
   },
   {
    "cc": "US",
@@ -2522,7 +2522,7 @@
    "o": "DaVita Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=DaVita%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DaVita%20Inc."
   },
   {
    "cc": "US",
@@ -2532,7 +2532,7 @@
    "o": "Orthopaedic Specialists of Connecticut",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Orthopaedic%20Specialists%20of%20Connecticut"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Orthopaedic%20Specialists%20of%20Connecticut"
   },
   {
    "cc": "",
@@ -2542,7 +2542,7 @@
    "o": "Intelliloan, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Intelliloan%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Intelliloan%2C%20Inc."
   },
   {
    "cc": "",
@@ -2552,7 +2552,7 @@
    "o": "Sonrisas Dental Health",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Sonrisas%20Dental%20Health"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sonrisas%20Dental%20Health"
   },
   {
    "cc": "",
@@ -2562,7 +2562,7 @@
    "o": "Pacific Residential Mortgage, LLC",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Pacific%20Residential%20Mortgage%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Pacific%20Residential%20Mortgage%2C%20LLC"
   },
   {
    "cc": "",
@@ -2572,7 +2572,7 @@
    "o": "Ambleside, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Ambleside%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ambleside%2C%20Inc."
   },
   {
    "cc": "",
@@ -2582,7 +2582,7 @@
    "o": "Whittaker & Company",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Whittaker%20%26%20Company"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Whittaker%20%26%20Company"
   },
   {
    "cc": "",
@@ -2592,7 +2592,7 @@
    "o": "Electronics For Imaging, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Electronics%20For%20Imaging%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Electronics%20For%20Imaging%2C%20Inc."
   },
   {
    "cc": "",
@@ -2602,7 +2602,7 @@
    "o": "Loretto Hospital",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Loretto%20Hospital"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Loretto%20Hospital"
   },
   {
    "cc": "US",
@@ -2612,7 +2612,7 @@
    "o": "Best Collateral Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Best%20Collateral%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Best%20Collateral%20Inc."
   },
   {
    "cc": "US",
@@ -2622,17 +2622,7 @@
    "o": "Bell Ambulance, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Bell%20Ambulance%2C%20Inc."
-  },
-  {
-   "cc": "",
-   "d": "2025-02-27",
-   "dd": "2025-06-04",
-   "e": "us",
-   "o": "Lee Enterprises",
-   "out": "",
-   "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Lee%20Enterprises"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Bell%20Ambulance%2C%20Inc."
   },
   {
    "cc": "",
@@ -2642,7 +2632,17 @@
    "o": "LEE ENTERPRISES, Inc",
    "out": "",
    "sec": "manufacturing",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=LEE%20ENTERPRISES%2C%20Inc"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=LEE%20ENTERPRISES%2C%20Inc"
+  },
+  {
+   "cc": "",
+   "d": "2025-02-27",
+   "dd": "2025-06-04",
+   "e": "us",
+   "o": "Lee Enterprises",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Lee%20Enterprises"
   },
   {
    "cc": "US",
@@ -2652,7 +2652,7 @@
    "o": "Friendship House, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Friendship%20House%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Friendship%20House%2C%20Inc."
   },
   {
    "cc": "",
@@ -2662,7 +2662,7 @@
    "o": "Crossroads Trading Co., Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Crossroads%20Trading%20Co.%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Crossroads%20Trading%20Co.%2C%20Inc."
   },
   {
    "cc": "",
@@ -2672,7 +2672,7 @@
    "o": "CONDUENT Inc",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=CONDUENT%20Inc"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=CONDUENT%20Inc"
   },
   {
    "cc": "US",
@@ -2682,7 +2682,7 @@
    "o": "Alabama Ophthalmology Associates",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Alabama%20Ophthalmology%20Associates"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Alabama%20Ophthalmology%20Associates"
   },
   {
    "cc": "",
@@ -2692,7 +2692,7 @@
    "o": "Lake Washington Vascular",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Lake%20Washington%20Vascular"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Lake%20Washington%20Vascular"
   },
   {
    "cc": "US",
@@ -2702,7 +2702,7 @@
    "o": "Rural Health Services",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Rural%20Health%20Services"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Rural%20Health%20Services"
   },
   {
    "cc": "",
@@ -2712,7 +2712,7 @@
    "o": "Cierant Corporation",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Cierant%20Corporation"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cierant%20Corporation"
   },
   {
    "cc": "",
@@ -2722,7 +2722,7 @@
    "o": "The Gatesworth Senior Living St. Louis",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=The%20Gatesworth%20Senior%20Living%20St.%20Louis"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Gatesworth%20Senior%20Living%20St.%20Louis"
   },
   {
    "cc": "",
@@ -2732,7 +2732,7 @@
    "o": "North Los Angeles County Regional Center",
    "out": "",
    "sec": "government",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=North%20Los%20Angeles%20County%20Regional%20Center"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=North%20Los%20Angeles%20County%20Regional%20Center"
   },
   {
    "cc": "",
@@ -2742,7 +2742,7 @@
    "o": "Krispy Kreme, Inc.",
    "out": "",
    "sec": "retail",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Krispy%20Kreme%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Krispy%20Kreme%2C%20Inc."
   },
   {
    "cc": "",
@@ -2752,7 +2752,7 @@
    "o": "MedRevenu, LLC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=MedRevenu%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MedRevenu%2C%20LLC"
   },
   {
    "cc": "",
@@ -2762,7 +2762,7 @@
    "o": "Conrey Insurance Brokers & Risk Managers",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Conrey%20Insurance%20Brokers%20%26%20Risk%20Managers"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Conrey%20Insurance%20Brokers%20%26%20Risk%20Managers"
   },
   {
    "cc": "",
@@ -2772,7 +2772,7 @@
    "o": "ARC Community Services, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=ARC%20Community%20Services%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=ARC%20Community%20Services%2C%20Inc."
   },
   {
    "cc": "",
@@ -2782,7 +2782,7 @@
    "o": "Stiiizy Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Stiiizy%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Stiiizy%20Inc."
   },
   {
    "cc": "",
@@ -2792,7 +2792,7 @@
    "o": "Trinity Petroleum Management, LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Trinity%20Petroleum%20Management%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Trinity%20Petroleum%20Management%2C%20LLC"
   },
   {
    "cc": "US",
@@ -2802,7 +2802,7 @@
    "o": "American Addiction Centers, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=American%20Addiction%20Centers%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=American%20Addiction%20Centers%2C%20Inc."
   },
   {
    "cc": "",
@@ -2812,7 +2812,7 @@
    "o": "Mark Thomas",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Mark%20Thomas"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mark%20Thomas"
   },
   {
    "cc": "",
@@ -2822,7 +2822,7 @@
    "o": "Dome Construction Corporation",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Dome%20Construction%20Corporation"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Dome%20Construction%20Corporation"
   },
   {
    "cc": "US",
@@ -2832,7 +2832,7 @@
    "o": "Texas Tech University Health Sciences Center",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Texas%20Tech%20University%20Health%20Sciences%20Center"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Texas%20Tech%20University%20Health%20Sciences%20Center"
   },
   {
    "cc": "",
@@ -2842,7 +2842,7 @@
    "o": "Legacy Treatment Services, Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Legacy%20Treatment%20Services%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Legacy%20Treatment%20Services%2C%20Inc."
   },
   {
    "cc": "",
@@ -2852,7 +2852,7 @@
    "o": "Pacific Pulmonary Medical Group",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Pacific%20Pulmonary%20Medical%20Group"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Pacific%20Pulmonary%20Medical%20Group"
   },
   {
    "cc": "",
@@ -2862,17 +2862,7 @@
    "o": "BNBuilders",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=BNBuilders"
-  },
-  {
-   "cc": "",
-   "d": "2024-09-15",
-   "dd": "2025-02-06",
-   "e": "us",
-   "o": "OnePoint Patient Care",
-   "out": "",
-   "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=OnePoint%20Patient%20Care"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=BNBuilders"
   },
   {
    "cc": "",
@@ -2882,7 +2872,17 @@
    "o": "OnePoint Patient Care",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=OnePoint%20Patient%20Care"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OnePoint%20Patient%20Care"
+  },
+  {
+   "cc": "",
+   "d": "2024-09-15",
+   "dd": "2025-02-06",
+   "e": "us",
+   "o": "OnePoint Patient Care",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OnePoint%20Patient%20Care"
   },
   {
    "cc": "",
@@ -2892,7 +2892,7 @@
    "o": "Bel-Air Bay Club Ltd",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Bel-Air%20Bay%20Club%20Ltd"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Bel-Air%20Bay%20Club%20Ltd"
   },
   {
    "cc": "US",
@@ -2902,7 +2902,7 @@
    "o": "UFCW Local 135",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=UFCW%20Local%20135"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=UFCW%20Local%20135"
   },
   {
    "cc": "",
@@ -2912,7 +2912,7 @@
    "o": "OLYMPUS FINANCIAL",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=OLYMPUS%20FINANCIAL"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OLYMPUS%20FINANCIAL"
   },
   {
    "cc": "",
@@ -2922,7 +2922,7 @@
    "o": "Omni Family Health",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Omni%20Family%20Health"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Omni%20Family%20Health"
   },
   {
    "cc": "",
@@ -2932,7 +2932,7 @@
    "o": "siParadigm LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=siParadigm%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=siParadigm%20LLC"
   },
   {
    "cc": "",
@@ -2942,7 +2942,7 @@
    "o": "RRCA Accounts Management Inc.",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=RRCA%20Accounts%20Management%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=RRCA%20Accounts%20Management%20Inc."
   },
   {
    "cc": "",
@@ -2952,7 +2952,7 @@
    "o": "A-Line Staffing Solutions",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=A-Line%20Staffing%20Solutions"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=A-Line%20Staffing%20Solutions"
   },
   {
    "cc": "",
@@ -2962,7 +2962,7 @@
    "o": "Regional Obstetrical Consultants PC",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Regional%20Obstetrical%20Consultants%20PC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Regional%20Obstetrical%20Consultants%20PC"
   },
   {
    "cc": "",
@@ -2972,7 +2972,7 @@
    "o": "Insurance Agency Marketing Services, Inc.",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Insurance%20Agency%20Marketing%20Services%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Insurance%20Agency%20Marketing%20Services%2C%20Inc."
   },
   {
    "cc": "",
@@ -2982,7 +2982,7 @@
    "o": "Young Consulting LLC",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Young%20Consulting%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Young%20Consulting%20LLC"
   },
   {
    "cc": "",
@@ -2992,7 +2992,7 @@
    "o": "Octapharma Plasma, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Octapharma%20Plasma%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Octapharma%20Plasma%2C%20Inc."
   },
   {
    "cc": "US",
@@ -3002,7 +3002,7 @@
    "o": "The Tech Interactive",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=The%20Tech%20Interactive"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Tech%20Interactive"
   },
   {
    "cc": "US",
@@ -3012,7 +3012,7 @@
    "o": "Biggs Cardosa Associates, Inc.",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Biggs%20Cardosa%20Associates%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Biggs%20Cardosa%20Associates%2C%20Inc."
   },
   {
    "cc": "",
@@ -3022,7 +3022,7 @@
    "o": "Jordano’s Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Jordano%E2%80%99s%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Jordano%E2%80%99s%20Inc."
   },
   {
    "cc": "",
@@ -3032,7 +3032,7 @@
    "o": "On Q Financial",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=On%20Q%20Financial"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=On%20Q%20Financial"
   },
   {
    "cc": "",
@@ -3042,17 +3042,7 @@
    "o": "Sterling Plumbing Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Sterling%20Plumbing%20Inc."
-  },
-  {
-   "cc": "",
-   "d": "2024-03-21",
-   "dd": "2024-07-16",
-   "e": "us",
-   "o": "MarineMax, Inc.",
-   "out": "",
-   "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=MarineMax%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sterling%20Plumbing%20Inc."
   },
   {
    "cc": "",
@@ -3062,7 +3052,17 @@
    "o": "MARINEMAX INC",
    "out": "",
    "sec": "retail",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=MARINEMAX%20INC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MARINEMAX%20INC"
+  },
+  {
+   "cc": "",
+   "d": "2024-03-21",
+   "dd": "2024-07-16",
+   "e": "us",
+   "o": "MarineMax, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MarineMax%2C%20Inc."
   },
   {
    "cc": "",
@@ -3072,7 +3072,7 @@
    "o": "Delta Pipeline, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Delta%20Pipeline%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Delta%20Pipeline%2C%20Inc."
   },
   {
    "cc": "",
@@ -3082,7 +3082,7 @@
    "o": "Therapeutic Health Services",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Therapeutic%20Health%20Services"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Therapeutic%20Health%20Services"
   },
   {
    "cc": "",
@@ -3092,7 +3092,7 @@
    "o": "Ann & Robert H. Lurie Children’s Hospital Of Chicago",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Ann%20%26%20Robert%20H.%20Lurie%20Children%E2%80%99s%20Hospital%20Of%20Chicago"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ann%20%26%20Robert%20H.%20Lurie%20Children%E2%80%99s%20Hospital%20Of%20Chicago"
   },
   {
    "cc": "US",
@@ -3102,7 +3102,7 @@
    "o": "PRUDENTIAL FINANCIAL INC",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=PRUDENTIAL%20FINANCIAL%20INC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=PRUDENTIAL%20FINANCIAL%20INC"
   },
   {
    "cc": "US",
@@ -3112,7 +3112,7 @@
    "o": "Ohio Lottery",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Ohio%20Lottery"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ohio%20Lottery"
   },
   {
    "cc": "US",
@@ -3122,7 +3122,7 @@
    "o": "UNITE HERE",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=UNITE%20HERE"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=UNITE%20HERE"
   },
   {
    "cc": "US",
@@ -3132,7 +3132,7 @@
    "o": "Insomniac Games",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Insomniac%20Games"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Insomniac%20Games"
   },
   {
    "cc": "",
@@ -3142,7 +3142,7 @@
    "o": "Glendale Unified School District",
    "out": "",
    "sec": "education",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Glendale%20Unified%20School%20District"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Glendale%20Unified%20School%20District"
   },
   {
    "cc": "US",
@@ -3152,7 +3152,7 @@
    "o": "DePauw University",
    "out": "",
    "sec": "education",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=DePauw%20University"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DePauw%20University"
   },
   {
    "cc": "",
@@ -3162,17 +3162,7 @@
    "o": "Teleflora",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Teleflora"
-  },
-  {
-   "cc": "",
-   "d": "2023-11-28",
-   "dd": "2024-02-08",
-   "e": "us",
-   "o": "SinglePoint Outsourcing, Inc.",
-   "out": "",
-   "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=SinglePoint%20Outsourcing%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Teleflora"
   },
   {
    "cc": "",
@@ -3182,7 +3172,17 @@
    "o": "SinglePoint Outsourcing, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=SinglePoint%20Outsourcing%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=SinglePoint%20Outsourcing%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2023-11-28",
+   "dd": "2024-02-08",
+   "e": "us",
+   "o": "SinglePoint Outsourcing, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=SinglePoint%20Outsourcing%2C%20Inc."
   },
   {
    "cc": "",
@@ -3192,7 +3192,7 @@
    "o": "First Financial Security, Inc.",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=First%20Financial%20Security%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=First%20Financial%20Security%2C%20Inc."
   },
   {
    "cc": "US",
@@ -3202,7 +3202,7 @@
    "o": "Growers Express, LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Growers%20Express%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Growers%20Express%2C%20LLC"
   },
   {
    "cc": "",
@@ -3212,7 +3212,7 @@
    "o": "OE Federal Credit Union",
    "out": "",
    "sec": "finance",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=OE%20Federal%20Credit%20Union"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OE%20Federal%20Credit%20Union"
   },
   {
    "cc": "",
@@ -3222,7 +3222,7 @@
    "o": "Brodart Co.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Brodart%20Co."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Brodart%20Co."
   },
   {
    "cc": "",
@@ -3232,7 +3232,7 @@
    "o": "Stanford University",
    "out": "",
    "sec": "education",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Stanford%20University"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Stanford%20University"
   },
   {
    "cc": "",
@@ -3242,7 +3242,7 @@
    "o": "Simpson Strong-Tie Co. Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Simpson%20Strong-Tie%20Co.%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Simpson%20Strong-Tie%20Co.%20Inc."
   },
   {
    "cc": "",
@@ -3252,7 +3252,7 @@
    "o": "Visionary Integration Professionals",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Visionary%20Integration%20Professionals"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Visionary%20Integration%20Professionals"
   },
   {
    "cc": "",
@@ -3262,7 +3262,7 @@
    "o": "Maxco Supply, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Maxco%20Supply%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Maxco%20Supply%2C%20Inc."
   },
   {
    "cc": "",
@@ -3272,7 +3272,7 @@
    "o": "McLaren Health Care",
    "out": "",
    "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=McLaren%20Health%20Care"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=McLaren%20Health%20Care"
   },
   {
    "cc": "US",
@@ -3282,7 +3282,7 @@
    "o": "Prestige Care, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Prestige%20Care%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Prestige%20Care%2C%20Inc."
   },
   {
    "cc": "",
@@ -3292,7 +3292,7 @@
    "o": "Merced City School District",
    "out": "",
    "sec": "education",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Merced%20City%20School%20District"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Merced%20City%20School%20District"
   },
   {
    "cc": "",
@@ -3302,7 +3302,7 @@
    "o": "Brown & Streza LLP",
    "out": "",
    "sec": "professional_services",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Brown%20%26%20Streza%20LLP"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Brown%20%26%20Streza%20LLP"
   },
   {
    "cc": "",
@@ -3312,7 +3312,7 @@
    "o": "Yakima Valley Radiology PC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Yakima%20Valley%20Radiology%20PC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Yakima%20Valley%20Radiology%20PC"
   },
   {
    "cc": "",
@@ -3322,7 +3322,7 @@
    "o": "Elemetal, LLC",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Elemetal%2C%20LLC"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Elemetal%2C%20LLC"
   },
   {
    "cc": "",
@@ -3332,7 +3332,7 @@
    "o": "Taylor University",
    "out": "",
    "sec": "education",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Taylor%20University"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Taylor%20University"
   },
   {
    "cc": "US",
@@ -3342,7 +3342,7 @@
    "o": "Superior Communications, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Superior%20Communications%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Superior%20Communications%2C%20Inc."
   },
   {
    "cc": "",
@@ -3352,7 +3352,7 @@
    "o": "AlohaCare",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=AlohaCare"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=AlohaCare"
   },
   {
    "cc": "",
@@ -3362,7 +3362,7 @@
    "o": "AutoZone, Inc.",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=AutoZone%2C%20Inc."
+   "u": "https://ba-cybersecurity.com/radar/us/#q=AutoZone%2C%20Inc."
   },
   {
    "cc": "",
@@ -3372,7 +3372,7 @@
    "o": "Hill International, Inc",
    "out": "",
    "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Hill%20International%2C%20Inc"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Hill%20International%2C%20Inc"
   },
   {
    "cc": "US",
@@ -3382,31 +3382,31 @@
    "o": "Pacific Union College",
    "out": "",
    "sec": "education",
-   "u": "https://ba-cybersecurity.com/radar/us/?q=Pacific%20Union%20College"
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Pacific%20Union%20College"
   }
  ],
  "windows": {
   "30": {
    "countries": {
-    "AU": 10,
+    "AU": 9,
     "BR": 20,
-    "CA": 28,
+    "CA": 31,
     "CH": 15,
     "DE": 27,
-    "EG": 7,
-    "ES": 12,
-    "FR": 22,
+    "ES": 13,
+    "FR": 17,
     "GB": 10,
     "IN": 15,
-    "IT": 11,
-    "JP": 9,
+    "IT": 10,
+    "JP": 8,
     "KR": 20,
-    "TW": 9,
-    "US": 224,
-    "other": 122,
-    "unknown": 570
+    "SE": 9,
+    "TW": 8,
+    "US": 227,
+    "other": 128,
+    "unknown": 528
    },
-   "groups_active": 83,
+   "groups_active": 82,
    "lag": {
     "claim_to_release": {
      "known": 0,
@@ -3420,7 +3420,7 @@
      "median": 7
     }
    },
-   "n": 1131,
+   "n": 1095,
    "outcome": {
     "disclosed": 0,
     "mature": 0,
@@ -3430,65 +3430,65 @@
     "removed": null,
     "restored": 0
    },
-   "prev": 947,
+   "prev": 963,
    "sectors": {
     "education": 52,
-    "finance": 50,
-    "government": 24,
-    "healthcare": 120,
-    "manufacturing": 201,
-    "other": 0,
+    "finance": 48,
+    "government": 25,
+    "healthcare": 118,
+    "manufacturing": 195,
+    "other": 3,
     "professional_services": 87,
     "retail": 77,
     "technology": 89,
-    "unknown": 431
+    "unknown": 401
    },
    "threat": {
     "deadline": {
      "hist": {
       "4_7": 4,
-      "8_14": 20,
+      "8_14": 18,
       "gt14": 1,
       "lt4": 1
      },
-     "known": 26,
+     "known": 24,
      "median": 9.0
     },
-    "described": 626,
+    "described": 604,
     "kinds": {
-     "contracts": 75,
+     "contracts": 74,
      "credentials": 15,
-     "customer": 44,
-     "financial": 149,
-     "hr": 36,
-     "medical": 94,
+     "customer": 42,
+     "financial": 143,
+     "hr": 35,
+     "medical": 91,
      "other": 0,
-     "personal": 88,
-     "technical": 24
+     "personal": 86,
+     "technical": 23
     },
     "ransom": {
      "known": 6,
      "median_usd": 750000
     },
     "types": {
-     "data_theft": 197,
+     "data_theft": 193,
      "ddos": 0,
      "encryption": 3,
-     "publish": 121,
-     "regulator": 20,
-     "sale": 30,
+     "publish": 113,
+     "regulator": 19,
+     "sale": 26,
      "third_party": 2
     },
     "volume": {
      "buckets": {
       "100_1000": 49,
-      "10_100": 45,
+      "10_100": 43,
       "gte1000": 14,
       "lt10": 34
      },
-     "known": 142,
-     "median_gb": 79.0,
-     "p90_gb": 900.0
+     "known": 140,
+     "median_gb": 80.0,
+     "p90_gb": 1228.8
     }
    },
    "top_groups": [
@@ -3498,62 +3498,62 @@
     },
     {
      "g": "the gentlemen",
-     "n": 125
+     "n": 122
     },
     {
      "g": "qilin",
-     "n": 102
+     "n": 96
     },
     {
      "g": "killsec3",
      "n": 46
     },
     {
-     "g": "inc ransom",
-     "n": 36
-    },
-    {
      "g": "nightspire",
      "n": 33
     },
     {
-     "g": "akira",
+     "g": "inc ransom",
      "n": 32
     },
     {
-     "g": "wallstreet",
-     "n": 27
+     "g": "akira",
+     "n": 30
     },
     {
-     "g": "storm",
+     "g": "wallstreet",
      "n": 25
     },
     {
      "g": "safepay",
      "n": 25
+    },
+    {
+     "g": "everest",
+     "n": 24
     }
    ],
-   "yoy": 973
+   "yoy": 976
   },
   "365": {
    "countries": {
     "AE": 56,
     "AU": 100,
     "BR": 124,
-    "CA": 175,
-    "DE": 210,
-    "ES": 71,
+    "CA": 178,
+    "DE": 209,
+    "ES": 72,
     "FR": 126,
-    "GB": 106,
+    "GB": 105,
     "IN": 117,
-    "IT": 136,
-    "JP": 61,
+    "IT": 137,
+    "JP": 60,
     "MX": 72,
-    "TH": 59,
+    "TH": 60,
     "TW": 60,
-    "US": 1122,
-    "other": 1005,
-    "unknown": 7262
+    "US": 1130,
+    "other": 1015,
+    "unknown": 7223
    },
    "groups_active": 180,
    "lag": {
@@ -3569,28 +3569,28 @@
      "median": 42
     }
    },
-   "n": 10862,
+   "n": 10844,
    "outcome": {
     "disclosed": 90,
-    "mature": 9731,
+    "mature": 9749,
     "not_paid": 0,
     "paid": 0,
-    "released": 74,
+    "released": 73,
     "removed": null,
     "restored": 0
    },
-   "prev": 8403,
+   "prev": 8377,
    "sectors": {
-    "education": 350,
-    "finance": 397,
-    "government": 296,
+    "education": 349,
+    "finance": 398,
+    "government": 297,
     "healthcare": 673,
     "manufacturing": 1801,
-    "other": 0,
-    "professional_services": 757,
-    "retail": 565,
-    "technology": 421,
-    "unknown": 5602
+    "other": 3,
+    "professional_services": 760,
+    "retail": 566,
+    "technology": 423,
+    "unknown": 5574
    },
    "threat": {
     "deadline": {
@@ -3603,9 +3603,9 @@
      "known": 104,
      "median": 10.0
     },
-    "described": 5410,
+    "described": 5400,
     "kinds": {
-     "contracts": 764,
+     "contracts": 763,
      "credentials": 88,
      "customer": 348,
      "financial": 1198,
@@ -3623,7 +3623,7 @@
      "data_theft": 1577,
      "ddos": 1,
      "encryption": 29,
-     "publish": 1241,
+     "publish": 1239,
      "regulator": 91,
      "sale": 146,
      "third_party": 6
@@ -3643,7 +3643,7 @@
    "top_groups": [
     {
      "g": "qilin",
-     "n": 1427
+     "n": 1425
     },
     {
      "g": "the gentlemen",
@@ -3679,7 +3679,7 @@
     },
     {
      "g": "safepay",
-     "n": 261
+     "n": 256
     }
    ],
    "yoy": null
@@ -3687,7 +3687,7 @@
   "7": {
    "countries": {
     "BG": 1,
-    "CA": 4,
+    "CA": 3,
     "CH": 6,
     "CN": 2,
     "DE": 10,
@@ -3700,11 +3700,11 @@
     "KR": 2,
     "MY": 2,
     "PT": 1,
-    "US": 67,
-    "other": 11,
-    "unknown": 113
+    "US": 63,
+    "other": 9,
+    "unknown": 104
    },
-   "groups_active": 49,
+   "groups_active": 46,
    "lag": {
     "claim_to_release": {
      "known": 0,
@@ -3718,7 +3718,7 @@
      "median": null
     }
    },
-   "n": 231,
+   "n": 215,
    "outcome": {
     "disclosed": 0,
     "mature": 0,
@@ -3728,18 +3728,18 @@
     "removed": null,
     "restored": 0
    },
-   "prev": 328,
+   "prev": 327,
    "sectors": {
     "education": 7,
     "finance": 12,
     "government": 2,
     "healthcare": 25,
-    "manufacturing": 46,
+    "manufacturing": 43,
     "other": 0,
-    "professional_services": 21,
-    "retail": 18,
-    "technology": 21,
-    "unknown": 79
+    "professional_services": 20,
+    "retail": 17,
+    "technology": 18,
+    "unknown": 71
    },
    "threat": {
     "deadline": {
@@ -3752,7 +3752,7 @@
      "known": 4,
      "median": 8.5
     },
-    "described": 97,
+    "described": 96,
     "kinds": {
      "contracts": 20,
      "credentials": 6,
@@ -3769,7 +3769,7 @@
      "median_usd": 2500000
     },
     "types": {
-     "data_theft": 54,
+     "data_theft": 53,
      "ddos": 0,
      "encryption": 1,
      "publish": 22,
@@ -3792,7 +3792,7 @@
    "top_groups": [
     {
      "g": "n0n",
-     "n": 51
+     "n": 45
     },
     {
      "g": "qilin",
@@ -3801,10 +3801,6 @@
     {
      "g": "leakeddata",
      "n": 11
-    },
-    {
-     "g": "everest",
-     "n": 9
     },
     {
      "g": "akira",
@@ -3819,6 +3815,10 @@
      "n": 7
     },
     {
+     "g": "everest",
+     "n": 6
+    },
+    {
      "g": "lockbit5",
      "n": 6
     },
@@ -3831,27 +3831,27 @@
      "n": 6
     }
    ],
-   "yoy": 158
+   "yoy": 155
   },
   "90": {
    "countries": {
-    "AR": 21,
-    "AU": 30,
-    "BR": 47,
-    "CA": 63,
+    "AR": 20,
+    "AU": 29,
+    "BR": 45,
+    "CA": 64,
     "CH": 28,
     "DE": 75,
     "ES": 29,
     "FR": 43,
-    "GB": 27,
+    "GB": 23,
     "IN": 53,
-    "IT": 48,
+    "IT": 49,
     "JP": 20,
     "KR": 26,
     "TW": 24,
-    "US": 508,
-    "other": 333,
-    "unknown": 1891
+    "US": 504,
+    "other": 342,
+    "unknown": 1850
    },
    "groups_active": 117,
    "lag": {
@@ -3867,28 +3867,28 @@
      "median": 7
     }
    },
-   "n": 3266,
+   "n": 3224,
    "outcome": {
     "disclosed": 12,
-    "mature": 2135,
+    "mature": 2129,
     "not_paid": 0,
     "paid": 0,
     "released": 20,
     "removed": null,
     "restored": 0
    },
-   "prev": 2354,
+   "prev": 2353,
    "sectors": {
-    "education": 122,
-    "finance": 157,
-    "government": 91,
-    "healthcare": 268,
-    "manufacturing": 562,
-    "other": 0,
-    "professional_services": 229,
-    "retail": 207,
+    "education": 119,
+    "finance": 155,
+    "government": 90,
+    "healthcare": 264,
+    "manufacturing": 557,
+    "other": 3,
+    "professional_services": 232,
+    "retail": 203,
     "technology": 189,
-    "unknown": 1441
+    "unknown": 1412
    },
    "threat": {
     "deadline": {
@@ -3901,16 +3901,16 @@
      "known": 81,
      "median": 11
     },
-    "described": 1885,
+    "described": 1857,
     "kinds": {
-     "contracts": 212,
-     "credentials": 45,
+     "contracts": 211,
+     "credentials": 42,
      "customer": 112,
-     "financial": 386,
-     "hr": 90,
-     "medical": 204,
+     "financial": 381,
+     "hr": 89,
+     "medical": 201,
      "other": 0,
-     "personal": 252,
+     "personal": 249,
      "technical": 83
     },
     "ransom": {
@@ -3918,7 +3918,7 @@
      "median_usd": 25000
     },
     "types": {
-     "data_theft": 635,
+     "data_theft": 611,
      "ddos": 0,
      "encryption": 11,
      "publish": 354,
@@ -3928,14 +3928,14 @@
     },
     "volume": {
      "buckets": {
-      "100_1000": 181,
-      "10_100": 165,
-      "gte1000": 47,
-      "lt10": 111
+      "100_1000": 165,
+      "10_100": 162,
+      "gte1000": 46,
+      "lt10": 110
      },
-     "known": 504,
-     "median_gb": 75.4,
-     "p90_gb": 874.0
+     "known": 483,
+     "median_gb": 67.5,
+     "p90_gb": 900.0
     }
    },
    "top_groups": [
@@ -3945,7 +3945,7 @@
     },
     {
      "g": "qilin",
-     "n": 347
+     "n": 345
     },
     {
      "g": "n0n",
@@ -3953,7 +3953,7 @@
     },
     {
      "g": "inc ransom",
-     "n": 116
+     "n": 115
     },
     {
      "g": "clop",
@@ -3980,27 +3980,27 @@
      "n": 66
     }
    ],
-   "yoy": 2119
+   "yoy": 2117
   },
   "all": {
    "countries": {
     "AU": 341,
     "BR": 404,
-    "CA": 556,
+    "CA": 559,
     "CH": 146,
     "CO": 204,
     "DE": 577,
-    "ES": 212,
+    "ES": 213,
     "FR": 396,
     "GB": 461,
     "IN": 312,
-    "IT": 451,
+    "IT": 452,
     "JP": 171,
     "MX": 190,
     "TW": 154,
-    "US": 3025,
-    "other": 2793,
-    "unknown": 25558
+    "US": 3034,
+    "other": 2804,
+    "unknown": 25534
    },
    "groups_active": 336,
    "lag": {
@@ -4010,16 +4010,16 @@
      "p90": null
     },
     "disclosure_vs_claim": {
-     "after": 198,
-     "before": 18,
+     "after": 196,
+     "before": 20,
      "known": 216,
-     "median": 49.5
+     "median": 47.0
     }
    },
-   "n": 35951,
+   "n": 35952,
    "outcome": {
     "disclosed": 213,
-    "mature": 34820,
+    "mature": 34857,
     "not_paid": 0,
     "paid": 0,
     "released": 411,
@@ -4028,16 +4028,16 @@
    },
    "prev": null,
    "sectors": {
-    "education": 962,
-    "finance": 972,
-    "government": 758,
+    "education": 963,
+    "finance": 973,
+    "government": 759,
     "healthcare": 1537,
-    "manufacturing": 3667,
-    "other": 0,
-    "professional_services": 1588,
-    "retail": 1133,
-    "technology": 886,
-    "unknown": 24448
+    "manufacturing": 3669,
+    "other": 3,
+    "professional_services": 1592,
+    "retail": 1136,
+    "technology": 888,
+    "unknown": 24432
    },
    "threat": {
     "deadline": {
@@ -4050,7 +4050,7 @@
      "known": 131,
      "median": 8
     },
-    "described": 13212,
+    "described": 13213,
     "kinds": {
      "contracts": 1513,
      "credentials": 196,
