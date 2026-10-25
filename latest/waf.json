@@ -1,8 +1,8 @@
 {
- "asof": "2026-10-24",
+ "asof": "2026-10-25",
  "coverage": {
   "any": 14,
-  "kev90": 103,
+  "kev90": 101,
   "per_vendor": {
    "akamai": 0,
    "aws": 0,
@@ -1788,40 +1788,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-07-27",
-    "c": "CVE-2026-16812",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Arista VeloCloud Orchestrator",
-    "src": "kev"
-   },
-   {
-    "added": "2026-07-27",
-    "c": "CVE-2025-68686",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Fortinet FortiOS",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-63030",
     "cov": {
@@ -1983,12 +1949,12 @@
     "src": "radar"
    }
   ],
-  "targets": 110
+  "targets": 108
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-10-24T01:30:18Z",
+ "generated": "2026-10-25T01:30:19Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2122,13 +2088,24 @@
   }
  ],
  "totals": {
-  "items_all": 342,
-  "n30": 36,
-  "n90": 64,
+  "items_all": 343,
+  "n30": 35,
+  "n90": 65,
   "since": "2022-02-01",
   "vendors30": 8
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-111497"
+   ],
+   "d": "2026-10-25",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-25 - Emergency - Cloudflare Managed Ruleset",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-25-emergency-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-10-25 Emergency"
+  },
   {
    "cve": [
     "CVE-2026-109618",
@@ -2791,17 +2768,17 @@
     "release",
     "rules_update"
    ],
-   "last": "2026-10-22",
-   "lt": "WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Free Ruleset",
-   "lu": "https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-free/",
+   "last": "2026-10-25",
+   "lt": "WAF - WAF Release - 2026-10-25 - Emergency - Cloudflare Managed Ruleset",
+   "lu": "https://developers.cloudflare.com/changelog/post/2026-10-25-emergency-waf-release/",
    "n30": 15,
-   "n90": 31,
+   "n90": 32,
    "name": "Cloudflare",
    "v": "cloudflare",
-   "ver": "2026-10-22 Emergency"
+   "ver": "2026-10-25 Emergency"
   },
   {
-   "gap": 13,
+   "gap": 16,
    "k": [
     "rules_update"
    ],
@@ -2878,7 +2855,7 @@
    "last": "2026-10-22",
    "lt": "Node2Shell: From Brotli Data to Remote Code Execution",
    "lu": "https://www.imperva.com/blog/node2shell-from-brotli-data-to-remote-code-execution/",
-   "n30": 7,
+   "n30": 6,
    "n90": 8,
    "name": "Imperva",
    "v": "imperva",
