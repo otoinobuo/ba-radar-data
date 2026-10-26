@@ -1,6 +1,115 @@
 {
- "generated": "2026-10-25T07:38:44Z",
+ "generated": "2026-10-25T23:48:19Z",
  "incidents": [
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "委託事業に係る個人情報の漏えいについて",
+     "u": "https://www.mhlw.go.jp/stf/newpage_76892.html"
+    }
+   ],
+   "o": "厚生労働省",
+   "oe": "Ministry of Health, Labour and Welfare",
+   "on": "https://www.mhlw.go.jp/stf/newpage_76892.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "厚生労働省 委託事業の「東電福島第一原発廃炉等作業における被ばく低減対策普及啓発事業」で個人情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56565.html"
+    }
+   ],
+   "t": "leak",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "『焼肉きんぐ』公式アプリ 会員管理システムへの第三者からの不正アクセスによる個人情報漏えいに関するお詫び",
+     "u": "https://www.yakiniku-king.jp/news/6875"
+    }
+   ],
+   "o": "株式会社物語コーポレーション",
+   "oe": "The Monogatari Corporation",
+   "on": "https://www.yakiniku-king.jp/news/6875",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "「焼肉きんぐ」公式アプリ会員管理システムに不正アクセス、1,078万8,963件の個人情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56563.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる個人情報漏えいのおそれに関するお詫びとお知らせ",
+     "u": "https://www.daiki-suisan.co.jp/files/optionallink/00000164_file.pdf"
+    }
+   ],
+   "o": "大起水産株式会社",
+   "oe": "Daiki Suisan Co., Ltd.",
+   "on": "https://www.daiki-suisan.co.jp/files/optionallink/00000164_file.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "「大起水産公式アプリ」に不正アクセス、顧客17万4,933人の個人情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56562.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社サーバーへの不正アクセスによるお知らせ",
+     "u": "https://www.sklg.co.jp/news/%e5%bd%93%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%ab%e3%82%88%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b"
+    },
+    {
+     "d": "",
+     "t": "当社サーバーへの不正アクセスによるお知らせとお詫び（第２報）",
+     "u": "https://www.sklg.co.jp/news/%e5%bd%93%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%ab%e3%82%88%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%81%a8"
+    }
+   ],
+   "o": "エスケーロジ",
+   "oe": "SK Logic",
+   "on": "https://www.sklg.co.jp/news/%e5%bd%93%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%ab%e3%82%88%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "エスケーロジにランサムウェア攻撃、一部の社内情報の漏えいを確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56561.html"
+    }
+   ],
+   "t": "ransomware",
+   "v": "unknown",
+   "x": "unknown"
+  },
   {
    "d": "2026-10-23",
    "ls": "none_found",
@@ -258,6 +367,11 @@
      "d": "2026-10-22",
      "t": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報）",
      "u": "https://www.onamae.com/news/article/11593"
+    },
+    {
+     "d": "2026-10-23",
+     "t": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報）",
+     "u": "https://www.onamae.com/news/article/11595"
     }
    ],
    "o": "お名前 .com デスクトップクラウド",
@@ -270,6 +384,12 @@
      "p": "2026-10-23",
      "t": "お名前 .com デスクトップクラウドへの不正アクセスについてまとめてみた",
      "u": "https://piyolog.hatenadiary.jp/entry/2026/10/23/014520"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "「お名前.com デスクトップクラウド」に不正アクセス、取引口座のログイン情報等が取得され不正利用された可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56564.html"
     }
    ],
    "t": "unauthorized_access",
@@ -452,8 +572,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-22",
@@ -505,7 +625,7 @@
    ],
    "t": "unauthorized_access",
    "v": "unknown",
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "d": "2026-10-21",
@@ -2287,7 +2407,7 @@
   },
   {
    "d": "2026-10-15",
-   "ls": "none_found",
+   "ls": "unchecked",
    "nn": [
     {
      "d": "2026-10-15",
