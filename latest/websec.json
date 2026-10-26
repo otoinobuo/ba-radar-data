@@ -1,0 +1,554 @@
+{
+ "asof": "2026-10-26",
+ "context": {
+  "finance": "金融庁 金融分野サイバーセキュリティガイドライン(2024)",
+  "gov": "国家サイバー統括室 対策基準ガイドライン 令和7年度版(2026改定)",
+  "note": "最上位の国家戦略・各省ガイドラインが求める姿勢のうち、外部から観測できる技術設定を本レーダーで測定する。",
+  "strategy": "サイバーセキュリティ戦略(2025-12 閣議決定)=能動的サイバー防御・PQC移行"
+ },
+ "cross_sector": [
+  {
+   "dnssec": 15,
+   "foreign": 85,
+   "ipv6": 85,
+   "n": 20,
+   "pqc": 90,
+   "rpki": 100,
+   "sector": "官庁/Central gov"
+  },
+  {
+   "dnssec": 6,
+   "foreign": 84,
+   "ipv6": 29,
+   "n": 68,
+   "pqc": 74,
+   "rpki": 96,
+   "sector": "金融/Finance"
+  },
+  {
+   "dnssec": 5,
+   "foreign": 72,
+   "ipv6": 26,
+   "n": 61,
+   "pqc": 72,
+   "rpki": 85,
+   "sector": "重要インフラ/Critical infra"
+  },
+  {
+   "dnssec": 0,
+   "foreign": 70,
+   "ipv6": 30,
+   "n": 10,
+   "pqc": 100,
+   "rpki": 100,
+   "sector": "地方/Prefectures"
+  },
+  {
+   "dnssec": 1,
+   "foreign": 63,
+   "ipv6": 7,
+   "n": 1741,
+   "pqc": null,
+   "rpki": 97,
+   "sector": "自治体/Municipalities"
+  },
+  {
+   "dnssec": 6,
+   "foreign": 29,
+   "ipv6": 4,
+   "n": 3000,
+   "pqc": 17,
+   "rpki": 62,
+   "sector": "民間/Private (.co.jp)"
+  },
+  {
+   "dnssec": 2,
+   "foreign": 18,
+   "ipv6": 7,
+   "n": 892,
+   "pqc": 18,
+   "rpki": 77,
+   "sector": "大学等/Universities"
+  }
+ ],
+ "edition": "2026-10",
+ "gap_broad": [
+  {
+   "by": {
+    "地方/Prefectures": 100,
+    "大学等/Universities": 77,
+    "官庁/Central gov": 100,
+    "民間/Private (.co.jp)": 62,
+    "自治体/Municipalities": 97,
+    "重要インフラ/Critical infra": 85,
+    "金融/Finance": 96
+   },
+   "req": "ROA登録(経路検証)",
+   "src": "総務省 RPKIガイドライン(2024・カバー70%超で必須)"
+  },
+  {
+   "by": {
+    "地方/Prefectures": 0,
+    "大学等/Universities": 2,
+    "官庁/Central gov": 15,
+    "民間/Private (.co.jp)": 6,
+    "自治体/Municipalities": 1,
+    "重要インフラ/Critical infra": 5,
+    "金融/Finance": 6
+   },
+   "req": "DNSSEC署名",
+   "src": "総務省 DNSSECガイドライン(2024)"
+  }
+ ],
+ "gap_tls": [
+  {
+   "finance": 91,
+   "gov": 93,
+   "req": "TLS1.0/1.1無効化",
+   "src": "IPA GL 推奨型 遵守(②-2)"
+  },
+  {
+   "finance": 100,
+   "gov": 100,
+   "req": "SSL2.0/3.0無効化",
+   "src": "IPA GL 推奨型 遵守(②-2)"
+  },
+  {
+   "finance": 81,
+   "gov": 93,
+   "req": "TLS1.3対応",
+   "src": "IPA GL 推奨(②-3-1)"
+  },
+  {
+   "finance": 99,
+   "gov": 100,
+   "req": "禁止暗号(RC4/3DES/輸出)無効",
+   "src": "IPA GL 遵守(④-1)"
+  },
+  {
+   "finance": 54,
+   "gov": 37,
+   "req": "前方秘匿性PFS(静的RSA排除)",
+   "src": "IPA GL 高セキュリティ型(④-2,④-3)"
+  },
+  {
+   "finance": 100,
+   "gov": 100,
+   "req": "証明書 鍵長>=2048/SHA-256",
+   "src": "IPA GL 遵守(③-1,③-2)"
+  },
+  {
+   "finance": 37,
+   "gov": 30,
+   "req": "HSTS付与",
+   "src": "IPA GL 推奨(7.4.1)"
+  },
+  {
+   "finance": 100,
+   "gov": 100,
+   "req": "ダウングレード防御(FALLBACK_SCSV)",
+   "src": "IPA GL"
+  },
+  {
+   "finance": 56,
+   "gov": 80,
+   "req": "OCSP Stapling",
+   "src": "IPA GL 推奨(7.4.2)"
+  }
+ ],
+ "generated": "2026-10-26T01:39:22Z",
+ "method": {
+  "en": "Passive measurement of public data only (DNS, certificate transparency, routing/VRP, single TLS connection). Aggregates only; no organisation is named.",
+  "ja": "公開データのみの受動観測（DNS・証明書透明性ログ・経路/VRP・TLS接続1回）。"
+ },
+ "population": [
+  {
+   "n": 20,
+   "sector": "官庁/Central gov",
+   "source": "go.jp 主要省庁",
+   "type": "主要20(標本)"
+  },
+  {
+   "n": 68,
+   "sector": "金融/Finance",
+   "source": "FFAJ店頭FX業者 + JVCEA暗号資産交換業者の名簿",
+   "type": "名簿から悉皆(ホスト解決分)"
+  },
+  {
+   "n": 61,
+   "sector": "重要インフラ/Critical infra",
+   "source": "NISC重要インフラ分野の主要事業者(電力/ガス/鉄道/航空/通信/放送/物流/クレジット)",
+   "type": "主要事業者(標本)"
+  },
+  {
+   "n": 10,
+   "sector": "地方/Prefectures",
+   "source": "主要都道府県の公式サイト",
+   "type": "人口上位10(標本)"
+  },
+  {
+   "n": 1741,
+   "sector": "自治体/Municipalities",
+   "source": "全国市区町村の公式サイト(code4fukui/localgovjp)",
+   "type": "全数(悉皆)"
+  },
+  {
+   "n": 3000,
+   "sector": "民間/Private (.co.jp)",
+   "source": "Trancoランキング上位の.co.jp",
+   "type": "人気上位3000(標本)"
+  },
+  {
+   "n": 892,
+   "sector": "大学等/Universities",
+   "source": "ac.jp登録組織(crt.sh 証明書透明性ログから抽出)",
+   "type": "悉皆(解決分)"
+  }
+ ],
+ "pqc_note": "PQC(耐量子ハイブリッド鍵交換 X25519MLKEM768)対応率。2025戦略のPQC移行の先行指標。高い対応は大手CDN/クラウド既定化の副産物で、自前基盤の業種は低い。",
+ "prefectures": [
+  {
+   "n": 19,
+   "pref": "山口県",
+   "share": 100,
+   "vendor": "Akamai"
+  },
+  {
+   "n": 24,
+   "pref": "徳島県",
+   "share": 100,
+   "vendor": "J-Stream"
+  },
+  {
+   "n": 17,
+   "pref": "香川県",
+   "share": 100,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 26,
+   "pref": "宮崎県",
+   "share": 100,
+   "vendor": "Cloudflare"
+  },
+  {
+   "n": 189,
+   "pref": "北海道",
+   "share": 98,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 41,
+   "pref": "沖縄県",
+   "share": 98,
+   "vendor": "Akamai"
+  },
+  {
+   "n": 38,
+   "pref": "新潟県",
+   "share": 97,
+   "vendor": "Google"
+  },
+  {
+   "n": 20,
+   "pref": "愛媛県",
+   "share": 95,
+   "vendor": "J-Stream"
+  },
+  {
+   "n": 20,
+   "pref": "佐賀県",
+   "share": 95,
+   "vendor": "Akamai"
+  },
+  {
+   "n": 19,
+   "pref": "島根県",
+   "share": 95,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 17,
+   "pref": "福井県",
+   "share": 94,
+   "vendor": "J-Stream"
+  },
+  {
+   "n": 61,
+   "pref": "神奈川県",
+   "share": 93,
+   "vendor": "IIJ"
+  },
+  {
+   "n": 15,
+   "pref": "富山県",
+   "share": 93,
+   "vendor": "HTCN"
+  },
+  {
+   "n": 39,
+   "pref": "奈良県",
+   "share": 92,
+   "vendor": "J-Stream"
+  },
+  {
+   "n": 77,
+   "pref": "長野県",
+   "share": 92,
+   "vendor": "Akamai"
+  },
+  {
+   "n": 19,
+   "pref": "石川県",
+   "share": 90,
+   "vendor": "HTCN"
+  },
+  {
+   "n": 19,
+   "pref": "滋賀県",
+   "share": 90,
+   "vendor": "Cloudflare"
+  },
+  {
+   "n": 42,
+   "pref": "岐阜県",
+   "share": 88,
+   "vendor": "Mirai"
+  },
+  {
+   "n": 74,
+   "pref": "大阪府",
+   "share": 88,
+   "vendor": "J-Stream"
+  },
+  {
+   "n": 59,
+   "pref": "千葉県",
+   "share": 86,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 43,
+   "pref": "鹿児島県",
+   "share": 86,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 27,
+   "pref": "山梨県",
+   "share": 85,
+   "vendor": "Digital Alliance"
+  },
+  {
+   "n": 29,
+   "pref": "三重県",
+   "share": 79,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 50,
+   "pref": "兵庫県",
+   "share": 78,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 34,
+   "pref": "群馬県",
+   "share": 76,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 59,
+   "pref": "福島県",
+   "share": 76,
+   "vendor": "Google"
+  },
+  {
+   "n": 33,
+   "pref": "岩手県",
+   "share": 76,
+   "vendor": "Google"
+  },
+  {
+   "n": 35,
+   "pref": "山形県",
+   "share": 74,
+   "vendor": "Google"
+  },
+  {
+   "n": 44,
+   "pref": "茨城県",
+   "share": 73,
+   "vendor": "J-Stream"
+  },
+  {
+   "n": 40,
+   "pref": "青森県",
+   "share": 72,
+   "vendor": "Google"
+  },
+  {
+   "n": 37,
+   "pref": "京都府",
+   "share": 70,
+   "vendor": "Cloudflare"
+  },
+  {
+   "n": 19,
+   "pref": "鳥取県",
+   "share": 68,
+   "vendor": "J-Stream"
+  },
+  {
+   "n": 31,
+   "pref": "岡山県",
+   "share": 68,
+   "vendor": "J-Stream"
+  },
+  {
+   "n": 45,
+   "pref": "静岡県",
+   "share": 67,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 30,
+   "pref": "和歌山県",
+   "share": 67,
+   "vendor": "CyberLinks"
+  },
+  {
+   "n": 21,
+   "pref": "長崎県",
+   "share": 67,
+   "vendor": "Akamai"
+  },
+  {
+   "n": 70,
+   "pref": "愛知県",
+   "share": 66,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 39,
+   "pref": "宮城県",
+   "share": 64,
+   "vendor": "Google"
+  },
+  {
+   "n": 62,
+   "pref": "東京都",
+   "share": 58,
+   "vendor": "Amazon"
+  },
+  {
+   "n": 30,
+   "pref": "広島県",
+   "share": 57,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 25,
+   "pref": "秋田県",
+   "share": 56,
+   "vendor": "Google"
+  },
+  {
+   "n": 25,
+   "pref": "栃木県",
+   "share": 56,
+   "vendor": "Akamai"
+  },
+  {
+   "n": 49,
+   "pref": "熊本県",
+   "share": 55,
+   "vendor": "Sakura"
+  },
+  {
+   "n": 34,
+   "pref": "高知県",
+   "share": 41,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 74,
+   "pref": "福岡県",
+   "share": 40,
+   "vendor": "Imperva"
+  },
+  {
+   "n": 73,
+   "pref": "埼玉県",
+   "share": 36,
+   "vendor": "Akamai"
+  },
+  {
+   "n": 18,
+   "pref": "大分県",
+   "share": 28,
+   "vendor": "Imperva"
+  }
+ ],
+ "ripki": {
+  "y2014": {
+   "cdn": 0.9,
+   "covered": 6,
+   "note": "RiPKI HotNets2015, Alexa 1M prefix coverage"
+  },
+  "y2026": {
+   "note": "this study, Tranco popular, resolved-domain RPKI valid",
+   "valid": 90
+  }
+ },
+ "size_tiers": [
+  {
+   "conc": 45,
+   "foreign": 45,
+   "ipv6": 15,
+   "n": 20,
+   "tier": "政令市/Designated"
+  },
+  {
+   "conc": 30,
+   "foreign": 35,
+   "ipv6": 22,
+   "n": 23,
+   "tier": "特別区/Tokyo wards"
+  },
+  {
+   "conc": 76,
+   "foreign": 60,
+   "ipv6": 6,
+   "n": 772,
+   "tier": "市/Cities"
+  },
+  {
+   "conc": 84,
+   "foreign": 66,
+   "ipv6": 6,
+   "n": 743,
+   "tier": "町/Towns"
+  },
+  {
+   "conc": 81,
+   "foreign": 69,
+   "ipv6": 10,
+   "n": 183,
+   "tier": "村/Villages"
+  }
+ ],
+ "sources": [
+  "APNIC delegated stats",
+  "rpki-client VRP (console.rpki-client.org)",
+  "Team Cymru IP-to-ASN",
+  "Tranco list",
+  "code4fukui/localgovjp",
+  "FSA/FFAJ/JVCEA rosters",
+  "crt.sh (ac.jp)"
+ ],
+ "title": {
+  "en": "Japan Web Infrastructure Posture",
+  "ja": "日本の重要Web 経路・暗号・集中レーダー"
+ }
+}
