@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T23:48:19Z",
+ "generated": "2026-10-26T13:11:35Z",
  "incidents": [
   {
    "d": "2026-10-26",
@@ -369,12 +369,22 @@
      "u": "https://www.onamae.com/news/article/11593"
     },
     {
+     "d": "2026-10-22",
+     "t": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報）",
+     "u": "https://internet.gmo/news/article/247"
+    },
+    {
      "d": "2026-10-23",
      "t": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報）",
      "u": "https://www.onamae.com/news/article/11595"
+    },
+    {
+     "d": "2026-10-24",
+     "t": "お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） お客様へのお見舞金のお支払いと不正取引による損失の補償について",
+     "u": "https://internet.gmo/news/article/249"
     }
    ],
-   "o": "お名前 .com デスクトップクラウド",
+   "o": "お名前.com デスクトップクラウド",
    "oe": "Onamae.com Desktop Cloud",
    "on": "https://www.onamae.com/news/article/11584",
    "os": "found",
@@ -386,6 +396,12 @@
      "u": "https://piyolog.hatenadiary.jp/entry/2026/10/23/014520"
     },
     {
+     "h": "security-next.com",
+     "p": "2026-10-23",
+     "t": "GMO「デスクトップクラウド」で侵害 - 利用者から金融口座の不正操作報告",
+     "u": "https://www.security-next.com/191883"
+    },
+    {
      "h": "scan.netsecurity.ne.jp",
      "p": "2026-10-26",
      "t": "「お名前.com デスクトップクラウド」に不正アクセス、取引口座のログイン情報等が取得され不正利用された可能性",
@@ -394,7 +410,13 @@
    ],
    "t": "unauthorized_access",
    "v": "vendor_cloud",
-   "x": "yes"
+   "x": "yes",
+   "xt": {
+    "d": "2026-10-24",
+    "enc": "",
+    "out": "refused",
+    "u": "https://internet.gmo/news/article/249"
+   }
   },
   {
    "d": "2026-10-22",
@@ -2375,7 +2397,7 @@
      "u": "https://scan.netsecurity.ne.jp/article/2026/10/19/56498.html"
     }
    ],
-   "t": "leak",
+   "t": "unauthorized_access",
    "v": "webapp",
    "x": "yes"
   },
@@ -2815,12 +2837,6 @@
      "p": "2026-10-14",
      "t": "ConoHa WING byGMO に不正アクセス、不正プログラムを設置",
      "u": "https://scan.netsecurity.ne.jp/article/2026/10/14/56450.html"
-    },
-    {
-     "h": "security-next.com",
-     "p": "2026-10-23",
-     "t": "GMO「デスクトップクラウド」で侵害 - 利用者から金融口座の不正操作報告",
-     "u": "https://www.security-next.com/191883"
     }
    ],
    "t": "unauthorized_access",

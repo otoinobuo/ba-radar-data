@@ -370,8 +370,263 @@
    "n": 26
   }
  ],
+ "disclosed": [
+  {
+   "dd": "2026-10-26",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "エスケーロジ",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AD%E3%82%B8",
+   "xt": ""
+  },
+  {
+   "dd": "2026-10-21",
+   "e": "japan",
+   "enc": "no",
+   "k": "extortion",
+   "ls": "none_found",
+   "o": "お名前.com デスクトップクラウド",
+   "out": "refused",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E3%81%8A%E5%90%8D%E5%89%8D.com%20%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89",
+   "xt": "yes"
+  },
+  {
+   "dd": "2026-10-15",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "両毛システムズ",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E4%B8%A1%E6%AF%9B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+   "xt": ""
+  },
+  {
+   "dd": "2026-10-07",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "IDCフロンティア",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=IDC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2",
+   "xt": ""
+  },
+  {
+   "dd": "2026-10-02",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "大阪公立大学",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E5%A4%A7%E9%98%AA%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+   "xt": ""
+  },
+  {
+   "dd": "2026-09-26",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "listed",
+   "o": "京王電鉄グループ",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+   "xt": ""
+  },
+  {
+   "dd": "2026-09-21",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "Fun For Less Tours, Inc.",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Fun%20For%20Less%20Tours%2C%20Inc.",
+   "xt": ""
+  },
+  {
+   "dd": "2026-08-13",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "See’s Candies, Inc.",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=See%E2%80%99s%20Candies%2C%20Inc.",
+   "xt": ""
+  },
+  {
+   "dd": "2026-07-02",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "NAVIENT CORP",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=NAVIENT%20CORP",
+   "xt": ""
+  },
+  {
+   "dd": "2026-06-25",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "River Financial Corp",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=River%20Financial%20Corp",
+   "xt": ""
+  },
+  {
+   "dd": "2026-05-27",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Ampex Data Systems Corporation",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ampex%20Data%20Systems%20Corporation",
+   "xt": ""
+  },
+  {
+   "dd": "2026-05-11",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "WEST PHARMACEUTICAL SERVICES INC",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=WEST%20PHARMACEUTICAL%20SERVICES%20INC",
+   "xt": ""
+  },
+  {
+   "dd": "2026-05-11",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "American Lending Center",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=American%20Lending%20Center",
+   "xt": ""
+  },
+  {
+   "dd": "2026-03-20",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "TRIO-TECH INTERNATIONAL",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=TRIO-TECH%20INTERNATIONAL",
+   "xt": ""
+  },
+  {
+   "dd": "2026-03-19",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Senior Operations LLC",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Senior%20Operations%20LLC",
+   "xt": ""
+  },
+  {
+   "dd": "2026-01-27",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Take One Systems",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Take%20One%20Systems",
+   "xt": ""
+  },
+  {
+   "dd": "2025-11-12",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "American Associated Pharmacies",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=American%20Associated%20Pharmacies",
+   "xt": ""
+  },
+  {
+   "dd": "2025-11-06",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Alpha Omega Winery, LLC",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Alpha%20Omega%20Winery%2C%20LLC",
+   "xt": ""
+  },
+  {
+   "dd": "2025-09-17",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Hacienda La Puente Unified School District",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Hacienda%20La%20Puente%20Unified%20School%20District",
+   "xt": ""
+  },
+  {
+   "dd": "2025-09-09",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Horace Mann Life Insurance Company",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Horace%20Mann%20Life%20Insurance%20Company",
+   "xt": ""
+  },
+  {
+   "dd": "2025-08-21",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "DATA I/O CORP",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DATA%20I/O%20CORP",
+   "xt": ""
+  },
+  {
+   "dd": "2025-04-09",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Sensata Technologies Holding plc",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sensata%20Technologies%20Holding%20plc",
+   "xt": ""
+  },
+  {
+   "dd": "2023-12-22",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "First American Financial Corp",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=First%20American%20Financial%20Corp",
+   "xt": ""
+  }
+ ],
  "edition": "ransomware",
- "generated": "2026-10-26T03:04:00Z",
+ "generated": "2026-10-26T13:11:40Z",
  "groups": [
   {
    "chats": 2,
@@ -707,8 +962,8 @@
  "method": {
   "censoring": "Recent claims have not had time to reach an outcome, so outcome rates use only claims at least 30 days old as the denominator. Counts for the last few days rise as the source catches up.",
   "censoring_ja": "直近の宣言はまだ結果が出ていないため、結果の率は宣言から 30 日以上たったものだけを分母にします。直近数日の件数は情報源の取り込みに応じて増えます。",
-  "inclusion": "A claim is one listing on a leak site, dated by the time RansomLook first saw it (UTC), not the attack date. Re-listings of the same organisation by another group are counted separately. Group names appear only in aggregate tables; an organisation is named only when its own notice or a regulatory filing confirms the incident (section 6).",
-  "inclusion_ja": "宣言はリークサイトの掲載 1 件で、日付は RansomLook が初めて観測した時刻（UTC）であり攻撃日ではありません。同じ組織を別のグループが再掲したものは別件として数えます。グループ名は集計表にだけ出し、組織名は本人の告知か当局への届出で確認できたものだけを出します（6 節）。",
+  "inclusion": "A claim is one listing on a leak site, dated by the time RansomLook first saw it (UTC), not the attack date. Re-listings of the same organisation by another group are counted separately. Group names appear only in aggregate tables; an organisation is named only when its own notice or a regulatory filing confirms the incident (section 6). Section 6 also lists ransomware and extortion that victims disclosed themselves, whether or not a leak-site claim exists, because some extortion never reaches a leak site.",
+  "inclusion_ja": "宣言はリークサイトの掲載 1 件で、日付は RansomLook が初めて観測した時刻（UTC）であり攻撃日ではありません。同じ組織を別のグループが再掲したものは別件として数えます。グループ名は集計表にだけ出し、組織名は本人の告知か当局への届出で確認できたものだけを出します（6 節）。リークサイトに載らない恐喝もあるため、6 節には、宣言の有無にかかわらず被害組織自身が公表したランサムウェア・恐喝も載せます。",
   "negotiations": "Negotiation figures cover only chats that have been made public, which is a small and uneven sample. Duration runs from the first to the last timestamp in a chat. The opening demand is the attacker's first stated price; the final price is the attacker's last stated price in chats that end in a payment; tactics and victim moves are detected with fixed word rules on each side's messages. No chat text is shown.",
   "negotiations_ja": "交渉の数値は公開されたチャットだけが対象で、件数が少なく偏りがあります。期間はチャットの最初と最後の時刻の差です。最初の要求額は攻撃者が最初に示した金額、最終額は支払いで終わったチャットで攻撃者が最後に示した金額です。手口と被害者側の動きは、それぞれの発言に固定の語の規則を当てて判定します。チャットの文面は載せません。",
   "outcomes": "'Released' means the attacker's listing says the data has been published, or a download was added; the time from claim to release is measured only for changes observed after tracking began. 'Removed' means the listing disappeared from the group's list; this does not mean a ransom was paid, and it is shown only once removals are observable in the source. 'Disclosed' means a sister radar matched the claim to the victim's own notice; 'paid', 'not paid' and 'restored from backups' are counted only when that notice says so in words.",
@@ -3402,19 +3657,19 @@
     "BR": 21,
     "CA": 33,
     "CH": 16,
-    "DE": 30,
+    "DE": 31,
     "EG": 9,
-    "ES": 13,
-    "FR": 18,
+    "ES": 15,
+    "FR": 19,
     "GB": 8,
     "IN": 17,
     "IT": 10,
-    "JP": 8,
     "KR": 20,
+    "MY": 8,
     "SE": 9,
-    "US": 249,
-    "other": 139,
-    "unknown": 516
+    "US": 257,
+    "other": 145,
+    "unknown": 498
    },
    "groups_active": 83,
    "lag": {
@@ -3442,16 +3697,16 @@
    },
    "prev": 939,
    "sectors": {
-    "education": 52,
+    "education": 54,
     "finance": 50,
     "government": 29,
-    "healthcare": 124,
+    "healthcare": 127,
     "manufacturing": 202,
-    "other": 9,
-    "professional_services": 96,
-    "retail": 81,
-    "technology": 95,
-    "unknown": 387
+    "other": 15,
+    "professional_services": 98,
+    "retail": 83,
+    "technology": 100,
+    "unknown": 367
    },
    "threat": {
     "deadline": {
@@ -3551,9 +3806,9 @@
     "AU": 100,
     "BR": 125,
     "CA": 180,
-    "DE": 213,
-    "ES": 72,
-    "FR": 125,
+    "DE": 214,
+    "ES": 74,
+    "FR": 126,
     "GB": 105,
     "IN": 119,
     "IT": 135,
@@ -3561,9 +3816,9 @@
     "MX": 73,
     "TH": 60,
     "TW": 60,
-    "US": 1151,
-    "other": 1026,
-    "unknown": 7210
+    "US": 1159,
+    "other": 1032,
+    "unknown": 7192
    },
    "groups_active": 180,
    "lag": {
@@ -3591,16 +3846,16 @@
    },
    "prev": 8367,
    "sectors": {
-    "education": 348,
+    "education": 350,
     "finance": 400,
     "government": 299,
-    "healthcare": 677,
+    "healthcare": 680,
     "manufacturing": 1808,
-    "other": 9,
-    "professional_services": 768,
-    "retail": 572,
-    "technology": 430,
-    "unknown": 5559
+    "other": 15,
+    "professional_services": 770,
+    "retail": 574,
+    "technology": 435,
+    "unknown": 5539
    },
    "threat": {
     "deadline": {
@@ -3845,23 +4100,23 @@
   },
   "90": {
    "countries": {
-    "AR": 20,
+    "AR": 21,
     "AU": 29,
     "BR": 46,
     "CA": 65,
     "CH": 29,
-    "DE": 73,
-    "ES": 29,
-    "FR": 43,
+    "DE": 74,
+    "ES": 31,
+    "FR": 44,
     "GB": 22,
     "IN": 54,
     "IT": 49,
     "JP": 20,
     "KR": 26,
     "TW": 24,
-    "US": 524,
-    "other": 354,
-    "unknown": 1820
+    "US": 532,
+    "other": 359,
+    "unknown": 1802
    },
    "groups_active": 117,
    "lag": {
@@ -3889,16 +4144,16 @@
    },
    "prev": 2377,
    "sectors": {
-    "education": 117,
+    "education": 119,
     "finance": 158,
     "government": 94,
-    "healthcare": 270,
+    "healthcare": 273,
     "manufacturing": 557,
-    "other": 9,
-    "professional_services": 239,
-    "retail": 207,
-    "technology": 194,
-    "unknown": 1382
+    "other": 15,
+    "professional_services": 241,
+    "retail": 209,
+    "technology": 199,
+    "unknown": 1362
    },
    "threat": {
     "deadline": {
@@ -3999,18 +4254,18 @@
     "CA": 561,
     "CH": 147,
     "CO": 204,
-    "DE": 581,
-    "ES": 213,
-    "FR": 397,
+    "DE": 582,
+    "ES": 215,
+    "FR": 398,
     "GB": 461,
     "IN": 314,
     "IT": 452,
     "JP": 171,
     "MX": 191,
     "TW": 154,
-    "US": 3058,
-    "other": 2817,
-    "unknown": 25532
+    "US": 3066,
+    "other": 2823,
+    "unknown": 25514
    },
    "groups_active": 336,
    "lag": {
@@ -4038,16 +4293,16 @@
    },
    "prev": null,
    "sectors": {
-    "education": 963,
+    "education": 965,
     "finance": 976,
     "government": 763,
-    "healthcare": 1543,
+    "healthcare": 1546,
     "manufacturing": 3679,
-    "other": 9,
-    "professional_services": 1602,
-    "retail": 1142,
-    "technology": 895,
-    "unknown": 24427
+    "other": 15,
+    "professional_services": 1604,
+    "retail": 1144,
+    "technology": 900,
+    "unknown": 24407
    },
    "threat": {
     "deadline": {
