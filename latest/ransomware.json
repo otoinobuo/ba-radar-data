@@ -1,5 +1,5 @@
 {
- "asof": "2026-10-25",
+ "asof": "2026-10-26",
  "coverage": {
   "chats_updated": "2026-09-21",
   "claims_from": "2020-01-12",
@@ -9,10 +9,6 @@
   "threat_from": "2020-01-12"
  },
  "daily": [
-  {
-   "d": "2026-07-28",
-   "n": 18
-  },
   {
    "d": "2026-07-29",
    "n": 18
@@ -368,6 +364,10 @@
   {
    "d": "2026-10-25",
    "n": 26
+  },
+  {
+   "d": "2026-10-26",
+   "n": 6
   }
  ],
  "disclosed": [
@@ -626,28 +626,28 @@
   }
  ],
  "edition": "ransomware",
- "generated": "2026-10-26T13:11:40Z",
+ "generated": "2026-10-27T03:04:10Z",
  "groups": [
   {
    "chats": 2,
    "deadline_median": null,
-   "described_share": 0.002,
+   "described_share": 0.001,
    "first": "2022-10-08",
    "g": "qilin",
    "last": "2026-10-25",
    "n30": 104,
-   "n365": 1429,
+   "n365": 1427,
    "released_share": 0.0
   },
   {
    "chats": 0,
    "deadline_median": 1.0,
-   "described_share": 0.782,
+   "described_share": 0.783,
    "first": "2025-09-09",
    "g": "the gentlemen",
    "last": "2026-10-23",
    "n30": 121,
-   "n365": 1019,
+   "n365": 1018,
    "released_share": 0.003
   },
   {
@@ -669,7 +669,7 @@
    "g": "inc ransom",
    "last": "2026-10-22",
    "n30": 31,
-   "n365": 485,
+   "n365": 484,
    "released_share": 0.0
   },
   {
@@ -680,7 +680,7 @@
    "g": "dragonforce",
    "last": "2026-10-18",
    "n30": 7,
-   "n365": 393,
+   "n365": 390,
    "released_share": 0.003
   },
   {
@@ -724,7 +724,7 @@
    "g": "play",
    "last": "2026-10-17",
    "n30": 16,
-   "n365": 280,
+   "n365": 278,
    "released_share": 0.0
   },
   {
@@ -746,7 +746,7 @@
    "g": "coinbase cartel",
    "last": "2026-08-31",
    "n30": 0,
-   "n365": 217,
+   "n365": 216,
    "released_share": 0.0
   },
   {
@@ -757,7 +757,7 @@
    "g": "everest",
    "last": "2026-10-22",
    "n30": 18,
-   "n365": 208,
+   "n365": 207,
    "released_share": 0.0
   },
   {
@@ -789,7 +789,7 @@
    "first": "2026-09-18",
    "g": "n0n",
    "last": "2026-10-25",
-   "n30": 154,
+   "n30": 150,
    "n365": 163,
    "released_share": 0.0
   },
@@ -823,8 +823,8 @@
    "g": "nova",
    "last": "2026-07-25",
    "n30": 0,
-   "n365": 122,
-   "released_share": 0.016
+   "n365": 121,
+   "released_share": 0.017
   },
   {
    "chats": 0,
@@ -939,22 +939,22 @@
   {
    "chats": 0,
    "deadline_median": null,
-   "described_share": 0.304,
-   "first": "2024-10-28",
-   "g": "killsec3",
-   "last": "2026-09-27",
-   "n30": 46,
-   "n365": 79,
+   "described_share": 1.0,
+   "first": "2026-02-17",
+   "g": "payload",
+   "last": "2026-10-26",
+   "n30": 7,
+   "n365": 81,
    "released_share": 0.0
   },
   {
    "chats": 0,
    "deadline_median": null,
-   "described_share": 0.975,
-   "first": "2024-08-02",
-   "g": "lynx",
-   "last": "2026-08-29",
-   "n30": 0,
+   "described_share": 0.304,
+   "first": "2024-10-28",
+   "g": "killsec3",
+   "last": "2026-09-27",
+   "n30": 46,
    "n365": 79,
    "released_share": 0.0
   }
@@ -1253,7 +1253,7 @@
   {
    "groups": 75,
    "m": "2026-10",
-   "n": 883,
+   "n": 889,
    "top": {
     "akira": 28,
     "n0n": 147,
@@ -2022,21 +2022,21 @@
   {
    "cc": "",
    "d": "2026-03-10",
-   "dd": "2026-05-18",
-   "e": "us",
-   "o": "Eyemart Express, LLC",
-   "out": "",
-   "sec": "healthcare",
-   "u": "https://ba-cybersecurity.com/radar/us/#q=Eyemart%20Express%2C%20LLC"
-  },
-  {
-   "cc": "",
-   "d": "2026-03-10",
    "dd": "2026-07-24",
    "e": "us",
    "o": "Eyemart Express, LLC",
    "out": "",
    "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Eyemart%20Express%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2026-03-10",
+   "dd": "2026-05-18",
+   "e": "us",
+   "o": "Eyemart Express, LLC",
+   "out": "",
+   "sec": "healthcare",
    "u": "https://ba-cybersecurity.com/radar/us/#q=Eyemart%20Express%2C%20LLC"
   },
   {
@@ -2482,21 +2482,21 @@
   {
    "cc": "",
    "d": "2025-09-26",
-   "dd": "2026-03-23",
-   "e": "us",
-   "o": "Expert MRI",
-   "out": "",
-   "sec": "other",
-   "u": "https://ba-cybersecurity.com/radar/us/#q=Expert%20MRI"
-  },
-  {
-   "cc": "",
-   "d": "2025-09-26",
    "dd": "2025-10-31",
    "e": "us",
    "o": "Expert MRI",
    "out": "",
    "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Expert%20MRI"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-26",
+   "dd": "2026-03-23",
+   "e": "us",
+   "o": "Expert MRI",
+   "out": "",
+   "sec": "other",
    "u": "https://ba-cybersecurity.com/radar/us/#q=Expert%20MRI"
   },
   {
@@ -2892,22 +2892,22 @@
   {
    "cc": "",
    "d": "2025-02-27",
-   "dd": "2025-02-18",
-   "e": "us",
-   "o": "LEE ENTERPRISES, Inc",
-   "out": "",
-   "sec": "manufacturing",
-   "u": "https://ba-cybersecurity.com/radar/us/#q=LEE%20ENTERPRISES%2C%20Inc"
-  },
-  {
-   "cc": "",
-   "d": "2025-02-27",
    "dd": "2025-06-04",
    "e": "us",
    "o": "Lee Enterprises",
    "out": "",
    "sec": "other",
    "u": "https://ba-cybersecurity.com/radar/us/#q=Lee%20Enterprises"
+  },
+  {
+   "cc": "",
+   "d": "2025-02-27",
+   "dd": "2025-02-18",
+   "e": "us",
+   "o": "LEE ENTERPRISES, Inc",
+   "out": "",
+   "sec": "manufacturing",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=LEE%20ENTERPRISES%2C%20Inc"
   },
   {
    "cc": "US",
@@ -3132,7 +3132,7 @@
   {
    "cc": "",
    "d": "2024-09-15",
-   "dd": "2024-10-23",
+   "dd": "2025-02-06",
    "e": "us",
    "o": "OnePoint Patient Care",
    "out": "",
@@ -3142,7 +3142,7 @@
   {
    "cc": "",
    "d": "2024-09-15",
-   "dd": "2025-02-06",
+   "dd": "2024-10-23",
    "e": "us",
    "o": "OnePoint Patient Care",
    "out": "",
@@ -3432,7 +3432,7 @@
   {
    "cc": "",
    "d": "2023-11-28",
-   "dd": "2024-02-08",
+   "dd": "2024-04-12",
    "e": "us",
    "o": "SinglePoint Outsourcing, Inc.",
    "out": "",
@@ -3442,7 +3442,7 @@
   {
    "cc": "",
    "d": "2023-11-28",
-   "dd": "2024-04-12",
+   "dd": "2024-02-08",
    "e": "us",
    "o": "SinglePoint Outsourcing, Inc.",
    "out": "",
@@ -3655,23 +3655,23 @@
    "countries": {
     "AU": 9,
     "BR": 21,
-    "CA": 33,
+    "CA": 31,
     "CH": 16,
-    "DE": 31,
+    "DE": 34,
     "EG": 9,
     "ES": 15,
     "FR": 19,
     "GB": 8,
     "IN": 17,
     "IT": 10,
-    "KR": 20,
+    "KR": 19,
     "MY": 8,
     "SE": 9,
-    "US": 257,
-    "other": 145,
-    "unknown": 498
+    "US": 249,
+    "other": 142,
+    "unknown": 489
    },
-   "groups_active": 83,
+   "groups_active": 82,
    "lag": {
     "claim_to_release": {
      "known": 0,
@@ -3679,13 +3679,13 @@
      "p90": null
     },
     "disclosure_vs_claim": {
-     "after": 2,
+     "after": 1,
      "before": 2,
-     "known": 4,
-     "median": 2.0
+     "known": 3,
+     "median": -3
     }
    },
-   "n": 1125,
+   "n": 1105,
    "outcome": {
     "disclosed": 0,
     "mature": 0,
@@ -3695,18 +3695,18 @@
     "removed": null,
     "restored": 0
    },
-   "prev": 939,
+   "prev": 928,
    "sectors": {
     "education": 54,
     "finance": 50,
     "government": 29,
-    "healthcare": 127,
-    "manufacturing": 202,
-    "other": 15,
-    "professional_services": 98,
-    "retail": 83,
-    "technology": 100,
-    "unknown": 367
+    "healthcare": 125,
+    "manufacturing": 196,
+    "other": 16,
+    "professional_services": 94,
+    "retail": 81,
+    "technology": 95,
+    "unknown": 365
    },
    "threat": {
     "deadline": {
@@ -3719,39 +3719,39 @@
      "known": 24,
      "median": 9.0
     },
-    "described": 615,
+    "described": 600,
     "kinds": {
-     "contracts": 75,
-     "credentials": 16,
-     "customer": 42,
-     "financial": 147,
-     "hr": 34,
-     "medical": 91,
+     "contracts": 74,
+     "credentials": 17,
+     "customer": 41,
+     "financial": 145,
+     "hr": 33,
+     "medical": 88,
      "other": 0,
-     "personal": 88,
+     "personal": 85,
      "technical": 24
     },
     "ransom": {
-     "known": 9,
-     "median_usd": 1000000
+     "known": 10,
+     "median_usd": 750000
     },
     "types": {
-     "data_theft": 204,
+     "data_theft": 200,
      "ddos": 0,
      "encryption": 3,
-     "publish": 113,
-     "regulator": 17,
-     "sale": 26,
-     "third_party": 2
+     "publish": 112,
+     "regulator": 16,
+     "sale": 25,
+     "third_party": 3
     },
     "volume": {
      "buckets": {
-      "100_1000": 52,
+      "100_1000": 51,
       "10_100": 45,
       "gte1000": 14,
       "lt10": 38
      },
-     "known": 149,
+     "known": 148,
      "median_gb": 80.0,
      "p90_gb": 900.0
     }
@@ -3759,7 +3759,7 @@
    "top_groups": [
     {
      "g": "n0n",
-     "n": 154
+     "n": 150
     },
     {
      "g": "the gentlemen",
@@ -3798,17 +3798,17 @@
      "n": 23
     }
    ],
-   "yoy": 976
+   "yoy": 950
   },
   "365": {
    "countries": {
     "AE": 56,
     "AU": 100,
-    "BR": 125,
-    "CA": 180,
-    "DE": 214,
+    "BR": 124,
+    "CA": 179,
+    "DE": 217,
     "ES": 74,
-    "FR": 126,
+    "FR": 125,
     "GB": 105,
     "IN": 119,
     "IT": 135,
@@ -3818,7 +3818,7 @@
     "TW": 60,
     "US": 1159,
     "other": 1032,
-    "unknown": 7192
+    "unknown": 7185
    },
    "groups_active": 180,
    "lag": {
@@ -3828,16 +3828,16 @@
      "p90": null
     },
     "disclosure_vs_claim": {
-     "after": 84,
+     "after": 83,
      "before": 10,
-     "known": 94,
-     "median": 41.0
+     "known": 93,
+     "median": 40
     }
    },
-   "n": 10870,
+   "n": 10863,
    "outcome": {
     "disclosed": 90,
-    "mature": 9745,
+    "mature": 9758,
     "not_paid": 0,
     "paid": 0,
     "released": 73,
@@ -3847,15 +3847,15 @@
    "prev": 8367,
    "sectors": {
     "education": 350,
-    "finance": 400,
-    "government": 299,
+    "finance": 399,
+    "government": 298,
     "healthcare": 680,
     "manufacturing": 1808,
-    "other": 15,
+    "other": 16,
     "professional_services": 770,
     "retail": 574,
-    "technology": 435,
-    "unknown": 5539
+    "technology": 434,
+    "unknown": 5534
    },
    "threat": {
     "deadline": {
@@ -3868,21 +3868,21 @@
      "known": 104,
      "median": 10.0
     },
-    "described": 5404,
+    "described": 5403,
     "kinds": {
-     "contracts": 762,
-     "credentials": 89,
+     "contracts": 763,
+     "credentials": 90,
      "customer": 348,
-     "financial": 1201,
+     "financial": 1200,
      "hr": 286,
-     "medical": 553,
+     "medical": 554,
      "other": 0,
      "personal": 884,
-     "technical": 188
+     "technical": 189
     },
     "ransom": {
-     "known": 24,
-     "median_usd": 325000
+     "known": 25,
+     "median_usd": 500000
     },
     "types": {
      "data_theft": 1586,
@@ -3891,16 +3891,16 @@
      "publish": 1237,
      "regulator": 90,
      "sale": 146,
-     "third_party": 6
+     "third_party": 7
     },
     "volume": {
      "buckets": {
-      "100_1000": 365,
+      "100_1000": 364,
       "10_100": 532,
       "gte1000": 101,
       "lt10": 135
      },
-     "known": 1133,
+     "known": 1132,
      "median_gb": 60.0,
      "p90_gb": 848.0
     }
@@ -3908,11 +3908,11 @@
    "top_groups": [
     {
      "g": "qilin",
-     "n": 1429
+     "n": 1427
     },
     {
      "g": "the gentlemen",
-     "n": 1019
+     "n": 1018
     },
     {
      "g": "akira",
@@ -3920,11 +3920,11 @@
     },
     {
      "g": "inc ransom",
-     "n": 485
+     "n": 484
     },
     {
      "g": "dragonforce",
-     "n": 393
+     "n": 390
     },
     {
      "g": "lockbit5",
@@ -3940,7 +3940,7 @@
     },
     {
      "g": "play",
-     "n": 280
+     "n": 278
     },
     {
      "g": "safepay",
@@ -3955,21 +3955,21 @@
     "CA": 5,
     "CH": 6,
     "CN": 3,
-    "DE": 12,
+    "DE": 15,
     "EC": 2,
     "ES": 4,
     "FR": 2,
     "GB": 2,
     "IN": 4,
-    "KR": 2,
+    "KR": 1,
     "MY": 3,
     "PL": 2,
     "PT": 2,
-    "US": 66,
+    "US": 58,
     "other": 12,
-    "unknown": 110
+    "unknown": 98
    },
-   "groups_active": 45,
+   "groups_active": 44,
    "lag": {
     "claim_to_release": {
      "known": 0,
@@ -3983,7 +3983,7 @@
      "median": -32
     }
    },
-   "n": 239,
+   "n": 221,
    "outcome": {
     "disclosed": 0,
     "mature": 0,
@@ -3993,90 +3993,90 @@
     "removed": null,
     "restored": 0
    },
-   "prev": 322,
+   "prev": 263,
    "sectors": {
     "education": 6,
-    "finance": 14,
+    "finance": 12,
     "government": 4,
-    "healthcare": 26,
-    "manufacturing": 49,
-    "other": 1,
-    "professional_services": 24,
+    "healthcare": 23,
+    "manufacturing": 48,
+    "other": 2,
+    "professional_services": 22,
     "retail": 22,
-    "technology": 16,
-    "unknown": 77
+    "technology": 14,
+    "unknown": 68
    },
    "threat": {
     "deadline": {
      "hist": {
-      "4_7": 1,
-      "8_14": 1,
-      "gt14": 1,
+      "4_7": 0,
+      "8_14": 0,
+      "gt14": 0,
       "lt4": 1
      },
-     "known": 4,
-     "median": 8.5
+     "known": 1,
+     "median": 2
     },
     "described": 111,
     "kinds": {
-     "contracts": 20,
+     "contracts": 19,
      "credentials": 7,
-     "customer": 10,
-     "financial": 31,
+     "customer": 9,
+     "financial": 28,
      "hr": 9,
-     "medical": 18,
+     "medical": 19,
      "other": 0,
-     "personal": 21,
+     "personal": 20,
      "technical": 4
     },
     "ransom": {
-     "known": 7,
+     "known": 8,
      "median_usd": 1000000
     },
     "types": {
-     "data_theft": 62,
+     "data_theft": 61,
      "ddos": 0,
      "encryption": 2,
      "publish": 23,
      "regulator": 4,
      "sale": 6,
-     "third_party": 1
+     "third_party": 2
     },
     "volume": {
      "buckets": {
       "100_1000": 18,
-      "10_100": 17,
+      "10_100": 16,
       "gte1000": 4,
-      "lt10": 12
+      "lt10": 11
      },
-     "known": 51,
-     "median_gb": 70.0,
-     "p90_gb": 641.0
+     "known": 49,
+     "median_gb": 76.1,
+     "p90_gb": 738.0
     }
    },
    "top_groups": [
     {
      "g": "n0n",
-     "n": 46
+     "n": 38
     },
     {
      "g": "qilin",
-     "n": 35
-    },
-    {
-     "g": "leakeddata",
-     "n": 11
-    },
-    {
-     "g": "emperador",
-     "n": 9
-    },
-    {
-     "g": "akira",
-     "n": 8
+     "n": 26
     },
     {
      "g": "whitearmor",
+     "n": 11
+    },
+    {
+     "g": "leakeddata",
+     "n": 10
+    },
+    {
+     "g": "emperador",
+     "n": 8
+    },
+    {
+     "g": "akira",
      "n": 8
     },
     {
@@ -4096,7 +4096,7 @@
      "n": 6
     }
    ],
-   "yoy": 163
+   "yoy": 144
   },
   "90": {
    "countries": {
@@ -4105,18 +4105,18 @@
     "BR": 46,
     "CA": 65,
     "CH": 29,
-    "DE": 74,
-    "ES": 31,
+    "DE": 77,
+    "ES": 30,
     "FR": 44,
     "GB": 22,
     "IN": 54,
-    "IT": 49,
+    "IT": 47,
     "JP": 20,
     "KR": 26,
     "TW": 24,
     "US": 532,
-    "other": 359,
-    "unknown": 1802
+    "other": 358,
+    "unknown": 1791
    },
    "groups_active": 117,
    "lag": {
@@ -4132,28 +4132,28 @@
      "median": 7
     }
    },
-   "n": 3227,
+   "n": 3215,
    "outcome": {
-    "disclosed": 11,
-    "mature": 2102,
+    "disclosed": 12,
+    "mature": 2110,
     "not_paid": 0,
     "paid": 0,
     "released": 19,
     "removed": null,
     "restored": 0
    },
-   "prev": 2377,
+   "prev": 2341,
    "sectors": {
     "education": 119,
-    "finance": 158,
+    "finance": 157,
     "government": 94,
-    "healthcare": 273,
+    "healthcare": 271,
     "manufacturing": 557,
-    "other": 15,
-    "professional_services": 241,
+    "other": 16,
+    "professional_services": 240,
     "retail": 209,
-    "technology": 199,
-    "unknown": 1362
+    "technology": 198,
+    "unknown": 1354
    },
    "threat": {
     "deadline": {
@@ -4166,67 +4166,67 @@
      "known": 81,
      "median": 11
     },
-    "described": 1856,
+    "described": 1855,
     "kinds": {
-     "contracts": 212,
-     "credentials": 43,
-     "customer": 111,
-     "financial": 385,
+     "contracts": 211,
+     "credentials": 44,
+     "customer": 109,
+     "financial": 383,
      "hr": 89,
      "medical": 203,
      "other": 0,
-     "personal": 250,
+     "personal": 249,
      "technical": 84
     },
     "ransom": {
-     "known": 20,
-     "median_usd": 145000
+     "known": 21,
+     "median_usd": 150000
     },
     "types": {
      "data_theft": 617,
      "ddos": 0,
      "encryption": 12,
-     "publish": 351,
+     "publish": 350,
      "regulator": 39,
      "sale": 69,
-     "third_party": 2
+     "third_party": 3
     },
     "volume": {
      "buckets": {
       "100_1000": 165,
-      "10_100": 164,
+      "10_100": 163,
       "gte1000": 45,
       "lt10": 115
      },
-     "known": 489,
-     "median_gb": 66.0,
+     "known": 488,
+     "median_gb": 65.0,
      "p90_gb": 874.0
     }
    },
    "top_groups": [
     {
      "g": "the gentlemen",
-     "n": 405
+     "n": 404
     },
     {
      "g": "qilin",
-     "n": 351
+     "n": 350
     },
     {
      "g": "n0n",
      "n": 163
     },
     {
-     "g": "inc ransom",
-     "n": 114
-    },
-    {
      "g": "clop",
      "n": 114
     },
     {
+     "g": "inc ransom",
+     "n": 108
+    },
+    {
      "g": "akira",
-     "n": 96
+     "n": 95
     },
     {
      "g": "storm",
@@ -4245,7 +4245,7 @@
      "n": 65
     }
    ],
-   "yoy": 2138
+   "yoy": 2119
   },
   "all": {
    "countries": {
@@ -4254,7 +4254,7 @@
     "CA": 561,
     "CH": 147,
     "CO": 204,
-    "DE": 582,
+    "DE": 585,
     "ES": 215,
     "FR": 398,
     "GB": 461,
@@ -4263,9 +4263,9 @@
     "JP": 171,
     "MX": 191,
     "TW": 154,
-    "US": 3066,
+    "US": 3068,
     "other": 2823,
-    "unknown": 25514
+    "unknown": 25515
    },
    "groups_active": 336,
    "lag": {
@@ -4275,16 +4275,16 @@
      "p90": null
     },
     "disclosure_vs_claim": {
-     "after": 196,
-     "before": 21,
+     "after": 197,
+     "before": 20,
      "known": 217,
-     "median": 47
+     "median": 48
     }
    },
-   "n": 35999,
+   "n": 36005,
    "outcome": {
-    "disclosed": 213,
-    "mature": 34874,
+    "disclosed": 214,
+    "mature": 34900,
     "not_paid": 0,
     "paid": 0,
     "released": 411,
@@ -4297,12 +4297,12 @@
     "finance": 976,
     "government": 763,
     "healthcare": 1546,
-    "manufacturing": 3679,
-    "other": 15,
+    "manufacturing": 3682,
+    "other": 16,
     "professional_services": 1604,
-    "retail": 1144,
+    "retail": 1145,
     "technology": 900,
-    "unknown": 24407
+    "unknown": 24408
    },
    "threat": {
     "deadline": {
@@ -4315,30 +4315,30 @@
      "known": 131,
      "median": 8
     },
-    "described": 13232,
+    "described": 13238,
     "kinds": {
-     "contracts": 1514,
-     "credentials": 197,
+     "contracts": 1515,
+     "credentials": 198,
      "customer": 602,
      "financial": 2482,
      "hr": 527,
-     "medical": 1213,
+     "medical": 1214,
      "other": 0,
      "personal": 1628,
-     "technical": 300
+     "technical": 301
     },
     "ransom": {
-     "known": 95,
+     "known": 96,
      "median_usd": 35000
     },
     "types": {
-     "data_theft": 4131,
+     "data_theft": 4132,
      "ddos": 3,
      "encryption": 103,
      "publish": 3975,
      "regulator": 162,
      "sale": 371,
-     "third_party": 13
+     "third_party": 14
     },
     "volume": {
      "buckets": {

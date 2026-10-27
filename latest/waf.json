@@ -1,21 +1,87 @@
 {
- "asof": "2026-10-26",
+ "asof": "2026-10-27",
  "coverage": {
-  "any": 14,
-  "kev90": 101,
+  "any": 16,
+  "kev90": 102,
   "per_vendor": {
    "akamai": 0,
-   "aws": 0,
+   "aws": 2,
    "azure": 0,
-   "cloudflare": 14,
+   "cloudflare": 16,
    "crs": 1,
    "gcp": 1,
-   "imperva": 2,
-   "wafcharm": 2
+   "imperva": 4,
+   "wafcharm": 4
   },
   "radar_obs": 8,
   "radar_only": 7,
   "rows": [
+   {
+    "added": "2026-10-26",
+    "c": "CVE-2026-109619",
+    "cov": {
+     "akamai": null,
+     "aws": {
+      "d": "2026-10-21",
+      "t": "PHP application managed rule group : Released static version 2.3 of this rule group.",
+      "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-21-1c14d4bcce"
+     },
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-10-21",
+      "t": "Cloudflare deploys protections against php2shell vulnerability",
+      "u": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": {
+      "d": "2026-10-21",
+      "t": "PHP2Shell: When PHP Runs Out of Memory at the Wrong Moment",
+      "u": "https://www.imperva.com/blog/php2shell-vulnerability-updates/"
+     },
+     "wafcharm": {
+      "d": "2026-10-22",
+      "t": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の注意喚起および、WafCharmでの対応に関して",
+      "u": "https://www.wafcharm.com/jp/news/20261022-1/"
+     }
+    },
+    "obs": [],
+    "p": "PHP Group PHP",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-26",
+    "c": "CVE-2026-109618",
+    "cov": {
+     "akamai": null,
+     "aws": {
+      "d": "2026-10-21",
+      "t": "PHP application managed rule group : Released static version 2.3 of this rule group.",
+      "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-21-1c14d4bcce"
+     },
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-10-21",
+      "t": "Cloudflare deploys protections against php2shell vulnerability",
+      "u": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": {
+      "d": "2026-10-21",
+      "t": "PHP2Shell: When PHP Runs Out of Memory at the Wrong Moment",
+      "u": "https://www.imperva.com/blog/php2shell-vulnerability-updates/"
+     },
+     "wafcharm": {
+      "d": "2026-10-22",
+      "t": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の注意喚起および、WafCharmでの対応に関して",
+      "u": "https://www.wafcharm.com/jp/news/20261022-1/"
+     }
+    },
+    "obs": [],
+    "p": "PHP Group PHP",
+    "src": "kev"
+   },
    {
     "added": "2026-10-23",
     "c": "CVE-2026-114625",
@@ -1771,23 +1837,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-07-29",
-    "c": "CVE-2026-20316",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Cisco Secure Firewall Management Center (FMC)",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-63030",
     "cov": {
@@ -1949,12 +1998,12 @@
     "src": "radar"
    }
   ],
-  "targets": 108
+  "targets": 109
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-10-26T01:30:17Z",
+ "generated": "2026-10-27T01:30:18Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2090,7 +2139,7 @@
  "totals": {
   "items_all": 343,
   "n30": 35,
-  "n90": 65,
+  "n90": 64,
   "since": "2022-02-01",
   "vendors30": 8
  },
@@ -2749,15 +2798,6 @@
    "u": "https://developers.cloudflare.com/changelog/post/2026-08-04-waf-release/",
    "v": "cloudflare",
    "ver": "2026-08-04"
-  },
-  {
-   "cve": [],
-   "d": "2026-07-29",
-   "k": "rules_update",
-   "t": "WAF - WAF Release - 2026-07-29",
-   "u": "https://developers.cloudflare.com/changelog/post/2026-07-29-waf-release/",
-   "v": "cloudflare",
-   "ver": "2026-07-29"
   }
  ],
  "vendor_table": [
@@ -2772,7 +2812,7 @@
    "lt": "WAF - WAF Release - 2026-10-25 - Emergency - Cloudflare Managed Ruleset",
    "lu": "https://developers.cloudflare.com/changelog/post/2026-10-25-emergency-waf-release/",
    "n30": 15,
-   "n90": 32,
+   "n90": 31,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": "2026-10-25 Emergency"
