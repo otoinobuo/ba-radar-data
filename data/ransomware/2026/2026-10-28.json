@@ -1,0 +1,4432 @@
+{
+ "asof": "2026-10-27",
+ "coverage": {
+  "chats_updated": "2026-09-21",
+  "claims_from": "2020-01-12",
+  "official_from": "2023-11-03",
+  "removed_observable": false,
+  "snap_from": "2026-10-23",
+  "threat_from": "2020-01-12"
+ },
+ "daily": [
+  {
+   "d": "2026-07-30",
+   "n": 55
+  },
+  {
+   "d": "2026-07-31",
+   "n": 62
+  },
+  {
+   "d": "2026-08-01",
+   "n": 1
+  },
+  {
+   "d": "2026-08-02",
+   "n": 36
+  },
+  {
+   "d": "2026-08-03",
+   "n": 14
+  },
+  {
+   "d": "2026-08-04",
+   "n": 34
+  },
+  {
+   "d": "2026-08-05",
+   "n": 98
+  },
+  {
+   "d": "2026-08-06",
+   "n": 72
+  },
+  {
+   "d": "2026-08-07",
+   "n": 45
+  },
+  {
+   "d": "2026-08-08",
+   "n": 24
+  },
+  {
+   "d": "2026-08-09",
+   "n": 33
+  },
+  {
+   "d": "2026-08-10",
+   "n": 37
+  },
+  {
+   "d": "2026-08-11",
+   "n": 30
+  },
+  {
+   "d": "2026-08-12",
+   "n": 101
+  },
+  {
+   "d": "2026-08-13",
+   "n": 15
+  },
+  {
+   "d": "2026-08-14",
+   "n": 40
+  },
+  {
+   "d": "2026-08-15",
+   "n": 14
+  },
+  {
+   "d": "2026-08-16",
+   "n": 31
+  },
+  {
+   "d": "2026-08-17",
+   "n": 27
+  },
+  {
+   "d": "2026-08-18",
+   "n": 34
+  },
+  {
+   "d": "2026-08-19",
+   "n": 36
+  },
+  {
+   "d": "2026-08-20",
+   "n": 43
+  },
+  {
+   "d": "2026-08-21",
+   "n": 57
+  },
+  {
+   "d": "2026-08-22",
+   "n": 74
+  },
+  {
+   "d": "2026-08-23",
+   "n": 15
+  },
+  {
+   "d": "2026-08-24",
+   "n": 37
+  },
+  {
+   "d": "2026-08-25",
+   "n": 21
+  },
+  {
+   "d": "2026-08-26",
+   "n": 41
+  },
+  {
+   "d": "2026-08-27",
+   "n": 37
+  },
+  {
+   "d": "2026-08-28",
+   "n": 21
+  },
+  {
+   "d": "2026-08-29",
+   "n": 78
+  },
+  {
+   "d": "2026-08-30",
+   "n": 28
+  },
+  {
+   "d": "2026-08-31",
+   "n": 49
+  },
+  {
+   "d": "2026-09-01",
+   "n": 37
+  },
+  {
+   "d": "2026-09-02",
+   "n": 29
+  },
+  {
+   "d": "2026-09-03",
+   "n": 16
+  },
+  {
+   "d": "2026-09-04",
+   "n": 26
+  },
+  {
+   "d": "2026-09-05",
+   "n": 13
+  },
+  {
+   "d": "2026-09-06",
+   "n": 10
+  },
+  {
+   "d": "2026-09-07",
+   "n": 58
+  },
+  {
+   "d": "2026-09-08",
+   "n": 21
+  },
+  {
+   "d": "2026-09-09",
+   "n": 78
+  },
+  {
+   "d": "2026-09-10",
+   "n": 27
+  },
+  {
+   "d": "2026-09-11",
+   "n": 7
+  },
+  {
+   "d": "2026-09-12",
+   "n": 21
+  },
+  {
+   "d": "2026-09-13",
+   "n": 9
+  },
+  {
+   "d": "2026-09-14",
+   "n": 61
+  },
+  {
+   "d": "2026-09-15",
+   "n": 34
+  },
+  {
+   "d": "2026-09-16",
+   "n": 30
+  },
+  {
+   "d": "2026-09-17",
+   "n": 22
+  },
+  {
+   "d": "2026-09-18",
+   "n": 36
+  },
+  {
+   "d": "2026-09-19",
+   "n": 11
+  },
+  {
+   "d": "2026-09-20",
+   "n": 14
+  },
+  {
+   "d": "2026-09-21",
+   "n": 44
+  },
+  {
+   "d": "2026-09-22",
+   "n": 24
+  },
+  {
+   "d": "2026-09-23",
+   "n": 44
+  },
+  {
+   "d": "2026-09-24",
+   "n": 37
+  },
+  {
+   "d": "2026-09-25",
+   "n": 17
+  },
+  {
+   "d": "2026-09-26",
+   "n": 26
+  },
+  {
+   "d": "2026-09-27",
+   "n": 53
+  },
+  {
+   "d": "2026-09-28",
+   "n": 72
+  },
+  {
+   "d": "2026-09-29",
+   "n": 56
+  },
+  {
+   "d": "2026-09-30",
+   "n": 35
+  },
+  {
+   "d": "2026-10-01",
+   "n": 31
+  },
+  {
+   "d": "2026-10-02",
+   "n": 32
+  },
+  {
+   "d": "2026-10-03",
+   "n": 9
+  },
+  {
+   "d": "2026-10-04",
+   "n": 14
+  },
+  {
+   "d": "2026-10-05",
+   "n": 41
+  },
+  {
+   "d": "2026-10-06",
+   "n": 45
+  },
+  {
+   "d": "2026-10-07",
+   "n": 40
+  },
+  {
+   "d": "2026-10-08",
+   "n": 26
+  },
+  {
+   "d": "2026-10-09",
+   "n": 38
+  },
+  {
+   "d": "2026-10-10",
+   "n": 18
+  },
+  {
+   "d": "2026-10-11",
+   "n": 28
+  },
+  {
+   "d": "2026-10-12",
+   "n": 83
+  },
+  {
+   "d": "2026-10-13",
+   "n": 58
+  },
+  {
+   "d": "2026-10-14",
+   "n": 22
+  },
+  {
+   "d": "2026-10-15",
+   "n": 52
+  },
+  {
+   "d": "2026-10-16",
+   "n": 67
+  },
+  {
+   "d": "2026-10-17",
+   "n": 17
+  },
+  {
+   "d": "2026-10-18",
+   "n": 23
+  },
+  {
+   "d": "2026-10-19",
+   "n": 24
+  },
+  {
+   "d": "2026-10-20",
+   "n": 36
+  },
+  {
+   "d": "2026-10-21",
+   "n": 47
+  },
+  {
+   "d": "2026-10-22",
+   "n": 34
+  },
+  {
+   "d": "2026-10-23",
+   "n": 50
+  },
+  {
+   "d": "2026-10-24",
+   "n": 22
+  },
+  {
+   "d": "2026-10-25",
+   "n": 26
+  },
+  {
+   "d": "2026-10-26",
+   "n": 70
+  },
+  {
+   "d": "2026-10-27",
+   "n": 48
+  }
+ ],
+ "disclosed": [
+  {
+   "dd": "2026-10-28",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "釧路市",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E9%87%A7%E8%B7%AF%E5%B8%82",
+   "xt": ""
+  },
+  {
+   "dd": "2026-10-26",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "エスケーロジ",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AD%E3%82%B8",
+   "xt": ""
+  },
+  {
+   "dd": "2026-10-21",
+   "e": "japan",
+   "enc": "no",
+   "k": "extortion",
+   "ls": "none_found",
+   "o": "お名前.com デスクトップクラウド",
+   "out": "refused",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E3%81%8A%E5%90%8D%E5%89%8D.com%20%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89",
+   "xt": "yes"
+  },
+  {
+   "dd": "2026-10-15",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "両毛システムズ",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E4%B8%A1%E6%AF%9B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+   "xt": ""
+  },
+  {
+   "dd": "2026-10-07",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "IDCフロンティア",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=IDC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2",
+   "xt": ""
+  },
+  {
+   "dd": "2026-10-02",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "大阪公立大学",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E5%A4%A7%E9%98%AA%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+   "xt": ""
+  },
+  {
+   "dd": "2026-09-26",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "listed",
+   "o": "京王電鉄グループ",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+   "xt": ""
+  },
+  {
+   "dd": "2026-09-21",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "Fun For Less Tours, Inc.",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Fun%20For%20Less%20Tours%2C%20Inc.",
+   "xt": ""
+  },
+  {
+   "dd": "2026-09-20",
+   "e": "japan",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "none_found",
+   "o": "GMOインターネット株式会社",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=GMO%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+   "xt": ""
+  },
+  {
+   "dd": "2026-08-13",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "See’s Candies, Inc.",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=See%E2%80%99s%20Candies%2C%20Inc.",
+   "xt": ""
+  },
+  {
+   "dd": "2026-07-02",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "NAVIENT CORP",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=NAVIENT%20CORP",
+   "xt": ""
+  },
+  {
+   "dd": "2026-06-25",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "River Financial Corp",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=River%20Financial%20Corp",
+   "xt": ""
+  },
+  {
+   "dd": "2026-05-27",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Ampex Data Systems Corporation",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ampex%20Data%20Systems%20Corporation",
+   "xt": ""
+  },
+  {
+   "dd": "2026-05-11",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "WEST PHARMACEUTICAL SERVICES INC",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=WEST%20PHARMACEUTICAL%20SERVICES%20INC",
+   "xt": ""
+  },
+  {
+   "dd": "2026-05-11",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "American Lending Center",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=American%20Lending%20Center",
+   "xt": ""
+  },
+  {
+   "dd": "2026-03-20",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "TRIO-TECH INTERNATIONAL",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=TRIO-TECH%20INTERNATIONAL",
+   "xt": ""
+  },
+  {
+   "dd": "2026-03-19",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Senior Operations LLC",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Senior%20Operations%20LLC",
+   "xt": ""
+  },
+  {
+   "dd": "2026-01-27",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Take One Systems",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Take%20One%20Systems",
+   "xt": ""
+  },
+  {
+   "dd": "2025-11-12",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "American Associated Pharmacies",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=American%20Associated%20Pharmacies",
+   "xt": ""
+  },
+  {
+   "dd": "2025-11-06",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Alpha Omega Winery, LLC",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Alpha%20Omega%20Winery%2C%20LLC",
+   "xt": ""
+  },
+  {
+   "dd": "2025-09-17",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Hacienda La Puente Unified School District",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Hacienda%20La%20Puente%20Unified%20School%20District",
+   "xt": ""
+  },
+  {
+   "dd": "2025-09-09",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Horace Mann Life Insurance Company",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Horace%20Mann%20Life%20Insurance%20Company",
+   "xt": ""
+  },
+  {
+   "dd": "2025-08-21",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "DATA I/O CORP",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DATA%20I/O%20CORP",
+   "xt": ""
+  },
+  {
+   "dd": "2025-04-09",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "Sensata Technologies Holding plc",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sensata%20Technologies%20Holding%20plc",
+   "xt": ""
+  },
+  {
+   "dd": "2023-12-22",
+   "e": "us",
+   "enc": "",
+   "k": "ransomware",
+   "ls": "",
+   "o": "First American Financial Corp",
+   "out": "",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=First%20American%20Financial%20Corp",
+   "xt": ""
+  }
+ ],
+ "edition": "ransomware",
+ "generated": "2026-10-28T03:01:13Z",
+ "groups": [
+  {
+   "chats": 2,
+   "deadline_median": null,
+   "described_share": 0.0,
+   "first": "2022-10-08",
+   "g": "qilin",
+   "last": "2026-10-27",
+   "n30": 104,
+   "n365": 1430,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": 1.0,
+   "described_share": 0.792,
+   "first": "2025-09-09",
+   "g": "the gentlemen",
+   "last": "2026-10-27",
+   "n30": 163,
+   "n365": 1060,
+   "released_share": 0.003
+  },
+  {
+   "chats": 76,
+   "deadline_median": null,
+   "described_share": 1.0,
+   "first": "2023-04-29",
+   "g": "akira",
+   "last": "2026-10-23",
+   "n30": 30,
+   "n365": 597,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.012,
+   "first": "2023-08-09",
+   "g": "inc ransom",
+   "last": "2026-10-22",
+   "n30": 31,
+   "n365": 482,
+   "released_share": 0.0
+  },
+  {
+   "chats": 25,
+   "deadline_median": null,
+   "described_share": 0.987,
+   "first": "2023-12-13",
+   "g": "dragonforce",
+   "last": "2026-10-27",
+   "n30": 9,
+   "n365": 392,
+   "released_share": 0.003
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.71,
+   "first": "2025-12-05",
+   "g": "lockbit5",
+   "last": "2026-10-23",
+   "n30": 23,
+   "n365": 389,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.234,
+   "first": "2021-09-09",
+   "g": "clop",
+   "last": "2026-10-21",
+   "n30": 1,
+   "n365": 363,
+   "released_share": 0.0
+  },
+  {
+   "chats": 7,
+   "deadline_median": null,
+   "described_share": 0.0,
+   "first": "2025-03-12",
+   "g": "nightspire",
+   "last": "2026-10-18",
+   "n30": 33,
+   "n365": 314,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.0,
+   "first": "2022-11-26",
+   "g": "play",
+   "last": "2026-10-27",
+   "n30": 23,
+   "n365": 285,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 1.0,
+   "first": "2024-11-20",
+   "g": "safepay",
+   "last": "2026-10-26",
+   "n30": 34,
+   "n365": 265,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.009,
+   "first": "2025-09-15",
+   "g": "coinbase cartel",
+   "last": "2026-08-31",
+   "n30": 0,
+   "n365": 216,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.0,
+   "first": "2021-09-09",
+   "g": "everest",
+   "last": "2026-10-27",
+   "n30": 26,
+   "n365": 213,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.97,
+   "first": "2026-04-01",
+   "g": "krybit",
+   "last": "2026-10-24",
+   "n30": 14,
+   "n365": 169,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.988,
+   "first": "2025-07-05",
+   "g": "sinobi",
+   "last": "2026-05-08",
+   "n30": 0,
+   "n365": 167,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.085,
+   "first": "2026-09-18",
+   "g": "n0n",
+   "last": "2026-10-27",
+   "n30": 152,
+   "n365": 165,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.956,
+   "first": "2026-01-23",
+   "g": "shinyhunters",
+   "last": "2026-10-02",
+   "n30": 3,
+   "n365": 136,
+   "released_share": 0.023
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.031,
+   "first": "2025-07-06",
+   "g": "devman2",
+   "last": "2026-02-04",
+   "n30": 0,
+   "n365": 130,
+   "released_share": 0.0
+  },
+  {
+   "chats": 2,
+   "deadline_median": null,
+   "described_share": 0.975,
+   "first": "2025-04-28",
+   "g": "nova",
+   "last": "2026-07-25",
+   "n30": 0,
+   "n365": 121,
+   "released_share": 0.017
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.0,
+   "first": "2025-07-07",
+   "g": "payoutsking",
+   "last": "2026-10-26",
+   "n30": 9,
+   "n365": 111,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.892,
+   "first": "2026-06-15",
+   "g": "deadlock",
+   "last": "2026-10-24",
+   "n30": 7,
+   "n365": 111,
+   "released_share": 0.01
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.127,
+   "first": "2025-10-21",
+   "g": "genesis",
+   "last": "2026-10-01",
+   "n30": 4,
+   "n365": 110,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.367,
+   "first": "2024-12-13",
+   "g": "leakeddata",
+   "last": "2026-10-26",
+   "n30": 20,
+   "n365": 98,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.0,
+   "first": "2025-05-27",
+   "g": "direwolf",
+   "last": "2026-10-27",
+   "n30": 3,
+   "n365": 98,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.084,
+   "first": "2025-02-25",
+   "g": "anubis",
+   "last": "2026-10-25",
+   "n30": 4,
+   "n365": 95,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.0,
+   "first": "2022-08-18",
+   "g": "ransomhouse",
+   "last": "2026-10-13",
+   "n30": 6,
+   "n365": 93,
+   "released_share": 0.23
+  },
+  {
+   "chats": 1,
+   "deadline_median": null,
+   "described_share": 0.326,
+   "first": "2025-08-06",
+   "g": "pear",
+   "last": "2026-10-23",
+   "n30": 7,
+   "n365": 89,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": 11.0,
+   "described_share": 1.0,
+   "first": "2026-08-06",
+   "g": "storm",
+   "last": "2026-10-19",
+   "n30": 22,
+   "n365": 89,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.0,
+   "first": "2025-05-12",
+   "g": "worldleaks",
+   "last": "2026-07-22",
+   "n30": 0,
+   "n365": 86,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 1.0,
+   "first": "2026-02-17",
+   "g": "payload",
+   "last": "2026-10-26",
+   "n30": 7,
+   "n365": 81,
+   "released_share": 0.0
+  },
+  {
+   "chats": 0,
+   "deadline_median": null,
+   "described_share": 0.304,
+   "first": "2024-10-28",
+   "g": "killsec3",
+   "last": "2026-09-27",
+   "n30": 0,
+   "n365": 79,
+   "released_share": 0.025
+  }
+ ],
+ "method": {
+  "censoring": "Recent claims have not had time to reach an outcome, so outcome rates use only claims at least 30 days old as the denominator. Counts for the last few days rise as the source catches up.",
+  "censoring_ja": "直近の宣言はまだ結果が出ていないため、結果の率は宣言から 30 日以上たったものだけを分母にします。直近数日の件数は情報源の取り込みに応じて増えます。",
+  "inclusion": "A claim is one listing on a leak site, dated by the time RansomLook first saw it (UTC), not the attack date. Re-listings of the same organisation by another group are counted separately. Group names appear only in aggregate tables; an organisation is named only when its own notice or a regulatory filing confirms the incident (section 6). Section 6 also lists ransomware and extortion that victims disclosed themselves, whether or not a leak-site claim exists, because some extortion never reaches a leak site.",
+  "inclusion_ja": "宣言はリークサイトの掲載 1 件で、日付は RansomLook が初めて観測した時刻（UTC）であり攻撃日ではありません。同じ組織を別のグループが再掲したものは別件として数えます。グループ名は集計表にだけ出し、組織名は本人の告知か当局への届出で確認できたものだけを出します（6 節）。リークサイトに載らない恐喝もあるため、6 節には、宣言の有無にかかわらず被害組織自身が公表したランサムウェア・恐喝も載せます。",
+  "negotiations": "Negotiation figures cover only chats that have been made public, which is a small and uneven sample. Duration runs from the first to the last timestamp in a chat. The opening demand is the attacker's first stated price; the final price is the attacker's last stated price in chats that end in a payment; tactics and victim moves are detected with fixed word rules on each side's messages. No chat text is shown.",
+  "negotiations_ja": "交渉の数値は公開されたチャットだけが対象で、件数が少なく偏りがあります。期間はチャットの最初と最後の時刻の差です。最初の要求額は攻撃者が最初に示した金額、最終額は支払いで終わったチャットで攻撃者が最後に示した金額です。手口と被害者側の動きは、それぞれの発言に固定の語の規則を当てて判定します。チャットの文面は載せません。",
+  "outcomes": "'Released' means the attacker's listing says the data has been published, or a download was added; the time from claim to release is measured only for changes observed after tracking began. 'Removed' means the listing disappeared from the group's list; this does not mean a ransom was paid, and it is shown only once removals are observable in the source. 'Disclosed' means a sister radar matched the claim to the victim's own notice; 'paid', 'not paid' and 'restored from backups' are counted only when that notice says so in words.",
+  "outcomes_ja": "「公開」は、掲載がデータを公開済みと述べているか、ダウンロードが加わったものです。宣言から公開までの日数は、追跡を始めた後に観測した変化だけで測ります。「消失」はグループの一覧から掲載が消えたもので、身代金の支払いを意味しません。情報源で消失が観測できるようになってから表示します。「公表」は姉妹レーダーが被害組織自身の告知と照合したもので、「支払った」「支払っていない」「バックアップから復旧」は告知にそう書かれている場合だけ数えます。",
+  "sources": "Leak-site listings are taken from RansomLook (ransomlook.io) through its public API; this report never contacts leak sites itself. Negotiation statistics come from Ransomchats (github.com/Casualtek/Ransomchats, MIT licence), a public collection of real negotiation chats. Victim confirmations come from the sister Japan and US radars, which use the victims' own notices and regulatory filings.",
+  "sources_ja": "リークサイトの掲載は RansomLook（ransomlook.io）の公開 API から取得し、本レポートがリークサイトに直接アクセスすることはありません。交渉の統計は、実際の交渉チャットを集めた公開データ Ransomchats（github.com/Casualtek/Ransomchats、MIT ライセンス）によります。被害組織の確認は、被害組織自身の告知と当局への届出を使う姉妹レーダー（日本版・米国版）によります。",
+  "threat": "Most listings are profiles of the victim written by the attacker; only a minority state the size or kind of data, a deadline or a price. These fields are read from the listing text with fixed rules (and, for country and sector only, a local language model whose answer must quote the text). They classify what the attacker claims and are not findings of fact.",
+  "threat_ja": "掲載文の多くは攻撃者が書いた被害組織の紹介で、データの量・種類・期限・金額を書いたものは一部です。これらは固定の規則で掲載文から読み取ります（国と業種に限り、本文の引用を条件にローカルの言語モデルも使います）。攻撃者の主張の分類であり、事実の認定ではありません。"
+ },
+ "monthly": [
+  {
+   "groups": 50,
+   "m": "2024-11",
+   "n": 725,
+   "top": {
+    "akira": 74,
+    "el dorado": 38,
+    "killsec3": 47,
+    "qilin": 32,
+    "ransomhub": 100
+   }
+  },
+  {
+   "groups": 54,
+   "m": "2024-12",
+   "n": 668,
+   "top": {
+    "akira": 53,
+    "funksec": 108,
+    "killsec3": 29,
+    "leakeddata": 47,
+    "ransomhub": 59
+   }
+  },
+  {
+   "groups": 49,
+   "m": "2025-01",
+   "n": 696,
+   "top": {
+    "babuk-bjorka": 69,
+    "clop": 62,
+    "funksec": 54,
+    "lynx": 43,
+    "ransomhub": 44
+   }
+  },
+  {
+   "groups": 53,
+   "m": "2025-02",
+   "n": 1004,
+   "top": {
+    "akira": 52,
+    "clop": 345,
+    "play": 44,
+    "qilin": 43,
+    "ransomhub": 103
+   }
+  },
+  {
+   "groups": 60,
+   "m": "2025-03",
+   "n": 809,
+   "top": {
+    "akira": 44,
+    "babuk-bjorka": 125,
+    "qilin": 47,
+    "ransomhub": 85,
+    "safepay": 43
+   }
+  },
+  {
+   "groups": 56,
+   "m": "2025-04",
+   "n": 672,
+   "top": {
+    "akira": 69,
+    "nightspire": 52,
+    "play": 45,
+    "qilin": 62,
+    "satanlock": 68
+   }
+  },
+  {
+   "groups": 54,
+   "m": "2025-05",
+   "n": 502,
+   "top": {
+    "akira": 29,
+    "devman": 27,
+    "play": 50,
+    "qilin": 64,
+    "safepay": 72
+   }
+  },
+  {
+   "groups": 48,
+   "m": "2025-06",
+   "n": 520,
+   "top": {
+    "akira": 45,
+    "nightspire": 28,
+    "play": 29,
+    "qilin": 83,
+    "safepay": 27
+   }
+  },
+  {
+   "groups": 57,
+   "m": "2025-07",
+   "n": 622,
+   "top": {
+    "akira": 42,
+    "devman2": 51,
+    "inc ransom": 55,
+    "qilin": 64,
+    "safepay": 42
+   }
+  },
+  {
+   "groups": 58,
+   "m": "2025-08",
+   "n": 551,
+   "top": {
+    "akira": 40,
+    "cephalus": 26,
+    "dragonforce": 31,
+    "qilin": 87,
+    "safepay": 30
+   }
+  },
+  {
+   "groups": 62,
+   "m": "2025-09",
+   "n": 654,
+   "top": {
+    "akira": 52,
+    "inc ransom": 38,
+    "play": 53,
+    "qilin": 84,
+    "the gentlemen": 38
+   }
+  },
+  {
+   "groups": 62,
+   "m": "2025-10",
+   "n": 1029,
+   "top": {
+    "akira": 71,
+    "killsec3": 171,
+    "qilin": 190,
+    "scattered lapsus$ hunters": 51,
+    "sinobi": 63
+   }
+  },
+  {
+   "groups": 58,
+   "m": "2025-11",
+   "n": 769,
+   "top": {
+    "akira": 87,
+    "clop": 110,
+    "inc ransom": 55,
+    "kazu": 37,
+    "qilin": 108
+   }
+  },
+  {
+   "groups": 62,
+   "m": "2025-12",
+   "n": 1007,
+   "top": {
+    "akira": 69,
+    "devman2": 68,
+    "lockbit5": 110,
+    "qilin": 174,
+    "safepay": 68
+   }
+  },
+  {
+   "groups": 59,
+   "m": "2026-01",
+   "n": 786,
+   "top": {
+    "akira": 58,
+    "clop": 92,
+    "qilin": 109,
+    "sinobi": 55,
+    "the gentlemen": 47
+   }
+  },
+  {
+   "groups": 58,
+   "m": "2026-02",
+   "n": 828,
+   "top": {
+    "akira": 47,
+    "inc ransom": 41,
+    "nightspire": 63,
+    "qilin": 116,
+    "the gentlemen": 89
+   }
+  },
+  {
+   "groups": 62,
+   "m": "2026-03",
+   "n": 931,
+   "top": {
+    "akira": 75,
+    "dragonforce": 59,
+    "inc ransom": 56,
+    "nightspire": 65,
+    "qilin": 141
+   }
+  },
+  {
+   "groups": 67,
+   "m": "2026-04",
+   "n": 834,
+   "top": {
+    "coinbase cartel": 47,
+    "dragonforce": 66,
+    "inc ransom": 40,
+    "qilin": 112,
+    "the gentlemen": 104
+   }
+  },
+  {
+   "groups": 59,
+   "m": "2026-05",
+   "n": 764,
+   "top": {
+    "akira": 78,
+    "dragonforce": 56,
+    "nova": 33,
+    "qilin": 100,
+    "the gentlemen": 78
+   }
+  },
+  {
+   "groups": 65,
+   "m": "2026-06",
+   "n": 842,
+   "top": {
+    "akira": 31,
+    "deadlock": 75,
+    "lockbit5": 51,
+    "qilin": 79,
+    "the gentlemen": 125
+   }
+  },
+  {
+   "groups": 63,
+   "m": "2026-07",
+   "n": 845,
+   "top": {
+    "dragonforce": 41,
+    "inc ransom": 38,
+    "qilin": 127,
+    "safepay": 33,
+    "the gentlemen": 139
+   }
+  },
+  {
+   "groups": 82,
+   "m": "2026-08",
+   "n": 1223,
+   "top": {
+    "clop": 87,
+    "coinbase cartel": 49,
+    "orova": 44,
+    "qilin": 165,
+    "the gentlemen": 163
+   }
+  },
+  {
+   "groups": 80,
+   "m": "2026-09",
+   "n": 968,
+   "top": {
+    "akira": 36,
+    "killsec3": 46,
+    "qilin": 74,
+    "storm": 66,
+    "the gentlemen": 106
+   }
+  },
+  {
+   "groups": 78,
+   "m": "2026-10",
+   "n": 1001,
+   "top": {
+    "akira": 28,
+    "n0n": 149,
+    "nightspire": 33,
+    "qilin": 100,
+    "the gentlemen": 135
+   }
+  }
+ ],
+ "negotiations": {
+  "by_group": [
+   {
+    "days_median": null,
+    "deal_share": 0.197,
+    "demand_median_usd": 395000,
+    "discount_median_pct": 55.6,
+    "g": "akira",
+    "n": 76,
+    "top_tactics": [
+     "data_proof",
+     "security_report",
+     "discount_offer"
+    ]
+   },
+   {
+    "days_median": 15.04,
+    "deal_share": 0.048,
+    "demand_median_usd": 1000000,
+    "discount_median_pct": 60.4,
+    "g": "lockbit3",
+    "n": 42,
+    "top_tactics": [
+     "publish_threat",
+     "discount_offer",
+     "data_proof"
+    ]
+   },
+   {
+    "days_median": 17.16,
+    "deal_share": 0.281,
+    "demand_median_usd": 950000,
+    "discount_median_pct": 68.3,
+    "g": "conti",
+    "n": 32,
+    "top_tactics": [
+     "publish_threat",
+     "discount_offer",
+     "data_proof"
+    ]
+   },
+   {
+    "days_median": 11.29,
+    "deal_share": 0.0,
+    "demand_median_usd": 850000,
+    "discount_median_pct": null,
+    "g": "dragonforce",
+    "n": 25,
+    "top_tactics": [
+     "publish_threat",
+     "deadline",
+     "decrypt_proof"
+    ]
+   },
+   {
+    "days_median": 7.0,
+    "deal_share": 0.05,
+    "demand_median_usd": 500000,
+    "discount_median_pct": 0.0,
+    "g": "revil",
+    "n": 20,
+    "top_tactics": [
+     "discount_offer",
+     "publish_threat",
+     "third_party_threat"
+    ]
+   },
+   {
+    "days_median": null,
+    "deal_share": 0.0,
+    "demand_median_usd": 30000,
+    "discount_median_pct": null,
+    "g": "trinity",
+    "n": 14,
+    "top_tactics": [
+     "decrypt_proof",
+     "discount_offer",
+     "publish_threat"
+    ]
+   },
+   {
+    "days_median": 9.15,
+    "deal_share": 0.0,
+    "demand_median_usd": 1100000,
+    "discount_median_pct": null,
+    "g": "hive",
+    "n": 8,
+    "top_tactics": [
+     "discount_offer",
+     "third_party_threat",
+     "data_proof"
+    ]
+   },
+   {
+    "days_median": 3.92,
+    "deal_share": 0.143,
+    "demand_median_usd": 190000,
+    "discount_median_pct": 62.5,
+    "g": "avaddon",
+    "n": 7,
+    "top_tactics": [
+     "discount_offer",
+     "publish_threat",
+     "security_report"
+    ]
+   },
+   {
+    "days_median": null,
+    "deal_share": 0.286,
+    "demand_median_usd": 100000,
+    "discount_median_pct": 10.0,
+    "g": "nightspire",
+    "n": 7,
+    "top_tactics": [
+     "discount_offer",
+     "publish_threat",
+     "deadline"
+    ]
+   },
+   {
+    "days_median": null,
+    "deal_share": 0.333,
+    "demand_median_usd": 245000,
+    "discount_median_pct": 46.9,
+    "g": "fog",
+    "n": 6,
+    "top_tactics": [
+     "data_proof",
+     "discount_offer",
+     "security_report"
+    ]
+   },
+   {
+    "days_median": null,
+    "deal_share": 0.8,
+    "demand_median_usd": 400000,
+    "discount_median_pct": 0.0,
+    "g": "blackbasta",
+    "n": 5,
+    "top_tactics": [
+     "discount_offer",
+     "decrypt_proof",
+     "security_report"
+    ]
+   },
+   {
+    "days_median": 8.29,
+    "deal_share": 0.0,
+    "demand_median_usd": 700000,
+    "discount_median_pct": null,
+    "g": "darkside",
+    "n": 5,
+    "top_tactics": [
+     "discount_offer",
+     "publish_threat",
+     "third_party_threat"
+    ]
+   },
+   {
+    "days_median": 2.48,
+    "deal_share": 0.0,
+    "demand_median_usd": 20000,
+    "discount_median_pct": null,
+    "g": "mallox",
+    "n": 3,
+    "top_tactics": [
+     "discount_offer",
+     "decrypt_proof",
+     "sale_threat"
+    ]
+   }
+  ],
+  "chats": 276,
+  "dated": 143,
+  "days": {
+   "hist": {
+    "2_7": 35,
+    "8_30": 68,
+    "gt30": 21,
+    "lt2": 19
+   },
+   "median": 11.99,
+   "p90": 35.86
+  },
+  "demand_usd": {
+   "known": 205,
+   "median": 420000,
+   "p90": 5000000
+  },
+  "discount": {
+   "known": 36,
+   "median_pct": 55.4
+  },
+  "final_usd": {
+   "known": 36,
+   "median": 200000
+  },
+  "flow": {
+   "first_reply_hours": {
+    "known": 119,
+    "median": 0.53
+   },
+   "messages": {
+    "median": 38.0
+   },
+   "rounds": {
+    "known": 205,
+    "median": 2,
+    "p90": 8
+   },
+   "victim_counter": 159
+  },
+  "groups": 31,
+  "outcome": {
+   "deal": 37,
+   "no_deal": 13,
+   "unknown": 226
+  },
+  "tactics": {
+   "analyzed": 272,
+   "attacker": {
+    "data_proof": 160,
+    "ddos_threat": 5,
+    "deadline": 100,
+    "decrypt_proof": 68,
+    "deletion_promise": 75,
+    "discount_offer": 197,
+    "price_increase": 8,
+    "publish_threat": 203,
+    "reattack_threat": 23,
+    "regulator_threat": 41,
+    "sale_threat": 108,
+    "security_report": 113,
+    "third_party_threat": 86
+   },
+   "victim": {
+    "breach_question": 15,
+    "counteroffer": 159,
+    "insurance": 21,
+    "proof_request": 141,
+    "time_request": 134
+   }
+  },
+  "updated": "2026-09-21"
+ },
+ "verified": [
+  {
+   "cc": "",
+   "d": "2026-10-27",
+   "dd": "2026-10-22",
+   "e": "us",
+   "o": "BASS Medical Group",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=BASS%20Medical%20Group"
+  },
+  {
+   "cc": "",
+   "d": "2026-10-25",
+   "dd": "2026-09-23",
+   "e": "us",
+   "o": "Astrana Health, Inc.",
+   "out": "restored",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Astrana%20Health%2C%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2026-10-09",
+   "dd": "2026-10-16",
+   "e": "us",
+   "o": "Anne Arundel County",
+   "out": "",
+   "sec": "government",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Anne%20Arundel%20County"
+  },
+  {
+   "cc": "",
+   "d": "2026-10-05",
+   "dd": "2026-10-02",
+   "e": "us",
+   "o": "Sheppard, Mullin, Richter & Hampton LLP",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sheppard%2C%20Mullin%2C%20Richter%20%26%20Hampton%20LLP"
+  },
+  {
+   "cc": "US",
+   "d": "2026-09-26",
+   "dd": "2026-10-18",
+   "e": "japan",
+   "o": "Astemo株式会社",
+   "out": "",
+   "sec": "",
+   "u": "https://ba-cybersecurity.com/radar/#q=Astemo%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE"
+  },
+  {
+   "cc": "",
+   "d": "2026-09-18",
+   "dd": "2026-09-14",
+   "e": "us",
+   "o": "Accela, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Accela%2C%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2026-09-09",
+   "dd": "2026-09-16",
+   "e": "us",
+   "o": "WindRose Health Network",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=WindRose%20Health%20Network"
+  },
+  {
+   "cc": "US",
+   "d": "2026-08-31",
+   "dd": "2026-08-31",
+   "e": "us",
+   "o": "Nutex Health Inc.",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Nutex%20Health%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2026-08-27",
+   "dd": "2026-09-09",
+   "e": "us",
+   "o": "Next Level Medical, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Next%20Level%20Medical%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2026-08-22",
+   "dd": "2026-09-09",
+   "e": "us",
+   "o": "Novocure Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Novocure%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-08-11",
+   "dd": "2026-09-10",
+   "e": "us",
+   "o": "Interim HealthCare Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Interim%20HealthCare%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-08-08",
+   "dd": "2026-07-16",
+   "e": "us",
+   "o": "Fox Rothschild LLP",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Fox%20Rothschild%20LLP"
+  },
+  {
+   "cc": "",
+   "d": "2026-07-31",
+   "dd": "2026-08-14",
+   "e": "us",
+   "o": "Gardiner Family Chiropractic, PC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Gardiner%20Family%20Chiropractic%2C%20PC"
+  },
+  {
+   "cc": "IN",
+   "d": "2026-07-31",
+   "dd": "2026-09-25",
+   "e": "us",
+   "o": "The Kenaitze Indian Tribe",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Kenaitze%20Indian%20Tribe"
+  },
+  {
+   "cc": "",
+   "d": "2026-07-27",
+   "dd": "2026-07-15",
+   "e": "us",
+   "o": "Ernst & Young LLP",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ernst%20%26%20Young%20LLP"
+  },
+  {
+   "cc": "US",
+   "d": "2026-07-17",
+   "dd": "2026-08-25",
+   "e": "us",
+   "o": "Advantage Home Health Care",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Advantage%20Home%20Health%20Care"
+  },
+  {
+   "cc": "",
+   "d": "2026-07-08",
+   "dd": "2026-09-18",
+   "e": "us",
+   "o": "Opportune LLP",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Opportune%20LLP"
+  },
+  {
+   "cc": "",
+   "d": "2026-07-05",
+   "dd": "2026-08-21",
+   "e": "us",
+   "o": "Baraga County Memorial Hospital",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Baraga%20County%20Memorial%20Hospital"
+  },
+  {
+   "cc": "",
+   "d": "2026-07-01",
+   "dd": "2026-09-04",
+   "e": "us",
+   "o": "COMHAR, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=COMHAR%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-06-26",
+   "dd": "2026-08-20",
+   "e": "us",
+   "o": "Life Bridges, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Life%20Bridges%2C%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2026-06-18",
+   "dd": "2026-07-22",
+   "e": "us",
+   "o": "The Lawson Roofing Co Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Lawson%20Roofing%20Co%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-06-14",
+   "dd": "2026-05-19",
+   "e": "us",
+   "o": "Singing River Health System",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Singing%20River%20Health%20System"
+  },
+  {
+   "cc": "US",
+   "d": "2026-06-03",
+   "dd": "2026-06-09",
+   "e": "us",
+   "o": "Michigan Surgical Center, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Michigan%20Surgical%20Center%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2026-06-01",
+   "dd": "2026-07-06",
+   "e": "us",
+   "o": "Champaign-Urbana Public Health District",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Champaign-Urbana%20Public%20Health%20District"
+  },
+  {
+   "cc": "",
+   "d": "2026-05-29",
+   "dd": "2026-09-03",
+   "e": "us",
+   "o": "Capital Family Physicians",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Capital%20Family%20Physicians"
+  },
+  {
+   "cc": "",
+   "d": "2026-05-28",
+   "dd": "2026-09-24",
+   "e": "us",
+   "o": "Peña and Bromberg",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Pe%C3%B1a%20and%20Bromberg"
+  },
+  {
+   "cc": "",
+   "d": "2026-05-23",
+   "dd": "2026-07-16",
+   "e": "us",
+   "o": "DentaQuest, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DentaQuest%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2026-05-13",
+   "dd": "2026-10-16",
+   "e": "us",
+   "o": "John G. Yphantides, a Professional Law Corporation",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=John%20G.%20Yphantides%2C%20a%20Professional%20Law%20Corporation"
+  },
+  {
+   "cc": "",
+   "d": "2026-05-09",
+   "dd": "2026-10-13",
+   "e": "us",
+   "o": "American Board of Preventive Medicine",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=American%20Board%20of%20Preventive%20Medicine"
+  },
+  {
+   "cc": "",
+   "d": "2026-05-07",
+   "dd": "2026-09-01",
+   "e": "us",
+   "o": "DeMera DeMera Cameron, LLP",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DeMera%20DeMera%20Cameron%2C%20LLP"
+  },
+  {
+   "cc": "US",
+   "d": "2026-05-07",
+   "dd": "2026-06-11",
+   "e": "us",
+   "o": "Clinical Registry Solutions",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Clinical%20Registry%20Solutions"
+  },
+  {
+   "cc": "",
+   "d": "2026-05-04",
+   "dd": "2026-05-31",
+   "e": "us",
+   "o": "Morning Star Tours",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Morning%20Star%20Tours"
+  },
+  {
+   "cc": "",
+   "d": "2026-05-03",
+   "dd": "2026-08-07",
+   "e": "us",
+   "o": "Cushman & Wakefield",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cushman%20%26%20Wakefield"
+  },
+  {
+   "cc": "",
+   "d": "2026-05-01",
+   "dd": "2026-06-05",
+   "e": "us",
+   "o": "Towerpoint Wealth, LLC",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Towerpoint%20Wealth%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2026-04-30",
+   "dd": "2026-08-13",
+   "e": "us",
+   "o": "See’s Candies, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=See%E2%80%99s%20Candies%2C%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2026-04-25",
+   "dd": "2026-05-01",
+   "e": "us",
+   "o": "Mid Florida Dermatology & Plastic Surgery",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mid%20Florida%20Dermatology%20%26%20Plastic%20Surgery"
+  },
+  {
+   "cc": "",
+   "d": "2026-04-20",
+   "dd": "2026-05-20",
+   "e": "us",
+   "o": "Frost Bank",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Frost%20Bank"
+  },
+  {
+   "cc": "",
+   "d": "2026-04-18",
+   "dd": "2026-06-04",
+   "e": "us",
+   "o": "Minidoka Memorial Hospital",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Minidoka%20Memorial%20Hospital"
+  },
+  {
+   "cc": "US",
+   "d": "2026-04-18",
+   "dd": "2026-05-22",
+   "e": "us",
+   "o": "South Florida Injury Centers, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=South%20Florida%20Injury%20Centers%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-04-14",
+   "dd": "2026-02-26",
+   "e": "us",
+   "o": "Flash Charm, Inc. d/b/a Idera",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Flash%20Charm%2C%20Inc.%20d/b/a%20Idera"
+  },
+  {
+   "cc": "",
+   "d": "2026-04-10",
+   "dd": "2026-05-28",
+   "e": "us",
+   "o": "Kannarr Eye Care",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Kannarr%20Eye%20Care"
+  },
+  {
+   "cc": "",
+   "d": "2026-04-09",
+   "dd": "2026-06-05",
+   "e": "us",
+   "o": "Signature Healthcare Corporation",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Signature%20Healthcare%20Corporation"
+  },
+  {
+   "cc": "US",
+   "d": "2026-04-09",
+   "dd": "2026-05-29",
+   "e": "us",
+   "o": "United Medical Doctors",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=United%20Medical%20Doctors"
+  },
+  {
+   "cc": "",
+   "d": "2026-04-04",
+   "dd": "2026-05-18",
+   "e": "us",
+   "o": "Community Connections",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Community%20Connections"
+  },
+  {
+   "cc": "US",
+   "d": "2026-04-01",
+   "dd": "2026-05-07",
+   "e": "us",
+   "o": "Alliance Roofing Company, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Alliance%20Roofing%20Company%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-04-01",
+   "dd": "2026-02-24",
+   "e": "us",
+   "o": "UFP TECHNOLOGIES INC",
+   "out": "",
+   "sec": "manufacturing",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=UFP%20TECHNOLOGIES%20INC"
+  },
+  {
+   "cc": "",
+   "d": "2026-03-30",
+   "dd": "2026-05-27",
+   "e": "us",
+   "o": "Ampex Data Systems Corporation",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ampex%20Data%20Systems%20Corporation"
+  },
+  {
+   "cc": "US",
+   "d": "2026-03-26",
+   "dd": "2026-06-30",
+   "e": "us",
+   "o": "Monmouth University",
+   "out": "",
+   "sec": "education",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Monmouth%20University"
+  },
+  {
+   "cc": "",
+   "d": "2026-03-23",
+   "dd": "2026-04-17",
+   "e": "us",
+   "o": "Ameriprise Financial, Inc.",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ameriprise%20Financial%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-03-22",
+   "dd": "2026-06-05",
+   "e": "us",
+   "o": "Plaza Home Mortgage, Inc.",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Plaza%20Home%20Mortgage%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-03-18",
+   "dd": "2026-05-29",
+   "e": "us",
+   "o": "Texollini, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Texollini%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-03-13",
+   "dd": "2026-04-28",
+   "e": "us",
+   "o": "FMRS Health Systems, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=FMRS%20Health%20Systems%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-03-10",
+   "dd": "2026-07-24",
+   "e": "us",
+   "o": "Eyemart Express, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Eyemart%20Express%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2026-03-10",
+   "dd": "2026-05-18",
+   "e": "us",
+   "o": "Eyemart Express, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Eyemart%20Express%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2026-03-07",
+   "dd": "2026-06-07",
+   "e": "us",
+   "o": "Sierra Management Group",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sierra%20Management%20Group"
+  },
+  {
+   "cc": "",
+   "d": "2026-03-06",
+   "dd": "2026-07-07",
+   "e": "us",
+   "o": "T.A. Solberg Co., Inc",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=T.A.%20Solberg%20Co.%2C%20Inc"
+  },
+  {
+   "cc": "",
+   "d": "2026-02-23",
+   "dd": "2026-03-27",
+   "e": "us",
+   "o": "Rocky Mountain Care",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Rocky%20Mountain%20Care"
+  },
+  {
+   "cc": "",
+   "d": "2026-02-20",
+   "dd": "2026-04-03",
+   "e": "us",
+   "o": "Wynn Resorts, Limited",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Wynn%20Resorts%2C%20Limited"
+  },
+  {
+   "cc": "",
+   "d": "2026-02-17",
+   "dd": "2026-03-18",
+   "e": "us",
+   "o": "Stockton Cardiology Medical Group",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Stockton%20Cardiology%20Medical%20Group"
+  },
+  {
+   "cc": "",
+   "d": "2026-02-16",
+   "dd": "2026-03-31",
+   "e": "us",
+   "o": "Mercer Advisors Inc.",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mercer%20Advisors%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2026-02-16",
+   "dd": "2026-03-27",
+   "e": "us",
+   "o": "Modoc Medical Center",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Modoc%20Medical%20Center"
+  },
+  {
+   "cc": "",
+   "d": "2026-02-14",
+   "dd": "2026-04-28",
+   "e": "us",
+   "o": "JC Resorts LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=JC%20Resorts%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2026-02-13",
+   "dd": "2026-05-18",
+   "e": "us",
+   "o": "Lusamerica Foods",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Lusamerica%20Foods"
+  },
+  {
+   "cc": "US",
+   "d": "2026-02-10",
+   "dd": "2026-04-06",
+   "e": "us",
+   "o": "Grandview Family Medicine",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Grandview%20Family%20Medicine"
+  },
+  {
+   "cc": "US",
+   "d": "2026-02-08",
+   "dd": "2026-04-02",
+   "e": "us",
+   "o": "Southern Illinois Dermatology",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Southern%20Illinois%20Dermatology"
+  },
+  {
+   "cc": "",
+   "d": "2026-02-08",
+   "dd": "2026-04-29",
+   "e": "us",
+   "o": "Tri-Cities Gastroenterology",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Tri-Cities%20Gastroenterology"
+  },
+  {
+   "cc": "",
+   "d": "2026-02-06",
+   "dd": "2026-07-29",
+   "e": "us",
+   "o": "Associated Endocrinologists",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Associated%20Endocrinologists"
+  },
+  {
+   "cc": "",
+   "d": "2026-01-31",
+   "dd": "2026-05-18",
+   "e": "us",
+   "o": "The Beacon Mutual Insurance Company",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Beacon%20Mutual%20Insurance%20Company"
+  },
+  {
+   "cc": "US",
+   "d": "2026-01-30",
+   "dd": "2026-04-03",
+   "e": "us",
+   "o": "Rocky Mountain Associated Physicians, P.C.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Rocky%20Mountain%20Associated%20Physicians%2C%20P.C."
+  },
+  {
+   "cc": "US",
+   "d": "2026-01-29",
+   "dd": "2026-01-23",
+   "e": "us",
+   "o": "MACT Health Board Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MACT%20Health%20Board%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2026-01-21",
+   "dd": "2026-04-17",
+   "e": "us",
+   "o": "Bayside Dental",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Bayside%20Dental"
+  },
+  {
+   "cc": "US",
+   "d": "2026-01-17",
+   "dd": "2026-02-26",
+   "e": "us",
+   "o": "Orthopaedic Specialists of Massachusetts, PC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Orthopaedic%20Specialists%20of%20Massachusetts%2C%20PC"
+  },
+  {
+   "cc": "",
+   "d": "2026-01-08",
+   "dd": "2026-02-04",
+   "e": "us",
+   "o": "About Women Ob/Gyn, PC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=About%20Women%20Ob/Gyn%2C%20PC"
+  },
+  {
+   "cc": "",
+   "d": "2026-01-06",
+   "dd": "2026-02-06",
+   "e": "us",
+   "o": "Apex Spine & Neurosurgery, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Apex%20Spine%20%26%20Neurosurgery%2C%20LLC"
+  },
+  {
+   "cc": "US",
+   "d": "2026-01-06",
+   "dd": "2026-02-13",
+   "e": "us",
+   "o": "Resource Corporation of America",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Resource%20Corporation%20of%20America"
+  },
+  {
+   "cc": "",
+   "d": "2025-12-31",
+   "dd": "2026-03-11",
+   "e": "us",
+   "o": "OSI Systems, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OSI%20Systems%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-12-23",
+   "dd": "2026-04-06",
+   "e": "us",
+   "o": "Shore Gardens Rehabilitation and Nursing Center, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Shore%20Gardens%20Rehabilitation%20and%20Nursing%20Center%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-12-22",
+   "dd": "2026-02-13",
+   "e": "us",
+   "o": "Cedar Valley Services",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cedar%20Valley%20Services"
+  },
+  {
+   "cc": "",
+   "d": "2025-12-10",
+   "dd": "2025-12-17",
+   "e": "us",
+   "o": "Lonich Patton Ehrlich Policastri",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Lonich%20Patton%20Ehrlich%20Policastri"
+  },
+  {
+   "cc": "",
+   "d": "2025-11-28",
+   "dd": "2025-12-30",
+   "e": "us",
+   "o": "Mid-South Pulmonary & Sleep Specialists P.C.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mid-South%20Pulmonary%20%26%20Sleep%20Specialists%20P.C."
+  },
+  {
+   "cc": "",
+   "d": "2025-11-26",
+   "dd": "2025-12-23",
+   "e": "us",
+   "o": "AllerVie Health",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=AllerVie%20Health"
+  },
+  {
+   "cc": "",
+   "d": "2025-11-25",
+   "dd": "2025-12-05",
+   "e": "us",
+   "o": "Columbia Medical Practice",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Columbia%20Medical%20Practice"
+  },
+  {
+   "cc": "",
+   "d": "2025-11-25",
+   "dd": "2026-05-22",
+   "e": "us",
+   "o": "Nottingham Village",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Nottingham%20Village"
+  },
+  {
+   "cc": "US",
+   "d": "2025-11-22",
+   "dd": "2025-12-19",
+   "e": "us",
+   "o": "Medical Center, LLP",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Medical%20Center%2C%20LLP"
+  },
+  {
+   "cc": "",
+   "d": "2025-11-13",
+   "dd": "2025-11-07",
+   "e": "us",
+   "o": "GlobalLogic Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=GlobalLogic%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2025-11-10",
+   "dd": "2026-04-06",
+   "e": "us",
+   "o": "Heart South Cardiovascular Group",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Heart%20South%20Cardiovascular%20Group"
+  },
+  {
+   "cc": "",
+   "d": "2025-11-07",
+   "dd": "2025-12-29",
+   "e": "us",
+   "o": "Soapy Joe’s Car Wash",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Soapy%20Joe%E2%80%99s%20Car%20Wash"
+  },
+  {
+   "cc": "",
+   "d": "2025-10-30",
+   "dd": "2025-11-28",
+   "e": "us",
+   "o": "Spindletop Center",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Spindletop%20Center"
+  },
+  {
+   "cc": "US",
+   "d": "2025-10-26",
+   "dd": "2026-03-18",
+   "e": "us",
+   "o": "The South Alabama Regional Planning Commission",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20South%20Alabama%20Regional%20Planning%20Commission"
+  },
+  {
+   "cc": "",
+   "d": "2025-10-20",
+   "dd": "2025-12-30",
+   "e": "us",
+   "o": "Cabinets 2000, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cabinets%202000%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-10-15",
+   "dd": "2025-11-28",
+   "e": "us",
+   "o": "Richmond Behavioral Health Authority",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Richmond%20Behavioral%20Health%20Authority"
+  },
+  {
+   "cc": "",
+   "d": "2025-10-10",
+   "dd": "2025-11-06",
+   "e": "us",
+   "o": "Archer Health",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Archer%20Health"
+  },
+  {
+   "cc": "IN",
+   "d": "2025-10-08",
+   "dd": "2026-01-02",
+   "e": "us",
+   "o": "Cerenade",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cerenade"
+  },
+  {
+   "cc": "US",
+   "d": "2025-10-04",
+   "dd": "2025-12-03",
+   "e": "us",
+   "o": "MedStar Health, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MedStar%20Health%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-10-03",
+   "dd": "2025-08-27",
+   "e": "us",
+   "o": "TransUnion LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=TransUnion%20LLC"
+  },
+  {
+   "cc": "US",
+   "d": "2025-10-02",
+   "dd": "2025-10-31",
+   "e": "us",
+   "o": "Judson Center",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Judson%20Center"
+  },
+  {
+   "cc": "",
+   "d": "2025-10-01",
+   "dd": "2025-10-16",
+   "e": "us",
+   "o": "Watsonville Community Hospital",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Watsonville%20Community%20Hospital"
+  },
+  {
+   "cc": "US",
+   "d": "2025-09-30",
+   "dd": "2026-01-16",
+   "e": "us",
+   "o": "Insightin Health, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Insightin%20Health%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-09-26",
+   "dd": "2025-10-31",
+   "e": "us",
+   "o": "Expert MRI",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Expert%20MRI"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-26",
+   "dd": "2026-03-23",
+   "e": "us",
+   "o": "Expert MRI",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Expert%20MRI"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-26",
+   "dd": "2025-10-25",
+   "e": "us",
+   "o": "VirMedice, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=VirMedice%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-26",
+   "dd": "2025-11-26",
+   "e": "us",
+   "o": "Dubroff, Easley, & Lovell, LLP",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Dubroff%2C%20Easley%2C%20%26%20Lovell%2C%20LLP"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-26",
+   "dd": "2026-03-25",
+   "e": "us",
+   "o": "Dubroff, Easley, & Lovell, LLP",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Dubroff%2C%20Easley%2C%20%26%20Lovell%2C%20LLP"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-26",
+   "dd": "2025-10-31",
+   "e": "us",
+   "o": "Tri Century Eye Care PC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Tri%20Century%20Eye%20Care%20PC"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-23",
+   "dd": "2025-12-02",
+   "e": "us",
+   "o": "Madison Healthcare Services",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Madison%20Healthcare%20Services"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-17",
+   "dd": "2025-11-24",
+   "e": "us",
+   "o": "Thomas Safran and Associates",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Thomas%20Safran%20and%20Associates"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-16",
+   "dd": "2026-01-30",
+   "e": "us",
+   "o": "Wakefield & Associates, LLC",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Wakefield%20%26%20Associates%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-09-12",
+   "dd": "2025-09-15",
+   "e": "us",
+   "o": "Survival Flight, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Survival%20Flight%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-09-10",
+   "dd": "2025-11-12",
+   "e": "us",
+   "o": "Gl Veneer, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Gl%20Veneer%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-09-03",
+   "dd": "2025-09-18",
+   "e": "us",
+   "o": "Monterey Mushrooms, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Monterey%20Mushrooms%2C%20LLC"
+  },
+  {
+   "cc": "US",
+   "d": "2025-09-01",
+   "dd": "2025-11-12",
+   "e": "us",
+   "o": "Oakland Museum of California",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Oakland%20Museum%20of%20California"
+  },
+  {
+   "cc": "",
+   "d": "2025-08-30",
+   "dd": "2025-10-29",
+   "e": "us",
+   "o": "OB-GYN Associates",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OB-GYN%20Associates"
+  },
+  {
+   "cc": "",
+   "d": "2025-08-20",
+   "dd": "2025-12-31",
+   "e": "us",
+   "o": "Steel Encounters, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Steel%20Encounters%2C%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2025-08-19",
+   "dd": "2025-12-02",
+   "e": "us",
+   "o": "Inotiv, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Inotiv%2C%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2025-08-12",
+   "dd": "2025-08-25",
+   "e": "us",
+   "o": "Assisted Living Pharmacy Service, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Assisted%20Living%20Pharmacy%20Service%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-08-08",
+   "dd": "2025-09-02",
+   "e": "us",
+   "o": "La Perouse, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=La%20Perouse%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-08-05",
+   "dd": "2025-08-29",
+   "e": "us",
+   "o": "Carrollton Ear, Nose and Throat, PC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Carrollton%20Ear%2C%20Nose%20and%20Throat%2C%20PC"
+  },
+  {
+   "cc": "",
+   "d": "2025-07-15",
+   "dd": "2025-07-11",
+   "e": "us",
+   "o": "New American Funding, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=New%20American%20Funding%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-07-07",
+   "dd": "2025-10-07",
+   "e": "us",
+   "o": "The Institute of Culinary Education",
+   "out": "",
+   "sec": "education",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Institute%20of%20Culinary%20Education"
+  },
+  {
+   "cc": "",
+   "d": "2025-07-04",
+   "dd": "2025-11-07",
+   "e": "us",
+   "o": "Integrated Silicon Solution, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Integrated%20Silicon%20Solution%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-07-01",
+   "dd": "2025-08-15",
+   "e": "us",
+   "o": "Alert Medical Alarms",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Alert%20Medical%20Alarms"
+  },
+  {
+   "cc": "",
+   "d": "2025-06-10",
+   "dd": "2025-06-13",
+   "e": "us",
+   "o": "Mount Rogers Community Services",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mount%20Rogers%20Community%20Services"
+  },
+  {
+   "cc": "US",
+   "d": "2025-06-06",
+   "dd": "2025-11-18",
+   "e": "us",
+   "o": "Optima Tax Relief, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Optima%20Tax%20Relief%2C%20LLC"
+  },
+  {
+   "cc": "US",
+   "d": "2025-06-06",
+   "dd": "2025-08-15",
+   "e": "us",
+   "o": "Optima Tax Relief, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Optima%20Tax%20Relief%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-06-04",
+   "dd": "2025-11-24",
+   "e": "us",
+   "o": "Davies, McFarland & Carroll LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Davies%2C%20McFarland%20%26%20Carroll%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-06-03",
+   "dd": "2025-09-14",
+   "e": "us",
+   "o": "Sandhills Medical Foundation",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sandhills%20Medical%20Foundation"
+  },
+  {
+   "cc": "",
+   "d": "2025-06-02",
+   "dd": "2025-07-10",
+   "e": "us",
+   "o": "Naper Grove Vision Care",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Naper%20Grove%20Vision%20Care"
+  },
+  {
+   "cc": "",
+   "d": "2025-05-17",
+   "dd": "2025-05-30",
+   "e": "us",
+   "o": "Precision Tax Relief LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Precision%20Tax%20Relief%20LLC"
+  },
+  {
+   "cc": "US",
+   "d": "2025-04-24",
+   "dd": "2025-08-01",
+   "e": "us",
+   "o": "DaVita Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DaVita%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2025-04-14",
+   "dd": "2025-04-23",
+   "e": "us",
+   "o": "Orthopaedic Specialists of Connecticut",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Orthopaedic%20Specialists%20of%20Connecticut"
+  },
+  {
+   "cc": "",
+   "d": "2025-04-13",
+   "dd": "2025-09-25",
+   "e": "us",
+   "o": "Intelliloan, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Intelliloan%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-03-31",
+   "dd": "2025-05-05",
+   "e": "us",
+   "o": "Sonrisas Dental Health",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sonrisas%20Dental%20Health"
+  },
+  {
+   "cc": "",
+   "d": "2025-03-29",
+   "dd": "2025-03-26",
+   "e": "us",
+   "o": "Pacific Residential Mortgage, LLC",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Pacific%20Residential%20Mortgage%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2025-03-20",
+   "dd": "2025-04-10",
+   "e": "us",
+   "o": "Ambleside, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ambleside%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-03-20",
+   "dd": "2025-06-27",
+   "e": "us",
+   "o": "Whittaker & Company",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Whittaker%20%26%20Company"
+  },
+  {
+   "cc": "",
+   "d": "2025-03-17",
+   "dd": "2025-06-20",
+   "e": "us",
+   "o": "Electronics For Imaging, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Electronics%20For%20Imaging%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-03-10",
+   "dd": "2025-04-04",
+   "e": "us",
+   "o": "Loretto Hospital",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Loretto%20Hospital"
+  },
+  {
+   "cc": "US",
+   "d": "2025-03-05",
+   "dd": "2025-03-06",
+   "e": "us",
+   "o": "Best Collateral Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Best%20Collateral%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2025-03-03",
+   "dd": "2025-04-14",
+   "e": "us",
+   "o": "Bell Ambulance, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Bell%20Ambulance%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-02-27",
+   "dd": "2025-02-18",
+   "e": "us",
+   "o": "LEE ENTERPRISES, Inc",
+   "out": "",
+   "sec": "manufacturing",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=LEE%20ENTERPRISES%2C%20Inc"
+  },
+  {
+   "cc": "",
+   "d": "2025-02-27",
+   "dd": "2025-06-04",
+   "e": "us",
+   "o": "Lee Enterprises",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Lee%20Enterprises"
+  },
+  {
+   "cc": "US",
+   "d": "2025-02-25",
+   "dd": "2025-04-04",
+   "e": "us",
+   "o": "Friendship House, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Friendship%20House%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-02-21",
+   "dd": "2025-03-25",
+   "e": "us",
+   "o": "Crossroads Trading Co., Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Crossroads%20Trading%20Co.%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2025-02-20",
+   "dd": "2025-04-14",
+   "e": "us",
+   "o": "CONDUENT Inc",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=CONDUENT%20Inc"
+  },
+  {
+   "cc": "US",
+   "d": "2025-02-19",
+   "dd": "2025-04-08",
+   "e": "us",
+   "o": "Alabama Ophthalmology Associates",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Alabama%20Ophthalmology%20Associates"
+  },
+  {
+   "cc": "",
+   "d": "2025-02-19",
+   "dd": "2025-02-25",
+   "e": "us",
+   "o": "Lake Washington Vascular",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Lake%20Washington%20Vascular"
+  },
+  {
+   "cc": "US",
+   "d": "2025-02-05",
+   "dd": "2025-06-12",
+   "e": "us",
+   "o": "Rural Health Services",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Rural%20Health%20Services"
+  },
+  {
+   "cc": "",
+   "d": "2025-02-03",
+   "dd": "2025-07-03",
+   "e": "us",
+   "o": "Cierant Corporation",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Cierant%20Corporation"
+  },
+  {
+   "cc": "",
+   "d": "2025-02-03",
+   "dd": "2025-04-11",
+   "e": "us",
+   "o": "The Gatesworth Senior Living St. Louis",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Gatesworth%20Senior%20Living%20St.%20Louis"
+  },
+  {
+   "cc": "",
+   "d": "2024-12-19",
+   "dd": "2025-01-06",
+   "e": "us",
+   "o": "North Los Angeles County Regional Center",
+   "out": "",
+   "sec": "government",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=North%20Los%20Angeles%20County%20Regional%20Center"
+  },
+  {
+   "cc": "",
+   "d": "2024-12-19",
+   "dd": "2024-12-11",
+   "e": "us",
+   "o": "Krispy Kreme, Inc.",
+   "out": "",
+   "sec": "retail",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Krispy%20Kreme%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-12-14",
+   "dd": "2025-03-21",
+   "e": "us",
+   "o": "MedRevenu, LLC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MedRevenu%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2024-12-10",
+   "dd": "2025-05-01",
+   "e": "us",
+   "o": "Conrey Insurance Brokers & Risk Managers",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Conrey%20Insurance%20Brokers%20%26%20Risk%20Managers"
+  },
+  {
+   "cc": "",
+   "d": "2024-12-07",
+   "dd": "2025-02-02",
+   "e": "us",
+   "o": "ARC Community Services, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=ARC%20Community%20Services%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-11-24",
+   "dd": "2025-01-08",
+   "e": "us",
+   "o": "Stiiizy Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Stiiizy%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-11-22",
+   "dd": "2025-03-12",
+   "e": "us",
+   "o": "Trinity Petroleum Management, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Trinity%20Petroleum%20Management%2C%20LLC"
+  },
+  {
+   "cc": "US",
+   "d": "2024-11-16",
+   "dd": "2024-12-23",
+   "e": "us",
+   "o": "American Addiction Centers, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=American%20Addiction%20Centers%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-11-14",
+   "dd": "2025-03-17",
+   "e": "us",
+   "o": "Mark Thomas",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Mark%20Thomas"
+  },
+  {
+   "cc": "",
+   "d": "2024-11-06",
+   "dd": "2024-11-22",
+   "e": "us",
+   "o": "Dome Construction Corporation",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Dome%20Construction%20Corporation"
+  },
+  {
+   "cc": "US",
+   "d": "2024-10-27",
+   "dd": "2024-11-25",
+   "e": "us",
+   "o": "Texas Tech University Health Sciences Center",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Texas%20Tech%20University%20Health%20Sciences%20Center"
+  },
+  {
+   "cc": "",
+   "d": "2024-10-26",
+   "dd": "2024-12-31",
+   "e": "us",
+   "o": "Legacy Treatment Services, Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Legacy%20Treatment%20Services%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-10-25",
+   "dd": "2025-01-03",
+   "e": "us",
+   "o": "Pacific Pulmonary Medical Group",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Pacific%20Pulmonary%20Medical%20Group"
+  },
+  {
+   "cc": "",
+   "d": "2024-10-05",
+   "dd": "2024-10-31",
+   "e": "us",
+   "o": "BNBuilders",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=BNBuilders"
+  },
+  {
+   "cc": "",
+   "d": "2024-09-15",
+   "dd": "2024-10-23",
+   "e": "us",
+   "o": "OnePoint Patient Care",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OnePoint%20Patient%20Care"
+  },
+  {
+   "cc": "",
+   "d": "2024-09-15",
+   "dd": "2025-02-06",
+   "e": "us",
+   "o": "OnePoint Patient Care",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OnePoint%20Patient%20Care"
+  },
+  {
+   "cc": "",
+   "d": "2024-09-10",
+   "dd": "2024-10-11",
+   "e": "us",
+   "o": "Bel-Air Bay Club Ltd",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Bel-Air%20Bay%20Club%20Ltd"
+  },
+  {
+   "cc": "US",
+   "d": "2024-08-22",
+   "dd": "2025-01-28",
+   "e": "us",
+   "o": "UFCW Local 135",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=UFCW%20Local%20135"
+  },
+  {
+   "cc": "",
+   "d": "2024-08-21",
+   "dd": "2024-08-06",
+   "e": "us",
+   "o": "OLYMPUS FINANCIAL",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OLYMPUS%20FINANCIAL"
+  },
+  {
+   "cc": "",
+   "d": "2024-08-13",
+   "dd": "2024-10-10",
+   "e": "us",
+   "o": "Omni Family Health",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Omni%20Family%20Health"
+  },
+  {
+   "cc": "",
+   "d": "2024-07-23",
+   "dd": "2024-09-19",
+   "e": "us",
+   "o": "siParadigm LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=siParadigm%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2024-06-23",
+   "dd": "2024-10-18",
+   "e": "us",
+   "o": "RRCA Accounts Management Inc.",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=RRCA%20Accounts%20Management%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-06-17",
+   "dd": "2024-07-19",
+   "e": "us",
+   "o": "A-Line Staffing Solutions",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=A-Line%20Staffing%20Solutions"
+  },
+  {
+   "cc": "",
+   "d": "2024-05-20",
+   "dd": "2024-07-02",
+   "e": "us",
+   "o": "Regional Obstetrical Consultants PC",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Regional%20Obstetrical%20Consultants%20PC"
+  },
+  {
+   "cc": "",
+   "d": "2024-05-16",
+   "dd": "2024-09-18",
+   "e": "us",
+   "o": "Insurance Agency Marketing Services, Inc.",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Insurance%20Agency%20Marketing%20Services%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-05-07",
+   "dd": "2024-08-26",
+   "e": "us",
+   "o": "Young Consulting LLC",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Young%20Consulting%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2024-04-23",
+   "dd": "2024-09-19",
+   "e": "us",
+   "o": "Octapharma Plasma, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Octapharma%20Plasma%2C%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2024-04-22",
+   "dd": "2024-09-16",
+   "e": "us",
+   "o": "The Tech Interactive",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=The%20Tech%20Interactive"
+  },
+  {
+   "cc": "US",
+   "d": "2024-04-15",
+   "dd": "2024-04-23",
+   "e": "us",
+   "o": "Biggs Cardosa Associates, Inc.",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Biggs%20Cardosa%20Associates%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-04-12",
+   "dd": "2024-03-18",
+   "e": "us",
+   "o": "Jordano’s Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Jordano%E2%80%99s%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-04-06",
+   "dd": "2024-04-02",
+   "e": "us",
+   "o": "On Q Financial",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=On%20Q%20Financial"
+  },
+  {
+   "cc": "",
+   "d": "2024-04-02",
+   "dd": "2024-05-02",
+   "e": "us",
+   "o": "Sterling Plumbing Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Sterling%20Plumbing%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-03-21",
+   "dd": "2024-03-12",
+   "e": "us",
+   "o": "MARINEMAX INC",
+   "out": "",
+   "sec": "retail",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MARINEMAX%20INC"
+  },
+  {
+   "cc": "",
+   "d": "2024-03-21",
+   "dd": "2024-07-16",
+   "e": "us",
+   "o": "MarineMax, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=MarineMax%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-03-19",
+   "dd": "2024-03-25",
+   "e": "us",
+   "o": "Delta Pipeline, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Delta%20Pipeline%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2024-03-19",
+   "dd": "2024-07-19",
+   "e": "us",
+   "o": "Therapeutic Health Services",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Therapeutic%20Health%20Services"
+  },
+  {
+   "cc": "",
+   "d": "2024-02-27",
+   "dd": "2024-06-27",
+   "e": "us",
+   "o": "Ann & Robert H. Lurie Children’s Hospital Of Chicago",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ann%20%26%20Robert%20H.%20Lurie%20Children%E2%80%99s%20Hospital%20Of%20Chicago"
+  },
+  {
+   "cc": "US",
+   "d": "2024-02-16",
+   "dd": "2024-02-13",
+   "e": "us",
+   "o": "PRUDENTIAL FINANCIAL INC",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=PRUDENTIAL%20FINANCIAL%20INC"
+  },
+  {
+   "cc": "US",
+   "d": "2023-12-27",
+   "dd": "2024-05-09",
+   "e": "us",
+   "o": "Ohio Lottery",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Ohio%20Lottery"
+  },
+  {
+   "cc": "US",
+   "d": "2023-12-20",
+   "dd": "2024-02-23",
+   "e": "us",
+   "o": "UNITE HERE",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=UNITE%20HERE"
+  },
+  {
+   "cc": "US",
+   "d": "2023-12-12",
+   "dd": "2024-02-22",
+   "e": "us",
+   "o": "Insomniac Games",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Insomniac%20Games"
+  },
+  {
+   "cc": "",
+   "d": "2023-12-11",
+   "dd": "2024-01-10",
+   "e": "us",
+   "o": "Glendale Unified School District",
+   "out": "",
+   "sec": "education",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Glendale%20Unified%20School%20District"
+  },
+  {
+   "cc": "US",
+   "d": "2023-11-30",
+   "dd": "2023-12-06",
+   "e": "us",
+   "o": "DePauw University",
+   "out": "",
+   "sec": "education",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=DePauw%20University"
+  },
+  {
+   "cc": "",
+   "d": "2023-11-29",
+   "dd": "2024-03-13",
+   "e": "us",
+   "o": "Teleflora",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Teleflora"
+  },
+  {
+   "cc": "",
+   "d": "2023-11-28",
+   "dd": "2024-04-12",
+   "e": "us",
+   "o": "SinglePoint Outsourcing, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=SinglePoint%20Outsourcing%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2023-11-28",
+   "dd": "2024-02-08",
+   "e": "us",
+   "o": "SinglePoint Outsourcing, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=SinglePoint%20Outsourcing%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2023-11-28",
+   "dd": "2024-01-19",
+   "e": "us",
+   "o": "First Financial Security, Inc.",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=First%20Financial%20Security%2C%20Inc."
+  },
+  {
+   "cc": "US",
+   "d": "2023-11-21",
+   "dd": "2023-11-05",
+   "e": "us",
+   "o": "Growers Express, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Growers%20Express%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2023-11-08",
+   "dd": "2024-04-30",
+   "e": "us",
+   "o": "OE Federal Credit Union",
+   "out": "",
+   "sec": "finance",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=OE%20Federal%20Credit%20Union"
+  },
+  {
+   "cc": "",
+   "d": "2023-10-30",
+   "dd": "2023-11-22",
+   "e": "us",
+   "o": "Brodart Co.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Brodart%20Co."
+  },
+  {
+   "cc": "",
+   "d": "2023-10-27",
+   "dd": "2024-03-11",
+   "e": "us",
+   "o": "Stanford University",
+   "out": "",
+   "sec": "education",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Stanford%20University"
+  },
+  {
+   "cc": "",
+   "d": "2023-10-21",
+   "dd": "2024-03-21",
+   "e": "us",
+   "o": "Simpson Strong-Tie Co. Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Simpson%20Strong-Tie%20Co.%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2023-10-19",
+   "dd": "2024-04-15",
+   "e": "us",
+   "o": "Visionary Integration Professionals",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Visionary%20Integration%20Professionals"
+  },
+  {
+   "cc": "",
+   "d": "2023-10-03",
+   "dd": "2023-12-28",
+   "e": "us",
+   "o": "Maxco Supply, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Maxco%20Supply%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2023-09-30",
+   "dd": "2023-11-09",
+   "e": "us",
+   "o": "McLaren Health Care",
+   "out": "",
+   "sec": "healthcare",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=McLaren%20Health%20Care"
+  },
+  {
+   "cc": "US",
+   "d": "2023-09-26",
+   "dd": "2024-01-31",
+   "e": "us",
+   "o": "Prestige Care, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Prestige%20Care%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2023-09-26",
+   "dd": "2023-12-20",
+   "e": "us",
+   "o": "Merced City School District",
+   "out": "",
+   "sec": "education",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Merced%20City%20School%20District"
+  },
+  {
+   "cc": "",
+   "d": "2023-09-26",
+   "dd": "2023-12-22",
+   "e": "us",
+   "o": "Brown & Streza LLP",
+   "out": "",
+   "sec": "professional_services",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Brown%20%26%20Streza%20LLP"
+  },
+  {
+   "cc": "",
+   "d": "2023-09-22",
+   "dd": "2024-03-01",
+   "e": "us",
+   "o": "Yakima Valley Radiology PC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Yakima%20Valley%20Radiology%20PC"
+  },
+  {
+   "cc": "",
+   "d": "2023-09-18",
+   "dd": "2024-03-01",
+   "e": "us",
+   "o": "Elemetal, LLC",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Elemetal%2C%20LLC"
+  },
+  {
+   "cc": "",
+   "d": "2023-09-02",
+   "dd": "2023-12-04",
+   "e": "us",
+   "o": "Taylor University",
+   "out": "",
+   "sec": "education",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Taylor%20University"
+  },
+  {
+   "cc": "US",
+   "d": "2023-08-28",
+   "dd": "2024-02-15",
+   "e": "us",
+   "o": "Superior Communications, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Superior%20Communications%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2023-07-26",
+   "dd": "2023-11-03",
+   "e": "us",
+   "o": "AlohaCare",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=AlohaCare"
+  },
+  {
+   "cc": "",
+   "d": "2023-07-07",
+   "dd": "2023-11-20",
+   "e": "us",
+   "o": "AutoZone, Inc.",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=AutoZone%2C%20Inc."
+  },
+  {
+   "cc": "",
+   "d": "2023-06-23",
+   "dd": "2023-11-09",
+   "e": "us",
+   "o": "Hill International, Inc",
+   "out": "",
+   "sec": "other",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Hill%20International%2C%20Inc"
+  },
+  {
+   "cc": "US",
+   "d": "2023-06-01",
+   "dd": "2023-11-07",
+   "e": "us",
+   "o": "Pacific Union College",
+   "out": "",
+   "sec": "education",
+   "u": "https://ba-cybersecurity.com/radar/us/#q=Pacific%20Union%20College"
+  }
+ ],
+ "windows": {
+  "30": {
+   "countries": {
+    "AU": 11,
+    "BR": 21,
+    "CA": 31,
+    "CH": 16,
+    "DE": 38,
+    "ES": 19,
+    "FR": 20,
+    "IN": 18,
+    "IT": 12,
+    "JP": 10,
+    "KR": 19,
+    "MX": 11,
+    "MY": 10,
+    "TW": 10,
+    "US": 259,
+    "other": 159,
+    "unknown": 500
+   },
+   "groups_active": 83,
+   "lag": {
+    "claim_to_release": {
+     "known": 0,
+     "median": null,
+     "p90": null
+    },
+    "disclosure_vs_claim": {
+     "after": 1,
+     "before": 3,
+     "known": 4,
+     "median": -4.0
+    }
+   },
+   "n": 1164,
+   "outcome": {
+    "disclosed": 0,
+    "mature": 0,
+    "not_paid": 0,
+    "paid": 0,
+    "released": 0,
+    "removed": null,
+    "restored": 0
+   },
+   "prev": 960,
+   "sectors": {
+    "education": 61,
+    "finance": 54,
+    "government": 32,
+    "healthcare": 131,
+    "manufacturing": 211,
+    "other": 16,
+    "professional_services": 99,
+    "retail": 85,
+    "technology": 101,
+    "unknown": 374
+   },
+   "threat": {
+    "deadline": {
+     "hist": {
+      "4_7": 4,
+      "8_14": 17,
+      "gt14": 1,
+      "lt4": 1
+     },
+     "known": 23,
+     "median": 9
+    },
+    "described": 645,
+    "kinds": {
+     "contracts": 81,
+     "credentials": 19,
+     "customer": 41,
+     "financial": 155,
+     "hr": 38,
+     "medical": 97,
+     "other": 0,
+     "personal": 90,
+     "technical": 26
+    },
+    "ransom": {
+     "known": 12,
+     "median_usd": 1000000
+    },
+    "types": {
+     "data_theft": 219,
+     "ddos": 0,
+     "encryption": 3,
+     "publish": 110,
+     "regulator": 20,
+     "sale": 26,
+     "third_party": 3
+    },
+    "volume": {
+     "buckets": {
+      "100_1000": 59,
+      "10_100": 49,
+      "gte1000": 16,
+      "lt10": 43
+     },
+     "known": 167,
+     "median_gb": 80.0,
+     "p90_gb": 900.0
+    }
+   },
+   "top_groups": [
+    {
+     "g": "the gentlemen",
+     "n": 163
+    },
+    {
+     "g": "n0n",
+     "n": 152
+    },
+    {
+     "g": "qilin",
+     "n": 104
+    },
+    {
+     "g": "safepay",
+     "n": 34
+    },
+    {
+     "g": "nightspire",
+     "n": 33
+    },
+    {
+     "g": "inc ransom",
+     "n": 31
+    },
+    {
+     "g": "akira",
+     "n": 30
+    },
+    {
+     "g": "emperador",
+     "n": 28
+    },
+    {
+     "g": "everest",
+     "n": 26
+    },
+    {
+     "g": "lockbit5",
+     "n": 23
+    }
+   ],
+   "yoy": 961
+  },
+  "365": {
+   "countries": {
+    "AE": 57,
+    "AU": 102,
+    "BR": 124,
+    "CA": 180,
+    "DE": 220,
+    "ES": 78,
+    "FR": 127,
+    "GB": 106,
+    "IN": 120,
+    "IT": 137,
+    "JP": 63,
+    "MX": 78,
+    "TH": 60,
+    "TW": 62,
+    "US": 1167,
+    "other": 1051,
+    "unknown": 7220
+   },
+   "groups_active": 180,
+   "lag": {
+    "claim_to_release": {
+     "known": 0,
+     "median": null,
+     "p90": null
+    },
+    "disclosure_vs_claim": {
+     "after": 83,
+     "before": 11,
+     "known": 94,
+     "median": 39.5
+    }
+   },
+   "n": 10952,
+   "outcome": {
+    "disclosed": 90,
+    "mature": 9788,
+    "not_paid": 0,
+    "paid": 0,
+    "released": 75,
+    "removed": null,
+    "restored": 0
+   },
+   "prev": 8385,
+   "sectors": {
+    "education": 357,
+    "finance": 405,
+    "government": 302,
+    "healthcare": 689,
+    "manufacturing": 1822,
+    "other": 16,
+    "professional_services": 778,
+    "retail": 578,
+    "technology": 443,
+    "unknown": 5562
+   },
+   "threat": {
+    "deadline": {
+     "hist": {
+      "4_7": 20,
+      "8_14": 41,
+      "gt14": 29,
+      "lt4": 14
+     },
+     "known": 104,
+     "median": 10.0
+    },
+    "described": 5458,
+    "kinds": {
+     "contracts": 766,
+     "credentials": 92,
+     "customer": 345,
+     "financial": 1208,
+     "hr": 291,
+     "medical": 564,
+     "other": 0,
+     "personal": 887,
+     "technical": 191
+    },
+    "ransom": {
+     "known": 27,
+     "median_usd": 500000
+    },
+    "types": {
+     "data_theft": 1604,
+     "ddos": 1,
+     "encryption": 30,
+     "publish": 1236,
+     "regulator": 94,
+     "sale": 147,
+     "third_party": 7
+    },
+    "volume": {
+     "buckets": {
+      "100_1000": 372,
+      "10_100": 533,
+      "gte1000": 102,
+      "lt10": 141
+     },
+     "known": 1148,
+     "median_gb": 60.05,
+     "p90_gb": 848.0
+    }
+   },
+   "top_groups": [
+    {
+     "g": "qilin",
+     "n": 1430
+    },
+    {
+     "g": "the gentlemen",
+     "n": 1060
+    },
+    {
+     "g": "akira",
+     "n": 597
+    },
+    {
+     "g": "inc ransom",
+     "n": 482
+    },
+    {
+     "g": "dragonforce",
+     "n": 392
+    },
+    {
+     "g": "lockbit5",
+     "n": 389
+    },
+    {
+     "g": "clop",
+     "n": 363
+    },
+    {
+     "g": "nightspire",
+     "n": 314
+    },
+    {
+     "g": "play",
+     "n": 285
+    },
+    {
+     "g": "safepay",
+     "n": 265
+    }
+   ],
+   "yoy": null
+  },
+  "7": {
+   "countries": {
+    "AU": 3,
+    "BE": 3,
+    "CA": 5,
+    "CH": 6,
+    "CN": 3,
+    "DE": 16,
+    "EC": 6,
+    "ES": 8,
+    "FR": 4,
+    "IN": 5,
+    "IT": 3,
+    "JP": 3,
+    "MX": 6,
+    "MY": 5,
+    "US": 55,
+    "other": 32,
+    "unknown": 134
+   },
+   "groups_active": 49,
+   "lag": {
+    "claim_to_release": {
+     "known": 0,
+     "median": null,
+     "p90": null
+    },
+    "disclosure_vs_claim": {
+     "after": 0,
+     "before": 2,
+     "known": 2,
+     "median": -18.5
+    }
+   },
+   "n": 297,
+   "outcome": {
+    "disclosed": 0,
+    "mature": 0,
+    "not_paid": 0,
+    "paid": 0,
+    "released": 0,
+    "removed": null,
+    "restored": 0
+   },
+   "prev": 241,
+   "sectors": {
+    "education": 10,
+    "finance": 17,
+    "government": 6,
+    "healthcare": 27,
+    "manufacturing": 60,
+    "other": 2,
+    "professional_services": 29,
+    "retail": 26,
+    "technology": 21,
+    "unknown": 99
+   },
+   "threat": {
+    "deadline": {
+     "hist": {
+      "4_7": 0,
+      "8_14": 0,
+      "gt14": 0,
+      "lt4": 1
+     },
+     "known": 1,
+     "median": 2
+    },
+    "described": 165,
+    "kinds": {
+     "contracts": 26,
+     "credentials": 8,
+     "customer": 10,
+     "financial": 39,
+     "hr": 13,
+     "medical": 28,
+     "other": 0,
+     "personal": 24,
+     "technical": 6
+    },
+    "ransom": {
+     "known": 10,
+     "median_usd": 2500000
+    },
+    "types": {
+     "data_theft": 69,
+     "ddos": 0,
+     "encryption": 2,
+     "publish": 25,
+     "regulator": 8,
+     "sale": 7,
+     "third_party": 2
+    },
+    "volume": {
+     "buckets": {
+      "100_1000": 20,
+      "10_100": 14,
+      "gte1000": 6,
+      "lt10": 16
+     },
+     "known": 56,
+     "median_gb": 76.0,
+     "p90_gb": 1536.0
+    }
+   },
+   "top_groups": [
+    {
+     "g": "the gentlemen",
+     "n": 46
+    },
+    {
+     "g": "n0n",
+     "n": 33
+    },
+    {
+     "g": "qilin",
+     "n": 29
+    },
+    {
+     "g": "whitearmor",
+     "n": 16
+    },
+    {
+     "g": "everest",
+     "n": 14
+    },
+    {
+     "g": "emperador",
+     "n": 11
+    },
+    {
+     "g": "booba team",
+     "n": 9
+    },
+    {
+     "g": "safepay",
+     "n": 9
+    },
+    {
+     "g": "leakeddata",
+     "n": 8
+    },
+    {
+     "g": "akira",
+     "n": 8
+    }
+   ],
+   "yoy": 143
+  },
+  "90": {
+   "countries": {
+    "AU": 32,
+    "BR": 46,
+    "CA": 66,
+    "CH": 30,
+    "DE": 81,
+    "ES": 34,
+    "FR": 46,
+    "GB": 22,
+    "IN": 51,
+    "IT": 49,
+    "JP": 23,
+    "KR": 26,
+    "MX": 23,
+    "TW": 26,
+    "US": 539,
+    "other": 380,
+    "unknown": 1835
+   },
+   "groups_active": 117,
+   "lag": {
+    "claim_to_release": {
+     "known": 0,
+     "median": null,
+     "p90": null
+    },
+    "disclosure_vs_claim": {
+     "after": 11,
+     "before": 5,
+     "known": 16,
+     "median": 7.0
+    }
+   },
+   "n": 3309,
+   "outcome": {
+    "disclosed": 12,
+    "mature": 2145,
+    "not_paid": 0,
+    "paid": 0,
+    "released": 20,
+    "removed": null,
+    "restored": 0
+   },
+   "prev": 2334,
+   "sectors": {
+    "education": 126,
+    "finance": 162,
+    "government": 96,
+    "healthcare": 279,
+    "manufacturing": 570,
+    "other": 16,
+    "professional_services": 248,
+    "retail": 214,
+    "technology": 207,
+    "unknown": 1391
+   },
+   "threat": {
+    "deadline": {
+     "hist": {
+      "4_7": 12,
+      "8_14": 36,
+      "gt14": 28,
+      "lt4": 5
+     },
+     "known": 81,
+     "median": 11
+    },
+    "described": 1911,
+    "kinds": {
+     "contracts": 216,
+     "credentials": 46,
+     "customer": 110,
+     "financial": 393,
+     "hr": 92,
+     "medical": 212,
+     "other": 0,
+     "personal": 252,
+     "technical": 85
+    },
+    "ransom": {
+     "known": 23,
+     "median_usd": 500000
+    },
+    "types": {
+     "data_theft": 638,
+     "ddos": 0,
+     "encryption": 12,
+     "publish": 351,
+     "regulator": 42,
+     "sale": 71,
+     "third_party": 3
+    },
+    "volume": {
+     "buckets": {
+      "100_1000": 173,
+      "10_100": 167,
+      "gte1000": 47,
+      "lt10": 121
+     },
+     "known": 508,
+     "median_gb": 66.5,
+     "p90_gb": 874.0
+    }
+   },
+   "top_groups": [
+    {
+     "g": "the gentlemen",
+     "n": 437
+    },
+    {
+     "g": "qilin",
+     "n": 353
+    },
+    {
+     "g": "n0n",
+     "n": 165
+    },
+    {
+     "g": "clop",
+     "n": 114
+    },
+    {
+     "g": "inc ransom",
+     "n": 107
+    },
+    {
+     "g": "akira",
+     "n": 94
+    },
+    {
+     "g": "storm",
+     "n": 89
+    },
+    {
+     "g": "krybit",
+     "n": 85
+    },
+    {
+     "g": "lockbit5",
+     "n": 71
+    },
+    {
+     "g": "leakeddata",
+     "n": 66
+    }
+   ],
+   "yoy": 2112
+  },
+  "all": {
+   "countries": {
+    "AU": 344,
+    "BR": 405,
+    "CA": 562,
+    "CH": 148,
+    "CO": 205,
+    "DE": 589,
+    "ES": 219,
+    "FR": 400,
+    "GB": 462,
+    "IN": 315,
+    "IT": 454,
+    "JP": 174,
+    "MX": 196,
+    "TW": 156,
+    "US": 3079,
+    "other": 2843,
+    "unknown": 25566
+   },
+   "groups_active": 336,
+   "lag": {
+    "claim_to_release": {
+     "known": 0,
+     "median": null,
+     "p90": null
+    },
+    "disclosure_vs_claim": {
+     "after": 196,
+     "before": 22,
+     "known": 218,
+     "median": 47.0
+    }
+   },
+   "n": 36117,
+   "outcome": {
+    "disclosed": 214,
+    "mature": 34953,
+    "not_paid": 0,
+    "paid": 0,
+    "released": 413,
+    "removed": null,
+    "restored": 0
+   },
+   "prev": null,
+   "sectors": {
+    "education": 972,
+    "finance": 982,
+    "government": 767,
+    "healthcare": 1557,
+    "manufacturing": 3700,
+    "other": 16,
+    "professional_services": 1613,
+    "retail": 1152,
+    "technology": 910,
+    "unknown": 24448
+   },
+   "threat": {
+    "deadline": {
+     "hist": {
+      "4_7": 25,
+      "8_14": 43,
+      "gt14": 30,
+      "lt4": 33
+     },
+     "known": 131,
+     "median": 8
+    },
+    "described": 13309,
+    "kinds": {
+     "contracts": 1522,
+     "credentials": 200,
+     "customer": 603,
+     "financial": 2495,
+     "hr": 532,
+     "medical": 1227,
+     "other": 0,
+     "personal": 1634,
+     "technical": 303
+    },
+    "ransom": {
+     "known": 98,
+     "median_usd": 35000
+    },
+    "types": {
+     "data_theft": 4154,
+     "ddos": 3,
+     "encryption": 103,
+     "publish": 3977,
+     "regulator": 166,
+     "sale": 373,
+     "third_party": 14
+    },
+    "volume": {
+     "buckets": {
+      "100_1000": 1043,
+      "10_100": 1060,
+      "gte1000": 361,
+      "lt10": 302
+     },
+     "known": 2766,
+     "median_gb": 100.0,
+     "p90_gb": 1228.8
+    }
+   },
+   "top_groups": [
+    {
+     "g": "lockbit3",
+     "n": 4077
+    },
+    {
+     "g": "qilin",
+     "n": 2393
+    },
+    {
+     "g": "clop",
+     "n": 2339
+    },
+    {
+     "g": "akira",
+     "n": 1550
+    },
+    {
+     "g": "play",
+     "n": 1310
+    },
+    {
+     "g": "the gentlemen",
+     "n": 1107
+    },
+    {
+     "g": "inc ransom",
+     "n": 967
+    },
+    {
+     "g": "ransomhub",
+     "n": 868
+    },
+    {
+     "g": "alphv",
+     "n": 773
+    },
+    {
+     "g": "dragonforce",
+     "n": 666
+    }
+   ],
+   "yoy": null
+  }
+ }
+}

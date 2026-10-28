@@ -1,21 +1,67 @@
 {
- "asof": "2026-10-27",
+ "asof": "2026-10-28",
  "coverage": {
-  "any": 16,
-  "kev90": 102,
+  "any": 17,
+  "kev90": 104,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
    "azure": 0,
-   "cloudflare": 16,
+   "cloudflare": 17,
    "crs": 1,
    "gcp": 1,
-   "imperva": 4,
-   "wafcharm": 4
+   "imperva": 5,
+   "wafcharm": 5
   },
   "radar_obs": 8,
   "radar_only": 7,
   "rows": [
+   {
+    "added": "2026-10-27",
+    "c": "CVE-2026-48356",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Adobe Commerce and Magento",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-27",
+    "c": "CVE-2026-111497",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": {
+      "d": "2026-10-25",
+      "t": "WAF - WAF Release - 2026-10-25 - Emergency - Cloudflare Managed Ruleset",
+      "u": "https://developers.cloudflare.com/changelog/post/2026-10-25-emergency-waf-release/"
+     },
+     "crs": null,
+     "gcp": null,
+     "imperva": {
+      "d": "2026-10-22",
+      "t": "Node2Shell: From Brotli Data to Remote Code Execution",
+      "u": "https://www.imperva.com/blog/node2shell-from-brotli-data-to-remote-code-execution/"
+     },
+     "wafcharm": {
+      "d": "2026-10-27",
+      "t": "脆弱性「Node2Shell／HTTP2Shell」（CVE-2026-111497）の注意喚起および、WafCharmでの対応に関して",
+      "u": "https://www.wafcharm.com/jp/news/20261027-2/"
+     }
+    },
+    "obs": [],
+    "p": "Google Brotli",
+    "src": "kev"
+   },
    {
     "added": "2026-10-26",
     "c": "CVE-2026-109619",
@@ -1998,12 +2044,12 @@
     "src": "radar"
    }
   ],
-  "targets": 109
+  "targets": 111
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-10-27T01:30:18Z",
+ "generated": "2026-10-28T01:30:25Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2137,13 +2183,45 @@
   }
  ],
  "totals": {
-  "items_all": 343,
-  "n30": 35,
-  "n90": 64,
+  "items_all": 346,
+  "n30": 37,
+  "n90": 67,
   "since": "2022-02-01",
   "vendors30": 8
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-111497"
+   ],
+   "d": "2026-10-27",
+   "k": "cve_coverage",
+   "t": "脆弱性「Node2Shell／HTTP2Shell」（CVE-2026-111497）の注意喚起および、WafCharmでの対応に関して",
+   "u": "https://www.wafcharm.com/jp/news/20261027-2/",
+   "v": "wafcharm",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-27",
+   "k": "cve_coverage",
+   "t": "Introducing the Cloudflare PHP Capture the Flag challenge",
+   "u": "https://blog.cloudflare.com/php-ctf/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-27",
+   "k": "release",
+   "t": "[Launched] Generally Available: Azure Front Door profile and route level WAF policies",
+   "u": "https://azure.microsoft.com/updates?id=578153",
+   "v": "azure",
+   "ver": ""
+  },
   {
    "cve": [
     "CVE-2026-111497"
@@ -2808,14 +2886,14 @@
     "release",
     "rules_update"
    ],
-   "last": "2026-10-25",
-   "lt": "WAF - WAF Release - 2026-10-25 - Emergency - Cloudflare Managed Ruleset",
-   "lu": "https://developers.cloudflare.com/changelog/post/2026-10-25-emergency-waf-release/",
-   "n30": 15,
-   "n90": 31,
+   "last": "2026-10-27",
+   "lt": "Introducing the Cloudflare PHP Capture the Flag challenge",
+   "lu": "https://blog.cloudflare.com/php-ctf/",
+   "n30": 16,
+   "n90": 32,
    "name": "Cloudflare",
    "v": "cloudflare",
-   "ver": "2026-10-25 Emergency"
+   "ver": ""
   },
   {
    "gap": 13,
@@ -2860,15 +2938,15 @@
    "ver": ""
   },
   {
-   "gap": 12,
+   "gap": 10,
    "k": [
     "release"
    ],
-   "last": "2026-10-20",
-   "lt": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
-   "lu": "https://azure.microsoft.com/updates?id=577156",
-   "n30": 3,
-   "n90": 6,
+   "last": "2026-10-27",
+   "lt": "[Launched] Generally Available: Azure Front Door profile and route level WAF policies",
+   "lu": "https://azure.microsoft.com/updates?id=578153",
+   "n30": 4,
+   "n90": 7,
    "name": "Azure WAF",
    "v": "azure",
    "ver": ""
@@ -2895,22 +2973,22 @@
    "last": "2026-10-22",
    "lt": "Node2Shell: From Brotli Data to Remote Code Execution",
    "lu": "https://www.imperva.com/blog/node2shell-from-brotli-data-to-remote-code-execution/",
-   "n30": 6,
+   "n30": 5,
    "n90": 8,
    "name": "Imperva",
    "v": "imperva",
    "ver": ""
   },
   {
-   "gap": null,
+   "gap": 49,
    "k": [
     "cve_coverage"
    ],
-   "last": "2026-10-22",
-   "lt": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の注意喚起および、WafCharmでの対応に関して",
-   "lu": "https://www.wafcharm.com/jp/news/20261022-1/",
-   "n30": 1,
-   "n90": 1,
+   "last": "2026-10-27",
+   "lt": "脆弱性「Node2Shell／HTTP2Shell」（CVE-2026-111497）の注意喚起および、WafCharmでの対応に関して",
+   "lu": "https://www.wafcharm.com/jp/news/20261027-2/",
+   "n30": 2,
+   "n90": 2,
    "name": "WafCharm",
    "v": "wafcharm",
    "ver": ""
