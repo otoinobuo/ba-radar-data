@@ -1,6 +1,328 @@
 {
- "generated": "2026-10-28T02:50:36Z",
+ "generated": "2026-10-29T00:33:05Z",
  "incidents": [
+  {
+   "d": "2026-10-29",
+   "ls": "none_found",
+   "o": "フジテレビの番組宣伝システム",
+   "oe": "",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "フジテレビの番組宣伝システムに不正アクセス、メディア関係者の個人情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56619.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-29",
+   "ls": "unchecked",
+   "nn": [
+    {
+     "d": "",
+     "t": "アットリンクへの不正アクセスおよびサービスの一時停止に関する最新情報",
+     "u": "https://at-link.net/information/%e3%82%a2%e3%83%83%e3%83%88%e3%83%aa%e3%83%b3%e3%82%af%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%8a%e3%82%88%e3%81%b3%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae"
+    }
+   ],
+   "o": "@link(アットリンク)",
+   "oe": "",
+   "on": "https://at-link.net/information/%e3%82%a2%e3%83%83%e3%83%88%e3%83%aa%e3%83%b3%e3%82%af%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%8a%e3%82%88%e3%81%b3%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "医療機関業務支援システム「@link（アットリンク）」に不正アクセス、サービスの提供を一時停止",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56618.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-29",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-22",
+     "t": "「NP後払い」への不正アクセスについて",
+     "u": "https://corp.netprotections.com/news/info/corporate/20261022"
+    }
+   ],
+   "o": "NP後払い",
+   "oe": "",
+   "on": "https://corp.netprotections.com/news/info/corporate/20261022",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "BtoC通販向け決済「NP後払い」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56616.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-29",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-21",
+     "t": "株式会社ラクスライトクラウドで発生した不正アクセスに伴う個人情報漏えいの可能性について",
+     "u": "https://www.japex.co.jp/news/uploads/pdf/JAPEX20261021_potential_leak_information_j.pdf"
+    }
+   ],
+   "o": "blastmail",
+   "oe": "blastmail",
+   "on": "https://www.japex.co.jp/news/uploads/pdf/JAPEX20261021_potential_leak_information_j.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "石油資源開発が利用するラクスライトクラウドのASPサービス「blastmail」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56615.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-29",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】弊社システム障害に伴う、受注・出荷の停止に関するお詫びとご案内",
+     "u": "https://maruki-ms.co.jp/archives/8405"
+    }
+   ],
+   "o": "丸木医科器械",
+   "oe": "",
+   "on": "https://maruki-ms.co.jp/archives/8405",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "丸木医科器械へのサイバー攻撃で基幹システムがダウン、FAX で注文受付",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56614.html"
+    }
+   ],
+   "t": "other",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "o": "楽天トラベル",
+   "oe": "",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-28",
+     "t": "複数予約サイトで侵害、顧客情報が流出か - 楽天トラベル",
+     "u": "https://www.security-next.com/191989"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "愛知県",
+     "u": "https://www.pref.aichi.jp/"
+    }
+   ],
+   "o": "愛知県",
+   "oe": "",
+   "on": "https://www.pref.aichi.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-28",
+     "t": "婚活情報ポータルサイトに無関係の個人情報 - 愛知県",
+     "u": "https://www.security-next.com/191655"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-28",
+     "t": "Amadeus社が提供する旅客サービスシステムへの不正アクセスについて",
+     "u": "https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html"
+    }
+   ],
+   "o": "Amadeus",
+   "oe": "Amadeus",
+   "on": "https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-28",
+     "t": "Amadeus の旅客サービスシステムへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/28/214917"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】不正アクセスによる個人情報漏えいに関するお詫びとお知らせ（第一報）｜株式会社フューチャーショップ",
+     "u": "https://www.future-shop.jp/news/2026/10/23.html"
+    }
+   ],
+   "o": "futureshop",
+   "oe": "futureshop",
+   "on": "https://www.future-shop.jp/news/2026/10/23.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "「futureshop」に不正アクセス、1店舗の会員情報約315万件が漏えい│株式会社フューチャーショップ",
+     "u": "https://cybersecurity-jp.com/news/117820"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "「発車オーライネット」におけるお客様情報の漏えいについて（お詫び）｜北海道中央バス株式会社",
+     "u": "https://www.chuo-bus.co.jp/%E3%80%8C%E7%99%BA%E8%BB%8A%E3%82%AA%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%81%8A%E5%AE%A2%E6%A7%98%E6%83%85%E5%A0%B1%E3%81%AE%E6%BC%8F%E3%81%88%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E3%81%8A%E8%A9%AB%E3%81%B3%EF%BC%89%E2%80%A6/main_info/2410"
+    }
+   ],
+   "o": "北海道中央バス",
+   "oe": "",
+   "on": "https://www.chuo-bus.co.jp/%E3%80%8C%E7%99%BA%E8%BB%8A%E3%82%AA%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%81%8A%E5%AE%A2%E6%A7%98%E6%83%85%E5%A0%B1%E3%81%AE%E6%BC%8F%E3%81%88%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E3%81%8A%E8%A9%AB%E3%81%B3%EF%BC%89%E2%80%A6/main_info/2410",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "北海道中央バス、予約サイト「発車オーライネット」で予約情報漏えいの可能性",
+     "u": "https://cybersecurity-jp.com/news/117817"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-24",
+     "t": "「チャリロト」アプリサービスへの不正アクセスに伴う個人情報漏えいに関するお詫びとお知らせ｜株式会社チャリ・ロト",
+     "u": "https://chariloto.jp/news/20261024"
+    }
+   ],
+   "o": "チャリロト",
+   "oe": "",
+   "on": "https://chariloto.jp/news/20261024",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "チャリロトに不正アクセス、会員373人の口座情報や投票履歴が漏えい│株式会社チャリ・ロト",
+     "u": "https://cybersecurity-jp.com/news/117812"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスに伴う個人情報漏洩の可能性に関するお詫びとお知らせ｜社会福祉法人高生会",
+     "u": "https://kosei.or.jp/news/vIyrwDf3"
+    }
+   ],
+   "o": "外部サービス",
+   "oe": "",
+   "on": "https://kosei.or.jp/news/vIyrwDf3",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "外部サービスへの不正アクセスで問い合わせ情報約843件漏えいのおそれ│社会福祉法人高生会",
+     "u": "https://cybersecurity-jp.com/news/117804"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社への不正アクセスに関するお知らせとお詫び｜デジタルアーツ株式会社",
+     "u": "https://www.daj.jp/webtopics/1354"
+    }
+   ],
+   "o": "AI活用の総点検",
+   "oe": "",
+   "on": "https://www.daj.jp/webtopics/1354",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "AI活用の総点検で不正アクセス発覚、クラウド利用者にパスワード変更要請│デジタルアーツ株式会社",
+     "u": "https://cybersecurity-jp.com/news/117802"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
   {
    "d": "2026-10-28",
    "ls": "none_found",
@@ -24,7 +346,7 @@
     }
    ],
    "t": "leak",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -50,8 +372,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-28",
@@ -128,7 +450,7 @@
     }
    ],
    "t": "ransomware",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -154,8 +476,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-28",
@@ -180,8 +502,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-28",
@@ -206,8 +528,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "email",
+   "x": "yes"
   },
   {
    "d": "2026-10-28",
@@ -250,8 +572,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "credential",
+   "x": "yes"
   },
   {
    "d": "2026-10-28",
@@ -286,7 +608,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "credential",
    "x": "unknown"
   },
   {
@@ -304,13 +626,23 @@
     }
    ],
    "t": "leak",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "cloud_misconfig",
+   "x": "yes"
   },
   {
    "d": "2026-10-27",
    "ls": "none_found",
    "nn": [
+    {
+     "d": "2026-10-21",
+     "t": "【第1報】当社子会社が提供する「ブラストメール」における不審なアクセスの検知およびサービス停止について",
+     "u": "https://www.rakus.co.jp/news/2026/1021-2.html"
+    },
+    {
+     "d": "2026-10-21",
+     "t": "【第2報】当社子会社が提供する「ブラストメール」における不正アクセスによる情報漏えいおよびサービス停止について",
+     "u": "https://www.rakus.co.jp/news/2026/1021-3.html"
+    },
     {
      "d": "2026-10-23",
      "t": "個人情報保護委員会への連名報告に関するご案内",
@@ -324,7 +656,7 @@
    ],
    "o": "ラクスライトクラウド",
    "oe": "Laxlight Cloud",
-   "on": "https://info.blastmail.jp/information_joint_report.html",
+   "on": "https://www.rakus.co.jp/news/2026/1021-2.html",
    "os": "found",
    "s": [
     {
@@ -361,8 +693,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-27",
@@ -387,8 +719,8 @@
     }
    ],
    "t": "leak",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-27",
@@ -413,8 +745,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "credential",
+   "x": "yes"
   },
   {
    "d": "2026-10-27",
@@ -444,8 +776,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-27",
@@ -475,8 +807,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-27",
@@ -501,8 +833,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-27",
@@ -553,8 +885,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-27",
@@ -579,7 +911,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "credential",
    "x": "unknown"
   },
   {
@@ -610,8 +942,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "credential",
+   "x": "no"
   },
   {
    "d": "2026-10-27",
@@ -636,8 +968,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-26",
@@ -732,7 +1064,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -758,8 +1090,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-10-26",
@@ -1709,6 +2041,12 @@
      "p": "2026-10-21",
      "t": "電子書籍販売サイト「Renta！」への不正アクセスの可能性",
      "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56528.html"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "電子書籍サイト「Renta！」に不正アクセス、会員情報流出のおそれ│株式会社パピレス",
+     "u": "https://cybersecurity-jp.com/news/117806"
     }
    ],
    "t": "unauthorized_access",
@@ -3044,9 +3382,15 @@
      "p": "2026-10-17",
      "t": "ショップサーブ、約2,335万人の情報漏洩を公表　7,858店舗が対象、Eストアーが最終報告",
      "u": "https://cybersecurity-jp.com/news/117395"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "「ショップサーブ」に不正アクセス、漏えい対象者数は約2,335万6,000人",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56620.html"
     }
    ],
-   "t": "leak",
+   "t": "unauthorized_access",
    "v": "webapp",
    "x": "yes"
   },

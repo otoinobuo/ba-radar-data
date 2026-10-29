@@ -1,0 +1,1430 @@
+{
+ "asof": "2026-10-29",
+ "cves": [
+  "CVE-2026-109618",
+  "CVE-2026-109619"
+ ],
+ "daily": [
+  {
+   "d": "2026-10-21",
+   "n": {
+    "attempts_observed": 9,
+    "compromise_confirmed": 0,
+    "compromise_reported": 0,
+    "excluded": 0,
+    "not_observed": 5
+   }
+  },
+  {
+   "d": "2026-10-22",
+   "n": {
+    "attempts_observed": 9,
+    "compromise_confirmed": 0,
+    "compromise_reported": 0,
+    "excluded": 2,
+    "not_observed": 3
+   }
+  },
+  {
+   "d": "2026-10-23",
+   "n": {
+    "attempts_observed": 0,
+    "compromise_confirmed": 0,
+    "compromise_reported": 0,
+    "excluded": 0,
+    "not_observed": 0
+   }
+  },
+  {
+   "d": "2026-10-24",
+   "n": {
+    "attempts_observed": 0,
+    "compromise_confirmed": 0,
+    "compromise_reported": 0,
+    "excluded": 0,
+    "not_observed": 0
+   }
+  },
+  {
+   "d": "2026-10-25",
+   "n": {
+    "attempts_observed": 0,
+    "compromise_confirmed": 0,
+    "compromise_reported": 0,
+    "excluded": 0,
+    "not_observed": 0
+   }
+  },
+  {
+   "d": "2026-10-26",
+   "n": {
+    "attempts_observed": 0,
+    "compromise_confirmed": 0,
+    "compromise_reported": 0,
+    "excluded": 0,
+    "not_observed": 0
+   }
+  },
+  {
+   "d": "2026-10-27",
+   "n": {
+    "attempts_observed": 0,
+    "compromise_confirmed": 0,
+    "compromise_reported": 0,
+    "excluded": 0,
+    "not_observed": 0
+   }
+  },
+  {
+   "d": "2026-10-28",
+   "n": {
+    "attempts_observed": 0,
+    "compromise_confirmed": 0,
+    "compromise_reported": 0,
+    "excluded": 0,
+    "not_observed": 0
+   }
+  },
+  {
+   "d": "2026-10-29",
+   "n": {
+    "attempts_observed": 0,
+    "compromise_confirmed": 0,
+    "compromise_reported": 0,
+    "excluded": 0,
+    "not_observed": 0
+   }
+  }
+ ],
+ "disclosed": "2026-10-21",
+ "edition": "php2shell",
+ "feeds_n": 40,
+ "feeds_ok": 40,
+ "generated": "2026-10-29T02:31:43Z",
+ "headline": {
+  "attempts": 18,
+  "confirmed": 0,
+  "days": 8,
+  "excluded": 2,
+  "investigating": 1,
+  "latest_success": "",
+  "not_observed": 8,
+  "publishers": 27,
+  "reported": 0,
+  "success": 0,
+  "total": 28,
+  "victims": 0
+ },
+ "kev": [
+  {
+   "added": "2026-10-26",
+   "c": "CVE-2026-109618",
+   "checked": "2026-10-29T02:31:38Z",
+   "due": "2026-10-29",
+   "listed": true,
+   "rw": "Unknown"
+  },
+  {
+   "added": "2026-10-26",
+   "c": "CVE-2026-109619",
+   "checked": "2026-10-29T02:31:38Z",
+   "due": "2026-10-29",
+   "listed": true,
+   "rw": "Unknown"
+  }
+ ],
+ "method": {
+  "limits": "Successful compromises are under-reported and often disclosed weeks later, so a low count is a floor, not an all-clear. Attack-attempt volumes come from very different vantage points (one honeypot fleet versus a global CDN) and are not comparable with each other. Exposure and patching figures are third-party measurements from banners, which miss back-ported fixes and lag real updates.",
+  "limits_ja": "侵害の成立は報告されにくく、公表も数週間遅れることが多い。少ない数は下限であって安全宣言ではない。攻撃試行の件数は観測点(ハニーポット群と世界規模の CDN など)がまったく違い、互いに比べられない。露出数と修正率は第三者がバナーから測った値で、バックポートされた修正を見落とし、実際の更新より遅れて出る。",
+  "sources": "Government advisories, vendor research and the security press are read twice a day; matching items become candidates for review. Candidates are never published as they are: a report is listed only after its primary page has been read and the status below assigned.",
+  "sources_ja": "政府の注意喚起、企業の研究発表、セキュリティ報道を 1 日 2 回読み、該当する項目を確認待ちの候補にする。候補はそのまま公開しない。一次の頁を読んで下の区分を付けた報告だけを載せる。",
+  "statuses": "Every other report is kept for context: exploitation attempts with no compromise stated (honeypots, WAF telemetry, sensor networks), statements that no exploitation has been observed, and early attributions that were later withdrawn or corrected. One report has one status; if a publisher changes its account, the entry is updated and the change dated.",
+  "statuses_ja": "ほかの報告も文脈として残す。侵害の記載がない悪用試行の観測(ハニーポット・WAF・センサー網)、悪用を観測していないという表明、後に撤回・訂正された初期の帰属。1 つの報告に区分は 1 つ。発表元が説明を変えたときは項目を更新し、変更日を記す。",
+  "success": "An attack counts as successful only when a real system (not a honeypot or a lab) is said to have been compromised through CVE-2026-109618 or CVE-2026-109619. 'Confirmed' means the victim itself or a government authority says so; 'reported' means a security firm or researcher says so about victims it has seen. The headline figure is the number of such reports, not the number of victims; victims are added up only where a report states a number.",
+  "success_ja": "攻撃成立と数えるのは、ハニーポットや検証環境ではない実在のシステムが CVE-2026-109618 または CVE-2026-109619 によって侵害されたと述べる報告だけ。「確認」は被害組織自身か政府機関が述べたもの、「報告」はセキュリティ企業や研究者が自ら見た被害について述べたもの。見出しの数は報告の数で、被害組織の数ではない。被害の数は、報告が数を述べている場合だけ合計する。"
+ },
+ "prot_vendors": 4,
+ "protections": [
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "name": "Cloudflare",
+   "t": "Cloudflare deploys protections against php2shell vulnerability",
+   "u": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+   "v": "cloudflare"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "name": "Imperva",
+   "t": "PHP2Shell: When PHP Runs Out of Memory at the Wrong Moment",
+   "u": "https://www.imperva.com/blog/php2shell-vulnerability-updates/",
+   "v": "imperva"
+  },
+  {
+   "cve": [
+    "CVE-2026-109619",
+    "CVE-2026-109618"
+   ],
+   "d": "2026-10-21",
+   "name": "AWS WAF",
+   "t": "PHP application managed rule group : Released static version 2.3 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-21-1c14d4bcce",
+   "v": "aws"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "name": "WafCharm",
+   "t": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の注意喚起および、WafCharmでの対応に関して",
+   "u": "https://www.wafcharm.com/jp/news/20261022-1/",
+   "v": "wafcharm"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "name": "Cloudflare",
+   "t": "WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Managed Ruleset",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-cfmr/",
+   "v": "cloudflare"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "name": "Cloudflare",
+   "t": "WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Free Ruleset",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-free/",
+   "v": "cloudflare"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618"
+   ],
+   "d": "2026-10-22",
+   "name": "AWS WAF",
+   "t": "PHP application managed rule group : Released static version 2.4 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-22-1fe879a585",
+   "v": "aws"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "name": "Imperva",
+   "t": "PHP2Shell: Early Attack Activity Through Imperva’s Lens",
+   "u": "https://www.imperva.com/blog/php2shell-early-attack-activity-through-impervas-lens/",
+   "v": "imperva"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "name": "AWS WAF",
+   "t": "PHP application managed rule group : Released static version 2.5 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-22-5c784981fd",
+   "v": "aws"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-27",
+   "name": "Cloudflare",
+   "t": "Introducing the Cloudflare PHP Capture the Flag challenge",
+   "u": "https://blog.cloudflare.com/php-ctf/",
+   "v": "cloudflare"
+  }
+ ],
+ "related": [
+  {
+   "c": "CVE-2026-115560",
+   "d": "2026-10-23",
+   "en": "A separate flaw from PHP2Shell. It needs an unusual setup: the configuration sets session.serialize_handler to php_binary or php_serialize, the application switches it to php with ini_set() before session_start(), and session upload progress is still enabled (the default). PHP will fix it in its next regular bugfix release and advises setting session.upload_progress.enabled=0 until then; this is the setting already listed as a mitigation for CVE-2026-109619 on 21 October, and sites that applied it should keep it in place. Affected versions and severity have not been published.",
+   "id": "php-upload-progress-1023",
+   "ja": "PHP2Shell とは別の欠陥。設定で session.serialize_handler を php_binary か php_serialize にし、アプリが session_start() の前に ini_set() で php に切り替え、セッションのアップロード進捗が有効(既定)のまま、というまれな組み合わせでだけ起きる。PHP は次の定例の修正版で直すとし、それまでは session.upload_progress.enabled=0 にするよう勧めている。これは 10/21 に CVE-2026-109619 の回避策として挙がっていた設定で、適用済みならそのまま維持すればよいとしている。影響する版と深刻度は未公表。",
+   "kev": {
+    "added": "",
+    "checked": "2026-10-29T02:31:38Z",
+    "listed": false
+   },
+   "pub": "PHP",
+   "t": "Informational advisory: Session upload progress",
+   "u": "https://www.php.net/archive/2026.php#2026-10-23-1"
+  }
+ ],
+ "reports": [
+  {
+   "cc": "JP",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "The company first blamed a possible customer-data leak on an attack against a PHP vulnerability, then withdrew that as an error: the cause was a flaw in its own service.",
+   "id": "valtec-correction",
+   "inv": false,
+   "ja": "顧客情報流出の可能性について、当初は PHP の脆弱性を狙った攻撃が原因としていたが、誤りとして撤回し、自社サービスの脆弱性を突かれたものと訂正した。",
+   "nv": null,
+   "pt": "victim",
+   "pub": "バルテック (Valtec)",
+   "s": "excluded",
+   "src": "ledger",
+   "t": "不正アクセスによるお客様情報流出の可能性および一部サービス停止のお知らせ",
+   "u": "https://www.webjapan.co.jp/maintenance/serviceteishi261022/",
+   "upd": ""
+  },
+  {
+   "cc": "GB",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "An update at 16:18 UTC on 22 October reported one successful exploitation; a correction at 21:21 UTC withdrew it, saying customer telemetry shows only scanning and a few failed attempts.",
+   "id": "sophos-correction",
+   "inv": false,
+   "ja": "10/22 16:18 UTC の更新で「悪用成功 1 件」と報告したが、21:21 UTC に訂正し、顧客環境ではスキャンと少数の失敗した試行だけだったとした。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Sophos",
+   "s": "excluded",
+   "src": "ledger",
+   "t": "Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)",
+   "u": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619",
+   "upd": ""
+  },
+  {
+   "cc": "",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "Tooling left on an exposed attacker server shows about 20 real websites screened and 11 probed in depth; SOCRadar found no shell access, and none met the exploit's preconditions.",
+   "id": "socradar-attacker-server",
+   "inv": false,
+   "ja": "攻撃者の公開サーバーに残っていた道具から、実在サイト約 20 件の調査と 11 件の詳細な探査が判明した。シェル取得の形跡はなく、悪用の前提条件を満たすサイトもなかった。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "SOCRadar",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "PHP2Shell Exploit Tooling Found on Exposed Attacker Server",
+   "u": "https://socradar.io/blog/php2shell-exploit-tooling-attacker-server/",
+   "upd": ""
+  },
+  {
+   "cc": "JP",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "As of 14:00 JST on 22 October, the hosting provider's investigation had received no reports of unauthorized access or data leaks through these flaws.",
+   "id": "sakura-internet",
+   "inv": false,
+   "ja": "10/22 14 時時点で、同社の調査では本脆弱性を悪用した不正アクセスや情報漏えいの被害報告はないとした。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "さくらインターネット (SAKURA internet)",
+   "s": "not_observed",
+   "src": "ledger",
+   "t": "【重要】PHPの脆弱性に関する当社の対応状況について",
+   "u": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/22/1968226117/",
+   "upd": ""
+  },
+  {
+   "cc": "",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "OffSeq's low-interaction decoys logged attempts from nine sources in seven countries; the decoys cannot be exploited, so the data shows attempts, not successes.",
+   "id": "offseq-honeypot",
+   "inv": false,
+   "ja": "OffSeq の低対話型ハニーポットが、7 か国・9 送信元からの試行を記録した。囮は悪用できない構成のため、成功ではなく試行のデータである。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "OffSeq",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "PHP2Shell in the wild: the first 48 hours on a honeypot fleet",
+   "u": "https://offseq.com/en/research/php2shell-first-48-hours/",
+   "upd": ""
+  },
+  {
+   "cc": "NZ",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "New Zealand's NCSC says it is aware of reports of active exploitation, but names no incidents and reports no compromise in New Zealand.",
+   "id": "ncsc-nz",
+   "inv": false,
+   "ja": "ニュージーランドの NCSC は活発な悪用の報告を把握しているとしたが、具体的な事案や国内の侵害は示していない。",
+   "nv": null,
+   "pt": "government",
+   "pub": "NCSC New Zealand",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "UPDATED: CVE-2026-109618 and CVE-2026-109619 affecting PHP",
+   "u": "https://www.ncsc.govt.nz/alerts/cve-2026-109618-and-cve-2026-109619-affecting-php/",
+   "upd": ""
+  },
+  {
+   "cc": "NL",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "In its update of 22 October 16:00 (local time), the Dutch NCSC says it is investigating first signals of successful exploitation; it confirms no compromise and gives no victim count.",
+   "id": "ncsc-nl-signals-1022",
+   "inv": true,
+   "ja": "オランダの NCSC は 10/22 16:00(現地時間)の更新で「悪用成功の最初の兆候」を調査中とした。侵害は確認しておらず、被害数も示していない。",
+   "nv": null,
+   "pt": "government",
+   "pub": "NCSC-NL",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "Update: PHP-kwetsbaarheden nog steeds reden om direct te patchen",
+   "u": "https://www.ncsc.nl/alerts/update-php-kwetsbaarheden-nog-steeds-reden-om-direct-te-patchen",
+   "upd": ""
+  },
+  {
+   "cc": "IL",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "KELA found underground claims of working exploits and successful use, none substantiated, and no vetted access sales; as of 13:00 UTC on 22 October it judged that no compromise is established.",
+   "id": "kela-underground",
+   "inv": false,
+   "ja": "地下フォーラムには攻撃コードや悪用成功の主張があるが、いずれも裏付けがなく、検証済みのアクセス販売もない。KELA は 10/22 13:00 UTC 時点で侵害は確立していないと評価した。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "KELA",
+   "s": "not_observed",
+   "src": "ledger",
+   "t": "php2shell: How the Underground Is Responding to the Leaked PHP RCE Vulnerabilities",
+   "u": "https://www.kelacyber.com/blog/php2shell-underground-response/",
+   "upd": ""
+  },
+  {
+   "cc": "US",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "Imperva counts first-day attack requests against about 22,000 customer sites in 103 countries and states the figures do not represent confirmed successful exploitation.",
+   "id": "imperva-lens",
+   "inv": false,
+   "ja": "Imperva は最初の 24 時間に、103 か国・約 2.2 万の顧客サイトを狙った攻撃要求を集計した。数値は悪用成功の確認を意味しないと明記している。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Imperva",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "PHP2Shell: Early Attack Activity Through Imperva's Lens",
+   "u": "https://www.imperva.com/blog/php2shell-early-attack-activity-through-impervas-lens/",
+   "upd": ""
+  },
+  {
+   "cc": "US",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "Its honeypots logged only two PHP2Shell requests. Attacker open directories show a Mirai-style botnet adding the exploit and a mass-exploitation server that ran ten passes against up to 123 servers (about 57 running PHP), with no shells logged and no successful compromise found.",
+   "id": "huntio-open-directories",
+   "inv": false,
+   "ja": "自社のハニーポットに届いた PHP2Shell の要求は 2 件だけ。攻撃者の公開ディレクトリから、Mirai 系ボットネットがこの悪用を取り込んだことと、最大 123 台(うち PHP 稼働は約 57 台)に 10 回攻撃した大量悪用サーバーを確認したが、シェル取得の記録はなく、成功した侵害は見つかっていない。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Hunt.io",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "Hunting Leaked PHP2Shell RCE Across Open Directories (CVE-2026-109618, CVE-2026-109619)",
+   "u": "https://hunt.io/blog/php2shell-cve-2026-109618-109619-open-directories",
+   "upd": ""
+  },
+  {
+   "cc": "HK",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "HKCERT states both CVEs are being exploited in the wild but describes no compromised victims.",
+   "id": "hkcert",
+   "inv": false,
+   "ja": "HKCERT は両 CVE が実環境で悪用されているとしたが、侵害された被害者は示していない。",
+   "nv": null,
+   "pt": "government",
+   "pub": "HKCERT",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "PHP Multiple Vulnerabilities",
+   "u": "https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20261022",
+   "upd": ""
+  },
+  {
+   "cc": "IL",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "Check Point telemetry shows exploitation attempts against 10% of organisations worldwide (Europe 14%, Hungary 38%, telecoms 20%). It says 'impacted' means attempts and that it cannot tell whether any attack succeeded.",
+   "id": "checkpoint-one-in-ten",
+   "inv": false,
+   "ja": "Check Point のテレメトリで、世界の組織の 10% が悪用の試行を受けた(欧州 14%、ハンガリー 38%、通信業 20%)。「影響」は試行のことで、攻撃が成功したかどうかは分からないとしている。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Check Point",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "PHP2Shell Update: One in ten organizations impacted as Europe bears the brunt",
+   "u": "https://blog.checkpoint.com/ai-security/php2shell-one-in-ten-organizations-impacted-as-europe-bears-the-brunt/",
+   "upd": ""
+  },
+  {
+   "cc": "DE",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "In version 1.2 (22 October), Germany's BSI says it has no confirmed reports of compromised systems in regulated industry or the federal administration, and knows of no broad successful exploitation.",
+   "id": "bsi",
+   "inv": false,
+   "ja": "ドイツの BSI は第 1.2 版(10/22)で、規制対象業界や連邦行政で侵害されたシステムの確認済み報告はなく、広範な悪用成功も把握していないとした。",
+   "nv": null,
+   "pt": "government",
+   "pub": "BSI",
+   "s": "not_observed",
+   "src": "ledger",
+   "t": "PHP: Kritische Schwachstellen bedrohen Webanwendungen weltweit",
+   "u": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032.pdf?__blob=publicationFile&v=3",
+   "upd": ""
+  },
+  {
+   "cc": "US",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-22",
+   "en": "Customer telemetry shows wide scanning and isolated second-stage download attempts tied to a Mirai-derived botnet, with no sign that any payload was downloaded or ran.",
+   "id": "arcticwolf",
+   "inv": false,
+   "ja": "顧客環境のテレメトリで広範なスキャンと、Mirai 系ボットネットにつながる単発の追加ダウンロード試行を確認した。ペイロードが取得・実行された形跡はない。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Arctic Wolf Labs",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "PHP2Shell: Critical PHP Vulnerabilities Enable Unauthenticated Remote Code Execution",
+   "u": "https://arcticwolf.com/resources/blog/php2shell-critical-php-vulnerabilities-enable-unauthenticated-remote-code-execution/",
+   "upd": ""
+  },
+  {
+   "cc": "SG",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "watchTowr says its honeypot network has seen exploitation of both CVEs since 21 October; it names no victims, reports no successful compromise and gives no counts.",
+   "id": "watchtowr-advisory",
+   "inv": false,
+   "ja": "watchTowr は 10/21 以降、自社のハニーポット網で両 CVE の悪用を観測したとする。被害組織、侵害の成否、件数はいずれも示していない。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "watchTowr",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "PHP Remote Code Execution (\"PHP2Shell\" CVE-2026-109618 & CVE-2026-109619)",
+   "u": "https://watchtowr.com/intelligence/php-remote-code-execution-php2shell/",
+   "upd": ""
+  },
+  {
+   "cc": "US",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "VulnCheck's canary hosts recorded scanning and one web-shell planting attempt that failed, as every follow-up request for the shell returned not found.",
+   "id": "vulncheck",
+   "inv": false,
+   "ja": "VulnCheck の囮ホストがスキャンと Web シェル設置の試行 1 件を記録した。後続の読み出し要求はすべて失敗しており、設置は成功していない。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "VulnCheck",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "PHP2Shell Vulnerabilities: CVE-2026-109618 and CVE-2026-109619",
+   "u": "https://www.vulncheck.com/blog/php2shell-vulnerabilities",
+   "upd": ""
+  },
+  {
+   "cc": "US",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "Rapid7 says it has not seen in-the-wild exploitation itself, while noting that others report attempts.",
+   "id": "rapid7",
+   "inv": false,
+   "ja": "Rapid7 は自社では実環境での悪用を観測していないとし、他社からは試行の報告があると付記した。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Rapid7",
+   "s": "not_observed",
+   "src": "ledger",
+   "t": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
+   "u": "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php/",
+   "upd": "2026-10-22"
+  },
+  {
+   "cc": "EE",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "Hosting partners first reported multiple active exploitation incidents (07:34 UTC); a later entry (13:57 UTC) says telemetry shows probing only, with no hard evidence of breaches.",
+   "id": "patchstack",
+   "inv": false,
+   "ja": "提携ホスティング事業者から当初「複数の悪用事案」の報告があった(07:34 UTC)が、13:57 UTC の追記では探索的な攻撃だけで、侵害の確かな証拠はないとした。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Patchstack",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "Major security alert: PHP vulnerable to critical RCE, attacks ongoing",
+   "u": "https://patchstack.com/articles/php-major-vulnerability-alert-10-2026/",
+   "upd": ""
+  },
+  {
+   "cc": "NL",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "On 21 October the Dutch NCSC had not seen active exploitation, though public proof-of-concept code was available.",
+   "id": "ncsc-nl-1021",
+   "inv": false,
+   "ja": "10/21 時点でオランダの NCSC は活発な悪用を確認していないとした。ただし公開の PoC はあるとしている。",
+   "nv": null,
+   "pt": "government",
+   "pub": "NCSC-NL",
+   "s": "not_observed",
+   "src": "ledger",
+   "t": "Blijf op de hoogte van de PHP-kwetsbaarheden",
+   "u": "https://community.ncsc.nl/p/php",
+   "upd": ""
+  },
+  {
+   "cc": "US",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "As of 4:30 pm US Eastern time on 21 October, Huntress had not seen in-the-wild exploitation on partner systems.",
+   "id": "huntress",
+   "inv": false,
+   "ja": "Huntress は 10/21 16:30(米東部時間)時点で、パートナー環境での実際の悪用を観測していないとした。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Huntress",
+   "s": "not_observed",
+   "src": "ledger",
+   "t": "Rapid Response: php2shell, Leaked Critical PHP Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)",
+   "u": "https://www.huntress.com/blog/php2shell-leaked-critical-php-vulnerabilities",
+   "upd": ""
+  },
+  {
+   "cc": "LT",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "Hostinger says it blocked exploit attempts already circulating and has seen no rise in malware infections on its managed hosting; its VPS service is not covered by that statement.",
+   "id": "hostinger",
+   "inv": false,
+   "ja": "Hostinger は出回っている悪用試行を遮断し、マネージドホスティングではマルウェア感染の増加は見られないとした(VPS はこの記述の対象外)。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Hostinger",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "Hostinger deploys protections against php2shell PHP vulnerabilities",
+   "u": "https://www.hostinger.com/blog/protecting-php2shell/",
+   "upd": ""
+  },
+  {
+   "cc": "NL",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "An update at 11:35 UTC on 21 October reports large-scale exploitation attempts, mostly through the session upload-progress path; it names no victims and states no successful compromise.",
+   "id": "hadrian",
+   "inv": false,
+   "ja": "10/21 11:35 UTC の更新で、主にセッションのアップロード進捗の経路を使った大規模な悪用試行を観測したと報告した。被害組織や侵害成功の記載はない。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Hadrian",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "php2shell: Leaked critical PHP RCEs (CVE-2026-109618, -109619)",
+   "u": "https://hadrian.io/vulnerability-alerts/php2shell-leaked-critical-php-rce-cve-2026-109618-cve-2026-109619",
+   "upd": ""
+  },
+  {
+   "cc": "",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "ELLIO's sensors received exploit requests and malware payloads from 21 October; it describes one source writing a web shell without saying whether the target was a decoy, and says no public source has confirmed a compromise.",
+   "id": "ellio",
+   "inv": false,
+   "ja": "ELLIO のセンサー網が 10/21 以降、悪用要求とマルウェアのペイロードを受信した。ある送信元が Web シェルを書き込む手順を記すが、対象が囮かどうかは書いておらず、侵害を確認した公開の報告はまだないとしている。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "ELLIO",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "PHP2Shell: attacks before the patch, and automation by nightfall",
+   "u": "https://ellio.tech/en/blog/php2shell-what-we-observed-and-what-to-do/",
+   "upd": ""
+  },
+  {
+   "cc": "SG",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "Singapore's CSA cites reports of widespread exploitation attempts and multiple PoCs, with no compromise stated.",
+   "id": "csa-sg",
+   "inv": false,
+   "ja": "シンガポールの CSA は広範な悪用試行と複数の PoC があるとの報告を挙げたが、侵害には触れていない。",
+   "nv": null,
+   "pt": "government",
+   "pub": "Cyber Security Agency of Singapore",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "Critical Vulnerabilities in PHP (PHP2Shell)",
+   "u": "https://csa.gov.sg/alerts-and-advisories/alerts/al-2026-151",
+   "upd": "2026-10-22"
+  },
+  {
+   "cc": "US",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "Cloudflare saw attack traffic against its customers, with attackers changing payloads to get past WAF rules; it claims no compromise.",
+   "id": "cloudflare-blog",
+   "inv": false,
+   "ja": "Cloudflare は顧客を狙う攻撃通信を観測し、攻撃者が WAF を回避するためにペイロードを変えていると報告した。侵害の主張はない。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Cloudflare",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "Cloudflare deploys protections against php2shell vulnerability",
+   "u": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection",
+   "upd": ""
+  },
+  {
+   "cc": "US",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "CISA had not observed exploitation when the alert was published; the page shows no later revision.",
+   "id": "cisa-alert",
+   "inv": false,
+   "ja": "CISA は注意喚起の公開時点で悪用を観測していないとした。ページにその後の改訂はない。",
+   "nv": null,
+   "pt": "government",
+   "pub": "CISA",
+   "s": "not_observed",
+   "src": "ledger",
+   "t": "Critical Vulnerabilities in PHP Require Immediate Patching",
+   "u": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+   "upd": ""
+  },
+  {
+   "cc": "CA",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "The Canadian Cyber Centre notes a public PoC but had identified no active exploitation as of 21 October.",
+   "id": "cccs",
+   "inv": false,
+   "ja": "カナダのサイバーセンターは、PoC は公開されているが 10/21 時点で活発な悪用は確認していないとした。",
+   "nv": null,
+   "pt": "government",
+   "pub": "Canadian Centre for Cyber Security",
+   "s": "not_observed",
+   "src": "ledger",
+   "t": "AL26-026 - Critical vulnerabilities impacting PHP - CVE-2026-109618 and CVE-2026-109619",
+   "u": "https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619",
+   "upd": ""
+  },
+  {
+   "cc": "US",
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "en": "Amazon's MadPot honeypots saw an attempt on 17 October and more from several actors around disclosure; Amazon says it is unclear whether any would have worked on real systems.",
+   "id": "aws-madpot",
+   "inv": false,
+   "ja": "Amazon のハニーポット MadPot が 10/17 に試行を観測し、公表前後にも複数の攻撃者による試行を観測した。実在のシステムで成功し得たかは不明としている。",
+   "nv": null,
+   "pt": "vendor",
+   "pub": "Amazon Threat Intelligence",
+   "s": "attempts_observed",
+   "src": "ledger",
+   "t": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+   "u": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+   "upd": ""
+  }
+ ],
+ "sources": [
+  {
+   "how": "RSS: CISA advisories and news, UK NCSC, NCSC-NL, CERT-FR, Canadian Centre for Cyber Security, HKCERT, JPCERT/CC, IPA",
+   "how_ja": "RSS: CISA(注意喚起・ニュース)、英 NCSC、NCSC-NL、CERT-FR、カナダ CCCS、HKCERT、JPCERT/CC、IPA",
+   "name": "Government and CERT advisories",
+   "name_ja": "政府・CERT の注意喚起",
+   "note": "Statements on whether exploitation has been observed, and KEV additions.",
+   "note_ja": "悪用を観測したかどうかの表明と、KEV への追加。",
+   "ok": true,
+   "url": ""
+  },
+  {
+   "how": "RSS: AWS Security, Cloudflare, Imperva, Sophos, Palo Alto Unit 42, Arctic Wolf, SOCRadar, VirusTotal, Wordfence, watchTowr, Huntress, Patchstack, Recorded Future, SANS ISC",
+   "how_ja": "RSS: AWS Security、Cloudflare、Imperva、Sophos、Palo Alto Unit 42、Arctic Wolf、SOCRadar、VirusTotal、Wordfence、watchTowr、Huntress、Patchstack、Recorded Future、SANS ISC",
+   "name": "Security vendors and researchers",
+   "name_ja": "セキュリティ企業・研究者",
+   "note": "Honeypot, WAF and incident-response observations.",
+   "note_ja": "ハニーポット・WAF・インシデント対応での観測。",
+   "ok": true,
+   "url": ""
+  },
+  {
+   "how": "RSS: BleepingComputer, The Hacker News, SecurityWeek, Help Net Security, Dark Reading, CyberScoop, Security Affairs",
+   "how_ja": "RSS: BleepingComputer、The Hacker News、SecurityWeek、Help Net Security、Dark Reading、CyberScoop、Security Affairs",
+   "name": "Security press (English)",
+   "name_ja": "セキュリティ報道(英語)",
+   "note": "Used to find primary statements; a press article alone does not establish a compromise.",
+   "note_ja": "一次の表明を見つける入口。報道だけでは侵害の根拠にしない。",
+   "ok": true,
+   "url": ""
+  },
+  {
+   "how": "RSS: ITmedia, @IT, Security NEXT, piyolog",
+   "how_ja": "RSS: ITmedia、@IT、Security NEXT、piyolog",
+   "name": "Security press (Japanese)",
+   "name_ja": "セキュリティ報道(日本語)",
+   "note": "Japanese disclosures and corrections.",
+   "note_ja": "国内の公表と訂正。",
+   "ok": true,
+   "url": ""
+  },
+  {
+   "how": "RSS: Anquanke, 4hou, Seebug (Chinese), iThome (Taiwan), CSO India",
+   "how_ja": "RSS: 安全客・嘶吼・Seebug(中国語)、iThome(台湾)、CSO India",
+   "name": "Security press (Asia: Chinese, Taiwan, India)",
+   "name_ja": "セキュリティ報道(アジア: 中国語・台湾・インド)",
+   "note": "Regional disclosures; Chinese-language items are matched on the name PHP2Shell or the CVE IDs.",
+   "note_ja": "地域の公表。中国語の記事は PHP2Shell の名前か CVE 番号で拾う。",
+   "ok": true,
+   "url": ""
+  },
+  {
+   "how": "JSON catalogue",
+   "how_ja": "JSON カタログ",
+   "name": "CISA Known Exploited Vulnerabilities",
+   "name_ja": "CISA KEV",
+   "note": "Whether and when either CVE, or the related CVE-2026-115560, is listed.",
+   "note_ja": "どちらかの CVE、または関連する CVE-2026-115560 が掲載されたか、その日付。",
+   "ok": true,
+   "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+  },
+  {
+   "how": "Sister data sets on this site",
+   "how_ja": "このサイトの姉妹データ",
+   "name": "WAF Rule Watch and the Breach Radars",
+   "name_ja": "WAF 更新ウォッチと侵害レーダー",
+   "note": "Vendor texts naming the CVEs; disclosed incidents that name them.",
+   "note_ja": "CVE を名指しした各社の文面と、CVE を名指した公表事案。",
+   "ok": true,
+   "url": "https://ba-cybersecurity.com/radar/waf/"
+  },
+  {
+   "how": "",
+   "how_ja": "",
+   "name": "Google News search feeds",
+   "name_ja": "Google ニュースの検索フィード",
+   "note": "robots.txt disallows automated reading.",
+   "note_ja": "robots.txt が自動取得を許可していない。",
+   "ok": false,
+   "url": ""
+  },
+  {
+   "how": "",
+   "how_ja": "",
+   "name": "Australian Signals Directorate (cyber.gov.au)",
+   "name_ja": "豪 ASD(cyber.gov.au)",
+   "note": "Feeds did not respond from Japan (HTTP/2 reset, then no reply within 40 seconds). Its alert of 21 October gives patching advice and does not state whether exploitation was observed.",
+   "note_ja": "日本からはフィードが応答しない(HTTP/2 で切断、40 秒以内に応答なし)。10/21 の注意喚起は修正を促すもので、悪用の観測には触れていない。",
+   "ok": false,
+   "url": "https://www.cyber.gov.au/"
+  },
+  {
+   "how": "",
+   "how_ja": "",
+   "name": "CERT-In (India), CNCERT and CNVD (China)",
+   "name_ja": "インド CERT-In、中国 CNCERT・CNVD",
+   "note": "CERT-In did not respond from Japan; CNCERT and CNVD publish no readable feed. China's national notification centre issued a warning on 22 October without stating whether exploitation was observed.",
+   "note_ja": "CERT-In は日本から応答しない。CNCERT・CNVD は読めるフィードを出していない。中国の国家网络安全通报中心は 10/22 に注意喚起を出したが、悪用の観測には触れていない。",
+   "ok": false,
+   "url": ""
+  },
+  {
+   "how": "",
+   "how_ja": "",
+   "name": "BSI, The Register, SC Media, Rapid7, VulnCheck, CERT-EU feeds",
+   "name_ja": "BSI・The Register・SC Media・Rapid7・VulnCheck・CERT-EU のフィード",
+   "note": "Disallowed by robots.txt, malformed XML, or no feed at the published address. BSI and Rapid7 statements found by hand are in the report list.",
+   "note_ja": "robots.txt で不許可、XML が不正、または公開の場所にフィードが無い。手で見つけた BSI と Rapid7 の表明は報告一覧に載せている。",
+   "ok": false,
+   "url": ""
+  }
+ ],
+ "stats": [
+  {
+   "at": "2026-10-20",
+   "en": "Unique hosts with a PHP service, the day before the release (4,384,302 services in total).",
+   "id": "modat-hosts",
+   "ja": "修正版公開の前日に PHP サービスを持っていた固有ホスト数(サービス数では 4,384,302 件)。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Modat",
+   "sc": "global",
+   "u": "https://modat.io/blog/php-exposure-before-the-21-oct-2026-security-release/",
+   "unit": "hosts",
+   "v": 1886612
+  },
+  {
+   "at": "2026-10-20",
+   "en": "Unique PHP hosts in Japan (219,295 services), third after the United States and China.",
+   "id": "modat-jp-hosts",
+   "ja": "日本の PHP 固有ホスト数(サービス数は 219,295 件)。米国・中国に次ぐ 3 位。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Modat",
+   "sc": "JP",
+   "u": "https://modat.io/blog/php-exposure-before-the-21-oct-2026-security-release/",
+   "unit": "hosts",
+   "v": 140294
+  },
+  {
+   "at": "2026-10-21",
+   "en": "Internet-facing PHP hosts on Shodan, honeypots excluded; 1,372,495 disclose an affected version.",
+   "id": "blackkite-hosts",
+   "ja": "Shodan 上の公開 PHP ホスト数(ハニーポットを除く)。影響を受ける版を示すのは 1,372,495 台。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Black Kite",
+   "sc": "global",
+   "u": "https://blackkite.com/blog/php2shell-two-critical-remote-code-execution-vulnerabilities-in-the-php-core-",
+   "unit": "hosts",
+   "v": 1898841
+  },
+  {
+   "at": "2026-10-21",
+   "en": "Internet-facing hosts running PHP seen by Censys; about 1.58 million showed an identifiable version.",
+   "id": "censys-hosts-20261021",
+   "ja": "Censys が観測した、インターネットに公開された PHP 稼働ホスト数。うち約 158 万台で版を識別できた。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Censys (via SecurityWeek)",
+   "sc": "global",
+   "u": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+   "unit": "hosts",
+   "v": 2580000
+  },
+  {
+   "at": "2026-10-21",
+   "en": "Hosts showing an identifiable but unpatched PHP version, read from banners.",
+   "id": "censys-unpatched-20261021",
+   "ja": "版を識別でき、修正版ではないホスト数。バナー情報による。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Censys (via SecurityWeek)",
+   "sc": "global",
+   "u": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+   "unit": "hosts",
+   "v": 1570000
+  },
+  {
+   "at": "2026-10-21",
+   "en": "Version-disclosing IPs on end-of-life branches 5.4 to 8.1, against about 272,000 on supported 8.2 to 8.5.",
+   "id": "virustotal-eol-ips",
+   "ja": "版を示す IP のうちサポート終了の系統(5.4〜8.1)の数。サポート中の 8.2〜8.5 は約 27.2 万件。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "VirusTotal",
+   "sc": "global",
+   "u": "https://blog.virustotal.com/2026/10/sizing-php-exposure-window-for-cve-2026.html",
+   "unit": "IPs",
+   "v": 758000
+  },
+  {
+   "at": "2026-10-21",
+   "en": "IP addresses fingerprinted as PHP on any port (median of seven runs); only about 1.1 million disclose a version.",
+   "id": "virustotal-ips",
+   "ja": "いずれかのポートで PHP と判定された IP 数(7 回の計測の中央値)。版を示すのは約 110 万件だけ。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "VirusTotal",
+   "sc": "global",
+   "u": "https://blog.virustotal.com/2026/10/sizing-php-exposure-window-for-cve-2026.html",
+   "unit": "IPs",
+   "v": 5100000
+  },
+  {
+   "at": "2026-10-21",
+   "en": "Internet-facing PHP hosts from 30 days of scans; VulnCheck treats 99.998% as vulnerable or likely vulnerable.",
+   "id": "vulncheck-hosts",
+   "ja": "過去 30 日のスキャンで見つかった公開 PHP ホスト数。VulnCheck は 99.998% を脆弱または脆弱の可能性ありと判定。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "VulnCheck",
+   "sc": "global",
+   "u": "https://www.vulncheck.com/blog/php2shell-vulnerabilities",
+   "unit": "hosts",
+   "v": 2608039
+  },
+  {
+   "at": "2026-10-21T16:22Z",
+   "en": "Services in Japan reporting a PHP version.",
+   "id": "mallory-jp-services",
+   "ja": "日本で PHP の版を示したサービス数。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Mallory (Shodan data)",
+   "sc": "JP",
+   "u": "https://mallory.ai/blog/php-rce-rapid-response",
+   "unit": "services",
+   "v": 180514
+  },
+  {
+   "at": "2026-10-21T16:22Z",
+   "en": "Internet-facing services (IP and port) reporting a PHP version on Shodan.",
+   "id": "mallory-services",
+   "ja": "Shodan で PHP の版を示した公開サービス(IP とポートの組)の数。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Mallory (Shodan data)",
+   "sc": "global",
+   "u": "https://mallory.ai/blog/php-rce-rapid-response",
+   "unit": "services",
+   "v": 2600000
+  },
+  {
+   "at": "2026-10-22",
+   "en": "'Nearly 3 million' internet-facing hosts running PHP (rounded by the publisher).",
+   "id": "censys-hosts-20261022",
+   "ja": "PHP 稼働の公開ホスト「約 300 万台」(発表元による概数)。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Censys (via SecurityWeek)",
+   "sc": "global",
+   "u": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+   "unit": "hosts",
+   "v": 3000000
+  },
+  {
+   "at": "2026-10-22",
+   "en": "Exposed instances that may be vulnerable, found by Cortex Xpanse; instances, not hosts.",
+   "id": "unit42-xpanse",
+   "ja": "Cortex Xpanse が見つけた、脆弱な可能性のある公開インスタンスの数。単位はホストではなくインスタンス。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Palo Alto Networks Unit 42",
+   "sc": "global",
+   "u": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+   "unit": "instances",
+   "v": 22600000
+  },
+  {
+   "at": "2026-10-23",
+   "en": "Hosts running PHP detected by Censys (with 67.6 million web properties), counting PHP of any version. Censys attributes the rise over its earlier counts to better PHP detection, not more exposure.",
+   "id": "censys-hosts-20261023",
+   "ja": "Censys が検出した PHP 稼働ホスト数(Web プロパティは 6,760 万件)。版を問わず数えている。以前の数より増えたのは PHP の検出の改善によるもので、露出が増えたためではないとしている。",
+   "lb": false,
+   "m": "exposure_hosts",
+   "pub": "Censys",
+   "sc": "global",
+   "u": "https://censys.com/advisory/cve-2026-109618-cve-2026-109619/",
+   "unit": "hosts",
+   "v": 4184559
+  },
+  {
+   "at": "2026-10-20",
+   "en": "Share of version-readable PHP services on unsupported branches (4.x to 8.1); 75% by host count.",
+   "id": "modat-eol-share",
+   "ja": "版を読めた PHP サービスのうちサポート外の系統(4.x〜8.1)の割合。ホスト数では 75%。",
+   "lb": false,
+   "m": "exposure_eol_share",
+   "pub": "Modat",
+   "sc": "global",
+   "u": "https://modat.io/blog/php-exposure-before-the-21-oct-2026-security-release/",
+   "unit": "%",
+   "v": 79
+  },
+  {
+   "at": "2026-10-20",
+   "en": "Share of Japanese PHP hosts not on supported branches 8.2 to 8.5 (33,148 of 140,294 hosts are on supported branches).",
+   "id": "modat-jp-supported-share",
+   "ja": "日本の PHP ホストのうち、サポート中の 8.2〜8.5 以外で動く割合(サポート中は 140,294 台中 33,148 台)。",
+   "lb": false,
+   "m": "exposure_eol_share",
+   "pub": "Modat",
+   "sc": "JP",
+   "u": "https://modat.io/blog/php-exposure-before-the-21-oct-2026-security-release/",
+   "unit": "%",
+   "v": 76
+  },
+  {
+   "at": "2026-10-21",
+   "en": "Share of version-disclosing affected hosts on end-of-life branches (about 994,000).",
+   "id": "blackkite-eol-share",
+   "ja": "版を示す影響ホストのうちサポート終了の系統の割合(約 99.4 万台)。",
+   "lb": false,
+   "m": "exposure_eol_share",
+   "pub": "Black Kite",
+   "sc": "global",
+   "u": "https://blackkite.com/blog/php2shell-two-critical-remote-code-execution-vulnerabilities-in-the-php-core-",
+   "unit": "%",
+   "v": 72.5
+  },
+  {
+   "at": "2026-10-21",
+   "en": "Share of PHP hosts (over 1.1 million) on branches with no official fixed release (3.x to 8.1).",
+   "id": "vulncheck-eol-share",
+   "ja": "公式の修正版がない系統(3.x〜8.1)で動く PHP ホストの割合(110 万台超)。",
+   "lb": false,
+   "m": "exposure_eol_share",
+   "pub": "VulnCheck",
+   "sc": "global",
+   "u": "https://www.vulncheck.com/blog/php2shell-vulnerabilities",
+   "unit": "%",
+   "v": 42
+  },
+  {
+   "at": "2026-10-21T16:22Z",
+   "en": "Share of version-reporting services on PHP 8.1 or older (corrected from 59% in the 20 October version).",
+   "id": "mallory-eol-share",
+   "ja": "版を示すサービスのうち PHP 8.1 以前の割合(10/20 版の 59% から訂正された値)。",
+   "lb": false,
+   "m": "exposure_eol_share",
+   "pub": "Mallory (Shodan data)",
+   "sc": "global",
+   "u": "https://mallory.ai/blog/php-rce-rapid-response",
+   "unit": "%",
+   "v": 73.5
+  },
+  {
+   "at": "2026-10-21T16:22Z",
+   "en": "Share of Japanese version-reporting services on PHP 8.1 or older (142,232).",
+   "id": "mallory-jp-eol-share",
+   "ja": "日本の版表示サービスのうち PHP 8.1 以前の割合(142,232 件)。",
+   "lb": false,
+   "m": "exposure_eol_share",
+   "pub": "Mallory (Shodan data)",
+   "sc": "JP",
+   "u": "https://mallory.ai/blog/php-rce-rapid-response",
+   "unit": "%",
+   "v": 79
+  },
+  {
+   "at": "2026-10-21T21:42Z",
+   "en": "About 8 hours after release: services on supported branches 8.2 to 8.5 showing a fixed version (2,149 of about 606,000).",
+   "id": "mallory-patch-8h",
+   "ja": "修正版公開の約 8 時間後。サポート中の系統(8.2〜8.5)で修正版を示したサービス(約 60.6 万件中 2,149 件)。",
+   "lb": false,
+   "m": "patch_uptake_pct",
+   "pub": "Mallory (Shodan data)",
+   "sc": "global",
+   "u": "https://mallory.ai/blog/php-rce-rapid-response",
+   "unit": "%",
+   "v": 0.36
+  },
+  {
+   "at": "2026-10-22",
+   "en": "About 12 hours after release: 4,519 patched against 1,965,127 unpatched version-visible instances.",
+   "id": "ox-patch-12h",
+   "ja": "公開から約 12 時間後。版が見えるインスタンスで修正済み 4,519 件、未修正 1,965,127 件。",
+   "lb": false,
+   "m": "patch_uptake_pct",
+   "pub": "OX Security (Shodan data)",
+   "sc": "global",
+   "u": "https://www.ox.security/blog/php2shell-24-hours-in-99-3-of-measurable-php-instances-are-still-unpatched/",
+   "unit": "%",
+   "v": 0.23
+  },
+  {
+   "at": "2026-10-22",
+   "en": "About 24 hours after release: 14,151 patched against 1,974,890 unpatched instances in the affected range.",
+   "id": "ox-patch-24h",
+   "ja": "公開から約 24 時間後。影響範囲のインスタンスで修正済み 14,151 件、未修正 1,974,890 件。",
+   "lb": false,
+   "m": "patch_uptake_pct",
+   "pub": "OX Security (Shodan data)",
+   "sc": "global",
+   "u": "https://www.ox.security/blog/php2shell-24-hours-in-99-3-of-measurable-php-instances-are-still-unpatched/",
+   "unit": "%",
+   "v": 0.72
+  },
+  {
+   "at": "2026-10-22T06:43Z",
+   "en": "First tracker sample, supported branches 8.2 to 8.5 only: fixed-version records as a share of version-visible records (36,968 of 674,386).",
+   "id": "infrawatch-supported-20261022T0643",
+   "ja": "トラッカーの最初の計測、サポート中の系統 8.2〜8.5 だけ。版が見えるレコードに占める修正版の割合(674,386 件中 36,968 件)。",
+   "lb": false,
+   "m": "patch_uptake_pct",
+   "pub": "Infrawatch (php2shell-tracker.com)",
+   "sc": "global",
+   "u": "https://php2shell-tracker.com/",
+   "unit": "%",
+   "v": 5.48
+  },
+  {
+   "at": "2026-10-22T12:00Z",
+   "en": "All version-visible PHP 5.4 to 8.5 records (70,993 of 2,329,897); supported branches only: 10.49%.",
+   "id": "infrawatch-global-20261022T1200",
+   "ja": "版が見える PHP 5.4〜8.5 の全レコード(2,329,897 件中 70,993 件)。サポート中の系統だけでは 10.49%。",
+   "lb": false,
+   "m": "patch_uptake_pct",
+   "pub": "Infrawatch (php2shell-tracker.com)",
+   "sc": "global",
+   "u": "https://php2shell-tracker.com/",
+   "unit": "%",
+   "v": 3.05
+  },
+  {
+   "at": "2026-10-22T18:00Z",
+   "en": "Same measure (122,445 of 2,322,350); supported branches only: 17.96%.",
+   "id": "infrawatch-global-20261022T1800",
+   "ja": "同じ指標(2,322,350 件中 122,445 件)。サポート中の系統だけでは 17.96%。",
+   "lb": false,
+   "m": "patch_uptake_pct",
+   "pub": "Infrawatch (php2shell-tracker.com)",
+   "sc": "global",
+   "u": "https://php2shell-tracker.com/",
+   "unit": "%",
+   "v": 5.27
+  },
+  {
+   "at": "2026-10-23T00:00Z",
+   "en": "Same measure (156,068 of 2,316,457); supported branches only: 22.75%.",
+   "id": "infrawatch-global-20261023T0000",
+   "ja": "同じ指標(2,316,457 件中 156,068 件)。サポート中の系統だけでは 22.75%。",
+   "lb": false,
+   "m": "patch_uptake_pct",
+   "pub": "Infrawatch (php2shell-tracker.com)",
+   "sc": "global",
+   "u": "https://php2shell-tracker.com/",
+   "unit": "%",
+   "v": 6.74
+  },
+  {
+   "at": "2026-10-23T01:36Z",
+   "en": "Japan, all version-visible PHP 5.4 to 8.5 records (24,875 of 155,959); the same global measure was about 7%.",
+   "id": "infrawatch-jp-20261023",
+   "ja": "日本、版が見える PHP 5.4〜8.5 の全レコード(155,959 件中 24,875 件)。同じ指標の世界全体は約 7%。",
+   "lb": false,
+   "m": "patch_uptake_pct",
+   "pub": "Infrawatch (php2shell-tracker.com)",
+   "sc": "JP",
+   "u": "https://php2shell-tracker.com/",
+   "unit": "%",
+   "v": 15.95
+  },
+  {
+   "at": "2026-10-23T01:50Z",
+   "en": "Same measure (164,304 of 2,307,594); supported branches only: 23.99%.",
+   "id": "infrawatch-global-20261023T0150",
+   "ja": "同じ指標(2,307,594 件中 164,304 件)。サポート中の系統だけでは 23.99%。",
+   "lb": false,
+   "m": "patch_uptake_pct",
+   "pub": "Infrawatch (php2shell-tracker.com)",
+   "sc": "global",
+   "u": "https://php2shell-tracker.com/",
+   "unit": "%",
+   "v": 7.12
+  },
+  {
+   "at": "2026-10-21T23:00Z",
+   "en": "Requests carrying the session upload-progress field from 33 sources, reaching ELLIO's decoy sensors.",
+   "id": "ellio-requests-1021",
+   "ja": "33 の送信元から ELLIO の囮センサーに届いた、セッションのアップロード進捗の項目を含む要求の数。",
+   "lb": false,
+   "m": "attack_attempts",
+   "pub": "ELLIO",
+   "sc": "global",
+   "u": "https://ellio.tech/en/blog/php2shell-what-we-observed-and-what-to-do/",
+   "unit": "requests",
+   "v": 743
+  },
+  {
+   "at": "2026-10-22",
+   "en": "Share of organisations in Check Point telemetry that saw exploitation attempts since the leak (Europe 14%; North America, Latin America and APAC 6%; Africa 4%). Whether attempts succeeded is not known.",
+   "id": "checkpoint-orgs-attempted",
+   "ja": "流出以降に悪用の試行を受けた組織の割合(Check Point のテレメトリ。欧州 14%、北米・中南米・アジア太平洋 6%、アフリカ 4%)。成功したかどうかは分からない。",
+   "lb": false,
+   "m": "attack_attempts",
+   "pub": "Check Point",
+   "sc": "global",
+   "u": "https://blog.checkpoint.com/ai-security/php2shell-one-in-ten-organizations-impacted-as-europe-bears-the-brunt/",
+   "unit": "%",
+   "v": 10
+  },
+  {
+   "at": "2026-10-22",
+   "en": "Attack requests against Imperva customers in the first 24 hours: 122,311 sessions against 21,998 sites in 103 countries (US 64.5% of sites).",
+   "id": "imperva-requests-24h",
+   "ja": "最初の 24 時間に Imperva の顧客を狙った攻撃要求の数。12.2 万セッション、103 か国・21,998 サイトが対象(サイトの 64.5% が米国)。",
+   "lb": false,
+   "m": "attack_attempts",
+   "pub": "Imperva",
+   "sc": "global",
+   "u": "https://www.imperva.com/blog/php2shell-early-attack-activity-through-impervas-lens/",
+   "unit": "requests",
+   "v": 482342
+  },
+  {
+   "at": "2026-10-22T01:25Z",
+   "en": "'Millions' of attempts across Cloudflare's network, so shown as a lower bound: thousands in the 10 hours before disclosure, tens of thousands in the 45 minutes after, hundreds of thousands within two hours.",
+   "id": "cloudflare-attempts-ceo",
+   "ja": "Cloudflare のネットワーク全体で「数百万件」のため下限として示す。公表前 10 時間で数千件、公表後 45 分で数万件、2 時間以内に数十万件。",
+   "lb": true,
+   "m": "attack_attempts",
+   "pub": "Cloudflare CEO (X post, quoted by The Register)",
+   "sc": "global",
+   "u": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
+   "unit": "attempts",
+   "v": 1000000
+  },
+  {
+   "at": "2026-10-22",
+   "en": "PoC repositories among the top 100 non-fork GitHub results for 'php2shell'; 46 were defensive tools. VulnCheck separately counts hundreds, few of them genuine.",
+   "id": "ahnlab-poc-repos",
+   "ja": "GitHub で「php2shell」を検索した上位 100 件(フォーク除く)のうち PoC は 27 件、防御用ツールは 46 件。VulnCheck は別に数百件あり本物はごく少数としている。",
+   "lb": false,
+   "m": "poc_repos",
+   "pub": "AhnLab ASEC",
+   "sc": "global",
+   "u": "https://asec.ahnlab.com/en/95944/",
+   "unit": "repos",
+   "v": 27
+  },
+  {
+   "at": "2026-10-22",
+   "en": "PHP installations patched in the first 12 hours among Qualys customers (about 167 million installations at 12,000 customers, not limited to the internet); no percentage given.",
+   "id": "qualys-patched-12h",
+   "ja": "Qualys の顧客で最初の 12 時間に修正された PHP の導入数(顧客 1.2 万社・約 1.67 億件、インターネット公開に限らない)。割合は示されていない。",
+   "lb": false,
+   "m": "other",
+   "pub": "Qualys",
+   "sc": "global",
+   "u": "https://blog.qualys.com/vulnerabilities-threat-research/2026/10/20/php-announces-critical-security-release-for-two-vulnerabilities",
+   "unit": "installations",
+   "v": 199000
+  }
+ ],
+ "status_table": [
+  {
+   "latest": "",
+   "n": 0,
+   "nv": 0,
+   "pubs": 0,
+   "s": "compromise_confirmed"
+  },
+  {
+   "latest": "",
+   "n": 0,
+   "nv": 0,
+   "pubs": 0,
+   "s": "compromise_reported"
+  },
+  {
+   "latest": "2026-10-22",
+   "n": 18,
+   "nv": null,
+   "pubs": 18,
+   "s": "attempts_observed"
+  },
+  {
+   "latest": "2026-10-22",
+   "n": 8,
+   "nv": null,
+   "pubs": 8,
+   "s": "not_observed"
+  },
+  {
+   "latest": "2026-10-22",
+   "n": 2,
+   "nv": null,
+   "pubs": 2,
+   "s": "excluded"
+  }
+ ]
+}

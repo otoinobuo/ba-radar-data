@@ -1,0 +1,4936 @@
+{
+ "generated": "2026-10-29T00:33:05Z",
+ "incidents": [
+  {
+   "d": "2026-10-29",
+   "ls": "none_found",
+   "o": "フジテレビの番組宣伝システム",
+   "oe": "",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "フジテレビの番組宣伝システムに不正アクセス、メディア関係者の個人情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56619.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-29",
+   "ls": "unchecked",
+   "nn": [
+    {
+     "d": "",
+     "t": "アットリンクへの不正アクセスおよびサービスの一時停止に関する最新情報",
+     "u": "https://at-link.net/information/%e3%82%a2%e3%83%83%e3%83%88%e3%83%aa%e3%83%b3%e3%82%af%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%8a%e3%82%88%e3%81%b3%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae"
+    }
+   ],
+   "o": "@link(アットリンク)",
+   "oe": "",
+   "on": "https://at-link.net/information/%e3%82%a2%e3%83%83%e3%83%88%e3%83%aa%e3%83%b3%e3%82%af%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%8a%e3%82%88%e3%81%b3%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "医療機関業務支援システム「@link（アットリンク）」に不正アクセス、サービスの提供を一時停止",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56618.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-29",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-22",
+     "t": "「NP後払い」への不正アクセスについて",
+     "u": "https://corp.netprotections.com/news/info/corporate/20261022"
+    }
+   ],
+   "o": "NP後払い",
+   "oe": "",
+   "on": "https://corp.netprotections.com/news/info/corporate/20261022",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "BtoC通販向け決済「NP後払い」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56616.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-29",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-21",
+     "t": "株式会社ラクスライトクラウドで発生した不正アクセスに伴う個人情報漏えいの可能性について",
+     "u": "https://www.japex.co.jp/news/uploads/pdf/JAPEX20261021_potential_leak_information_j.pdf"
+    }
+   ],
+   "o": "blastmail",
+   "oe": "blastmail",
+   "on": "https://www.japex.co.jp/news/uploads/pdf/JAPEX20261021_potential_leak_information_j.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "石油資源開発が利用するラクスライトクラウドのASPサービス「blastmail」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56615.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-29",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】弊社システム障害に伴う、受注・出荷の停止に関するお詫びとご案内",
+     "u": "https://maruki-ms.co.jp/archives/8405"
+    }
+   ],
+   "o": "丸木医科器械",
+   "oe": "",
+   "on": "https://maruki-ms.co.jp/archives/8405",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "丸木医科器械へのサイバー攻撃で基幹システムがダウン、FAX で注文受付",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56614.html"
+    }
+   ],
+   "t": "other",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "o": "楽天トラベル",
+   "oe": "",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-28",
+     "t": "複数予約サイトで侵害、顧客情報が流出か - 楽天トラベル",
+     "u": "https://www.security-next.com/191989"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "愛知県",
+     "u": "https://www.pref.aichi.jp/"
+    }
+   ],
+   "o": "愛知県",
+   "oe": "",
+   "on": "https://www.pref.aichi.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-28",
+     "t": "婚活情報ポータルサイトに無関係の個人情報 - 愛知県",
+     "u": "https://www.security-next.com/191655"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-28",
+     "t": "Amadeus社が提供する旅客サービスシステムへの不正アクセスについて",
+     "u": "https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html"
+    }
+   ],
+   "o": "Amadeus",
+   "oe": "Amadeus",
+   "on": "https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-28",
+     "t": "Amadeus の旅客サービスシステムへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/28/214917"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】不正アクセスによる個人情報漏えいに関するお詫びとお知らせ（第一報）｜株式会社フューチャーショップ",
+     "u": "https://www.future-shop.jp/news/2026/10/23.html"
+    }
+   ],
+   "o": "futureshop",
+   "oe": "futureshop",
+   "on": "https://www.future-shop.jp/news/2026/10/23.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "「futureshop」に不正アクセス、1店舗の会員情報約315万件が漏えい│株式会社フューチャーショップ",
+     "u": "https://cybersecurity-jp.com/news/117820"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "「発車オーライネット」におけるお客様情報の漏えいについて（お詫び）｜北海道中央バス株式会社",
+     "u": "https://www.chuo-bus.co.jp/%E3%80%8C%E7%99%BA%E8%BB%8A%E3%82%AA%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%81%8A%E5%AE%A2%E6%A7%98%E6%83%85%E5%A0%B1%E3%81%AE%E6%BC%8F%E3%81%88%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E3%81%8A%E8%A9%AB%E3%81%B3%EF%BC%89%E2%80%A6/main_info/2410"
+    }
+   ],
+   "o": "北海道中央バス",
+   "oe": "",
+   "on": "https://www.chuo-bus.co.jp/%E3%80%8C%E7%99%BA%E8%BB%8A%E3%82%AA%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%81%8A%E5%AE%A2%E6%A7%98%E6%83%85%E5%A0%B1%E3%81%AE%E6%BC%8F%E3%81%88%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E3%81%8A%E8%A9%AB%E3%81%B3%EF%BC%89%E2%80%A6/main_info/2410",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "北海道中央バス、予約サイト「発車オーライネット」で予約情報漏えいの可能性",
+     "u": "https://cybersecurity-jp.com/news/117817"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-24",
+     "t": "「チャリロト」アプリサービスへの不正アクセスに伴う個人情報漏えいに関するお詫びとお知らせ｜株式会社チャリ・ロト",
+     "u": "https://chariloto.jp/news/20261024"
+    }
+   ],
+   "o": "チャリロト",
+   "oe": "",
+   "on": "https://chariloto.jp/news/20261024",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "チャリロトに不正アクセス、会員373人の口座情報や投票履歴が漏えい│株式会社チャリ・ロト",
+     "u": "https://cybersecurity-jp.com/news/117812"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスに伴う個人情報漏洩の可能性に関するお詫びとお知らせ｜社会福祉法人高生会",
+     "u": "https://kosei.or.jp/news/vIyrwDf3"
+    }
+   ],
+   "o": "外部サービス",
+   "oe": "",
+   "on": "https://kosei.or.jp/news/vIyrwDf3",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "外部サービスへの不正アクセスで問い合わせ情報約843件漏えいのおそれ│社会福祉法人高生会",
+     "u": "https://cybersecurity-jp.com/news/117804"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社への不正アクセスに関するお知らせとお詫び｜デジタルアーツ株式会社",
+     "u": "https://www.daj.jp/webtopics/1354"
+    }
+   ],
+   "o": "AI活用の総点検",
+   "oe": "",
+   "on": "https://www.daj.jp/webtopics/1354",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "AI活用の総点検で不正アクセス発覚、クラウド利用者にパスワード変更要請│デジタルアーツ株式会社",
+     "u": "https://cybersecurity-jp.com/news/117802"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-24",
+     "t": "静岡駅前地下駐車場（エキパ）における個人情報の漏えいのおそれについて",
+     "u": "https://www.city.shizuoka.lg.jp/documents/1394/20261024001.pdf"
+    }
+   ],
+   "o": "静岡県静岡市",
+   "oe": "Shizuoka City",
+   "on": "https://www.city.shizuoka.lg.jp/documents/1394/20261024001.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "個人情報を電話で読み上げ ～ 駐車券紛失届を拾得したとする人物から買い取り要求、個人情報拡散を示唆する発言も",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56610.html"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-23",
+     "t": "外部からの不正アクセスに伴う一部サービスの停止について",
+     "u": "https://www.yamada-denki.jp/information/pdf/261023_3.pdf"
+    }
+   ],
+   "o": "ヤマダデンキ",
+   "oe": "Yamada Denki",
+   "on": "https://www.yamada-denki.jp/information/pdf/261023_3.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "ヤマダデンキ提供の「ヤマダビデオ」「スマホゴールド会員」に不正アクセス、一時サービス停止",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56609.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について",
+     "u": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22"
+    }
+   ],
+   "o": "デジタル庁",
+   "oe": "Digital Agency",
+   "on": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "デジタル庁ホームページの問い合せフォームの情報が漏えい、Studio のクラウド環境への不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56608.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社 IT 環境への不正アクセスおよび情報漏洩に関するお詫びとお知らせ（第一報）",
+     "u": "https://www.jfe-chem.com/uploads/2026/10/baa6f7b08015cd87b11014e01d51141e.pdf"
+    }
+   ],
+   "o": "JFEケミカル",
+   "oe": "JFE Chemical",
+   "on": "https://www.jfe-chem.com/uploads/2026/10/baa6f7b08015cd87b11014e01d51141e.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "JFEケミカルに不正アクセス、データの不正取得が判明",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56607.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "委託事業者のサーバーへの不正アクセスによる情報漏洩の可能性について",
+     "u": "https://www.city.kushiro.lg.jp/kosodatekyouiku/kyouiku/1008303/1019759.html"
+    }
+   ],
+   "o": "釧路市",
+   "oe": "Kushiro City",
+   "on": "https://www.city.kushiro.lg.jp/kosodatekyouiku/kyouiku/1008303/1019759.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "釧路市が市立小中学校の学習用端末の管理運用を委託しているポータスにランサムウェア攻撃",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56605.html"
+    }
+   ],
+   "t": "ransomware",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによるお客様情報漏洩に関するお詫びとお知らせ",
+     "u": "https://eyelashgarage.co.jp/information/%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%ab%e3%82%88%e3%82%8b%e3%81%8a%e5%ae%a2%e6%a7%98%e6%83%85%e5%a0%b1%e6%bc%8f%e6%b4%a9%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e8%a9%ab"
+    }
+   ],
+   "o": "株式会社アイラッシュガレージ",
+   "oe": "I-Lash Garage",
+   "on": "https://eyelashgarage.co.jp/information/%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%ab%e3%82%88%e3%82%8b%e3%81%8a%e5%ae%a2%e6%a7%98%e6%83%85%e5%a0%b1%e6%bc%8f%e6%b4%a9%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e8%a9%ab",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "アイラッシュガレージECサイトに不正アクセス、4万9,191件の顧客情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56603.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "トイポアプリへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://toypo.notion.site/3f481a88502580f29a39d3eb439ee785"
+    }
+   ],
+   "o": "株式会社トイポ",
+   "oe": "Toypo",
+   "on": "https://toypo.notion.site/3f481a88502580f29a39d3eb439ee785",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "行動データプラットフォーム「トイポアプリ」に不正アクセス、69万7,209名のユーザーの登録情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56602.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】本学におけるフィッシングメール被害に関する調査結果および対応完了のご報告",
+     "u": "https://www.siu.ac.jp/news/detail.html?news=1960"
+    }
+   ],
+   "o": "札幌国際大学",
+   "oe": "Sapporo International University",
+   "on": "https://www.siu.ac.jp/news/detail.html?news=1960",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "札幌国際大学のメールアカウントに不正アクセス、学内外の宛先に大量のフィッシングメールを送信",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56600.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "email",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "スズキワールドホームページへの不正アクセスに関するお詫びとご報告",
+     "u": "https://suzukiworld.jp/post/2026/10/post-70.html"
+    }
+   ],
+   "o": "株式会社スズキ二輪",
+   "oe": "Suzuki Two-Wheel",
+   "on": "https://suzukiworld.jp/post/2026/10/post-70.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "スズキワールドホームページに不正アクセス、問い合わせフォームの送信ログに記録された情報が不正に閲覧・取得された可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56599.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "o": "株式会社PIECE",
+   "oe": "PIECE",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "正常に部屋を用意できない予約が発生 ～ PIECE 運営施設が利用する Booking.com 管理アカウントに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56597.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-28",
+   "ls": "none_found",
+   "o": "一般財団法人日本情報経済社会推進協会(JIPDEC)",
+   "oe": "Japan Information Economy, Industry and Society Promotion Association",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "プライバシーマーク付与事業者の経営者向け啓発資料「不正アクセスに対する安全管理措置について」を公開",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56592.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "o": "バンナム子会社",
+   "oe": "Bandai Namco subsidiary",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-27",
+     "t": "バンナム子会社に不正アクセス - 「一番くじONLINE」配送情報が流出か",
+     "u": "https://www.security-next.com/191994"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "o": "おかやま結婚推進協会",
+   "oe": "Okayama Marriage Promotion Association",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-27",
+     "t": "婚活イベントで申込者情報を誤公開、開催中止に - 岡山県",
+     "u": "https://www.security-next.com/191915"
+    }
+   ],
+   "t": "leak",
+   "v": "cloud_misconfig",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-21",
+     "t": "【第1報】当社子会社が提供する「ブラストメール」における不審なアクセスの検知およびサービス停止について",
+     "u": "https://www.rakus.co.jp/news/2026/1021-2.html"
+    },
+    {
+     "d": "2026-10-21",
+     "t": "【第2報】当社子会社が提供する「ブラストメール」における不正アクセスによる情報漏えいおよびサービス停止について",
+     "u": "https://www.rakus.co.jp/news/2026/1021-3.html"
+    },
+    {
+     "d": "2026-10-23",
+     "t": "個人情報保護委員会への連名報告に関するご案内",
+     "u": "https://info.blastmail.jp/information_joint_report.html"
+    },
+    {
+     "d": "2026-10-27",
+     "t": "【重要】ブラストメールの緊急停止および個人情報漏えいに関するお詫びとご報告(2026年10月27日12時30分更新)",
+     "u": "https://info.blastmail.jp/information_20261021.html"
+    }
+   ],
+   "o": "ラクスライトクラウド",
+   "oe": "Laxlight Cloud",
+   "on": "https://www.rakus.co.jp/news/2026/1021-2.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-27",
+     "t": "メール配信サービス「ブラストメール」への不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/27/133851"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "個人データ漏えいにつながる不正アクセスに関するお詫びとお知らせ｜日本ピザハット株式会社",
+     "u": "https://corp.pizzahut.jp/info/5540"
+    }
+   ],
+   "o": "日本ピザハット株式会社",
+   "oe": "Pizza Hut Japan",
+   "on": "https://corp.pizzahut.jp/info/5540",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-27",
+     "t": "オンライン注文サービスの決済APIに不正アクセス、顧客情報漏えい│日本ピザハット株式会社",
+     "u": "https://cybersecurity-jp.com/news/117750"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる個人情報漏えいに関するお詫びとお知らせ｜株式会社トレジャー・ファクトリー",
+     "u": "https://www.treasure-f.com/info/detail/st825"
+    }
+   ],
+   "o": "株式会社トレジャー・ファクトリー",
+   "oe": "Treasure Factory Co., Ltd.",
+   "on": "https://www.treasure-f.com/info/detail/st825",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-27",
+     "t": "顧客メールアドレス74万6,277件などが流出│株式会社トレジャー・ファクトリー",
+     "u": "https://cybersecurity-jp.com/news/117748"
+    }
+   ],
+   "t": "leak",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社システムへの不正アクセスによるお客さま情報の漏えいに関するお詫びとご報告｜日本瓦斯株式会社",
+     "u": "https://www.nichigas.co.jp/for-home/important-news/hcnrb5b56"
+    }
+   ],
+   "o": "日本瓦斯株式会社",
+   "oe": "Nippon GAS Co., Ltd.",
+   "on": "https://www.nichigas.co.jp/for-home/important-news/hcnrb5b56",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-27",
+     "t": "「マイニチガス」に不正アクセス、顧客情報85件が漏えい｜日本瓦斯株式会社",
+     "u": "https://cybersecurity-jp.com/news/117746"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "タイムズカーWebシステムへの不正アクセスに関する対応について（タイムズカーWebシステムへの不正アクセスによる情報漏えい関連・第4報）",
+     "u": "https://www.park24.co.jp/news/2026/10/20261016-1.html"
+    },
+    {
+     "d": "2026-10-23",
+     "t": "タイムズカーWebシステムへの不正アクセスによる個人情報漏えいに関するご報告と今後の対応について（タイムズカーWebシステムへの不正アクセスによる情報漏えい関連・第5報）",
+     "u": "https://www.park24.co.jp/news/2026/10/20261023-1.html"
+    }
+   ],
+   "o": "タイムズカー",
+   "oe": "Times Car",
+   "on": "https://www.park24.co.jp/news/2026/10/20261016-1.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "「タイムズカー」への不正アクセス、本人確認書類画像データが漏えいした顧客に 3,000円相当を見舞いとして支払い",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56586.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "「くふう まちトークβ版」への不正なアクセスに関する調査結果のご報告",
+     "u": "https://kufu.co.jp/2026/10/13/kufu-announce-2"
+    },
+    {
+     "d": "",
+     "t": "「くふう まちトークβ版」への不正アクセスに関するお知らせとお詫び",
+     "u": "https://kufu.co.jp/2026/10/05/kufu-announce"
+    }
+   ],
+   "o": "株式会社くふうカンパニー",
+   "oe": "Kufu Company",
+   "on": "https://kufu.co.jp/2026/10/13/kufu-announce-2",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "「くふう まちトークβ版」に不正アクセス、生年月日・性別が外部から閲覧できる状態に",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56583.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-09",
+     "t": "当社ウェブサイトへの一部不正アクセスによる個人情報漏洩に関するお詫びとご報告",
+     "u": "https://www.resorttrust.co.jp/wp_api/wp-content/uploads/2026/10/20261009.pdf"
+    }
+   ],
+   "o": "リゾートトラスト株式会社",
+   "oe": "Resorttrust, Inc.",
+   "on": "https://www.resorttrust.co.jp/wp_api/wp-content/uploads/2026/10/20261009.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "リゾートトラストのウェブサイトに不正アクセス、約 26,000件の会員情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56582.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "委託先システムへの不正アクセスに伴う「VALX \"FUN\"コミュニティ」会員情報漏えいに関するお知らせとお詫び",
+     "u": "https://corp.valx.jp/news/451vhhqdf29c"
+    }
+   ],
+   "o": "VALX株式会社",
+   "oe": "VALX Corporation",
+   "on": "https://corp.valx.jp/news/451vhhqdf29c",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "コミュニティプラットフォーム「Commune」に不正アクセス、「VALX \"FUN\"コミュニティ」会員情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56581.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-06",
+     "t": "不正アクセスによる情報流出に関するお詫びとお知らせ",
+     "u": "https://www.mrmax.co.jp/info/incident_20261006"
+    }
+   ],
+   "o": "ミスターマックス",
+   "oe": "MrMax",
+   "on": "https://www.mrmax.co.jp/info/incident_20261006",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "ミスターマックスに不正アクセス、アプリ・オンラインストア会員 最大 1,735,154人の個人情報が流出",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56580.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "Google広告アカウントへの不正アクセスに関するお詫びと今後の対応について",
+     "u": "https://saltydog.jp/post-389"
+    }
+   ],
+   "o": "ソルティドッグ株式会社",
+   "oe": "Saltydog Co., Ltd.",
+   "on": "https://saltydog.jp/post-389",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "ソルティドッグのGoogle広告アカウントに不正アクセス、複雑なパスワード・パスキー・セキュリティキーによる2段階認証を突破",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56579.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】当社メールアカウントの不正利用に関するお知らせ （漏えいの可能性がある個人情報の追加公表について）",
+     "u": "https://www.egmkt.co.jp/newsroom/news/2026/10982"
+    },
+    {
+     "d": "",
+     "t": "【重要】当社メールアカウントの不正利用に関するお知らせ",
+     "u": "https://www.egmkt.co.jp/newsroom/news/2026/10630"
+    }
+   ],
+   "o": "エバーグリーン・マーケティング株式会社",
+   "oe": "Evergreen Marketing",
+   "on": "https://www.egmkt.co.jp/newsroom/news/2026/10982",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "エバーグリーン・マーケティングのメールアカウントに不正アクセス、個人情報が閲覧された可能性が新たに判明",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56578.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-05",
+     "t": "不正アクセスによる個人情報の漏えいに関するお詫びとお知らせ",
+     "u": "https://www.whiteessence.com/news/news/20261005"
+    }
+   ],
+   "o": "ホワイトエッセンス",
+   "oe": "White Essence",
+   "on": "https://www.whiteessence.com/news/news/20261005",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "ホワイトエッセンスへの不正アクセス、予約サイトのプログラムに存在した脆弱性を悪用",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56575.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "o": "ラクスグループ会社",
+   "oe": "Rakus Group",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-26",
+     "t": "メール配信システムで契約者情報が流出 - ラクスグループ会社",
+     "u": "https://www.security-next.com/191846"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "厚木市",
+     "u": "https://www.city.atsugi.kanagawa.jp/"
+    }
+   ],
+   "o": "厚木市",
+   "oe": "City of Atsugi",
+   "on": "https://www.city.atsugi.kanagawa.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-26",
+     "t": "小中学校がPTAに生徒の個人情報を同意なしに提供 - 厚木市",
+     "u": "https://www.security-next.com/191495"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "りそな銀行",
+     "u": "https://www.resonabank.co.jp/"
+    }
+   ],
+   "o": "りそな銀",
+   "oe": "Resona Bank",
+   "on": "https://www.resonabank.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-26",
+     "t": "口座解約に関する顧客情報が記録された記録媒体を紛失 - りそな銀",
+     "u": "https://www.security-next.com/191783"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-26",
+     "t": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（第３報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261026556007.pdf"
+    }
+   ],
+   "o": "チェンジＨＤ",
+   "oe": "Change Holdings, Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261026556007.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-26",
+     "t": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（第３報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261026556007.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによるお客様情報流出の可能性について｜株式会社グッドスマイルカンパニー",
+     "u": "https://support.goodsmile.com/hc/ja/articles/63547468806297"
+    }
+   ],
+   "o": "株式会社グッドスマイルカンパニー",
+   "oe": "Good Smile Company",
+   "on": "https://support.goodsmile.com/hc/ja/articles/63547468806297",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-26",
+     "t": "公式ショップに不正アクセス、会員情報などを不正閲覧│株式会社グッドスマイルカンパニー",
+     "u": "https://cybersecurity-jp.com/news/117694"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-22",
+     "t": "不正アクセスによるお客様情報漏えいのお詫びとお知らせ｜株式会社カプコン",
+     "u": "https://www.capcom.co.jp/ir/news/html/261022.html"
+    },
+    {
+     "d": "2026-10-23",
+     "t": "不正アクセスによるお客様情報漏えいのお詫びとお知らせ （第二報）｜株式会社カプコン",
+     "u": "https://www.capcom.co.jp/ir/news/html/261023.html"
+    }
+   ],
+   "o": "CAPCOM ID",
+   "oe": "CAPCOM ID",
+   "on": "https://www.capcom.co.jp/ir/news/html/261022.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-26",
+     "t": "「CAPCOM ID」に不正アクセス、約1,177万件の顧客情報漏えい│株式会社カプコン",
+     "u": "https://cybersecurity-jp.com/news/117690"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "オンライン会員サービス「CAPCOM ID」に不正アクセス、全世界合計 11,774,247件のメールアドレス等が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56585.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "委託事業に係る個人情報の漏えいについて",
+     "u": "https://www.mhlw.go.jp/stf/newpage_76892.html"
+    }
+   ],
+   "o": "厚生労働省",
+   "oe": "Ministry of Health, Labour and Welfare",
+   "on": "https://www.mhlw.go.jp/stf/newpage_76892.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "厚生労働省 委託事業の「東電福島第一原発廃炉等作業における被ばく低減対策普及啓発事業」で個人情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56565.html"
+    }
+   ],
+   "t": "leak",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "『焼肉きんぐ』公式アプリ 会員管理システムへの第三者からの不正アクセスによる個人情報漏えいに関するお詫び",
+     "u": "https://www.yakiniku-king.jp/news/6875"
+    }
+   ],
+   "o": "株式会社物語コーポレーション",
+   "oe": "The Monogatari Corporation",
+   "on": "https://www.yakiniku-king.jp/news/6875",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "「焼肉きんぐ」公式アプリ会員管理システムに不正アクセス、1,078万8,963件の個人情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56563.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる個人情報漏えいのおそれに関するお詫びとお知らせ",
+     "u": "https://www.daiki-suisan.co.jp/files/optionallink/00000164_file.pdf"
+    }
+   ],
+   "o": "大起水産株式会社",
+   "oe": "Daiki Suisan Co., Ltd.",
+   "on": "https://www.daiki-suisan.co.jp/files/optionallink/00000164_file.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "「大起水産公式アプリ」に不正アクセス、顧客17万4,933人の個人情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56562.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社サーバーへの不正アクセスによるお知らせ",
+     "u": "https://www.sklg.co.jp/news/%e5%bd%93%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%ab%e3%82%88%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b"
+    },
+    {
+     "d": "",
+     "t": "当社サーバーへの不正アクセスによるお知らせとお詫び（第２報）",
+     "u": "https://www.sklg.co.jp/news/%e5%bd%93%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%ab%e3%82%88%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%81%a8"
+    }
+   ],
+   "o": "エスケーロジ",
+   "oe": "SK Logic",
+   "on": "https://www.sklg.co.jp/news/%e5%bd%93%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%ab%e3%82%88%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "エスケーロジにランサムウェア攻撃、一部の社内情報の漏えいを確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56561.html"
+    }
+   ],
+   "t": "ransomware",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "デジタルアーツ",
+     "u": "https://www.daj.jp/"
+    }
+   ],
+   "o": "デジタルアーツ",
+   "oe": "Digital Arts Inc.",
+   "on": "https://www.daj.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-23",
+     "t": "運用環境に第三者が不正侵入、1年以上前の痕跡も - デジタルアーツ",
+     "u": "https://www.security-next.com/191844"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "カプコン",
+     "u": "https://www.capcom.co.jp/"
+    }
+   ],
+   "o": "カプコン",
+   "oe": "Capcom Co., Ltd.",
+   "on": "https://www.capcom.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-23",
+     "t": "「CAPCOM ID」で情報流出、パスワードの不正変更も - カプコン",
+     "u": "https://www.security-next.com/191838"
+    }
+   ],
+   "t": "leak",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "江戸川区",
+     "u": "https://www.city.edogawa.tokyo.jp/"
+    }
+   ],
+   "o": "江戸川区",
+   "oe": "Edogawa City",
+   "on": "https://www.city.edogawa.tokyo.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-23",
+     "t": "採用内定式の案内メールを誤送信、メアド流出 - 江戸川区",
+     "u": "https://www.security-next.com/191724"
+    }
+   ],
+   "t": "leak",
+   "v": "email",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "イオングループの一部Ｗｅｂサイトへの不正アクセスによるシステムメンテナンスについて｜イオン株式会社",
+     "u": "https://www.aeon.info/wp-content/uploads/news/important/pdf/2026/10/261021R_2.pdf"
+    }
+   ],
+   "o": "イオン株式会社",
+   "oe": "Aeon Co., Ltd.",
+   "on": "https://www.aeon.info/wp-content/uploads/news/important/pdf/2026/10/261021R_2.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-23",
+     "t": "グループの一部ウェブサイトに不正アクセス、個人情報流出の有無を調査―イオン",
+     "u": "https://cybersecurity-jp.com/news/117646"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "『カーセンサーnet』、『C-MATCH』への不正アクセスに伴う個人情報漏えいに関する お詫びとお知らせ",
+     "u": "https://www.recruit.co.jp/newsroom/pressrelease/2026/1021_149447.html"
+    }
+   ],
+   "o": "カーセンサーnet",
+   "oe": "CarSensor.net",
+   "on": "https://www.recruit.co.jp/newsroom/pressrelease/2026/1021_149447.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-23",
+     "t": "中古車情報サイト「カーセンサーnet」と中古車販売店向け業務支援サービス「C-MATCH」への不正アクセス、最大3,709,551件の個人情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/23/56555.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-09",
+     "t": "不正アクセスによる個人情報漏えいに関するお詫びとご報告",
+     "u": "https://abahouse.co.jp/news/2005"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "【続報】不正アクセスによる個人情報漏えいに関するご報告（2026年10月9日）",
+     "u": "https://abahouse.co.jp/news/2026"
+    }
+   ],
+   "o": "アバハウスインターナショナル",
+   "oe": "Abahouse International",
+   "on": "https://abahouse.co.jp/news/2005",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-23",
+     "t": "アバハウスインターナショナルに不正アクセス、複数の顧客からの問い合わせで発覚",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/23/56553.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-02",
+     "t": "不正アクセスによる迷惑メール発信に関するおわびとご報告",
+     "u": "https://kodansha-beck.co.jp/news/unauthorizedaccess20261002"
+    }
+   ],
+   "o": "講談社BECK 従業員",
+   "oe": "Kodansha BECK email accounts",
+   "on": "https://kodansha-beck.co.jp/news/unauthorizedaccess20261002",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-23",
+     "t": "講談社BECK 従業員のメールアカウントに不正アクセス、50件の不審なメールを送信",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/23/56552.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】弊社システムサーバーに対する不正アクセスの疑いに関するお知らせ<続報>",
+     "u": "https://www.moonstar.co.jp/information/2026/10/post-4.html"
+    }
+   ],
+   "o": "株式会社ムーンスター",
+   "oe": "MoonStar",
+   "on": "https://www.moonstar.co.jp/information/2026/10/post-4.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-23",
+     "t": "ムーンスターのサーバに不正アクセス、オンラインストアを利用した顧客情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/23/56551.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "個人情報の漏えいの可能性に関するお詫びとご案内",
+     "u": "https://www.saferinternet.or.jp/info/35403"
+    }
+   ],
+   "o": "セーファーインターネット協会",
+   "oe": "Safer Internet Association",
+   "on": "https://www.saferinternet.or.jp/info/35403",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-23",
+     "t": "セーファーインターネット協会が利用する「さくらのレンタルサーバ」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/23/56550.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-23",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-21",
+     "t": "【重要】[お名前.com デスクトップクラウド]第三者による不正アクセスに関するお詫びとお知らせ（2026年10月21日 4:00時点）",
+     "u": "https://www.onamae.com/news/article/11584"
+    },
+    {
+     "d": "2026-10-21",
+     "t": "【緊急】[デスクトップクラウド] システムメンテナンス（2026/10/21更新）",
+     "u": "https://www.onamae.com/news/article/11583"
+    },
+    {
+     "d": "2026-10-22",
+     "t": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報）",
+     "u": "https://www.onamae.com/news/article/11593"
+    },
+    {
+     "d": "2026-10-22",
+     "t": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報）",
+     "u": "https://internet.gmo/news/article/247"
+    },
+    {
+     "d": "2026-10-23",
+     "t": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報）",
+     "u": "https://www.onamae.com/news/article/11595"
+    },
+    {
+     "d": "2026-10-24",
+     "t": "お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） お客様へのお見舞金のお支払いと不正取引による損失の補償について",
+     "u": "https://internet.gmo/news/article/249"
+    },
+    {
+     "d": "2026-10-24",
+     "t": "「お名前.com デスクトップクラウド」ご利用のお客様へ改めてのお願い（第5報）",
+     "u": "https://internet.gmo/news/article/250"
+    },
+    {
+     "d": "2026-10-25",
+     "t": "今こそ官民連携で日本を守ろう ――「能動的サイバー防御」を具申した理由",
+     "u": "https://www.kumagai.com/?eid=19600"
+    },
+    {
+     "d": "2026-10-26",
+     "t": "「お名前.com デスクトップクラウド」ご利用のお客様へ改めてのお願い（第6報）",
+     "u": "https://internet.gmo/news/article/252"
+    },
+    {
+     "d": "2026-10-26",
+     "t": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第7報）",
+     "u": "https://internet.gmo/news/article/253"
+    }
+   ],
+   "o": "お名前.com デスクトップクラウド",
+   "oe": "Onamae.com Desktop Cloud",
+   "on": "https://www.onamae.com/news/article/11584",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-23",
+     "t": "お名前 .com デスクトップクラウドへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/23/014520"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-23",
+     "t": "GMO「デスクトップクラウド」で侵害 - 利用者から金融口座の不正操作報告",
+     "u": "https://www.security-next.com/191883"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-26",
+     "t": "「お名前.com デスクトップクラウド」に不正アクセス、取引口座のログイン情報等が取得され不正利用された可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/26/56564.html"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "「お名前.com デスクトップクラウド」に不正アクセス、見舞金として一律 5,000円を支払い",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56587.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes",
+   "xt": {
+    "d": "2026-10-24",
+    "enc": "",
+    "out": "refused",
+    "u": "https://internet.gmo/news/article/249"
+   }
+  },
+  {
+   "d": "2026-10-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "リクルート",
+     "u": "https://www.recruit.co.jp/"
+    }
+   ],
+   "o": "リクルート",
+   "oe": "Recruit Holdings Co., Ltd.",
+   "on": "https://www.recruit.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-22",
+     "t": "リクルートの中古車情報サービスで個人情報など流出か",
+     "u": "https://www.security-next.com/191773"
+    }
+   ],
+   "t": "leak",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-22",
+   "ls": "none_found",
+   "o": "フジテレビ",
+   "oe": "Fuji Television Network",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-22",
+     "t": "番組宣伝システムでメディア関係者情報が流出か - フジテレビ",
+     "u": "https://www.security-next.com/191719"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "外部委託先への不正アクセスに伴うお客様情報の漏洩について",
+     "u": "https://www.iwaicosmo.co.jp/news/2026/10161410.html"
+    },
+    {
+     "d": "2026-10-20",
+     "t": "外部委託先への不正アクセスに伴うお客様情報の漏洩について(第2報)",
+     "u": "https://www.iwaicosmo.co.jp/info/2026/10201710.html"
+    },
+    {
+     "d": "2026-10-21",
+     "t": "不正アクセスによる個人情報漏洩および不正取引に関するご報告",
+     "u": "https://www.iwaicosmo.net/info/post_499.html"
+    }
+   ],
+   "o": "不正取引も行われた岩井コスモ証券",
+   "oe": "Iwaco Securities",
+   "on": "https://www.iwaicosmo.co.jp/news/2026/10161410.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-22",
+     "t": "不正取引も行われた岩井コスモ証券への不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/22/113434"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "国土交通省",
+     "u": "https://www.mlit.go.jp/"
+    }
+   ],
+   "o": "国土交通省",
+   "oe": "Ministry of Land, Infrastructure, Transport and Tourism",
+   "on": "https://www.mlit.go.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-22",
+     "t": "キャンペーン事務局のシステムに不正アクセス、個人情報が流出 - 国交省",
+     "u": "https://www.security-next.com/191780"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社システムへの不正なアクセスに関するご報告（第一報）",
+     "u": "https://ssl4.eir-parts.net/doc/4372/tdnet/2896738/00.pdf"
+    }
+   ],
+   "o": "ユミルリンク株式会社",
+   "oe": "YMIRLINK, Inc.",
+   "on": "https://ssl4.eir-parts.net/doc/4372/tdnet/2896738/00.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-22",
+     "t": "ユミルリンクのメール配信サービスの一部サーバシステムに不正アクセス、メールアドレスを含む延べ約900万件の情報が出力されたと試算",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/22/56541.html"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-27",
+     "t": "49システムで情報流出、横展開など確認 - ユミルリンク",
+     "u": "https://www.security-next.com/192029"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "Z-IDシステムへの不正ログインについて（第一報）",
+     "u": "https://www.zkai.co.jp/post-120678"
+    }
+   ],
+   "o": "Z会",
+   "oe": "Z-kai",
+   "on": "https://www.zkai.co.jp/post-120678",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-22",
+     "t": "Z会「Z-IDシステム」に不正ログイン、計13件のパスワード変更が判明",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/22/56540.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "第三者による不正アクセスに伴う個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://www.fancl.jp/news/pdf/husei.pdf"
+    }
+   ],
+   "o": "ファンケルとアテニア",
+   "oe": "FANCL EC site",
+   "on": "https://www.fancl.jp/news/pdf/husei.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-22",
+     "t": "ファンケルとアテニアのECサイトに不正アクセス、会員情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/22/56538.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社グループ管理サーバーへの不正アクセスに関するお知らせ",
+     "u": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/566349.pdf"
+    }
+   ],
+   "o": "ジャパンタイムズグループ会社",
+   "oe": "Japan Times Group",
+   "on": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/566349.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-22",
+     "t": "ジャパンタイムズグループ会社に不正アクセス、「The Japan Times Online」には影響なし",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/22/56537.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる個人情報の漏えいの可能性に関するお詫びとご報告",
+     "u": "https://www.jogmec.go.jp/news/information/information_00706.html"
+    }
+   ],
+   "o": "エネルギー・金属鉱物資源機構",
+   "oe": "Energy, Metals and Mineral Resources Agency",
+   "on": "https://www.jogmec.go.jp/news/information/information_00706.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-22",
+     "t": "エネルギー・金属鉱物資源機構に不正アクセス、外部機関からの情報提供で発覚",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/22/56535.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-21",
+     "t": "株式会社リクルート「『カーセンサーnet』、『C-MATCH』への不正アクセスに伴う個人情報漏えいに関する お詫びとお知らせ」",
+     "u": "https://www.recruit.co.jp/newsroom/pressrelease/2026/1021_149447.html"
+    }
+   ],
+   "o": "リクルート",
+   "oe": "Recruit Holdings, Co., Ltd.",
+   "on": "https://www.recruit.co.jp/newsroom/pressrelease/2026/1021_149447.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-21",
+     "t": "リクルート「カーセンサー」などに不正アクセス、最大370万9,551件の個人情報漏洩の可能性",
+     "u": "https://cybersecurity-jp.com/news/117599"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-21",
+     "t": "当社連結子会社におけるStudio株式会社で発生した不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261021553964.pdf"
+    }
+   ],
+   "o": "テリロジーＨＤ",
+   "oe": "Terilogy Holdings Corporation",
+   "on": "https://www.release.tdnet.info/inbs/140120261021553964.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-21",
+     "t": "当社連結子会社におけるStudio株式会社で発生した不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261021553964.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-21",
+     "t": "当社への不正アクセスに関するお知らせとお詫び",
+     "u": "https://www.release.tdnet.info/inbs/140120261021554017.pdf"
+    }
+   ],
+   "o": "デジアーツ",
+   "oe": "Digital Arts Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261021554017.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-21",
+     "t": "当社への不正アクセスに関するお知らせとお詫び",
+     "u": "https://www.release.tdnet.info/inbs/140120261021554017.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによるお客様情報漏えいの可能性に関するお知らせ｜クリプトン・フューチャー・メディア株式会社",
+     "u": "https://www.crypton.co.jp/cfm/news/2026/10/20info"
+    }
+   ],
+   "o": "クリプトン・フューチャー・メディア株式会社",
+   "oe": "Crypton Future Media, Inc.",
+   "on": "https://www.crypton.co.jp/cfm/news/2026/10/20info",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-21",
+     "t": "「SONICWIRE」などに不正アクセス、会員情報最大約42万件に漏えいの恐れ│クリプトン",
+     "u": "https://cybersecurity-jp.com/news/117566"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "トラストバンク「不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ」",
+     "u": "https://www.trustbank.co.jp/newsroom/newsrelease/news261020"
+    }
+   ],
+   "o": "株式会社トラストバンク",
+   "oe": "TrustBank",
+   "on": "https://www.trustbank.co.jp/newsroom/newsrelease/news261020",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-21",
+     "t": "ふるさとチョイス、不正アクセスで445万件超の個人情報が流出　寄附控除試算額やパスワード情報も対象",
+     "u": "https://cybersecurity-jp.com/news/117571"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-21",
+     "t": "「ふるさとチョイス」に不正アクセス - 会員情報が流出",
+     "u": "https://www.security-next.com/191714"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-22",
+     "t": "「ふるさとチョイス」に不正アクセス、4,454,097件の会員情報が流出",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/22/56543.html"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-23",
+     "t": "ふるさと納税ポータルサイト「ふるさとチョイス」に不正アクセス、泉大津市で寄附の受付ができない状況に",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/23/56556.html"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "焼津市が注意喚起 ～ ふるさと納税ポータルサイト「ふるさとチョイス」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56574.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "斎場予約システムへの不正アクセス及び個人情報漏洩のおそれに関するお詫びとお知らせ｜株式会社ビジネステック",
+     "u": "https://www.busitec.co.jp/news/info"
+    }
+   ],
+   "o": "足利市",
+   "oe": "Ashikaga City",
+   "on": "https://www.busitec.co.jp/news/info",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-21",
+     "t": "足利市の斎場予約システムに不正アクセス、約8,800人分の個人情報漏えいのおそれ│株式会社ビジネステック",
+     "u": "https://cybersecurity-jp.com/news/117564"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "ゆうゆうポイントサイトの緊急サービス停止",
+     "u": "https://www.japanpost.jp/news/information/20261016_01"
+    }
+   ],
+   "o": "日本郵政株式会社",
+   "oe": "Japan Post Holdings Co., Ltd.",
+   "on": "https://www.japanpost.jp/news/information/20261016_01",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "日本郵政「ゆうゆうポイントサイト」を緊急サービス停止",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56529.html"
+    }
+   ],
+   "t": "outage",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社が運営する電子書籍販売サイト「Renta！」のサービス一時停止に関するお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/3641/tdnet/2896506/00.pdf"
+    }
+   ],
+   "o": "株式会社パピレス",
+   "oe": "Papyless Co., Ltd.",
+   "on": "https://ssl4.eir-parts.net/doc/3641/tdnet/2896506/00.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "電子書籍販売サイト「Renta！」への不正アクセスの可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56528.html"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-28",
+     "t": "電子書籍サイト「Renta！」に不正アクセス、会員情報流出のおそれ│株式会社パピレス",
+     "u": "https://cybersecurity-jp.com/news/117806"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる情報漏えいのおそれに関するお知らせとお詫び",
+     "u": "https://www.shudo-u.ac.jp/gakuen/information/b53fil000000008q.html"
+    },
+    {
+     "d": "",
+     "t": "不正アクセスによる情報漏えいのおそれに関するお知らせとお詫び（第２報）",
+     "u": "https://www.shudo-u.ac.jp/gakuen/information/mh85jl0000000021.html"
+    }
+   ],
+   "o": "学校法人修道学園",
+   "oe": "Shudo University",
+   "on": "https://www.shudo-u.ac.jp/gakuen/information/b53fil000000008q.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "学校法人修道学園に不正アクセス、漏えいのおそれがある情報に学生に関するものは含まれず",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56527.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "o": "三沢市教育委員会事務局",
+   "oe": "Misawa City Board of Education Affairs Bureau",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "停職3月の懲戒処分 ～ 市職員が複数のアカウントに約2年間不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56526.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "insider",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-01",
+     "t": "当社への不正アクセスによる個人情報流出の可能性に関するお知らせ（第２報）",
+     "u": "https://starts-pub.jp/info20261001"
+    }
+   ],
+   "o": "スターツ出版",
+   "oe": "Starts Publishing Corporation",
+   "on": "https://starts-pub.jp/info20261001",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "スターツ出版「オズモール」に不正アクセス、退会者含む会員 最大442,779名分のメールアドレス等が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56525.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "マクニカ セキュリティ研究センター",
+     "u": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html"
+    }
+   ],
+   "o": "株式会社マクニカ",
+   "oe": "Macnica, Inc.",
+   "on": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "重点確認のIPアドレスを提示 ～ マクニカ、相次ぐWebシステムからの情報漏えいの被害傾向と攻撃手法を公表",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56523.html"
+    }
+   ],
+   "t": "leak",
+   "v": "webapp",
+   "vl": [
+    {
+     "b": "official",
+     "c": "CVE-2017-5638",
+     "p": "",
+     "s": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+     "v": ""
+    },
+    {
+     "b": "official",
+     "c": "CVE-2021-20717",
+     "p": "",
+     "s": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+     "v": ""
+    },
+    {
+     "b": "official",
+     "c": "CVE-2021-20837",
+     "p": "",
+     "s": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+     "v": ""
+    },
+    {
+     "b": "official",
+     "c": "CVE-2024-4577",
+     "p": "",
+     "s": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+     "v": ""
+    },
+    {
+     "b": "official",
+     "c": "CVE-2025-55182",
+     "p": "",
+     "s": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+     "v": ""
+    },
+    {
+     "b": "official",
+     "c": "CVE-2026-60137",
+     "p": "",
+     "s": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+     "v": ""
+    }
+   ],
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-08",
+     "t": "GMOサイバーセキュリティ byイエラエ",
+     "u": "https://gmo-cybersecurity.com/news/2026100802"
+    },
+    {
+     "d": "2026-10-19",
+     "t": "GMOサイバーセキュリティ byイエラエ",
+     "u": "https://gmo-cybersecurity.com/blog/20261019"
+    }
+   ],
+   "o": "GMOサイバーセキュリティ byイエラエ",
+   "oe": "GMO Cybersecurity by Yellae",
+   "on": "https://gmo-cybersecurity.com/news/2026100802",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "GMOサイバーセキュリティ byイエラエ、不正アクセス攻撃元にAI自律型ペンテストシステム「ARTEX」を確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56522.html"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-22",
+     "t": "GMO サイバーセキュリティ by イエラエ、「ネットde診断 ASM」に自社メールアドレスの漏えい検知オプション追加",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/22/56533.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "o": "上場企業",
+   "oe": "",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "上場企業の個人情報漏えい 2026年は100万件以上がすでに10件 過去最悪ペース",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56521.html"
+    }
+   ],
+   "t": "leak",
+   "v": "email",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-21",
+   "ls": "none_found",
+   "o": "独立行政法人情報処理推進機構(IPA)",
+   "oe": "Information-technology Promotion Agency, Japan",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "電話とメールで受付 ～ IPAが不正アクセス特別相談窓口を開設",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56518.html"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-23",
+     "t": "不正アクセス特別相談窓口を開設、企業・組織の初動対応を支援―IPA",
+     "u": "https://cybersecurity-jp.com/news/117650"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "ユミルリンク",
+     "u": "https://www.ymir.co.jp/"
+    }
+   ],
+   "o": "ユミルリンク",
+   "oe": "YMIRLINK, Inc.",
+   "on": "https://www.ymir.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-20",
+     "t": "複数システムに不正アクセス、個人情報が流出 - ユミルリンク",
+     "u": "https://www.security-next.com/191652"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-20",
+     "t": "NEC「委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び」",
+     "u": "https://jpn.nec.com/news/info/20261020.html"
+    },
+    {
+     "d": "",
+     "t": "NEC",
+     "u": "https://jpn.nec.com/"
+    }
+   ],
+   "o": "NEC",
+   "oe": "NEC",
+   "on": "https://jpn.nec.com/news/info/20261020.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-20",
+     "t": "NEC委託先にサイバー攻撃 - 顧客システムで障害、個人情報流出",
+     "u": "https://www.security-next.com/191694"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-21",
+     "t": "NEC、委託先へのサイバー攻撃で顧客情報が漏洩　正規アカウント悪用、システム停止も発生",
+     "u": "https://cybersecurity-jp.com/news/117574"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-22",
+     "t": "NECがシステム開発・保守業務を委託している企業にサイバー攻撃",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/22/56542.html"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "山陰合同銀行",
+     "u": "https://www.gogin.co.jp/"
+    }
+   ],
+   "o": "山陰合同銀",
+   "oe": "Gokin Bank",
+   "on": "https://www.gogin.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-20",
+     "t": "委託先が顧客のメアド保存のPCを紛失 - 山陰合同銀",
+     "u": "https://www.security-next.com/191332"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-19",
+     "t": "ニフティ「【第一報】当社回線申込・受付管理システムへの不正アクセスの発生について」",
+     "u": "https://www.nifty.co.jp/newsrelease/nifty202610195434.htm"
+    },
+    {
+     "d": "",
+     "t": "ニフティ",
+     "u": "https://www.nifty.co.jp/"
+    }
+   ],
+   "o": "ニフティ",
+   "oe": "Nifty",
+   "on": "https://www.nifty.co.jp/newsrelease/nifty202610195434.htm",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-20",
+     "t": "社内の光回線申込受付管理システムで侵害、影響を調査 - ニフティ",
+     "u": "https://www.security-next.com/191648"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-21",
+     "t": "ニフティに不正アクセス、最大54万2,513件の個人情報が漏洩した可能性　光回線の申込者情報が対象",
+     "u": "https://cybersecurity-jp.com/news/117573"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "個人情報漏洩の可能性に関するお詫びとお知らせ｜社会福祉法人伸生紀",
+     "u": "https://www.shinseiki.jp/news/20261016"
+    }
+   ],
+   "o": "社会福祉法人伸生紀",
+   "oe": "Shinseiki",
+   "on": "https://www.shinseiki.jp/news/20261016",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-20",
+     "t": "「こもれび」のサイト構築サービスに不正アクセス、個人情報漏えいの可能性│社会福祉法人伸生紀",
+     "u": "https://cybersecurity-jp.com/news/117508"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-15",
+     "t": "不正アクセスによる個人情報漏えいに関するお詫びとお知らせ｜エムスリー株式会社",
+     "u": "https://corporate.m3.com/assets.ctfassets.net/1pwj74siywcy/4YBQ3JACTocGVgQmIVkSHe/c7865f094fe436292d7c81e1116a9c7f/20261015_Public_J.pdf"
+    },
+    {
+     "d": "2026-10-15",
+     "t": "不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://corporate.m3.com/assets.ctfassets.net/1pwj74siywcy/4YBQ3JACTocGVgQmIVkSHe/bed9ff0b11db690e1217e0329c484104/20261015_Public_J.pdf"
+    }
+   ],
+   "o": "エムスリー株式会社",
+   "oe": "M3, Inc.",
+   "on": "https://corporate.m3.com/assets.ctfassets.net/1pwj74siywcy/4YBQ3JACTocGVgQmIVkSHe/c7865f094fe436292d7c81e1116a9c7f/20261015_Public_J.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-20",
+     "t": "製薬企業向けサービス「MR君」に不正アクセス、医師会員などの個人情報が漏えい│エムスリー株式会社",
+     "u": "https://cybersecurity-jp.com/news/117511"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "製薬企業向けサービス「MR君」へ不正アクセス、一部の医師会員と製薬企業の担当者に関する情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56604.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-13",
+     "t": "【お知らせ】不正アクセスによるシステム障害およびサービス影響について",
+     "u": "https://company.golfdigest.co.jp/brand/news/2026101301.html"
+    },
+    {
+     "d": "2026-10-16",
+     "t": "当社システムへの不正アクセスによる従業員・委託先等の個人情報の流出 およびお客様情報の照会のおそれに関するお知らせとお詫び",
+     "u": "https://company.golfdigest.co.jp/corp/pr/2026101601.html"
+    }
+   ],
+   "o": "ゴルフダイジェスト・オンライン",
+   "oe": "Golf Digest Online Inc.",
+   "on": "https://company.golfdigest.co.jp/brand/news/2026101301.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "ゴルフダイジェスト・オンラインに不正アクセス、攻撃者にファイルがダウンロードされたことを確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56514.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社システムに対する不正アクセスの発生および情報漏えいに関するFAQ",
+     "u": "https://www.aflac.co.jp/info/yorisou_faq.html"
+    }
+   ],
+   "o": "アフラック生命保険",
+   "oe": "Aflac Life Insurance",
+   "on": "https://www.aflac.co.jp/info/yorisou_faq.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "アフラック生命保険への不正アクセス、契約者専用サイトのサービス再開",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56511.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】不正アクセスによる個人情報漏えい可能性に関するお知らせとお詫び",
+     "u": "https://www.lashinbang.com/info/26357"
+    },
+    {
+     "d": "",
+     "t": "不正アクセスおよび個人情報漏えいの可能性に関するQ&A",
+     "u": "https://www.lashinbang.com/info/26363"
+    }
+   ],
+   "o": "株式会社らしんばん",
+   "oe": "Rashinban",
+   "on": "https://www.lashinbang.com/info/26357",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "らしんばん運営サービスに不正アクセス、顧客情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56510.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "外部からの不正アクセスに伴う個人情報漏えいの可能性に関する調査結果のご報告",
+     "u": "https://joylife.alsok.co.jp/files/optionallink/00006134_file.pdf"
+    },
+    {
+     "d": "",
+     "t": "外部からの不正アクセスに伴う個人情報漏えいの可能性に関するお詫びとお知らせ",
+     "u": "https://joylife.alsok.co.jp/files/optionallink/00005870_file.pdf"
+    }
+   ],
+   "o": "ALSOKジョイライフ株式会社",
+   "oe": "ALSOK JOY LIFE Co., Ltd.",
+   "on": "https://joylife.alsok.co.jp/files/optionallink/00006134_file.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "ALSOKジョイライフの端末に不正アクセス、ベルパージュ奈良あやめ池入居者の情報が閲覧された可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56509.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "報道発表資料　児童いきいき放課後事業運営・管理事業者における個人情報の漏えいの可能性について",
+     "u": "https://www.city.osaka.lg.jp/hodoshiryo/kodomo/0000688056.html"
+    }
+   ],
+   "o": "大阪府大阪市",
+   "oe": "Osaka City",
+   "on": "https://www.city.osaka.lg.jp/hodoshiryo/kodomo/0000688056.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "電話料金明細から発覚 ～ 大阪市 児童いきいき放課後事業の活動室でサポート詐欺被害",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56508.html"
+    }
+   ],
+   "t": "other",
+   "v": "email",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-30",
+     "t": "ApplyNow採用管理プラットフォームへの不正アクセスによる個人情報漏えいに関するお知らせとお詫び",
+     "u": "https://contents.xj-storage.jp/xcontents/AS08813/afe2cda2/7ddb/4c8d/ac29/093acb365cc9/20260930152541531s.pdf"
+    }
+   ],
+   "o": "吉野家",
+   "oe": "Yoshinoya",
+   "on": "https://contents.xj-storage.jp/xcontents/AS08813/afe2cda2/7ddb/4c8d/ac29/093acb365cc9/20260930152541531s.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "吉野家がアルバイト採用業務を一部委託していた ApplyNow の採用管理プラットフォームに不正アクセス、契約終了後もデータ消去されず",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56507.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-20",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-30",
+     "t": "「Ｇポイント」システムへの不正アクセス発生について",
+     "u": "https://www.g-plan.net/news/details/20260930.html"
+    }
+   ],
+   "o": "ジー・プラン株式会社",
+   "oe": "G-Plan Co., Ltd.",
+   "on": "https://www.g-plan.net/news/details/20260930.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "ジー・プラン提供の「Gポイント」システムに不正アクセス、最大約 7 万件の会員識別子が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56506.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "ココナラ",
+     "u": "https://coconala.co.jp/"
+    }
+   ],
+   "o": "ココナラ",
+   "oe": "coconala Inc.",
+   "on": "https://coconala.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-19",
+     "t": "「ココナラスキルマーケット」に不正アクセス - 履歴書など流出",
+     "u": "https://www.security-next.com/191329"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-06",
+     "t": "nimoca 利用履歴照会サービスへの第三者からの不正アクセス（公開 WEB サービスへの攻撃）による情報漏えい",
+     "u": "https://www.nimoca.jp/storage/files/information/107/20261006.pdf"
+    },
+    {
+     "d": "",
+     "t": "利用履歴照会サービス再開のお知らせ",
+     "u": "https://www.nimoca.jp/news/detail/109"
+    },
+    {
+     "d": "",
+     "t": "利用履歴照会の一時停止について",
+     "u": "https://www.nimoca.jp/news/detail/106"
+    }
+   ],
+   "o": "ニモカ",
+   "oe": "Nimoca",
+   "on": "https://www.nimoca.jp/storage/files/information/107/20261006.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-19",
+     "t": "交通系IC「nimoca」の利用履歴照会サービスで個人情報が流出",
+     "u": "https://www.security-next.com/191145"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "nimoca 利用履歴照会サービスに不正アクセス、10月15日 再開",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56577.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-19",
+     "t": "Studio株式会社で発生した不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019553109.pdf"
+    }
+   ],
+   "o": "Ｇ－ＬｉＮＫＸ",
+   "oe": "G-LiNKX",
+   "on": "https://www.release.tdnet.info/inbs/140120261019553109.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-19",
+     "t": "Studio株式会社で発生した不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019553109.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-19",
+     "t": "不正アクセスによる海外のお客様の個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019553141.pdf"
+    }
+   ],
+   "o": "Ｇ－ジグザグ",
+   "oe": "zig-zag, Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261019553141.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-19",
+     "t": "不正アクセスによる海外のお客様の個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019553141.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-19",
+     "t": "当社子会社における不正アクセスおよび情報漏洩に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019553091.pdf"
+    }
+   ],
+   "o": "東邦ＨＤ",
+   "oe": "Toho Holdings Co., Ltd.",
+   "on": "https://www.release.tdnet.info/inbs/140120261019553091.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-19",
+     "t": "当社子会社における不正アクセスおよび情報漏洩に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019553091.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-19",
+     "t": "Studio株式会社で発生した不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019553073.pdf"
+    }
+   ],
+   "o": "Ｐ－ａｎｄ　ＵＳ",
+   "oe": "P-and US",
+   "on": "https://www.release.tdnet.info/inbs/140120261019553073.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-19",
+     "t": "Studio株式会社で発生した不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019553073.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "o": "ファンケルとアテニア",
+   "oe": "FANCL",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-19",
+     "t": "ファンケルとアテニア、eコマースサイトの会員情報が流出",
+     "u": "https://www.security-next.com/191600"
+    }
+   ],
+   "t": "leak",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-19",
+     "t": "不正アクセスによるシステム障害発生のお詫びとお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019552813.pdf"
+    }
+   ],
+   "o": "Ｊｏｓｈｉｎ",
+   "oe": "Joshin",
+   "on": "https://www.release.tdnet.info/inbs/140120261019552813.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-19",
+     "t": "不正アクセスによるシステム障害発生のお詫びとお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261019552813.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-15",
+     "t": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト株式会社",
+     "u": "https://www.sourcenext.com/support/i/2026/1015_info"
+    },
+    {
+     "d": "2026-10-15",
+     "t": "情報漏洩に関するよくあるご質問",
+     "u": "https://www.sourcenext.com/support/i/2026/1015_1"
+    }
+   ],
+   "o": "ソースネクスト",
+   "oe": "Sourcenext Corporation",
+   "on": "https://www.sourcenext.com/support/i/2026/1015_info",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-19",
+     "t": "ソースネクストに不正アクセス、会員情報2,251万9,960件が流出した可能性",
+     "u": "https://cybersecurity-jp.com/news/117404"
+    },
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-20",
+     "t": "ソースネクストへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/20/073243"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "ソースネクストに不正アクセス、22,519,960件の会員情報が流出した可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56515.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "【重要】不正アクセスによる情報流出に関するお詫びとお願い（第一報）｜Studio株式会社",
+     "u": "https://studio.design/ja/whats-new/unauthorized-access-2026-10"
+    },
+    {
+     "d": "2026-10-17",
+     "t": "【重要】フォーム機能をご利用のお客様へ：個人情報保護委員会へのご報告についてのご案内",
+     "u": "https://studio.design/ja/whats-new/unauthorized-access-2026-10-form"
+    },
+    {
+     "d": "2026-10-18",
+     "t": "Studioにおける不正アクセスに関するご案内",
+     "u": "https://studio.design/ja/security/notice/2026-10-incident"
+    }
+   ],
+   "o": "Studio",
+   "oe": "Studio",
+   "on": "https://studio.design/ja/whats-new/unauthorized-access-2026-10",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-19",
+     "t": "Web制作ツール「Studio」で不正アクセス、全登録者の情報流出の可能性│Studio株式会社",
+     "u": "https://cybersecurity-jp.com/news/117410"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-20",
+     "t": "「Studio」への不正アクセスでフォーム情報6,412件漏えいの可能性│ラクスル株式会社",
+     "u": "https://cybersecurity-jp.com/news/117514"
+    },
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-20",
+     "t": "Studioへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/20/204342"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "Studio が利用するクラウド環境に不正アクセス、復号に必要な鍵も読み出される",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56606.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "vl": [
+    {
+     "b": "analysis",
+     "c": "",
+     "p": "Studio",
+     "s": "https://cybersecurity-jp.com/news/117410",
+     "v": ""
+    }
+   ],
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "【重要・第一報】WASABI SWITCHへの不正アクセスによる情報流出に関するお詫びとご報告｜株式会社ワサビ",
+     "u": "https://wasabi-inc.biz/help/news/20261016-01"
+    }
+   ],
+   "o": "株式会社ワサビ",
+   "oe": "Wasabi, Inc.",
+   "on": "https://wasabi-inc.biz/help/news/20261016-01",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-19",
+     "t": "「WASABI SWITCH」で注文情報が流出、返金を装う不審メールも確認│株式会社ワサビ",
+     "u": "https://cybersecurity-jp.com/news/117406"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-01",
+     "t": "「お荷物問い合わせサービス」への不正アクセスによる個人情報流出の可能性について（第2報）2026年10月1日",
+     "u": "https://www2.sagawa-exp.co.jp/information/detail/420"
+    },
+    {
+     "d": "2026-10-01",
+     "t": "「お荷物問い合わせサービス」への不正アクセスによる個人情報流出の可能性について（第3報）2026年10月1日",
+     "u": "https://www2.sagawa-exp.co.jp/information/detail/421"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "よくあるご質問（FAQ）｜「お荷物問い合わせサービス」への不正アクセスについて",
+     "u": "https://www2.sagawa-exp.co.jp/information/detail/425"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "「お荷物問い合わせサービス」への不正アクセスの発生について(第1報）",
+     "u": "https://www2.sagawa-exp.co.jp/information/detail/419"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "「お荷物問い合わせサービス」への不正アクセスによる個人情報流出の可能性について（第4報）2026年10月9日",
+     "u": "https://www2.sagawa-exp.co.jp/information/detail/426"
+    }
+   ],
+   "o": "佐川急便株式会社",
+   "oe": "Sagawa Express",
+   "on": "https://www2.sagawa-exp.co.jp/information/detail/420",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-19",
+     "t": "佐川急便「お荷物問い合わせサービス」に不正アクセス 第4報",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/19/56499.html"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-26",
+     "t": "荷物問合サービスの侵害、流出対象件数を取りまとめ - 佐川急便",
+     "u": "https://www.security-next.com/191906"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-05",
+     "t": "当社が運営するアンケートサイト「infoQ」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://gmo-research.ai/pressroom/notice/notice-20261005"
+    },
+    {
+     "d": "2026-10-14",
+     "t": "当社が運営するアンケートサイト「infoQ」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ（第2報）",
+     "u": "https://gmo-research.ai/pressroom/notice/notice-20261014"
+    }
+   ],
+   "o": "GMOリサーチ&AI株式会社",
+   "oe": "GMO Research & AI Co., Ltd.",
+   "on": "https://gmo-research.ai/pressroom/notice/notice-20261005",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-19",
+     "t": "GMOリサーチ&AI 運営のアンケートサイト「infoQ」に不正アクセス、89万4,082件の個人情報外部持ち出しを確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/19/56497.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-09",
+     "t": "IDC フロンティア社で発生した不正アクセスに伴うメール配信用外部サービスからのメールアドレス等の漏えい可能性について",
+     "u": "https://www.jreast.co.jp/press/2026/20261009_ho02.pdf"
+    }
+   ],
+   "o": "東日本旅客鉄道株式会社(JR東日本)",
+   "oe": "East Japan Railway Company",
+   "on": "https://www.jreast.co.jp/press/2026/20261009_ho02.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-19",
+     "t": "えきねっと会員・大人の休日倶楽部会員の漏えいはなかったと判断 ～ IDCフロンティアへの不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/19/56496.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "生徒指導要録の紛失について（お詫び）",
+     "u": "https://fujiedahigashi-h.ed.jp/wordpress/wp-content/uploads/2026/09/56a8d79f24473a4bfe1935bdee9266cf.pdf"
+    }
+   ],
+   "o": "静岡県立藤枝東高等学校",
+   "oe": "Shizuoka Prefectural Fujieda Higashi High School",
+   "on": "https://fujiedahigashi-h.ed.jp/wordpress/wp-content/uploads/2026/09/56a8d79f24473a4bfe1935bdee9266cf.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-19",
+     "t": "卒業生の生徒指導要録を紛失、283人分の学籍に関する記録 ～ 氏名 生年月日 性別 現住所 ほか",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/19/56495.html"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】サイトコントローラーへの不正アクセスに関するお詫びとご注意のお願い",
+     "u": "https://www.ghi.gr.jp/information/news/post-215.html"
+    }
+   ],
+   "o": "ホテルグランドヒル市ヶ谷",
+   "oe": "Hotel Grand Hill Ichigaya",
+   "on": "https://www.ghi.gr.jp/information/news/post-215.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-19",
+     "t": "ホテルグランドヒル市ヶ谷、サイトコントローラー「TEMAIRAZU」シリーズに不正アクセス 不審メッセージ送信確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/19/56494.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "事業者に対する不正アクセスに関するお知らせと、本市への影響について",
+     "u": "https://www.city.kakogawa.lg.jp/soshikikarasagasu/bousai/kikikanrisitsu/sizensaigai/kikikanrikakaranooshirase/51199.html"
+    }
+   ],
+   "o": "加古川市の職員メール配信システムを運用する事業者",
+   "oe": "City of Kakogawa",
+   "on": "https://www.city.kakogawa.lg.jp/soshikikarasagasu/bousai/kikikanrisitsu/sizensaigai/kikikanrikakaranooshirase/51199.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-19",
+     "t": "加古川市の職員メール配信システムを運用する事業者に不正アクセス、「防災ネットかこがわ」への影響はない",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/19/56491.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "三井住友DS投信直販ネット「マイページ一時利用停止のお詫びと復旧のお知らせ」",
+     "u": "https://direct.smd-am.co.jp/news/2026/1016"
+    }
+   ],
+   "o": "三井住友DSアセットマネジメント",
+   "oe": "Sumitomo Mitsui DS Asset Management Co., Ltd.",
+   "on": "https://direct.smd-am.co.jp/news/2026/1016",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-18",
+     "t": "三井住友DS投信直販ネット、委託先への不正アクセスで約10時間ログインできず　口座情報・取引への影響は未確認",
+     "u": "https://cybersecurity-jp.com/news/117424"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "岩井コスモ証券「外部委託先への不正アクセスに伴うお客様情報の漏洩について」",
+     "u": "https://www.iwaicosmo.co.jp/news/2026/10161410.html"
+    }
+   ],
+   "o": "岩井コスモ証券",
+   "oe": "Iwaicosmo Securities",
+   "on": "https://www.iwaicosmo.co.jp/news/2026/10161410.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-18",
+     "t": "岩井コスモ証券、顧客4,611人の情報が漏洩　システム運用委託先への不正アクセスで",
+     "u": "https://cybersecurity-jp.com/column/117419"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-21",
+     "t": "個人情報流出が判明、意図しない売買も - 岩井コスモ証券",
+     "u": "https://www.security-next.com/191717"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "Astemo「当社が利用するデーター共有クラウド環境への不正アクセスおよび情報流出について」",
+     "u": "https://www.astemo.com/jp/news/pdf/20261016-01.pdf"
+    }
+   ],
+   "o": "Astemo株式会社",
+   "oe": "Astemo",
+   "on": "https://www.astemo.com/jp/news/pdf/20261016-01.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-18",
+     "t": "Astemo、委託先アカウントの侵害で約350人の個人情報が流出　共有クラウドに不正アクセス",
+     "u": "https://cybersecurity-jp.com/news/117416"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "和歌山県「わかやま県政ニュース」",
+     "u": "https://wave.pref.wakayama.lg.jp/news/kensei/index.php"
+    }
+   ],
+   "o": "和歌山県",
+   "oe": "Wakayama Prefecture",
+   "on": "https://wave.pref.wakayama.lg.jp/news/kensei/index.php",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-18",
+     "t": "和歌山県、外国人材支援サイトの登録情報が漏洩した可能性　417事業者・1,749人が対象",
+     "u": "https://cybersecurity-jp.com/news/117414"
+    }
+   ],
+   "t": "leak",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-17",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "NTTソルマーレ「『コミックシーモア』会員情報の流出に関するお詫びとお願い」",
+     "u": "https://www.nttsolmare.com/press/2026/1016.html"
+    },
+    {
+     "d": "",
+     "t": "NTTソルマーレ",
+     "u": "https://www.nttsolmare.com/"
+    },
+    {
+     "d": "",
+     "t": "『コミックシーモア』会員情報の流出に関するご報告（第3報）",
+     "u": "https://www.nttsolmare.com/press/2026/1016-1.html"
+    }
+   ],
+   "o": "NTTソルマーレ",
+   "oe": "NTT Solmare",
+   "on": "https://www.nttsolmare.com/press/2026/1016.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-17",
+     "t": "コミックシーモア、不正アクセスで会員情報が流出　再開時に全会員へパスワード再設定を要請予定",
+     "u": "https://cybersecurity-jp.com/news/117400"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-19",
+     "t": "「コミックシーモア」で情報流出 - 影響など調査",
+     "u": "https://www.security-next.com/191552"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "NTTソルマーレの電子書籍ストア「コミックシーモア」に不正アクセス、会員情報が流出",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56512.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-17",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-16",
+     "t": "Eストアー「不正アクセスによる個人情報漏えいに関するお知らせ（最終報）」",
+     "u": "https://estore.jp/press/20261016"
+    }
+   ],
+   "o": "株式会社Eストアー",
+   "oe": "E Store",
+   "on": "https://estore.jp/press/20261016",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-17",
+     "t": "ショップサーブ、約2,335万人の情報漏洩を公表　7,858店舗が対象、Eストアーが最終報告",
+     "u": "https://cybersecurity-jp.com/news/117395"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-29",
+     "t": "「ショップサーブ」に不正アクセス、漏えい対象者数は約2,335万6,000人",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/29/56620.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "ムーンスター",
+     "u": "https://www.moonstar.co.jp/"
+    }
+   ],
+   "o": "ムーンスター",
+   "oe": "MoonStar",
+   "on": "https://www.moonstar.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-16",
+     "t": "個人情報が流出、顧客宛のなりすましメールに過去の注文情報 - ムーンスター",
+     "u": "https://www.security-next.com/190996"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "アエナ",
+     "u": "https://www.aena.co.jp/"
+    },
+    {
+     "d": "",
+     "t": "外部からの不正アクセスによるお客様情報流出の可能性について",
+     "u": "https://www.aena.co.jp/news/detail/7826"
+    },
+    {
+     "d": "",
+     "t": "【重要】弊社ECアプリ サービス再開予定に関するお知らせ",
+     "u": "https://www.aena.co.jp/news/detail/7879"
+    }
+   ],
+   "o": "アエナ",
+   "oe": "AENA",
+   "on": "https://www.aena.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-16",
+     "t": "ECアプリに不正アクセス、会員情報流出の可能性 - アエナ",
+     "u": "https://www.security-next.com/191554"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-28",
+     "t": "アエナ運営の「ECアプリ」に不正アクセス、最大81万7,215人の会員情報が閲覧された可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56598.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-13",
+     "t": "会員サービス「マイボ」における不正アクセスによる会員情報の漏えいに関するお詫びとお知らせ｜DCMホールディングス",
+     "u": "https://www.dcm-hc.co.jp/news/news_file/file/20261013nwes%20.pdf"
+    }
+   ],
+   "o": "DCMホールディングス",
+   "oe": "DCM Holdings Co., Ltd.",
+   "on": "https://www.dcm-hc.co.jp/news/news_file/file/20261013nwes%20.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-16",
+     "t": "DCM、会員サービス「マイボ」で419人分の情報漏えい　アプリを一時停止",
+     "u": "https://cybersecurity-jp.com/news/117337"
+    }
+   ],
+   "t": "leak",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-28",
+     "t": "不正アクセスによる情報漏えいの可能性について （ 第二報）",
+     "u": "https://www.mitsuifudosan.co.jp/letter/260928/download/260928.pdf"
+    }
+   ],
+   "o": "三井不動産",
+   "oe": "Mitsui Fudosan Co., Ltd.",
+   "on": "https://www.mitsuifudosan.co.jp/letter/260928/download/260928.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-16",
+     "t": "三井不動産への不正アクセス、攻撃者による資格情報の不正利用を確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/16/56479.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-28",
+     "t": "第三者の不正アクセスによるシステム障害に関するお知らせ",
+     "u": "https://www.fukuvi.co.jp/news/information/2026092801"
+    },
+    {
+     "d": "2026-09-30",
+     "t": "第三者の不正アクセスによるシステム障害に関する続報",
+     "u": "https://www.fukuvi.co.jp/news/information/2026093001"
+    }
+   ],
+   "o": "フクビ化学工業株式会社",
+   "oe": "Fukuvi Chemical Industry Co., Ltd.",
+   "on": "https://www.fukuvi.co.jp/news/information/2026092801",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-16",
+     "t": "フクビ化学工業 英語版ウェブサイトに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/16/56478.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "弊社ウェブサイトへの不正アクセスに関するお詫びとご報告",
+     "u": "https://sanpofoods.co.jp/news/archives/1658"
+    }
+   ],
+   "o": "サンポー食品株式会社",
+   "oe": "Sanpo Foods Co., Ltd.",
+   "on": "https://sanpofoods.co.jp/news/archives/1658",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-16",
+     "t": "サンポー食品ウェブサイトに不正アクセス、管理者権限の取得や改ざんを確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/16/56477.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-08",
+     "t": "【重要】当社よりお送りした「個人情報の流出に関するお知らせ」メールについて",
+     "u": "https://jp.adventurekk.com/news/apology-unauthorized-access-data-leak"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "不正アクセスによるお客様情報の流出に関するお詫びとお知らせ",
+     "u": "https://jp.adventurekk.com/news/apology-notice-unauthorized-access-data-leak"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "不正アクセスによるお客様情報の流出に関するお詫びとお知らせ",
+     "u": "https://contents.xj-storage.jp/xcontents/AS80678/92958f66/3491/4cf2/8039/c39b2bb1765d/140120261008548235.pdf"
+    },
+    {
+     "d": "2026-10-10",
+     "t": "【重要】メールサーバー障害の復旧に関するお知らせ",
+     "u": "https://skyticket.jp/news/maintenance/67616"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "不正アクセスによるお客様情報の流出に関する電話窓口開設のお知らせ",
+     "u": "https://jp.adventurekk.com/news/data-leak-call-center-notice"
+    }
+   ],
+   "o": "アドベンチャー",
+   "oe": "Adventure, Inc.",
+   "on": "https://jp.adventurekk.com/news/apology-unauthorized-access-data-leak",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-16",
+     "t": "「skyticket」で確認された3つの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/16/075103"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-15",
+     "t": "ビーケー・ジャパン「不正アクセスによる公式アプリ会員情報漏えいに関するお詫びとお知らせ」（2026年10月15日）",
+     "u": "https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf"
+    },
+    {
+     "d": "",
+     "t": "バーガーキング",
+     "u": "https://www.burgerking.co.jp/"
+    }
+   ],
+   "o": "株式会社ビーケー・ジャパン",
+   "oe": "BK Japan (Burger King)",
+   "on": "https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-16",
+     "t": "バーガーキング、公式アプリの会員情報約1,118万件が漏洩　氏名・電話番号などが対象",
+     "u": "https://cybersecurity-jp.com/news/117343"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-16",
+     "t": "アプリ会員の個人情報が流出、詳細を調査 - バーガーキング",
+     "u": "https://www.security-next.com/191546"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-19",
+     "t": "バーガーキング公式アプリに不正アクセス、約1,118万件の会員情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/19/56498.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "ライドオンエクスプレスホールディングス",
+     "u": "https://www.rideonexpresshd.co.jp/"
+    }
+   ],
+   "o": "ライドオンエクスプレスホールディングス",
+   "oe": "Ride ON Express Holdings Co., Ltd.",
+   "on": "https://www.rideonexpresshd.co.jp/",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-10-15",
+     "t": "「銀のさら」にサイバー攻撃、影響など調査 - サイトやアプリを停止",
+     "u": "https://www.security-next.com/191397"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "unchecked",
+   "nn": [
+    {
+     "d": "2026-10-15",
+     "t": "連結子会社における不正アクセスの発生及び個人情報漏洩に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261015551574.pdf"
+    }
+   ],
+   "o": "ＡＣＣＥＳＳ",
+   "oe": "ACCESS Co., Ltd.",
+   "on": "https://www.release.tdnet.info/inbs/140120261015551574.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-15",
+     "t": "連結子会社における不正アクセスの発生及び個人情報漏洩に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261015551574.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-15",
+     "t": "当社ECサイトへの第三者からの不正アクセスによる情報漏洩に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261015551741.pdf"
+    }
+   ],
+   "o": "ビューティガレージ",
+   "oe": "Beauty Garage Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261015551741.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-10-15",
+     "t": "当社ECサイトへの第三者からの不正アクセスによる情報漏洩に関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261015551741.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】コミュニティサイト「ちとせアカデミー」への不正アクセスによる個人情報流出可能性に関するお知らせとお詫び｜ちとせアカデミー",
+     "u": "https://chitose-bio.com/jp/news/12177"
+    }
+   ],
+   "o": "ちとせアカデミー",
+   "oe": "Chitose Academy",
+   "on": "https://chitose-bio.com/jp/news/12177",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-15",
+     "t": "「ちとせアカデミー」で個人情報流出の可能性、最大843人が対象",
+     "u": "https://cybersecurity-jp.com/news/117282"
+    }
+   ],
+   "t": "leak",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "メール誤送信によるメールアドレス漏えい事案の発生について｜南海放送株式会社",
+     "u": "https://www.rnb.co.jp/press/node/2803.php"
+    }
+   ],
+   "o": "南海放送",
+   "oe": "Nankai Broadcasting Company, Ltd.",
+   "on": "https://www.rnb.co.jp/press/node/2803.php",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-15",
+     "t": "南海放送、当選通知メールをCCで誤送信　58人のメールアドレス漏えい",
+     "u": "https://cybersecurity-jp.com/news/117284"
+    }
+   ],
+   "t": "leak",
+   "v": "email",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-09",
+     "t": "当社ウェブサイトへの一部不正アクセスによる個人情報漏洩に関するお詫びとご報告｜リゾートトラスト",
+     "u": "https://www.resorttrust.co.jp/wp_api/wp-content/uploads/2026/10/20261009.pdf"
+    }
+   ],
+   "o": "リゾートトラスト",
+   "oe": "Resorttrust, Inc.",
+   "on": "https://www.resorttrust.co.jp/wp_api/wp-content/uploads/2026/10/20261009.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-15",
+     "t": "リゾートトラストに不正アクセス、会員やホテル予約者の個人情報が漏えい",
+     "u": "https://cybersecurity-jp.com/news/117280"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "「バイトル」「バイトルNEXT」不正アクセスによる一部メールアドレス漏えいに関するお知らせとお詫び",
+     "u": "https://www.dip-net.co.jp/news/2192"
+    }
+   ],
+   "o": "ディップ株式会社",
+   "oe": "DIP corporation",
+   "on": "https://www.dip-net.co.jp/news/2192",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-15",
+     "t": "「バイトル」「バイトルNEXT」に不正アクセス、最大3,885,771件のメールアドレスが漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/15/56464.html"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-16",
+     "t": "「バイトル」などで不正アクセス、最大約388万件のメールアドレス漏えいの可能性",
+     "u": "https://cybersecurity-jp.com/news/117340"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "退職された皆さまへのお知らせ 当社の従業員向け人事システムへの不正アクセスについて",
+     "u": "https://www.dai-ichi-life.co.jp/information/pdf/index_192.pdf"
+    }
+   ],
+   "o": "第一ライフグループと第一生命保険",
+   "oe": "Dai-ichi Life group companies",
+   "on": "https://www.dai-ichi-life.co.jp/information/pdf/index_192.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-15",
+     "t": "第一ライフグループと第一生命保険の人事システムに不正アクセス、約12万名の従業員情報が流出した可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/15/56463.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社社内システムへの不正アクセスに関するお知らせ",
+     "u": "https://www.ryomo.co.jp/news/202608_02.html"
+    },
+    {
+     "d": "",
+     "t": "当社社内システムへの不正アクセスに関するお知らせ（第2報）",
+     "u": "https://www.ryomo.co.jp/news/202608_03.html"
+    },
+    {
+     "d": "",
+     "t": "当社社内システムへの不正アクセスに関するお知らせ（第3報）",
+     "u": "https://www.ryomo.co.jp/news/202609_02.html"
+    }
+   ],
+   "o": "両毛システムズ",
+   "oe": "Ryomo Systems Co., Ltd.",
+   "on": "https://www.ryomo.co.jp/news/202608_02.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-15",
+     "t": "両毛システムズにランサムウェア攻撃",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/15/56461.html"
+    }
+   ],
+   "t": "ransomware",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-25",
+     "t": "ホテルの予約プラットフォームに対する不正アクセスについてのお詫びとお知らせ",
+     "u": "https://www.legoland.jp/operation/news/news-release/news20260925"
+    }
+   ],
+   "o": "レゴランド・ジャパン・ホテル",
+   "oe": "Legoland Japan Hotel",
+   "on": "https://www.legoland.jp/operation/news/news-release/news20260925",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-15",
+     "t": "レゴランド・ジャパン・ホテルが利用するオンライン予約プラットフォームに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/15/56460.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "弊社システムへの不正アクセスによる情報漏えいについてのお詫びとお知らせ【速報】",
+     "u": "https://e-tenki.co.jp/news/%E5%BC%8A%E7%A4%BE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%B8%E3%81%AE%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84"
+    }
+   ],
+   "o": "株式会社ファインズ",
+   "oe": "Fines inc.",
+   "on": "https://e-tenki.co.jp/news/%E5%BC%8A%E7%A4%BE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%B8%E3%81%AE%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-15",
+     "t": "ファインズの予約システムに不正アクセス、1,536,322件の予約者情報が影響",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/15/56459.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-14",
+     "t": "不正アクセス検知に伴うシステム停止・サービス再開および調査状況のお知らせ",
+     "u": "https://kingprinters.com/news/2026/oshirase_20260914-2"
+    },
+    {
+     "d": "2026-09-14",
+     "t": "一部の決済方法をお選びいただけません（復旧しました）",
+     "u": "https://kingprinters.com/news/2026/oshirase_20260914"
+    },
+    {
+     "d": "2026-09-25",
+     "t": "不正アクセス検知に伴う調査状況のお知らせ【第2報】",
+     "u": "https://kingprinters.com/news/2026/oshirase_20260925"
+    }
+   ],
+   "o": "キングプリンターズ",
+   "oe": "King Printers",
+   "on": "https://kingprinters.com/news/2026/oshirase_20260914-2",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-15",
+     "t": "キングプリンターズに不正アクセス、認証情報を用いた生成 AI サービスの不正利用が目的",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/15/56458.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "大和証券「外部委託先への不正アクセスによるお客様情報の漏洩の可能性について」（公式開示資料）",
+     "u": "https://ssl4.eir-parts.net/doc/8601/tdnet/2891437/00.pdf"
+    }
+   ],
+   "o": "大和証券",
+   "oe": "Daiwa Securities",
+   "on": "https://ssl4.eir-parts.net/doc/8601/tdnet/2891437/00.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-15",
+     "t": "大和証券、約11万人の顧客情報が漏洩した可能性　委託先への不正アクセスで氏名・口座番号などが対象",
+     "u": "https://cybersecurity-jp.com/news/117286"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-14",
+     "t": "アットリンクアプリ、WEB予約サイトおよび周辺サービスの一時停止に関するお詫び",
+     "u": "https://www.matsushima-wh.or.jp/2026/10/14/%E3%82%A2%E3%83%83%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%80%81web%E4%BA%88%E7%B4%84%E3%82%B5%E3%82%A4%E3%83%88%E3%81%8A%E3%82%88%E3%81%B3%E5%91%A8%E8%BE%BA%E3%82%B5"
+    },
+    {
+     "d": "2026-10-14",
+     "t": "【重要】アットリンクアプリ、WEB予約サイトおよび周辺サービスの一時停止に関するお詫び",
+     "u": "https://tsukubamirai-endo-ladies.com/news"
+    },
+    {
+     "d": "2026-10-15",
+     "t": "当社サービス「アットリンク」への不正アクセス及びサービスの一時停止に関するお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/4480/tdnet/2895027/00.pdf"
+    },
+    {
+     "d": "2026-10-23",
+     "t": "アットリンクへの不正アクセスに関する調査状況について",
+     "u": "https://at-link.net/information/%e3%82%a2%e3%83%83%e3%83%88%e3%83%aa%e3%83%b3%e3%82%af%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e8%aa%bf%e6%9f%bb%e7%8a%b6%e6%b3%81"
+    },
+    {
+     "d": "2026-10-23",
+     "t": "アットリンクへの不正アクセスおよびサービスの一時停止に関する最新情報",
+     "u": "https://at-link.net/information/%e3%82%a2%e3%83%83%e3%83%88%e3%83%aa%e3%83%b3%e3%82%af%e3%81%b8%e3%81%ae%e4%b8%8d%e6%ad%a3%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%8a%e3%82%88%e3%81%b3%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae"
+    }
+   ],
+   "o": "メドレー",
+   "oe": "Medley, Inc.",
+   "on": "https://www.matsushima-wh.or.jp/2026/10/14/%E3%82%A2%E3%83%83%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%80%81web%E4%BA%88%E7%B4%84%E3%82%B5%E3%82%A4%E3%83%88%E3%81%8A%E3%82%88%E3%81%B3%E5%91%A8%E8%BE%BA%E3%82%B5",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-15",
+     "t": "産婦人科向けシステム「アットリンク」への不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/15/065625"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-14",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "大分県「不正アクセスの疑いに伴う防災メール等配信システムの新規登録等停止について」",
+     "u": "https://www.pref.oita.jp/soshiki/13550/bosaimeil.html"
+    }
+   ],
+   "o": "大分県",
+   "oe": "Oita Prefecture",
+   "on": "https://www.pref.oita.jp/soshiki/13550/bosaimeil.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-14",
+     "t": "大分県、防災メールのアドレス2万7,667件が漏洩した可能性　新規登録などを停止、警報配信は継続",
+     "u": "https://cybersecurity-jp.com/news/117277"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-14",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-20",
+     "t": "【重要】[ConoHa WING byGMO]一部収容ホスト（Webサーバー）への第三者による不正アクセスに関するお詫びとお知らせ（2026年9月20日 00:25時点）",
+     "u": "https://www.conoha.jp/wing/news?btn_id=wing-news--news_wing-news&ap=2015054834"
+    }
+   ],
+   "o": "GMOインターネット株式会社",
+   "oe": "GMO Internet Inc.",
+   "on": "https://www.conoha.jp/wing/news?btn_id=wing-news--news_wing-news&ap=2015054834",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-14",
+     "t": "ConoHa WING byGMO に不正アクセス、不正プログラムを設置",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/14/56450.html"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-27",
+     "t": "GMOに身代金要求 - ランサム攻撃や情報公開を行うと脅迫",
+     "u": "https://www.security-next.com/191999"
+    }
+   ],
+   "t": "ransomware",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-14",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-08",
+     "t": "委託先における個人情報漏えいのおそれについて",
+     "u": "https://www.dkkaraoke.co.jp/news/newsletter/261008_2.html"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "委託先における個人情報漏えいのおそれに関するお問い合わせ窓口（フリーダイヤル）開設のお知らせ",
+     "u": "https://www.dkkaraoke.co.jp/news/newsletter/261009_1.html"
+    }
+   ],
+   "o": "日本コロムビアグループ",
+   "oe": "Nippon Columbia Co., Ltd.",
+   "on": "https://www.dkkaraoke.co.jp/news/newsletter/261008_2.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-14",
+     "t": "第一興商の委託先 日本コロムビアグループでマルウェア感染、約 8,724,000 件の情報が漏えいしたおそれを否定できず",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/14/56449.html"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-14",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる情報漏えいについて",
+     "u": "https://www.jaea.go.jp/02/press2026/p26100105"
+    }
+   ],
+   "o": "日本原子力研究開発機構",
+   "oe": "Japan Atomic Energy Agency",
+   "on": "https://www.jaea.go.jp/02/press2026/p26100105",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-14",
+     "t": "日本原子力研究開発機構が運用している研究支援サイトに不正アクセス、顔写真付公的身分証明証 200 件が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/14/56447.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-14",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/9278/tdnet/2893077/00.pdf"
+    }
+   ],
+   "o": "ブックオフグループホールディングス子会社",
+   "oe": "Bookoff subsidiary",
+   "on": "https://ssl4.eir-parts.net/doc/9278/tdnet/2893077/00.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-14",
+     "t": "ブックオフグループホールディングス子会社に不正アクセス、最大 約 643 万件の会員データが漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/14/56446.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-14",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-12",
+     "t": "SpeeCAN RAIDEN への不正アクセスによる個人情報漏洩の可能性について",
+     "u": "https://www.arcadia.co.jp/wp-content/uploads/2026/10/20261012_SpeeCANRAIDEN_cyberattack.pdf"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "SpeeCAN RAIDENへの不正アクセスによる個人情報漏洩の可能性について",
+     "u": "https://www.arcadia.co.jp/info/4076"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "唐津市情報メール配信サービスへの不正アクセスについて",
+     "u": "https://www.city.karatsu.lg.jp/page/52939.html"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "弊社サービスへの不正アクセスに伴う一連の対応について",
+     "u": "https://raiden.site.ktaiwork.jp/archives/4597"
+    },
+    {
+     "d": "2026-10-19",
+     "t": "不正アクセスの経過と当社の対処について",
+     "u": "https://raiden.site.ktaiwork.jp/wp-content/uploads/sites/2/2026/10/2026_10_19AccessIncident.pdf"
+    }
+   ],
+   "o": "アルカディア",
+   "oe": "Arcadia (SpeeCAN RAIDEN)",
+   "on": "https://www.arcadia.co.jp/wp-content/uploads/2026/10/20261012_SpeeCANRAIDEN_cyberattack.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-14",
+     "t": "防災情報配信サービス「SpeeCAN RAIDEN」への不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/14/014350"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-15",
+     "t": "アルカディアに不正アクセス、メールアドレス最大約313万件が漏洩した可能性　NET119にも影響",
+     "u": "https://cybersecurity-jp.com/news/117289"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-16",
+     "t": "アルカディア運営の「SpeeCAN RAIDEN」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/16/56481.html"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-19",
+     "t": "唐津市情報メール配信サービスを業務委託しているアルカディアに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/19/56492.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-13",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "オーナーズサイト一時停止のお知らせとお詫びについて",
+     "u": "https://www.anabuki-housing.co.jp/news/content.php?news_id=538"
+    }
+   ],
+   "o": "穴吹ハウジングサービス",
+   "oe": "Anabuki Housing Service",
+   "on": "https://www.anabuki-housing.co.jp/news/content.php?news_id=538",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-13",
+     "t": "穴吹ハウジングサービスがオーナーズサイトを一時停止、直ちに情報漏えいにつながるものではないが追加対策を講じることが望ましい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/13/56435.html"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-13",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "第三者による不正アクセスに伴う個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://www.lawson.co.jp/contents/cont07/1533174_3310.html"
+    }
+   ],
+   "o": "株式会社ローソン",
+   "oe": "Lawson, Inc.",
+   "on": "https://www.lawson.co.jp/contents/cont07/1533174_3310.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-13",
+     "t": "ローソンのアカウントサービスに不正アクセス、215 万 5,345 件のローソン ID が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/13/56434.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-10",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-08",
+     "t": "【重要】当社が青森県より受託運営する青森県観光ファンコミュニティにおける個人情報漏えいの可能性についてのお詫びとお知らせ",
+     "u": "https://commune.co.jp/notice/20261008aomori"
+    }
+   ],
+   "o": "コミューン",
+   "oe": "Commune",
+   "on": "https://commune.co.jp/notice/20261008aomori",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-10",
+     "t": "コミューンの「Commune」への不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/10/075729"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-08",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-07",
+     "t": "当社サービスの一部システムに対する不正アクセスについて",
+     "u": "https://www.idcf.jp/news/topics/20261007001"
+    },
+    {
+     "d": "2026-10-07",
+     "t": "【カスタマーポータル】緊急メンテナンス作業のお知らせ（2026年10月07日 10時00分 ～ ）",
+     "u": "https://www.idcf.jp/rentalserver/maintenance/2026/20261007-1.html"
+    },
+    {
+     "d": "2026-10-07",
+     "t": "【第2報】当社サービスの一部システムに対する不正アクセスについて",
+     "u": "https://www.idcf.jp/news/topics/20261007002"
+    },
+    {
+     "d": "2026-10-08",
+     "t": "【第3報】当社サービスの一部システムへの不正アクセスによる障害について",
+     "u": "https://www.idcf.jp/news/topics/20261008001"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "【重要】当社サービスの一部システムへの不正アクセスによるZenlogicへの影響について",
+     "u": "https://www.idcf.jp/rentalserver/news/2026/20261009-1.html"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "【第4報】不正アクセスによる障害への対応体制について",
+     "u": "https://www.idcf.jp/news/topics/20261009001"
+    },
+    {
+     "d": "2026-10-14",
+     "t": "【第5報】不正アクセスによる障害に関する調査の進捗について",
+     "u": "https://www.idcf.jp/news/topics/20261014001"
+    }
+   ],
+   "o": "IDCフロンティア",
+   "oe": "IDC Frontier",
+   "on": "https://www.idcf.jp/news/topics/20261007001",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-08",
+     "t": "IDCFクラウドへのランサムウェア攻撃についてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/08/070606"
+    }
+   ],
+   "t": "ransomware",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-07",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-06",
+     "t": "当社連結子会社における不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://scalagrp.jp/pdf/ir/news/2026_IRnews1006.pdf"
+    },
+    {
+     "d": "2026-10-06",
+     "t": "FAQシステム「i-ask」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://www.scala-com.jp/news/2026/10-1"
+    }
+   ],
+   "o": "スカラコミュニケーションズ",
+   "oe": "Scala Communications",
+   "on": "https://scalagrp.jp/pdf/ir/news/2026_IRnews1006.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-07",
+     "t": "スカラコミュニケーションズへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/07/120750"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-27",
+     "t": "スカラコミュニケーションズへの不正アクセス、大和証券の約11万名の顧客に係る個人情報も漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/27/56573.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-07",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-02",
+     "t": "履修登録修正最終期間日・総合教養科目2次抽選［先着申請］の延期について",
+     "u": "https://www.omu.moe/news/2026-10-02-coursereg.html"
+    },
+    {
+     "d": "2026-10-02",
+     "t": "本学情報基盤システムにおける障害の発生について【第1報】",
+     "u": "https://www.omu.moe/news/2026-10-02-outage-1.html"
+    },
+    {
+     "d": "2026-10-02",
+     "t": "本学情報基盤システムにおける障害の発生について【第2報】",
+     "u": "https://www.omu.moe/news/2026-10-02-outage-2.html"
+    },
+    {
+     "d": "2026-10-04",
+     "t": "【高専】授業実施のお知らせと自宅等での教材ダウンロードのお願い",
+     "u": "https://www.omu.moe/news/2026-10-04-c7b248ca.html"
+    },
+    {
+     "d": "2026-10-06",
+     "t": "情報基盤システムにおける障害に関する記者会見を実施",
+     "u": "https://www.omu.moe/news/2026-10-06-7fb5a624.html"
+    }
+   ],
+   "o": "大阪公立大学",
+   "oe": "Osaka Metropolitan University",
+   "on": "https://www.omu.moe/news/2026-10-02-coursereg.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-07",
+     "t": "ランサム攻撃起因とみられる大阪公立大学のシステム障害についてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/07/095650"
+    }
+   ],
+   "t": "ransomware",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-10-07",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-25",
+     "t": "当社グループ会社メールアカウントへの不正アクセスおよび不審メール送信について(お詫び)",
+     "u": "https://www.toyobo.co.jp/system/files/News_Release/202609/press_20260925_3J.pdf"
+    }
+   ],
+   "o": "東洋紡グループ",
+   "oe": "Toyobo Co., Ltd.",
+   "on": "https://www.toyobo.co.jp/system/files/News_Release/202609/press_20260925_3J.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-07",
+     "t": "東洋紡グループのメールアカウントへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/07/094633"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-15",
+     "t": "東洋紡せんいのメールアカウントに不正アクセス、約1,500件の不審メール送信",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/15/56462.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "email",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-07",
+   "ls": "none_found",
+   "o": "シンテックホズミ",
+   "oe": "Shintec Hozumi Co., Ltd.",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-07",
+     "t": "シンテックホズミの元社員2人が逮捕された営業秘密漏えい事件についてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/07/072551"
+    }
+   ],
+   "t": "leak",
+   "v": "insider",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-06",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-06-11",
+     "t": "資金流出事案の発生に関するお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/3070/tdnet/2834417/00.pdf"
+    },
+    {
+     "d": "2026-06-19",
+     "t": "（開示事項の経過）資金流出事案の経過及び再発防止策等に関するお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/3070/tdnet/2837909/00.pdf"
+    },
+    {
+     "d": "2026-06-19",
+     "t": "役員報酬の一部自主返納に関するお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/3070/tdnet/2837912/00.pdf"
+    },
+    {
+     "d": "2026-07-09",
+     "t": "調査委員会設置に関するお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/3070/tdnet/2849526/00.pdf"
+    },
+    {
+     "d": "2026-09-10",
+     "t": "特別損失の発生のお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/3070/tdnet/2883542/00.pdf"
+    },
+    {
+     "d": "2026-09-29",
+     "t": "資金流出事案に関する調査報告書の受領に関するお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/3070/tdnet/2888771/00.pdf"
+    },
+    {
+     "d": "2026-09-30",
+     "t": "資金流出事案に関する調査結果の公表及び再発防止策に関するお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/3070/tdnet/2889393/00.pdf"
+    }
+   ],
+   "o": "ジェリービーンズグループ",
+   "oe": "Jelly Beans Group Co., Ltd.",
+   "on": "https://ssl4.eir-parts.net/doc/3070/tdnet/2834417/00.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-06",
+     "t": "ジェリービーンズグループの資金流出についてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/06/002029"
+    }
+   ],
+   "t": "leak",
+   "v": "email",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-05",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-24",
+     "t": "緊急メンテナンスのお知らせ",
+     "u": "https://www.e-tax.nta.go.jp/topics/2026/topics_20260924_mentenansu.htm"
+    },
+    {
+     "d": "2026-09-24",
+     "t": "【解消】インターネットバンキングによる納付の完了表示の不具合について",
+     "u": "https://www.e-tax.nta.go.jp/topics/2026/topics_20260924_nozei.htm"
+    },
+    {
+     "d": "2026-09-25",
+     "t": "（地方公共団体の方へ）e-Taxホームページ（GSS G-Net・LGWAN用）のアドレス変更のお知らせ",
+     "u": "https://www.e-tax.nta.go.jp/topics/2026/topics_20260925_dl.htm"
+    },
+    {
+     "d": "2026-09-28",
+     "t": "e-Taxソフトの不具合に伴う改修について",
+     "u": "https://www.e-tax.nta.go.jp/topics/2026/topics_20260928_e-taxsoft.htm"
+    }
+   ],
+   "o": "国税庁",
+   "oe": "National Tax Agency",
+   "on": "https://www.e-tax.nta.go.jp/topics/2026/topics_20260924_mentenansu.htm",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-05",
+     "t": "e-Taxのシステム障害についてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/05/151151"
+    }
+   ],
+   "t": "outage",
+   "v": "cloud_misconfig",
+   "x": "no"
+  },
+  {
+   "d": "2026-10-05",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-04",
+     "t": "サイバー攻撃による情報漏洩、不審メールの送信について",
+     "u": "https://www.nikkei.co.jp/nikkeiinfo/news/information/1554.html"
+    },
+    {
+     "d": "2026-10-04",
+     "t": "不正ログインによる情報漏洩について",
+     "u": "https://www.nikkei.co.jp/nikkeiinfo/news/information/1547.html"
+    },
+    {
+     "d": "2026-10-16",
+     "t": "不正アクセスによる個人情報漏洩について",
+     "u": "https://www.nikkei.co.jp/nikkeiinfo/news/information/1561.html"
+    }
+   ],
+   "o": "日本経済新聞社",
+   "oe": "Nikkei Inc.",
+   "on": "https://www.nikkei.co.jp/nikkeiinfo/news/information/1554.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-05",
+     "t": "日本経済新聞社へのサイバー攻撃となりすましメール送信についてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/05/115509"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-17",
+     "t": "日本経済新聞社、クラウドへの不正アクセスで約183万件の情報漏洩　氏名・連絡先など約15万件を含む",
+     "u": "https://cybersecurity-jp.com/news/117393"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "日本経済新聞社がシステム開発に利用するクラウドサービスに不正アクセス、約183万件の個人情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56513.html"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-21",
+     "t": "日本経済新聞社への不正アクセス、日経ナショナル ジオグラフィックサービス利用者の情報も漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/21/56530.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-05",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-29",
+     "t": "「クロネコ代金後払いサービス」への不正アクセスの発生について",
+     "u": "https://www.yamato-hd.co.jp/important/img/info_260929_1_1.pdf"
+    },
+    {
+     "d": "2026-10-02",
+     "t": "【第2報】「クロネコ代金後払いサービス」への不正アクセスの発生について",
+     "u": "https://www.yamato-hd.co.jp/important/info_260929_1.html"
+    },
+    {
+     "d": "2026-10-02",
+     "t": "【第2報】「クロネコ代金後払いサービス」への不正アクセスの発生について",
+     "u": "https://www.yamato-hd.co.jp/important/img/info_260929_1_6.pdf"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "【第3報】「クロネコ代金後払いサービス」再開のお知らせ",
+     "u": "https://www.yamato-hd.co.jp/important/img/info_260929_1_7.pdf"
+    }
+   ],
+   "o": "ヤマト運輸",
+   "oe": "Yamato Transport Co., Ltd.",
+   "on": "https://www.yamato-hd.co.jp/important/img/info_260929_1_1.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-05",
+     "t": "ヤマト運輸のクロネコ代金後払いサービスへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/05/023139"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-10-21",
+     "t": "「代金後払いサービス」で個人情報が流出 - ヤマト運輸",
+     "u": "https://www.security-next.com/191595"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-02",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-09",
+     "t": "当社サービスをご利用いただいているお客様への重要なお知らせとお詫び",
+     "u": "https://applynow.co.jp/news/20260909"
+    }
+   ],
+   "o": "ApplyNow",
+   "oe": "ApplyNow",
+   "on": "https://applynow.co.jp/news/20260909",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-02",
+     "t": "ApplyNowの採用管理プラットフォームへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/02/174228"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-10-01",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-08-18",
+     "t": "当社が利用するBIツールへの不正アクセスおよび個人情報漏えいに関するお詫びとお知らせ並びに不審な連絡等への注意のお願い",
+     "u": "https://voising-official.com/news/931"
+    },
+    {
+     "d": "2026-08-20",
+     "t": "【第二報】当社が利用するBIツールへの不正アクセスおよび個人情報漏えいに関する現在の対応状況および対象のお客様へのお願い",
+     "u": "https://voising-official.com/news/936"
+    },
+    {
+     "d": "2026-08-24",
+     "t": "【第三報】当社が利用するBIツールへの不正アクセスおよび個人情報漏えいに関する一部データの外部公開検知について〜引き続きの注意喚起のお願い〜",
+     "u": "https://voising-official.com/news/937"
+    },
+    {
+     "d": "2026-09-30",
+     "t": "【第四報】当社が利用するBIツールへの不正アクセスおよび個人情報漏えいに関する調査結果と再発防止策について",
+     "u": "https://voising-official.com/news/1015"
+    }
+   ],
+   "o": "VOISING",
+   "oe": "VOISING",
+   "on": "https://voising-official.com/news/931",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-01",
+     "t": "VOISINGの利用するBIツールへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/01/112213"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-10-20",
+     "t": "VOISING が利用する BI ツールに不正アクセス、SNS で個人情報の公開も確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/10/20/56505.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "vl": [
+    {
+     "b": "analysis",
+     "c": "CVE-2026-72898",
+     "p": "Metabase",
+     "s": "https://piyolog.hatenadiary.jp/entry/2026/10/01/112213",
+     "v": ""
+    }
+   ],
+   "x": "yes"
+  },
+  {
+   "d": "2026-09-30",
+   "ls": "listed",
+   "nn": [
+    {
+     "d": "2026-09-26",
+     "t": "ランサムウェア攻撃によるシステム障害に関するお知らせとお詫び",
+     "u": "https://www.keio.co.jp/news/update/announce/nr260926v13404"
+    },
+    {
+     "d": "2026-09-28",
+     "t": "「お問合せフォーム」のシステム障害について",
+     "u": "https://www.keio.co.jp/news/update/announce/announce2026/pdf/20260928_otoiawase_form.pdf"
+    },
+    {
+     "d": "2026-10-16",
+     "t": "京王電鉄「ランサムウェア攻撃によるシステム障害に関するお知らせ 第2報」",
+     "u": "https://www.keio.co.jp/news/update/news_release/news_release2026/pdf/nr20261016_newsrelease.pdf"
+    }
+   ],
+   "o": "京王電鉄グループ",
+   "oe": "Keio Corporation",
+   "on": "https://www.keio.co.jp/news/update/announce/nr260926v13404",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-09-30",
+     "t": "ランサムウェア攻撃による京王電鉄グループのシステム障害についてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/09/30/021814"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-10-18",
+     "t": "京王電鉄、ランサムウェア攻撃の続報を公表　攻撃組織による情報公開の主張を確認",
+     "u": "https://cybersecurity-jp.com/news/117422"
+    }
+   ],
+   "t": "ransomware",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-09-30",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-28",
+     "t": "不審なメッセージおよび当社システムへの不正アクセスに関するお詫びとお知らせ",
+     "u": "https://www.temairazu.co.jp/pdf/1206/news-update"
+    }
+   ],
+   "o": "手間いらず",
+   "oe": "Temairazu, Inc.",
+   "on": "https://www.temairazu.co.jp/pdf/1206/news-update",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-09-30",
+     "t": "手間いらずの「TEMAIRAZU」シリーズへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/09/30/013735"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-09-28",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-09-25",
+     "t": "「タイムズカーWebサイト」への不正アクセスによる個人情報漏えいの可能性について(第1報)",
+     "u": "https://share.timescar.jp/news/2026/0925/1814.html"
+    },
+    {
+     "d": "2026-09-28",
+     "t": "「タイムズカーWebシステム」への不正アクセスに関する調査結果および今後の対応について(第2報)",
+     "u": "https://share.timescar.jp/news/2026/0928/1815.html"
+    },
+    {
+     "d": "2026-09-29",
+     "t": "「タイムズカーWebシステム」への不正アクセスに関する調査結果および今後の対応について(第3報)",
+     "u": "https://share.timescar.jp/news/2026/0929/1816.html"
+    },
+    {
+     "d": "2026-10-01",
+     "t": "タイムズカーWebサイトへの不正アクセスに関し よくあるご質問",
+     "u": "https://corp.timescar.jp/mail/announce/faq.pdf"
+    }
+   ],
+   "o": "タイムズモビリティ",
+   "oe": "Times Mobility",
+   "on": "https://share.timescar.jp/news/2026/0925/1814.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-09-28",
+     "t": "タイムズカーWebサイトへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/09/28/214857"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "webapp",
+   "x": "yes"
+  }
+ ],
+ "notice": "AI-assisted extraction from the cited sources; unreviewed per item. Always read the cited source. Organisation names are shown as published in Japanese sources. Corrections: otoi@ba-cybersecurity.com"
+}
