@@ -1,8 +1,8 @@
 {
- "asof": "2026-10-29",
+ "asof": "2026-10-30",
  "coverage": {
   "any": 17,
-  "kev90": 106,
+  "kev90": 108,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -16,6 +16,40 @@
   "radar_obs": 8,
   "radar_only": 7,
   "rows": [
+   {
+    "added": "2026-10-29",
+    "c": "CVE-2026-97229",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "GitLab Community Edition and Enterprise Edition",
+    "src": "kev"
+   },
+   {
+    "added": "2026-10-29",
+    "c": "CVE-2026-76418",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software",
+    "src": "kev"
+   },
    {
     "added": "2026-10-28",
     "c": "CVE-2026-46300",
@@ -2078,12 +2112,12 @@
     "src": "radar"
    }
   ],
-  "targets": 113
+  "targets": 115
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-10-29T01:30:35Z",
+ "generated": "2026-10-30T01:30:47Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2217,13 +2251,31 @@
   }
  ],
  "totals": {
-  "items_all": 346,
-  "n30": 37,
-  "n90": 67,
+  "items_all": 348,
+  "n30": 38,
+  "n90": 69,
   "since": "2022-02-01",
   "vendors30": 8
  },
  "updates": [
+  {
+   "cve": [],
+   "d": "2026-10-29",
+   "k": "release",
+   "t": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
+   "u": "https://azure.microsoft.com/updates?id=578681",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-27",
+   "k": "release",
+   "t": "Cloud Armor release notes: October 27, 2026",
+   "u": "https://docs.cloud.google.com/armor/docs/release-notes#October_27_2026",
+   "v": "gcp",
+   "ver": ""
+  },
   {
    "cve": [
     "CVE-2026-111497"
@@ -2923,7 +2975,7 @@
    "last": "2026-10-27",
    "lt": "Introducing the Cloudflare PHP Capture the Flag challenge",
    "lu": "https://blog.cloudflare.com/php-ctf/",
-   "n30": 16,
+   "n30": 15,
    "n90": 32,
    "name": "Cloudflare",
    "v": "cloudflare",
@@ -2958,29 +3010,29 @@
    "ver": "4.25.2"
   },
   {
-   "gap": 21,
+   "gap": 14,
    "k": [
     "release"
    ],
-   "last": "2026-10-19",
-   "lt": "Cloud Armor release notes: October 19, 2026",
-   "lu": "https://docs.cloud.google.com/armor/docs/release-notes#October_19_2026",
-   "n30": 2,
-   "n90": 5,
+   "last": "2026-10-27",
+   "lt": "Cloud Armor release notes: October 27, 2026",
+   "lu": "https://docs.cloud.google.com/armor/docs/release-notes#October_27_2026",
+   "n30": 3,
+   "n90": 6,
    "name": "Google Cloud Armor",
    "v": "gcp",
    "ver": ""
   },
   {
-   "gap": 10,
+   "gap": 9,
    "k": [
     "release"
    ],
-   "last": "2026-10-27",
-   "lt": "[Launched] Generally Available: Azure Front Door profile and route level WAF policies",
-   "lu": "https://azure.microsoft.com/updates?id=578153",
-   "n30": 4,
-   "n90": 7,
+   "last": "2026-10-29",
+   "lt": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
+   "lu": "https://azure.microsoft.com/updates?id=578681",
+   "n30": 5,
+   "n90": 8,
    "name": "Azure WAF",
    "v": "azure",
    "ver": ""
