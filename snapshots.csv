@@ -47,3 +47,4 @@ date_jst,radar,file,generated_utc,asof,sha256,bytes,source_url
 2026-10-30,japan,data/japan/2026/2026-10-30.json,2026-10-30T00:31:36Z,,0a1baac7756a62565b29c37f9520ed21c6dd1e5b003fe5b8e1ca58ee650d22c7,170808,https://ba-cybersecurity.com/radar/data.json
 2026-10-30,waf,data/waf/2026/2026-10-30.json,2026-10-30T01:30:47Z,2026-10-30,a4666fcee4d2c3e40a7b5764f4e34ac0258a6dbaa501719bdb2225d663d555ec,73493,https://ba-cybersecurity.com/radar/waf/data.json
 2026-10-30,php2shell,data/php2shell/2026/2026-10-30.json,2026-10-30T02:30:57Z,2026-10-30,f2585368df14ddb1862e241defa82d1dd56f0c494b423dd0ba3eb351977c5a70,58258,https://ba-cybersecurity.com/radar/php2shell/data.json
+2026-10-30,php2shell,data/php2shell/2026/2026-10-30.json,2026-10-30T14:30:58Z,2026-10-30,e9cfd4dbd21a9984fbb61b262d51d011797386811201a9cd370d8d3cb504af73,58258,https://ba-cybersecurity.com/radar/php2shell/data.json

@@ -110,7 +110,7 @@
  "edition": "php2shell",
  "feeds_n": 40,
  "feeds_ok": 40,
- "generated": "2026-10-30T02:30:57Z",
+ "generated": "2026-10-30T14:30:58Z",
  "headline": {
   "attempts": 18,
   "confirmed": 0,
@@ -129,7 +129,7 @@
   {
    "added": "2026-10-26",
    "c": "CVE-2026-109618",
-   "checked": "2026-10-30T02:30:57Z",
+   "checked": "2026-10-30T14:30:57Z",
    "due": "2026-10-29",
    "listed": true,
    "rw": "Unknown"
@@ -137,7 +137,7 @@
   {
    "added": "2026-10-26",
    "c": "CVE-2026-109619",
-   "checked": "2026-10-30T02:30:57Z",
+   "checked": "2026-10-30T14:30:57Z",
    "due": "2026-10-29",
    "listed": true,
    "rw": "Unknown"
@@ -274,7 +274,7 @@
    "ja": "PHP2Shell とは別の欠陥。設定で session.serialize_handler を php_binary か php_serialize にし、アプリが session_start() の前に ini_set() で php に切り替え、セッションのアップロード進捗が有効(既定)のまま、というまれな組み合わせでだけ起きる。PHP は次の定例の修正版で直すとし、それまでは session.upload_progress.enabled=0 にするよう勧めている。これは 10/21 に CVE-2026-109619 の回避策として挙がっていた設定で、適用済みならそのまま維持すればよいとしている。影響する版と深刻度は未公表。",
    "kev": {
     "added": "",
-    "checked": "2026-10-30T02:30:57Z",
+    "checked": "2026-10-30T14:30:57Z",
     "listed": false
    },
    "pub": "PHP",
