@@ -1,8 +1,8 @@
 {
- "asof": "2026-10-31",
+ "asof": "2026-11-01",
  "coverage": {
   "any": 17,
-  "kev90": 110,
+  "kev90": 109,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -1968,23 +1968,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-03",
-    "c": "CVE-2026-18577",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "N-able N-central",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-63030",
     "cov": {
@@ -2146,12 +2129,12 @@
     "src": "radar"
    }
   ],
-  "targets": 117
+  "targets": 116
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-10-31T01:30:18Z",
+ "generated": "2026-11-01T01:30:20Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2286,10 +2269,10 @@
  ],
  "totals": {
   "items_all": 351,
-  "n30": 40,
+  "n30": 38,
   "n90": 72,
   "since": "2022-02-01",
-  "vendors30": 8
+  "vendors30": 7
  },
  "updates": [
   {
@@ -3072,7 +3055,7 @@
    "last": "2026-10-02",
    "lt": "v4.25.2 (LTS)",
    "lu": "https://github.com/coreruleset/coreruleset/releases/tag/v4.25.2",
-   "n30": 2,
+   "n30": 0,
    "n90": 3,
    "name": "OWASP CRS",
    "v": "crs",
