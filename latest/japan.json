@@ -1,6 +1,320 @@
 {
- "generated": "2026-11-01T12:41:47Z",
+ "generated": "2026-11-02T00:32:49Z",
  "incidents": [
+  {
+   "d": "2026-11-02",
+   "ls": "none_found",
+   "o": "AI を活用した総点検で発見 ~ デジタルアーツのクラウドサービス運用環境",
+   "oe": "",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "AI を活用した総点検で発見 ～ デジタルアーツのクラウドサービス運用環境に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56649.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-02",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社ウェブサイトへの不正アクセスに関するお詫びとお知らせ",
+     "u": "https://www.tsslk.jp/news/info/security_notice_202610"
+    }
+   ],
+   "o": "WPプラグインの脆弱性悪用 ~ ティエスエスリンク",
+   "oe": "",
+   "on": "https://www.tsslk.jp/news/info/security_notice_202610",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "WPプラグインの脆弱性悪用 ～ ティエスエスリンクのウェブサイトに不正アクセス、製品にはセキュリティ上の問題 確認されておらず",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56648.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-02",
+   "ls": "none_found",
+   "o": "他の職員のIDとパスワードを使用し複数回にわたり庁内共有フォルダ",
+   "oe": "",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "他の職員のIDとパスワードを使用し複数回にわたり庁内共有フォルダに不正アクセス、上司の印影の偽造も",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56647.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-02",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる個人情報漏えいの可能性に関するお詫び",
+     "u": "https://www.fujicco.co.jp/upload/pr_261022.pdf"
+    }
+   ],
+   "o": "フジッコ株式会社",
+   "oe": "Fujicco Co., Ltd.",
+   "on": "https://www.fujicco.co.jp/upload/pr_261022.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "フジッコのキャンペーンの応募受付業務の委託先に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56644.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-02",
+   "ls": "unchecked",
+   "nn": [
+    {
+     "d": "2026-10-22",
+     "t": "【重要】外部アプリ「Swym Wishlist Plus」におけるセキュリティ事象についてのお知らせとお詫び",
+     "u": "https://ships-cycle-market.jp/blogs/news/swym-security-notice-20261022"
+    }
+   ],
+   "o": "SHIPS CYCLE MARKET",
+   "oe": "SHIPS CYCLE MARKET",
+   "on": "https://ships-cycle-market.jp/blogs/news/swym-security-notice-20261022",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "「SHIPS CYCLE MARKET」で利用している外部アプリケーション「Swym Wishlist Plus」に不正アクセス、外部の疑似サイトに誘導",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56643.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-02",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-21",
+     "t": "サイバー攻撃によるシステム障害発生について",
+     "u": "https://www.shinryo.com/news/20261021.html"
+    }
+   ],
+   "o": "新菱冷熱工業",
+   "oe": "",
+   "on": "https://www.shinryo.com/news/20261021.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "新菱冷熱工業にサイバー攻撃、システム障害で一部サービスにも影響",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56642.html"
+    }
+   ],
+   "t": "outage",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-02",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】お問い合わせ情報の漏えいのおそれに関するお詫びとお知らせ",
+     "u": "https://sally-inc.jp/news/2026-10-incident"
+    }
+   ],
+   "o": "Sallyに2件",
+   "oe": "",
+   "on": "https://sally-inc.jp/news/2026-10-incident",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "Sallyに2件の不正アクセス、問い合わせ情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56641.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-02",
+   "ls": "unchecked",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる情報漏洩に関するお詫びとご報告",
+     "u": "https://pingcap.co.jp/trust-hub/security/security-update-october-2026"
+    }
+   ],
+   "o": "PingCAP",
+   "oe": "PingCAP",
+   "on": "https://pingcap.co.jp/trust-hub/security/security-update-october-2026",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "PingCAPに不正アクセス、日本国内で最大約5万件の個人情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56640.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-02",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-20",
+     "t": "「ママワークス」における個人情報漏えいに関するご報告とお詫び",
+     "u": "https://mamaworks.jp/files/notice_20261020.pdf"
+    }
+   ],
+   "o": "ママワークス",
+   "oe": "",
+   "on": "https://mamaworks.jp/files/notice_20261020.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "会員名簿とされるデータがアップロードされていると警察から報告 ～ 在宅ワーク求人サイト「ママワークス」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56639.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-02",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる海外のお客様の個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://ssl4.eir-parts.net/doc/340A/tdnet/2896758/00.pdf"
+    }
+   ],
+   "o": "WorldShopping",
+   "oe": "WorldShopping",
+   "on": "https://ssl4.eir-parts.net/doc/340A/tdnet/2896758/00.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "越境ECサービス「WorldShopping」に不正アクセス、海外顧客301名の個人情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56638.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-01",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-31",
+     "t": "楽天証券 外部サービス提供元への不正アクセスによるお客様情報漏えいの可能性について",
+     "u": "https://www.rakuten-sec.co.jp/web/info/info20261031-01.html"
+    }
+   ],
+   "o": "楽天証券",
+   "oe": "",
+   "on": "https://www.rakuten-sec.co.jp/web/info/info20261031-01.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-01",
+     "t": "楽天証券がNTTデータ委託先の不正アクセスで社債購入者情報362件の漏えい可能性を公表",
+     "u": "https://cybersecurity-jp.com/news/118014"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-01",
+   "ls": "none_found",
+   "o": "近鉄GHD",
+   "oe": "",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-01",
+     "t": "近鉄GHD、再委託先への不正アクセスで社債購入者2,678人の情報漏えいの恐れ",
+     "u": "https://cybersecurity-jp.com/news/118013"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-01",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "クラブツーリズム 不正アクセスによる個人情報漏えいに関するお詫びとお知らせについて（第１信）",
+     "u": "https://www.club-tourism.co.jp/jpn/news/2026/1031"
+    }
+   ],
+   "o": "クラブツーリズム",
+   "oe": "",
+   "on": "https://www.club-tourism.co.jp/jpn/news/2026/1031",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-01",
+     "t": "クラブツーリズムが不正アクセスを受け会員約432万件の個人情報が漏えいの可能性",
+     "u": "https://cybersecurity-jp.com/news/118012"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
   {
    "d": "2026-10-31",
    "ls": "none_found",
@@ -880,6 +1194,12 @@
      "p": "2026-10-28",
      "t": "複数予約サイトで侵害、顧客情報が流出か - 楽天トラベル",
      "u": "https://www.security-next.com/191989"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "「楽天トラベル」海外ホテル予約サイトの一部ページと多言語予約サイトに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56646.html"
     }
    ],
    "t": "unauthorized_access",
@@ -2524,6 +2844,12 @@
      "p": "2026-10-30",
      "t": "ライフカードの委託先ユミルリンクへの不正アクセスで33万9,610契約に情報漏えいのおそれ",
      "u": "https://cybersecurity-jp.com/news/117906"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "ユミルリンクのメール配信サービスの一部サーバシステムに不正アクセス、延べ51,628,280件の情報が流出",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56645.html"
     }
    ],
    "t": "unauthorized_access",
@@ -4947,6 +5273,12 @@
      "p": "2026-10-27",
      "t": "GMOに身代金要求 - ランサム攻撃や情報公開を行うと脅迫",
      "u": "https://www.security-next.com/191999"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-01",
+     "t": "GMOインターネットグループが11月2日に会見へ被害者情報集める不審サイトも判明",
+     "u": "https://cybersecurity-jp.com/news/118015"
     }
    ],
    "t": "ransomware",
