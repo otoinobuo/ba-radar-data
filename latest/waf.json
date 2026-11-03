@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-02",
+ "asof": "2026-11-03",
  "coverage": {
   "any": 17,
-  "kev90": 106,
+  "kev90": 105,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -1900,23 +1900,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-05",
-    "c": "CVE-2026-63077",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "JetBrains TeamCity",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-63030",
     "cov": {
@@ -2078,12 +2061,12 @@
     "src": "radar"
    }
   ],
-  "targets": 113
+  "targets": 112
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-02T01:30:20Z",
+ "generated": "2026-11-03T01:30:23Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2217,13 +2200,35 @@
   }
  ],
  "totals": {
-  "items_all": 351,
-  "n30": 38,
-  "n90": 71,
+  "items_all": 353,
+  "n30": 40,
+  "n90": 73,
   "since": "2022-02-01",
   "vendors30": 7
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-119977"
+   ],
+   "d": "2026-11-02",
+   "k": "cve_coverage",
+   "t": "WordPress脆弱性CVE-2026-119977への注意喚起および、WafCharmでの対応に関して",
+   "u": "https://www.wafcharm.com/jp/news/20261102/",
+   "v": "wafcharm",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-75650"
+   ],
+   "d": "2026-11-02",
+   "k": "cve_coverage",
+   "t": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+   "u": "https://www.imperva.com/blog/stylesmuggler-exploitation-deploys-psk-agent-rat-against-magento-stores/",
+   "v": "imperva",
+   "ver": ""
+  },
   {
    "cve": [
     "CVE-2026-109618",
@@ -3041,29 +3046,29 @@
    "ver": ""
   },
   {
-   "gap": 6,
+   "gap": 8,
    "k": [
     "cve_coverage"
    ],
-   "last": "2026-10-22",
-   "lt": "Node2Shell: From Brotli Data to Remote Code Execution",
-   "lu": "https://www.imperva.com/blog/node2shell-from-brotli-data-to-remote-code-execution/",
-   "n30": 5,
-   "n90": 8,
+   "last": "2026-11-02",
+   "lt": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+   "lu": "https://www.imperva.com/blog/stylesmuggler-exploitation-deploys-psk-agent-rat-against-magento-stores/",
+   "n30": 6,
+   "n90": 9,
    "name": "Imperva",
    "v": "imperva",
    "ver": ""
   },
   {
-   "gap": 49,
+   "gap": 6,
    "k": [
     "cve_coverage"
    ],
-   "last": "2026-10-27",
-   "lt": "脆弱性「Node2Shell／HTTP2Shell」（CVE-2026-111497）の注意喚起および、WafCharmでの対応に関して",
-   "lu": "https://www.wafcharm.com/jp/news/20261027-2/",
-   "n30": 2,
-   "n90": 2,
+   "last": "2026-11-02",
+   "lt": "WordPress脆弱性CVE-2026-119977への注意喚起および、WafCharmでの対応に関して",
+   "lu": "https://www.wafcharm.com/jp/news/20261102/",
+   "n30": 3,
+   "n90": 3,
    "name": "WafCharm",
    "v": "wafcharm",
    "ver": ""
