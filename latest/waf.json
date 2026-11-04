@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-03",
+ "asof": "2026-11-04",
  "coverage": {
-  "any": 17,
-  "kev90": 105,
+  "any": 18,
+  "kev90": 106,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -11,11 +11,32 @@
    "crs": 1,
    "gcp": 1,
    "imperva": 5,
-   "wafcharm": 5
+   "wafcharm": 6
   },
   "radar_obs": 8,
   "radar_only": 7,
   "rows": [
+   {
+    "added": "2026-11-03",
+    "c": "CVE-2026-119977",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": {
+      "d": "2026-11-02",
+      "t": "WordPress脆弱性CVE-2026-119977への注意喚起および、WafCharmでの対応に関して",
+      "u": "https://www.wafcharm.com/jp/news/20261102/"
+     }
+    },
+    "obs": [],
+    "p": "WordPress WordPress Core",
+    "src": "kev"
+   },
    {
     "added": "2026-10-30",
     "c": "CVE-2026-118527",
@@ -2061,12 +2082,12 @@
     "src": "radar"
    }
   ],
-  "targets": 112
+  "targets": 113
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-03T01:30:23Z",
+ "generated": "2026-11-04T01:30:20Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2200,13 +2221,35 @@
   }
  ],
  "totals": {
-  "items_all": 353,
+  "items_all": 354,
   "n30": 40,
-  "n90": 73,
+  "n90": 74,
   "since": "2022-02-01",
   "vendors30": 7
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619",
+    "CVE-2026-115560"
+   ],
+   "d": "2026-11-03",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-11-03",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-11-03-waf-release/",
+   "v": "cloudflare",
+   "ver": "2026-11-03"
+  },
+  {
+   "cve": [],
+   "d": "2026-11-03",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - Scheduled changes for 2026-11-10",
+   "u": "https://developers.cloudflare.com/changelog/post/scheduled-waf-release/",
+   "v": "cloudflare",
+   "ver": "scheduled 2026-11-10"
+  },
   {
    "cve": [
     "CVE-2026-119977"
@@ -2519,15 +2562,6 @@
    "u": "https://developers.cloudflare.com/changelog/post/2026-10-14-emergency-waf-release/",
    "v": "cloudflare",
    "ver": "2026-10-14 Emergency"
-  },
-  {
-   "cve": [],
-   "d": "2026-10-12",
-   "k": "rules_update",
-   "t": "WAF - WAF Release - Scheduled changes for 2026-10-19",
-   "u": "https://developers.cloudflare.com/changelog/post/scheduled-waf-release/",
-   "v": "cloudflare",
-   "ver": "scheduled 2026-10-19"
   },
   {
    "cve": [
@@ -2966,14 +3000,14 @@
     "release",
     "rules_update"
    ],
-   "last": "2026-10-30",
-   "lt": "WAF - WAF Release - 2026-10-30",
-   "lu": "https://developers.cloudflare.com/changelog/post/2026-10-30-waf-release/",
-   "n30": 17,
-   "n90": 34,
+   "last": "2026-11-03",
+   "lt": "WAF - WAF Release - 2026-11-03",
+   "lu": "https://developers.cloudflare.com/changelog/post/2026-11-03-waf-release/",
+   "n30": 18,
+   "n90": 35,
    "name": "Cloudflare",
    "v": "cloudflare",
-   "ver": "2026-10-30"
+   "ver": "2026-11-03"
   },
   {
    "gap": 13,
@@ -3025,7 +3059,7 @@
    "last": "2026-10-29",
    "lt": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
    "lu": "https://azure.microsoft.com/updates?id=578681",
-   "n30": 5,
+   "n30": 4,
    "n90": 8,
    "name": "Azure WAF",
    "v": "azure",
