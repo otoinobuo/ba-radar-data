@@ -1,13 +1,13 @@
 {
- "asof": "2026-11-04",
+ "asof": "2026-11-05",
  "coverage": {
-  "any": 18,
+  "any": 17,
   "kev90": 106,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
    "azure": 0,
-   "cloudflare": 17,
+   "cloudflare": 16,
    "crs": 1,
    "gcp": 1,
    "imperva": 5,
@@ -16,6 +16,23 @@
   "radar_obs": 8,
   "radar_only": 7,
   "rows": [
+   {
+    "added": "2026-11-04",
+    "c": "CVE-2024-27834",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Apple Multiple Products",
+    "src": "kev"
+   },
    {
     "added": "2026-11-03",
     "c": "CVE-2026-119977",
@@ -1900,27 +1917,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-07",
-    "c": "CVE-2026-8037",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": {
-      "d": "2026-07-14",
-      "t": "WAF - WAF Release - 2026-07-14",
-      "u": "https://developers.cloudflare.com/changelog/post/2026-07-14-waf-release/"
-     },
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Progress LoadMaster",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-63030",
     "cov": {
@@ -2087,7 +2083,7 @@
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-04T01:30:20Z",
+ "generated": "2026-11-05T01:30:18Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2221,9 +2217,9 @@
   }
  ],
  "totals": {
-  "items_all": 354,
+  "items_all": 356,
   "n30": 40,
-  "n90": 74,
+  "n90": 75,
   "since": "2022-02-01",
   "vendors30": 7
  },
@@ -2367,6 +2363,32 @@
    "u": "https://developers.cloudflare.com/changelog/post/2026-10-25-emergency-waf-release/",
    "v": "cloudflare",
    "ver": "2026-10-25 Emergency"
+  },
+  {
+   "cve": [
+    "CVE-2026-115560",
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-23",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-23 - Emergency - Cloudflare Free Ruleset",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-23-emergency-waf-release-free/",
+   "v": "cloudflare",
+   "ver": "2026-10-23 Emergency"
+  },
+  {
+   "cve": [
+    "CVE-2026-115560",
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-23",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - 2026-10-23 - Emergency - Cloudflare Managed Ruleset",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-23-emergency-waf-release-cfmr/",
+   "v": "cloudflare",
+   "ver": "2026-10-23 Emergency"
   },
   {
    "cve": [
@@ -2979,17 +3001,6 @@
    "u": "https://developers.cloudflare.com/changelog/post/2026-08-11-waf-release/",
    "v": "cloudflare",
    "ver": "2026-08-11"
-  },
-  {
-   "cve": [
-    "CVE-2026-64638"
-   ],
-   "d": "2026-08-07",
-   "k": "rules_update",
-   "t": "WAF - WAF Release - 2026-08-07",
-   "u": "https://developers.cloudflare.com/changelog/post/2026-08-07-waf-release/",
-   "v": "cloudflare",
-   "ver": "2026-08-07"
   }
  ],
  "vendor_table": [
@@ -3003,8 +3014,8 @@
    "last": "2026-11-03",
    "lt": "WAF - WAF Release - 2026-11-03",
    "lu": "https://developers.cloudflare.com/changelog/post/2026-11-03-waf-release/",
-   "n30": 18,
-   "n90": 35,
+   "n30": 19,
+   "n90": 36,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": "2026-11-03"
@@ -3087,7 +3098,7 @@
    "last": "2026-11-02",
    "lt": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
    "lu": "https://www.imperva.com/blog/stylesmuggler-exploitation-deploys-psk-agent-rat-against-magento-stores/",
-   "n30": 6,
+   "n30": 5,
    "n90": 9,
    "name": "Imperva",
    "v": "imperva",

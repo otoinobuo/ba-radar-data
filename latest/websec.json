@@ -1,5 +1,5 @@
 {
- "asof": "2026-10-26",
+ "asof": "2026-11-01",
  "context": {
   "finance": "金融庁 金融分野サイバーセキュリティガイドライン(2024)",
   "gov": "国家サイバー統括室 対策基準ガイドライン 令和7年度版(2026改定)",
@@ -26,12 +26,12 @@
    "sector": "金融/Finance"
   },
   {
-   "dnssec": 5,
+   "dnssec": 2,
    "foreign": 72,
-   "ipv6": 26,
+   "ipv6": 11,
    "n": 61,
    "pqc": 72,
-   "rpki": 85,
+   "rpki": 87,
    "sector": "重要インフラ/Critical infra"
   },
   {
@@ -46,41 +46,41 @@
   {
    "dnssec": 1,
    "foreign": 63,
-   "ipv6": 7,
+   "ipv6": 6,
    "n": 1741,
    "pqc": null,
    "rpki": 97,
    "sector": "自治体/Municipalities"
   },
   {
-   "dnssec": 6,
+   "dnssec": 7,
    "foreign": 29,
-   "ipv6": 4,
+   "ipv6": 7,
    "n": 3000,
-   "pqc": 17,
-   "rpki": 62,
+   "pqc": 18,
+   "rpki": 63,
    "sector": "民間/Private (.co.jp)"
   },
   {
-   "dnssec": 2,
-   "foreign": 18,
-   "ipv6": 7,
+   "dnssec": 3,
+   "foreign": 19,
+   "ipv6": 10,
    "n": 892,
-   "pqc": 18,
+   "pqc": 19,
    "rpki": 77,
    "sector": "大学等/Universities"
   }
  ],
- "edition": "2026-10",
+ "edition": "2026-11",
  "gap_broad": [
   {
    "by": {
     "地方/Prefectures": 100,
     "大学等/Universities": 77,
     "官庁/Central gov": 100,
-    "民間/Private (.co.jp)": 62,
+    "民間/Private (.co.jp)": 63,
     "自治体/Municipalities": 97,
-    "重要インフラ/Critical infra": 85,
+    "重要インフラ/Critical infra": 87,
     "金融/Finance": 96
    },
    "req": "ROA登録(経路検証)",
@@ -89,11 +89,11 @@
   {
    "by": {
     "地方/Prefectures": 0,
-    "大学等/Universities": 2,
+    "大学等/Universities": 3,
     "官庁/Central gov": 15,
-    "民間/Private (.co.jp)": 6,
+    "民間/Private (.co.jp)": 7,
     "自治体/Municipalities": 1,
-    "重要インフラ/Critical infra": 5,
+    "重要インフラ/Critical infra": 2,
     "金融/Finance": 6
    },
    "req": "DNSSEC署名",
@@ -150,13 +150,13 @@
    "src": "IPA GL"
   },
   {
-   "finance": 56,
+   "finance": 51,
    "gov": 80,
    "req": "OCSP Stapling",
    "src": "IPA GL 推奨(7.4.2)"
   }
  ],
- "generated": "2026-10-26T01:39:22Z",
+ "generated": "2026-10-31T21:45:23Z",
  "method": {
   "en": "Passive measurement of public data only (DNS, certificate transparency, routing/VRP, single TLS connection). Aggregates only; no organisation is named.",
   "ja": "公開データのみの受動観測（DNS・証明書透明性ログ・経路/VRP・TLS接続1回）。"
@@ -316,12 +316,6 @@
    "vendor": "Mirai"
   },
   {
-   "n": 74,
-   "pref": "大阪府",
-   "share": 88,
-   "vendor": "J-Stream"
-  },
-  {
    "n": 59,
    "pref": "千葉県",
    "share": 86,
@@ -352,16 +346,16 @@
    "vendor": "Imperva"
   },
   {
+   "n": 74,
+   "pref": "大阪府",
+   "share": 77,
+   "vendor": "J-Stream"
+  },
+  {
    "n": 34,
    "pref": "群馬県",
    "share": 76,
    "vendor": "Imperva"
-  },
-  {
-   "n": 59,
-   "pref": "福島県",
-   "share": 76,
-   "vendor": "Google"
   },
   {
    "n": 33,
@@ -370,22 +364,10 @@
    "vendor": "Google"
   },
   {
-   "n": 35,
-   "pref": "山形県",
-   "share": 74,
-   "vendor": "Google"
-  },
-  {
    "n": 44,
    "pref": "茨城県",
    "share": 73,
    "vendor": "J-Stream"
-  },
-  {
-   "n": 40,
-   "pref": "青森県",
-   "share": 72,
-   "vendor": "Google"
   },
   {
    "n": 37,
@@ -406,6 +388,12 @@
    "vendor": "J-Stream"
   },
   {
+   "n": 40,
+   "pref": "青森県",
+   "share": 68,
+   "vendor": "Google"
+  },
+  {
    "n": 45,
    "pref": "静岡県",
    "share": 67,
@@ -424,22 +412,40 @@
    "vendor": "Akamai"
   },
   {
+   "n": 35,
+   "pref": "山形県",
+   "share": 66,
+   "vendor": "Google"
+  },
+  {
    "n": 70,
    "pref": "愛知県",
    "share": 66,
    "vendor": "Imperva"
   },
   {
-   "n": 39,
-   "pref": "宮城県",
-   "share": 64,
+   "n": 59,
+   "pref": "福島県",
+   "share": 63,
    "vendor": "Google"
+  },
+  {
+   "n": 49,
+   "pref": "熊本県",
+   "share": 61,
+   "vendor": "Sakura"
   },
   {
    "n": 62,
    "pref": "東京都",
    "share": 58,
    "vendor": "Amazon"
+  },
+  {
+   "n": 40,
+   "pref": "宮城県",
+   "share": 58,
+   "vendor": "Google"
   },
   {
    "n": 30,
@@ -449,21 +455,15 @@
   },
   {
    "n": 25,
-   "pref": "秋田県",
-   "share": 56,
-   "vendor": "Google"
-  },
-  {
-   "n": 25,
    "pref": "栃木県",
    "share": 56,
    "vendor": "Akamai"
   },
   {
-   "n": 49,
-   "pref": "熊本県",
-   "share": 55,
-   "vendor": "Sakura"
+   "n": 25,
+   "pref": "秋田県",
+   "share": 48,
+   "vendor": "Akamai"
   },
   {
    "n": 34,
@@ -503,7 +503,7 @@
  },
  "size_tiers": [
   {
-   "conc": 45,
+   "conc": 40,
    "foreign": 45,
    "ipv6": 15,
    "n": 20,
@@ -512,7 +512,7 @@
   {
    "conc": 30,
    "foreign": 35,
-   "ipv6": 22,
+   "ipv6": 35,
    "n": 23,
    "tier": "特別区/Tokyo wards"
   },
@@ -524,16 +524,16 @@
    "tier": "市/Cities"
   },
   {
-   "conc": 84,
+   "conc": 82,
    "foreign": 66,
-   "ipv6": 6,
+   "ipv6": 4,
    "n": 743,
    "tier": "町/Towns"
   },
   {
-   "conc": 81,
+   "conc": 80,
    "foreign": 69,
-   "ipv6": 10,
+   "ipv6": 5,
    "n": 183,
    "tier": "村/Villages"
   }
