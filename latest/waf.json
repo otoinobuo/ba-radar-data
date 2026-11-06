@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-05",
+ "asof": "2026-11-06",
  "coverage": {
   "any": 17,
   "kev90": 106,
@@ -2083,7 +2083,7 @@
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-05T01:30:18Z",
+ "generated": "2026-11-06T01:30:20Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2217,13 +2217,22 @@
   }
  ],
  "totals": {
-  "items_all": 356,
-  "n30": 40,
-  "n90": 75,
+  "items_all": 357,
+  "n30": 39,
+  "n90": 76,
   "since": "2022-02-01",
   "vendors30": 7
  },
  "updates": [
+  {
+   "cve": [],
+   "d": "2026-11-05",
+   "k": "release",
+   "t": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
+   "u": "https://azure.microsoft.com/updates?id=579280",
+   "v": "azure",
+   "ver": ""
+  },
   {
    "cve": [
     "CVE-2026-109618",
@@ -3014,7 +3023,7 @@
    "last": "2026-11-03",
    "lt": "WAF - WAF Release - 2026-11-03",
    "lu": "https://developers.cloudflare.com/changelog/post/2026-11-03-waf-release/",
-   "n30": 19,
+   "n30": 18,
    "n90": 36,
    "name": "Cloudflare",
    "v": "cloudflare",
@@ -3063,15 +3072,15 @@
    "ver": ""
   },
   {
-   "gap": 9,
+   "gap": 8,
    "k": [
     "release"
    ],
-   "last": "2026-10-29",
-   "lt": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
-   "lu": "https://azure.microsoft.com/updates?id=578681",
-   "n30": 4,
-   "n90": 8,
+   "last": "2026-11-05",
+   "lt": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
+   "lu": "https://azure.microsoft.com/updates?id=579280",
+   "n30": 5,
+   "n90": 9,
    "name": "Azure WAF",
    "v": "azure",
    "ver": ""
@@ -3084,7 +3093,7 @@
    "last": "2026-10-08",
    "lt": "Manage and enforce script behavior rules with Client-Side Protection API",
    "lu": "https://techdocs.akamai.com/application-security/changelog/oct-8-2026-manage-and-enforce-script-behavior-rules-with-client-side-protection-api",
-   "n30": 2,
+   "n30": 1,
    "n90": 3,
    "name": "Akamai",
    "v": "akamai",
