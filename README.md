@@ -1,4 +1,4 @@
-# BA Cybersecurity radar data
+# ba-cybersecurity.com radar data
 
 Daily snapshots of the five public radars published at [ba-cybersecurity.com/radar](https://ba-cybersecurity.com/radar/). Each snapshot is the `data.json` that the live page was rendered from on that day, copied from the live site.
 
@@ -18,6 +18,10 @@ Daily snapshots of the five public radars published at [ba-cybersecurity.com/rad
 
 The structure of each file is described in the Method section of its page. JSON is written with sorted keys and one value per line so that day-to-day changes are readable as diffs.
 
+## Monthly reports and feeds
+
+Each radar also publishes a monthly report at a fixed URL (for example https://ba-cybersecurity.com/radar/monthly/2026-10/ for the Japan Breach Radar, and `/radar/<radar>/monthly/<YYYY-MM>/` for the others), with a *Cite as* line and links to the snapshots in this repository for that month. Updates are announced in Atom feeds: https://ba-cybersecurity.com/radar/feed.xml (all radars) and `/radar/<radar>/feed.xml`.
+
 ## Corrections
 
 Corrections are made in later snapshots. Earlier snapshots are kept exactly as they were published, so the history shows what was public on each day, including entries that were later corrected or removed. To report an error, write to otoi@ba-cybersecurity.com.
@@ -26,9 +30,9 @@ Corrections are made in later snapshots. Earlier snapshots are kept exactly as t
 
 Counts, tables and classifications are licensed under [CC BY 4.0](LICENSE). Titles, headlines and figures quoted from third parties remain with their owners. Please cite the page you use, for example:
 
-> BA Cybersecurity. PHP2Shell Watch [data set]. https://ba-cybersecurity.com/radar/php2shell/ . Snapshot of 2026-10-23, https://github.com/otoinobuo/ba-radar-data .
+> Nobuo Otoi (ba-cybersecurity.com). PHP2Shell Watch [data set]. https://ba-cybersecurity.com/radar/php2shell/ . Snapshot of 2026-10-23, https://github.com/otoinobuo/ba-radar-data .
 
-Published by BA Cybersecurity, Tokyo, Japan · [ORCID 0009-0001-1445-3612](https://orcid.org/0009-0001-1445-3612)
+Published by Nobuo Otoi (ba-cybersecurity.com), Tokyo, Japan · [ORCID 0009-0001-1445-3612](https://orcid.org/0009-0001-1445-3612)
 
 ---
 
