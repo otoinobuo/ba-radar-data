@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-06",
+ "asof": "2026-11-07",
  "coverage": {
   "any": 17,
-  "kev90": 106,
+  "kev90": 107,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -13,9 +13,26 @@
    "imperva": 5,
    "wafcharm": 6
   },
-  "radar_obs": 8,
-  "radar_only": 7,
+  "radar_obs": 11,
+  "radar_only": 8,
   "rows": [
+   {
+    "added": "2026-11-06",
+    "c": "CVE-2026-19868",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "SonicWall SonicOS SSLVPN",
+    "src": "kev"
+   },
    {
     "added": "2026-11-04",
     "c": "CVE-2024-27834",
@@ -67,7 +84,9 @@
      "imperva": null,
      "wafcharm": null
     },
-    "obs": [],
+    "obs": [
+     "jp"
+    ],
     "p": "Ivanti Connect Secure",
     "src": "kev"
    },
@@ -84,7 +103,9 @@
      "imperva": null,
      "wafcharm": null
     },
-    "obs": [],
+    "obs": [
+     "jp"
+    ],
     "p": "Ivanti Connect Secure",
     "src": "kev"
    },
@@ -1972,6 +1993,25 @@
    },
    {
     "added": "",
+    "c": "CVE-2026-58882",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [
+     "jp"
+    ],
+    "p": "",
+    "src": "radar"
+   },
+   {
+    "added": "",
     "c": "CVE-2025-55182",
     "cov": {
      "akamai": null,
@@ -2078,12 +2118,12 @@
     "src": "radar"
    }
   ],
-  "targets": 113
+  "targets": 115
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-06T01:30:20Z",
+ "generated": "2026-11-07T01:30:19Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2217,11 +2257,11 @@
   }
  ],
  "totals": {
-  "items_all": 357,
-  "n30": 39,
-  "n90": 76,
+  "items_all": 358,
+  "n30": 37,
+  "n90": 77,
   "since": "2022-02-01",
-  "vendors30": 7
+  "vendors30": 6
  },
  "updates": [
   {
@@ -2232,6 +2272,15 @@
    "u": "https://azure.microsoft.com/updates?id=579280",
    "v": "azure",
    "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-04",
+   "k": "rules_update",
+   "t": "POSIX operating system managed rule group: Released static version 3.3 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-04-803f16ca3d",
+   "v": "aws",
+   "ver": "3.3"
   },
   {
    "cve": [
@@ -3034,14 +3083,14 @@
    "k": [
     "rules_update"
    ],
-   "last": "2026-10-22",
-   "lt": "PHP application managed rule group : Released static version 2.5 of this rule group.",
-   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-22-5c784981fd",
-   "n30": 4,
-   "n90": 7,
+   "last": "2026-11-04",
+   "lt": "POSIX operating system managed rule group: Released static version 3.3 of this rule group.",
+   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-04-803f16ca3d",
+   "n30": 5,
+   "n90": 8,
    "name": "AWS WAF",
    "v": "aws",
-   "ver": "2.5"
+   "ver": "3.3"
   },
   {
    "gap": 46,
@@ -3079,7 +3128,7 @@
    "last": "2026-11-05",
    "lt": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
    "lu": "https://azure.microsoft.com/updates?id=579280",
-   "n30": 5,
+   "n30": 4,
    "n90": 9,
    "name": "Azure WAF",
    "v": "azure",
@@ -3093,7 +3142,7 @@
    "last": "2026-10-08",
    "lt": "Manage and enforce script behavior rules with Client-Side Protection API",
    "lu": "https://techdocs.akamai.com/application-security/changelog/oct-8-2026-manage-and-enforce-script-behavior-rules-with-client-side-protection-api",
-   "n30": 1,
+   "n30": 0,
    "n90": 3,
    "name": "Akamai",
    "v": "akamai",
@@ -3107,7 +3156,7 @@
    "last": "2026-11-02",
    "lt": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
    "lu": "https://www.imperva.com/blog/stylesmuggler-exploitation-deploys-psk-agent-rat-against-magento-stores/",
-   "n30": 5,
+   "n30": 4,
    "n90": 9,
    "name": "Imperva",
    "v": "imperva",
