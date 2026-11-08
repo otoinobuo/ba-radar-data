@@ -1,6 +1,141 @@
 {
- "generated": "2026-11-06T23:53:24Z",
+ "generated": "2026-11-07T23:53:46Z",
  "incidents": [
+  {
+   "d": "2026-11-07",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "ロート製薬 不正アクセスによるお客様の個人データ漏えいに関するお詫びとお知らせ",
+     "u": "https://www.rohto.co.jp/news/whatsnew/2026/1106_01"
+    },
+    {
+     "d": "",
+     "t": "ロート製薬 当社システムにおける不正アクセスの可能性について",
+     "u": "https://www.rohto.co.jp/news/whatsnew/2026/0911_01"
+    }
+   ],
+   "o": "ロート製薬",
+   "oe": "Rohto Pharmaceutical Co., Ltd.",
+   "on": "https://www.rohto.co.jp/news/whatsnew/2026/1106_01",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-07",
+     "t": "ロート製薬が通販の電話システムへの不正アクセスで顧客279万人分の個人情報漏えいを発表",
+     "u": "https://cybersecurity-jp.com/news/118176"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-07",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "株式会社チームスピリット 不正アクセスによる情報漏えいに関するお詫びとお知らせ",
+     "u": "https://corp.teamspirit.com/news/information/2026/11/2026_1106_01"
+    }
+   ],
+   "o": "チームスピリット",
+   "oe": "TeamSpirit Inc.",
+   "on": "https://corp.teamspirit.com/news/information/2026/11/2026_1106_01",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-07",
+     "t": "チームスピリットが開発用サーバーへの不正アクセスで個人情報2万8,824件の流出を公表",
+     "u": "https://cybersecurity-jp.com/news/118179"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-07",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-06",
+     "t": "JNSA 不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ（第一報）",
+     "u": "https://www.jnsa.org/dl/annual/20261106.pdf"
+    }
+   ],
+   "o": "JNSA",
+   "oe": "JNSA",
+   "on": "https://www.jnsa.org/dl/annual/20261106.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-07",
+     "t": "JNSAの理解度チェックサービスに不正アクセス、最大1万5,128件の個人情報が漏えいの恐れ",
+     "u": "https://cybersecurity-jp.com/news/118177"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-07",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-05",
+     "t": "業務委託先システムへの不正アクセスによるお客さま情報漏えいに関するお詫びとお知らせ｜株式会社日産フィナンシャルサービス",
+     "u": "https://www.nissan-fs.co.jp/info_list/pdf/261105.pdf"
+    }
+   ],
+   "o": "日産フィナンシャルサービス",
+   "oe": "Nissan Financial Services Co., Ltd.",
+   "on": "https://www.nissan-fs.co.jp/info_list/pdf/261105.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-07",
+     "t": "日産フィナンシャルサービス委託先の不正アクセスで顧客情報最大23万6,000件が漏えいか",
+     "u": "https://cybersecurity-jp.com/news/118178"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-07",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "「ミツカン 365」への不正アクセスに伴うお客様情報の改ざん・漏えいに関するお詫びとお知らせ｜ミツカングループ公式サイト",
+     "u": "https://www.mizkan.co.jp/file.jsp?id=2021_Renewal%2Ffiles%2Fpdf%2Femg%2Fnews%2Foshirase18.pdf"
+    }
+   ],
+   "o": "ミツカン365",
+   "oe": "Mizkan",
+   "on": "https://www.mizkan.co.jp/file.jsp?id=2021_Renewal%2Ffiles%2Fpdf%2Femg%2Fnews%2Foshirase18.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-07",
+     "t": "ミツカン365に不正アクセス、会員487人の情報改ざんと29人分の漏えい",
+     "u": "https://cybersecurity-jp.com/news/118180"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
   {
    "d": "2026-11-06",
    "ls": "none_found",
@@ -77,7 +212,7 @@
    ],
    "t": "leak",
    "v": "unknown",
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "d": "2026-11-06",
@@ -212,6 +347,12 @@
      "p": "2026-11-06",
      "t": "NTTドコモがMy docomoなどへの不正アクセスで最大約30万件の顧客情報流出を発表",
      "u": "https://cybersecurity-jp.com/news/118153"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-07",
+     "t": "NTTドコモがオンラインショップ等への不正アクセスで最大29万4,839件の情報流出を公表",
+     "u": "https://cybersecurity-jp.com/news/118181"
     }
    ],
    "t": "unauthorized_access",
