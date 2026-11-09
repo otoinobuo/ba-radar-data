@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-08",
+ "asof": "2026-11-09",
  "coverage": {
   "any": 17,
-  "kev90": 107,
+  "kev90": 104,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -14,7 +14,7 @@
    "wafcharm": 6
   },
   "radar_obs": 11,
-  "radar_only": 8,
+  "radar_only": 9,
   "rows": [
    {
     "added": "2026-11-06",
@@ -1885,7 +1885,7 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-11",
+    "added": "",
     "c": "CVE-2026-72898",
     "cov": {
      "akamai": null,
@@ -1900,42 +1900,8 @@
     "obs": [
      "jp"
     ],
-    "p": "Metabase Metabase",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-11",
-    "c": "CVE-2026-68820",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Microsoft Windows Ancillary Function Driver for WinSock",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-11",
-    "c": "CVE-2026-20349",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall…",
-    "src": "kev"
+    "p": "Metabase",
+    "src": "radar"
    },
    {
     "added": "",
@@ -2118,12 +2084,12 @@
     "src": "radar"
    }
   ],
-  "targets": 115
+  "targets": 113
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-08T01:30:14Z",
+ "generated": "2026-11-09T01:30:16Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2259,7 +2225,7 @@
  "totals": {
   "items_all": 358,
   "n30": 36,
-  "n90": 77,
+  "n90": 76,
   "since": "2022-02-01",
   "vendors30": 6
  },
@@ -3047,18 +3013,6 @@
    "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-08-12-088c6e8dd8",
    "v": "aws",
    "ver": "2.4"
-  },
-  {
-   "cve": [
-    "CVE-2026-61511",
-    "CVE-2019-17132"
-   ],
-   "d": "2026-08-11",
-   "k": "rules_update",
-   "t": "WAF - WAF Release - 2026-08-11",
-   "u": "https://developers.cloudflare.com/changelog/post/2026-08-11-waf-release/",
-   "v": "cloudflare",
-   "ver": "2026-08-11"
   }
  ],
  "vendor_table": [
@@ -3073,7 +3027,7 @@
    "lt": "WAF - WAF Release - 2026-11-03",
    "lu": "https://developers.cloudflare.com/changelog/post/2026-11-03-waf-release/",
    "n30": 17,
-   "n90": 36,
+   "n90": 35,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": "2026-11-03"

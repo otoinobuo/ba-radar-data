@@ -1,6 +1,177 @@
 {
- "generated": "2026-11-07T23:53:46Z",
+ "generated": "2026-11-08T23:52:39Z",
  "incidents": [
+  {
+   "d": "2026-11-09",
+   "ls": "none_found",
+   "o": "英国の国家サイバーセキュリティセンター( NCSC )",
+   "oe": "National Cyber Security Centre",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-09",
+     "t": "英政府機関、2028年までに重要インフラへのランサムウェア攻撃で AI 搭載マルウェアが使われる可能性が「非常に高い」と警告",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/09/56711.html"
+    }
+   ],
+   "t": "ransomware",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-09",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-05",
+     "t": "武力攻撃事態等における安否情報収集・提供システムへの不正アクセスについて",
+     "u": "https://www.fdma.go.jp/pressrelease/houdou/items/261105_kokuun_1.pdf"
+    }
+   ],
+   "o": "富士ソフト株式会社",
+   "oe": "Fuji Soft Incorporated",
+   "on": "https://www.fdma.go.jp/pressrelease/houdou/items/261105_kokuun_1.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-09",
+     "t": "消防庁「安否情報システム」に不正アクセス、影響範囲調査のためにサービスを停止消防庁の「安否情報システム」に不正アクセス、影響範囲調査のためサービス停止",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/09/56708.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-09",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-06",
+     "t": "【重要】不正アクセスに伴う個人情報漏えいに関するお知らせ",
+     "u": "https://ceres-inc.jp/news/detail/20261106-2"
+    }
+   ],
+   "o": "株式会社セレス",
+   "oe": "Ceres Inc.",
+   "on": "https://ceres-inc.jp/news/detail/20261106-2",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-09",
+     "t": "「ポイントインカム」と「CoinTrade」で個人情報が流出",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/09/56707.html"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-09",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-28",
+     "t": "【重要】お客さまWEBサービス・ソニー生命 アプリ等の一時停止について",
+     "u": "https://www.sonylife.co.jp/info/popup/261028_oshirase.pdf"
+    },
+    {
+     "d": "2026-10-28",
+     "t": "【重要】当社システムに対する不正アクセスの発生および情報漏えいに関するお詫び",
+     "u": "https://www.sonylife.co.jp/info/popup/261028_oshirase2.pdf"
+    }
+   ],
+   "o": "ソニー生命",
+   "oe": "Sony Life",
+   "on": "https://www.sonylife.co.jp/info/popup/261028_oshirase.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-09",
+     "t": "ソニー生命「お客さま WEB サービス」に不正アクセス、メディケア生命保険 契約者等 約38.5万件が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/09/56705.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-09",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】CNポイント サテライトシステムへの不正アクセスによる一部サービス停止および個人情報流出の可能性に関するお知らせ＜第1報＞",
+     "u": "https://www.clubnets.jp/infos/id/221"
+    }
+   ],
+   "o": "株式会社クラブネッツ",
+   "oe": "Clubnets",
+   "on": "https://www.clubnets.jp/infos/id/221",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-09",
+     "t": "CNポイントのサテライトシステムに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/09/56703.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-09",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-28",
+     "t": "当社運営サイト（インターネット花キューピット等）への不正アクセスによる会員情報漏えいに関するお詫びとお知らせ",
+     "u": "https://www.hana-cupid.co.jp/news/news/20261028"
+    }
+   ],
+   "o": "花キューピット",
+   "oe": "Hana Cupid",
+   "on": "https://www.hana-cupid.co.jp/news/news/20261028",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-09",
+     "t": "花キューピットに不正アクセス、423万8,242件の会員情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/09/56701.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-08",
+   "ls": "none_found",
+   "o": "株式会社シグナルトーク",
+   "oe": "Signal Talk",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-08",
+     "t": "シグナルトークのMaru-Janで会員185万5,578人分のパスワードが流出",
+     "u": "https://cybersecurity-jp.com/news/118198"
+    }
+   ],
+   "t": "leak",
+   "v": "webapp",
+   "x": "yes"
+  },
   {
    "d": "2026-11-07",
    "ls": "none_found",
@@ -338,9 +509,27 @@
   {
    "d": "2026-11-06",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-05",
+     "t": "ドコモからのお知らせ（11月5日午前9時00分時点）",
+     "u": "https://www.docomo.ne.jp/info/notice/page/261105_02_m.html"
+    },
+    {
+     "d": "2026-11-05",
+     "t": "ドコモからのお知らせ（第二報：11月5日 午後6時30分時点）",
+     "u": "https://www.docomo.ne.jp/info/notice/page/261105_03_m.html"
+    },
+    {
+     "d": "2026-11-06",
+     "t": "ドコモからのお知らせ 第三報",
+     "u": "https://www.docomo.ne.jp/info/notice/page/261106_00_m.html"
+    }
+   ],
    "o": "NTTドコモ",
    "oe": "NTT DOCOMO",
-   "os": "candidate",
+   "on": "https://www.docomo.ne.jp/info/notice/page/261105_02_m.html",
+   "os": "found",
    "s": [
     {
      "h": "cybersecurity-jp.com",
@@ -353,6 +542,12 @@
      "p": "2026-11-07",
      "t": "NTTドコモがオンラインショップ等への不正アクセスで最大29万4,839件の情報流出を公表",
      "u": "https://cybersecurity-jp.com/news/118181"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-08",
+     "t": "NTTドコモがahamoサイトの緊急メンテを完了 不正アクセス受け予防停止から再開",
+     "u": "https://cybersecurity-jp.com/news/118199"
     }
    ],
    "t": "unauthorized_access",
@@ -624,6 +819,12 @@
      "p": "2026-11-05",
      "t": "第三者が認証情報を不正作成か、アプリ移行処理に不備 - デニーズ",
      "u": "https://www.security-next.com/192388"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-09",
+     "t": "デニーズアプリへ不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/09/56704.html"
     }
    ],
    "t": "unauthorized_access",
@@ -1402,15 +1603,34 @@
   {
    "d": "2026-11-03",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-04",
+     "t": "デジタル証券に関する外部委託先（Securitize Japan）への不正アクセスによるお客さま情報（氏名、住所、生年月日、口座番号：4名、氏名：617名）の漏洩について（2026年11月4日更新）",
+     "u": "https://sonybank.jp/info/2026/1030-01.html"
+    },
+    {
+     "d": "",
+     "t": "丸井グループ ニュースリリース",
+     "u": "https://www.0101maruigroup.co.jp/nr/o-20-0zfdye"
+    }
+   ],
    "o": "Securitize Japan株式会社",
    "oe": "Securitize Japan",
-   "os": "candidate",
+   "on": "https://sonybank.jp/info/2026/1030-01.html",
+   "os": "found",
    "s": [
     {
      "h": "cybersecurity-jp.com",
      "p": "2026-11-03",
      "t": "丸井グループがデジタル社債の委託先への不正アクセスで最大9,086人の情報漏えいを発表",
      "u": "https://cybersecurity-jp.com/news/118084"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-09",
+     "t": "ソニー銀行のデジタル証券に関連する外部委託先Securitize Japanに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/09/56706.html"
     }
    ],
    "t": "unauthorized_access",
@@ -2705,6 +2925,12 @@
      "p": "2026-10-30",
      "t": "電力・ガス取引監視等委員会の関連サイトに攻撃 - 経産省",
      "u": "https://www.security-next.com/192212"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-09",
+     "t": "電力・ガス取引監視等委員会ウェブサイトに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/09/56702.html"
     }
    ],
    "t": "unauthorized_access",
