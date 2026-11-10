@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-09",
+ "asof": "2026-11-10",
  "coverage": {
   "any": 17,
-  "kev90": 104,
+  "kev90": 108,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -16,6 +16,74 @@
   "radar_obs": 11,
   "radar_only": 9,
   "rows": [
+   {
+    "added": "2026-11-09",
+    "c": "CVE-2026-123218",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "IBM Aspera Faspex",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-09",
+    "c": "CVE-2026-123158",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "OpenBSD OpenSSH",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-09",
+    "c": "CVE-2026-116779",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "SignalWire FreeSwitch",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-09",
+    "c": "CVE-2026-102895",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "GPUStack GPUStack",
+    "src": "kev"
+   },
    {
     "added": "2026-11-06",
     "c": "CVE-2026-19868",
@@ -2084,12 +2152,12 @@
     "src": "radar"
    }
   ],
-  "targets": 113
+  "targets": 117
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-09T01:30:16Z",
+ "generated": "2026-11-10T01:30:20Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2225,7 +2293,7 @@
  "totals": {
   "items_all": 358,
   "n30": 36,
-  "n90": 76,
+  "n90": 74,
   "since": "2022-02-01",
   "vendors30": 6
  },
@@ -2995,24 +3063,6 @@
    "u": "https://techdocs.akamai.com/application-security/changelog/aug-13-2026-ai-powered-waf-detections",
    "v": "akamai",
    "ver": ""
-  },
-  {
-   "cve": [],
-   "d": "2026-08-12",
-   "k": "release",
-   "t": "[Launched] Generally Available: Batch rule updates for Azure Front Door",
-   "u": "https://azure.microsoft.com/updates?id=569246",
-   "v": "azure",
-   "ver": ""
-  },
-  {
-   "cve": [],
-   "d": "2026-08-12",
-   "k": "rules_update",
-   "t": "SQL database managed rule group : Released static version 2.4 of this rule group.",
-   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-08-12-088c6e8dd8",
-   "v": "aws",
-   "ver": "2.4"
   }
  ],
  "vendor_table": [
@@ -3041,7 +3091,7 @@
    "lt": "POSIX operating system managed rule group: Released static version 3.3 of this rule group.",
    "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-04-803f16ca3d",
    "n30": 5,
-   "n90": 8,
+   "n90": 7,
    "name": "AWS WAF",
    "v": "aws",
    "ver": "3.3"
@@ -3083,7 +3133,7 @@
    "lt": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
    "lu": "https://azure.microsoft.com/updates?id=579280",
    "n30": 4,
-   "n90": 9,
+   "n90": 8,
    "name": "Azure WAF",
    "v": "azure",
    "ver": ""
