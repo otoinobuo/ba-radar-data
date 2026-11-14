@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-11",
+ "asof": "2026-11-14",
  "coverage": {
   "any": 17,
-  "kev90": 114,
+  "kev90": 116,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -16,6 +16,40 @@
   "radar_obs": 11,
   "radar_only": 9,
   "rows": [
+   {
+    "added": "2026-11-13",
+    "c": "CVE-2026-123039",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Check Point Multiple Products",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-13",
+    "c": "CVE-2026-114713",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "UnrealIRCd UnrealIRCd",
+    "src": "kev"
+   },
    {
     "added": "2026-11-10",
     "c": "CVE-2026-20320",
@@ -2254,12 +2288,12 @@
     "src": "radar"
    }
   ],
-  "targets": 123
+  "targets": 125
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-11T01:30:19Z",
+ "generated": "2026-11-14T01:30:18Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2393,13 +2427,42 @@
   }
  ],
  "totals": {
-  "items_all": 358,
-  "n30": 35,
-  "n90": 73,
+  "items_all": 363,
+  "n30": 37,
+  "n90": 78,
   "since": "2022-02-01",
   "vendors30": 6
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-119618"
+   ],
+   "d": "2026-11-12",
+   "k": "cve_coverage",
+   "t": "Critical Apache HTTP/2 Vulnerability (CVE-2026-119618): How Imperva Protects Customers",
+   "u": "https://www.imperva.com/blog/critical-apache-http-2-vulnerability-cve-2026-119618-how-imperva-protects-customers/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-12",
+   "k": "release",
+   "t": "WAF - Manage AI Security for Apps with Terraform",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-11-12-ai-security-for-apps-terraform/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-11",
+   "k": "release",
+   "t": "[In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF",
+   "u": "https://azure.microsoft.com/updates?id=580155",
+   "v": "azure",
+   "ver": ""
+  },
   {
    "cve": [],
    "d": "2026-11-05",
@@ -2491,6 +2554,15 @@
    "t": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
    "u": "https://azure.microsoft.com/updates?id=578681",
    "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-28",
+   "k": "release",
+   "t": "WAF - Malicious uploads detection flags non-multipart Content-Type headers with a boundary",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-28-content-scan-multipart-content-type/",
+   "v": "cloudflare",
    "ver": ""
   },
   {
@@ -2664,6 +2736,15 @@
    "t": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の注意喚起および、WafCharmでの対応に関して",
    "u": "https://www.wafcharm.com/jp/news/20261022-1/",
    "v": "wafcharm",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-21",
+   "k": "release",
+   "t": "WAF - Response custom rules",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-10-21-response-custom-rules/",
+   "v": "cloudflare",
    "ver": ""
   },
   {
@@ -3166,14 +3247,14 @@
     "release",
     "rules_update"
    ],
-   "last": "2026-11-03",
-   "lt": "WAF - WAF Release - 2026-11-03",
-   "lu": "https://developers.cloudflare.com/changelog/post/2026-11-03-waf-release/",
-   "n30": 16,
-   "n90": 35,
+   "last": "2026-11-12",
+   "lt": "WAF - Manage AI Security for Apps with Terraform",
+   "lu": "https://developers.cloudflare.com/changelog/post/2026-11-12-ai-security-for-apps-terraform/",
+   "n30": 18,
+   "n90": 38,
    "name": "Cloudflare",
    "v": "cloudflare",
-   "ver": "2026-11-03"
+   "ver": ""
   },
   {
    "gap": 13,
@@ -3183,7 +3264,7 @@
    "last": "2026-11-04",
    "lt": "POSIX operating system managed rule group: Released static version 3.3 of this rule group.",
    "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-04-803f16ca3d",
-   "n30": 5,
+   "n30": 4,
    "n90": 7,
    "name": "AWS WAF",
    "v": "aws",
@@ -3211,22 +3292,22 @@
    "last": "2026-10-27",
    "lt": "Cloud Armor release notes: October 27, 2026",
    "lu": "https://docs.cloud.google.com/armor/docs/release-notes#October_27_2026",
-   "n30": 3,
+   "n30": 2,
    "n90": 6,
    "name": "Google Cloud Armor",
    "v": "gcp",
    "ver": ""
   },
   {
-   "gap": 8,
+   "gap": 7,
    "k": [
     "release"
    ],
-   "last": "2026-11-05",
-   "lt": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
-   "lu": "https://azure.microsoft.com/updates?id=579280",
-   "n30": 4,
-   "n90": 8,
+   "last": "2026-11-11",
+   "lt": "[In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF",
+   "lu": "https://azure.microsoft.com/updates?id=580155",
+   "n30": 5,
+   "n90": 9,
    "name": "Azure WAF",
    "v": "azure",
    "ver": ""
@@ -3246,15 +3327,15 @@
    "ver": ""
   },
   {
-   "gap": 8,
+   "gap": 9,
    "k": [
     "cve_coverage"
    ],
-   "last": "2026-11-02",
-   "lt": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-   "lu": "https://www.imperva.com/blog/stylesmuggler-exploitation-deploys-psk-agent-rat-against-magento-stores/",
-   "n30": 4,
-   "n90": 9,
+   "last": "2026-11-12",
+   "lt": "Critical Apache HTTP/2 Vulnerability (CVE-2026-119618): How Imperva Protects Customers",
+   "lu": "https://www.imperva.com/blog/critical-apache-http-2-vulnerability-cve-2026-119618-how-imperva-protects-customers/",
+   "n30": 5,
+   "n90": 10,
    "name": "Imperva",
    "v": "imperva",
    "ver": ""
