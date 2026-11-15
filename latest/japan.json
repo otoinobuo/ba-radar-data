@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T05:39:07Z",
+ "generated": "2026-11-15T02:41:34Z",
  "incidents": [
   {
    "d": "2026-11-13",
@@ -2620,32 +2620,6 @@
    "ls": "none_found",
    "nn": [
     {
-     "d": "2026-10-27",
-     "t": "【重要】当社サービス「ferret One」への不正アクセスに関するお詫びとお知らせ（第一報）",
-     "u": "https://ferret-one.com/notice/20261027"
-    }
-   ],
-   "o": "株式会社ベーシック",
-   "oe": "Basic Inc.",
-   "on": "https://ferret-one.com/notice/20261027",
-   "os": "found",
-   "s": [
-    {
-     "h": "scan.netsecurity.ne.jp",
-     "p": "2026-11-06",
-     "t": "マーケティングプラットフォーム「ferret One」への不正アクセス、内部管理機能に不備",
-     "u": "https://scan.netsecurity.ne.jp/article/2026/11/06/56693.html"
-    }
-   ],
-   "t": "unauthorized_access",
-   "v": "credential",
-   "x": "unknown"
-  },
-  {
-   "d": "2026-11-06",
-   "ls": "none_found",
-   "nn": [
-    {
      "d": "",
      "t": "『バンドリ！アワーノーツ』クローズドβテスト応募者様およびカスタマーサポートご利用者様の個人情報漏えいに関するお詫びとお知らせ",
      "u": "https://bushiroad.co.jp/media/a87298c628c65925"
@@ -3115,6 +3089,38 @@
    "ls": "none_found",
    "nn": [
     {
+     "d": "2026-10-27",
+     "t": "【重要】当社サービス「ferret One」への不正アクセスに関するお詫びとお知らせ（第一報）",
+     "u": "https://ferret-one.com/notice/20261027"
+    }
+   ],
+   "o": "株式会社ベーシック",
+   "oe": "Basic Inc.",
+   "on": "https://ferret-one.com/notice/20261027",
+   "os": "found",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-04",
+     "t": "当社サービスへの不正アクセスに関するお知らせ（第二報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261102562932.pdf"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-06",
+     "t": "マーケティングプラットフォーム「ferret One」への不正アクセス、内部管理機能に不備",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/06/56693.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-04",
+   "ls": "none_found",
+   "nn": [
+    {
      "d": "",
      "t": "静岡県",
      "u": "https://www.pref.shizuoka.jp/"
@@ -3135,32 +3141,6 @@
    "t": "leak",
    "v": "unknown",
    "x": "no"
-  },
-  {
-   "d": "2026-11-04",
-   "ls": "none_found",
-   "nn": [
-    {
-     "d": "2026-11-04",
-     "t": "当社サービスへの不正アクセスに関するお知らせ（第二報）",
-     "u": "https://www.release.tdnet.info/inbs/140120261102562932.pdf"
-    }
-   ],
-   "o": "Ｇ－ベーシック",
-   "oe": "Basic Inc.",
-   "on": "https://www.release.tdnet.info/inbs/140120261102562932.pdf",
-   "os": "tdnet",
-   "s": [
-    {
-     "h": "release.tdnet.info",
-     "p": "2026-11-04",
-     "t": "当社サービスへの不正アクセスに関するお知らせ（第二報）",
-     "u": "https://www.release.tdnet.info/inbs/140120261102562932.pdf"
-    }
-   ],
-   "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
   },
   {
    "d": "2026-11-04",
@@ -9582,11 +9562,6 @@
      "d": "2026-10-08",
      "t": "委託先における個人情報漏えいのおそれについて",
      "u": "https://www.dkkaraoke.co.jp/news/newsletter/261008_2.html"
-    },
-    {
-     "d": "2026-10-09",
-     "t": "委託先における個人情報漏えいのおそれに関するお問い合わせ窓口（フリーダイヤル）開設のお知らせ",
-     "u": "https://www.dkkaraoke.co.jp/news/newsletter/261009_1.html"
     }
    ],
    "o": "日本コロムビアグループ",
@@ -9898,11 +9873,6 @@
    "nn": [
     {
      "d": "2026-10-02",
-     "t": "履修登録修正最終期間日・総合教養科目2次抽選［先着申請］の延期について",
-     "u": "https://www.omu.moe/news/2026-10-02-coursereg.html"
-    },
-    {
-     "d": "2026-10-02",
      "t": "本学情報基盤システムにおける障害の発生について【第1報】",
      "u": "https://www.omu.moe/news/2026-10-02-outage-1.html"
     },
@@ -9924,7 +9894,7 @@
    ],
    "o": "大阪公立大学",
    "oe": "Osaka Metropolitan University",
-   "on": "https://www.omu.moe/news/2026-10-02-coursereg.html",
+   "on": "https://www.omu.moe/news/2026-10-02-outage-1.html",
    "os": "found",
    "s": [
     {
