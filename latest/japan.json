@@ -1,6 +1,374 @@
 {
- "generated": "2026-11-15T02:41:34Z",
+ "generated": "2026-11-15T23:55:23Z",
  "incidents": [
+  {
+   "d": "2026-11-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "埼玉りそな銀行",
+     "u": "https://www.saitamaresona.co.jp/kojin/visa_debit/oshirase_s/2026/detail/oshirase_10150.html"
+    }
+   ],
+   "o": "埼玉りそな銀行",
+   "oe": "Saitama Resona Bank",
+   "on": "https://www.saitamaresona.co.jp/kojin/visa_debit/oshirase_s/2026/detail/oshirase_10150.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "埼玉りそな銀行、デビットカード関連メール本文へのURL掲載をやめる ～ フィッシング詐欺対策で",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56795.html"
+    }
+   ],
+   "t": "phishing",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-12",
+     "t": "当社のお客さま専用マイページ「MyAXA」への不正アクセスに関するお知らせ（第1報）",
+     "u": "https://www.axa-direct.co.jp/company/official_info/announce/2026/261112.html"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "当社のお客さま専用マイページ「MyAXA」およびロードサービス委託先への不正アクセスに伴うお客さまの情報漏洩に関するお詫びとお知らせ（第2報）",
+     "u": "https://www.axa-direct.co.jp/company/official_info/announce/2026/261113.html"
+    }
+   ],
+   "o": "アクサ損害保険",
+   "oe": "AXA Direct",
+   "on": "https://www.axa-direct.co.jp/company/official_info/announce/2026/261112.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "アクサ損害保険「MyAXA」に不正アクセス、約59万7千件の顧客情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56793.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "ＭＳコンパスへの不正アクセスに伴う情報漏えいについて",
+     "u": "https://www.ms-ins.com/news/fy2026/pdf/1109_2.pdf"
+    }
+   ],
+   "o": "MSコンパス",
+   "oe": "MS Compass",
+   "on": "https://www.ms-ins.com/news/fy2026/pdf/1109_2.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "三井住友海上火災保険の中堅・中小企業向け情報提供サイト「MSコンパス」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56792.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社サイトへの不正アクセスによる個人情報漏えいの可能性に関するお詫びとお知らせ",
+     "u": "https://uchicomi.co.jp/news/647"
+    }
+   ],
+   "o": "ウチコミ!",
+   "oe": "Uchicomi!",
+   "on": "https://uchicomi.co.jp/news/647",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "「ウチコミ！」にランサムウェア攻撃、14万2,591アカウントに影響",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56788.html"
+    }
+   ],
+   "t": "ransomware",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-04",
+     "t": "【重要】当社プラットフォームへの不正アクセスによる個人情報等の漏えいおよびサービス一時停止に関するお詫びとご報告",
+     "u": "https://www.shippio.io/news/20261104"
+    },
+    {
+     "d": "2026-11-05",
+     "t": "【重要】当社プラットフォームのサービス再開および不正アクセスに関するご報告（第二報）",
+     "u": "https://www.shippio.io/news/20261105"
+    }
+   ],
+   "o": "Shippio Platform",
+   "oe": "Shippio Platform",
+   "on": "https://www.shippio.io/news/20261104",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "「Shippio Platform」に不正アクセス、データの一部損傷を確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56787.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-16",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-02",
+     "t": "当社グループの業務システムへの不正アクセスによる個人情報漏えいに関するお知らせとお詫び",
+     "u": "https://www.prestigein.com/Portals/0/pdf/NEWS/news_20261102_01.pdf"
+    }
+   ],
+   "o": "株式会社プレステージ・インターナショナル",
+   "oe": "Prestige International Inc.",
+   "on": "https://www.prestigein.com/Portals/0/pdf/NEWS/news_20261102_01.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "プレステージ・インターナショナルグループの業務システムに不正アクセス、最大約550万件の顧客の個人情報が持ち出されたことを確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56786.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-16",
+   "ls": "none_found",
+   "o": "川崎市",
+   "oe": "Kawasaki City",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "価格漏えいに伴う官製談合及び入札妨害の容疑で川崎市職員を逮捕",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56785.html"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "株式会社Yeny 不正アクセスによる会員情報の漏えいに関するお詫びとお知らせ",
+     "u": "https://yeny.jp/pressrelease/1547"
+    }
+   ],
+   "o": "株式会社Yeny",
+   "oe": "Yeny",
+   "on": "https://yeny.jp/pressrelease/1547",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-15",
+     "t": "Yenyが決済4サービスの不正アクセスで電話番号と会員ID約133万件の漏えいを発表",
+     "u": "https://cybersecurity-jp.com/news/118441"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "cloud_misconfig",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-15",
+   "ls": "unchecked",
+   "o": "京阪HDの公式LINEで連携サービス",
+   "oe": "Sonicmoov",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-15",
+     "t": "京阪HDの公式LINEで連携サービスへの不正アクセスにより最大22万4,386人分の情報流出の恐れ",
+     "u": "https://cybersecurity-jp.com/news/118440"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-02-05",
+     "t": "アットホーム株式会社 お知らせ（2月5日・引越し見積もりの件）",
+     "u": "https://www.athome.co.jp/corporate/news/topics/oshirase-202602"
+    }
+   ],
+   "o": "アットホーム",
+   "oe": "At Home",
+   "on": "https://www.athome.co.jp/corporate/news/topics/oshirase-202602",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-15",
+     "t": "アットホームの賃貸管理システムに不正アクセス、6,901件の個人情報が漏えいのおそれ",
+     "u": "https://cybersecurity-jp.com/news/118421"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "大阪公立大学 本学情報基盤システムにおける障害の発生について【第6報】",
+     "u": "https://www.omu.ac.jp/news/12123"
+    }
+   ],
+   "o": "大阪公立大学",
+   "oe": "Osaka Metropolitan University",
+   "on": "https://www.omu.ac.jp/news/12123",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-15",
+     "t": "大阪公立大学、NEC管理クラウドから約17万人分の個人情報漏えいを第6報で公表",
+     "u": "https://cybersecurity-jp.com/news/118420"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-15",
+   "ls": "none_found",
+   "o": "読売巨人軍",
+   "oe": "Yomiuri Giants",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-15",
+     "t": "読売巨人軍のCLUB GIANTSにサイバー攻撃 会員のメール80万7,030件が流出",
+     "u": "https://cybersecurity-jp.com/news/118419"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-15",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "マネックス証券 プレスリリース（PDF）",
+     "u": "https://info.monex.co.jp/press/pdf/press2026_11_13_monex_pr.pdf"
+    }
+   ],
+   "o": "マネックス証券",
+   "oe": "Monex, Inc.",
+   "on": "https://info.monex.co.jp/press/pdf/press2026_11_13_monex_pr.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-15",
+     "t": "マネックス証券の委託先口座開設システムに不正アクセス 最大113万件のメールが漏えいのおそれ",
+     "u": "https://cybersecurity-jp.com/news/118418"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-14",
+   "ls": "none_found",
+   "o": "近鉄不動産",
+   "oe": "Kintetsu Real Estate",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-14",
+     "t": "近鉄不動産の公式LINEで最大3,716件の情報漏えい、LINE連携サービスへの不正アクセスが原因",
+     "u": "https://cybersecurity-jp.com/news/118417"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-14",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "京成電鉄 【お詫び】スカイライナー座席予約システムへの不正アクセスについて（PDF）",
+     "u": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/zDQUntkx.pdf"
+    }
+   ],
+   "o": "京成電鉄",
+   "oe": "Keisei Electric Railway Co., Ltd.",
+   "on": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/zDQUntkx.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-14",
+     "t": "京成電鉄のスカイライナー座席予約システムに不正アクセス 最大337万件の情報取得の可能性",
+     "u": "https://cybersecurity-jp.com/news/118415"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
   {
    "d": "2026-11-13",
    "ls": "none_found",
@@ -549,6 +917,12 @@
      "p": "2026-11-12",
      "t": "靖國神社のオンライン授与品サイトに不正アクセス、約1万4,500件の会員情報が漏えい",
      "u": "https://cybersecurity-jp.com/news/118307"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "「靖國神社オンライン授与品・頒布品サイト」に不正アクセス、約1万4,500件の利用者の個人情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56790.html"
     }
    ],
    "t": "unauthorized_access",
@@ -2895,15 +3269,39 @@
   {
    "d": "2026-11-05",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "株式会社アクト",
+     "u": "https://act1.co.jp/2026-11-04-10"
+    },
+    {
+     "d": "",
+     "t": "当社システムへの不正アクセスに伴う情報漏えいについて",
+     "u": "https://www.ms-ins.com/news/fy2026/pdf/1106_1.pdf"
+    },
+    {
+     "d": "",
+     "t": "不正アクセス検知に伴う一部サービスの一時停止について【更新】",
+     "u": "https://www.ms-ins.com/information/2026/information_1103_1.pdf"
+    }
+   ],
    "o": "三井住友海上火災保険",
    "oe": "Mitsui Sumitomo Insurance Company, Limited",
-   "os": "candidate",
+   "on": "https://act1.co.jp/2026-11-04-10",
+   "os": "found",
    "s": [
     {
      "h": "cybersecurity-jp.com",
      "p": "2026-11-05",
      "t": "三井住友海上とあいおいニッセイ同和損保が不正アクセスを公表し契約者向けサービスを停止",
      "u": "https://cybersecurity-jp.com/news/118127"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "三井住友海上火災保険「ご契約者さま専用ページ」に不正アクセス、約3万7,000件の顧客情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56791.html"
     }
    ],
    "t": "unauthorized_access",
@@ -3292,6 +3690,11 @@
      "d": "",
      "t": "株式会社アイリスプラザECサイト一時停止のお知らせ",
      "u": "https://www.irisohyama.co.jp/news/2026?date=1029"
+    },
+    {
+     "d": "",
+     "t": "（第2報）株式会社アイリスプラザECサイト一時停止のお知らせ外部クラウドサービスへの不正アクセスによる個人情報漏えいのおそれに関するお詫び",
+     "u": "https://www.irisohyama.co.jp/news/2026/amp?date=1105"
     }
    ],
    "o": "アイリスプラザ",
@@ -3304,6 +3707,12 @@
      "p": "2026-11-04",
      "t": "「アイリスプラザ」に不正アクセス、安全確保のため一時停止",
      "u": "https://scan.netsecurity.ne.jp/article/2026/11/04/56660.html"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-16",
+     "t": "アイリスオーヤマ公式通販サイト「アイリスプラザ」に不正アクセス、約770万人の個人情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/16/56789.html"
     }
    ],
    "t": "unauthorized_access",
@@ -5638,6 +6047,12 @@
      "p": "2026-10-28",
      "t": "ヤマダデンキ提供の「ヤマダビデオ」「スマホゴールド会員」に不正アクセス、一時サービス停止",
      "u": "https://scan.netsecurity.ne.jp/article/2026/10/28/56609.html"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-14",
+     "t": "ヤマダデンキがリフォーム管理システムへの不正アクセスを発表、最大350万件に影響の可能性",
+     "u": "https://cybersecurity-jp.com/news/118416"
     }
    ],
    "t": "unauthorized_access",
