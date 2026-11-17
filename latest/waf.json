@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-16",
+ "asof": "2026-11-17",
  "coverage": {
   "any": 17,
-  "kev90": 111,
+  "kev90": 110,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -1987,23 +1987,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-19",
-    "c": "CVE-2026-64849",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "MLflow MLflow",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-72898",
     "cov": {
@@ -2203,12 +2186,12 @@
     "src": "radar"
    }
   ],
-  "targets": 120
+  "targets": 119
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-16T01:30:18Z",
+ "generated": "2026-11-17T01:30:14Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2342,13 +2325,31 @@
   }
  ],
  "totals": {
-  "items_all": 363,
-  "n30": 37,
-  "n90": 76,
+  "items_all": 365,
+  "n30": 39,
+  "n90": 77,
   "since": "2022-02-01",
   "vendors30": 6
  },
  "updates": [
+  {
+   "cve": [],
+   "d": "2026-11-16",
+   "k": "release",
+   "t": "Cloud Armor release notes: November 16, 2026",
+   "u": "https://docs.cloud.google.com/armor/docs/release-notes#November_16_2026",
+   "v": "gcp",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-12",
+   "k": "release",
+   "t": "WAF - Payload logging for WAF custom rules",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-11-12-custom-rules-payload-logging/",
+   "v": "cloudflare",
+   "ver": ""
+  },
   {
    "cve": [
     "CVE-2026-119618"
@@ -3123,15 +3124,6 @@
    "u": "https://developers.cloudflare.com/changelog/post/2026-08-20-leaked-credentials-authorization-header/",
    "v": "cloudflare",
    "ver": ""
-  },
-  {
-   "cve": [],
-   "d": "2026-08-19",
-   "k": "release",
-   "t": "Cloud Armor release notes: August 19, 2026",
-   "u": "https://docs.cloud.google.com/armor/docs/release-notes#August_19_2026",
-   "v": "gcp",
-   "ver": ""
   }
  ],
  "vendor_table": [
@@ -3143,10 +3135,10 @@
     "rules_update"
    ],
    "last": "2026-11-12",
-   "lt": "WAF - Manage AI Security for Apps with Terraform",
-   "lu": "https://developers.cloudflare.com/changelog/post/2026-11-12-ai-security-for-apps-terraform/",
-   "n30": 18,
-   "n90": 37,
+   "lt": "WAF - Payload logging for WAF custom rules",
+   "lu": "https://developers.cloudflare.com/changelog/post/2026-11-12-custom-rules-payload-logging/",
+   "n30": 19,
+   "n90": 38,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": ""
@@ -3180,14 +3172,14 @@
    "ver": "4.25.2"
   },
   {
-   "gap": 14,
+   "gap": 20,
    "k": [
     "release"
    ],
-   "last": "2026-10-27",
-   "lt": "Cloud Armor release notes: October 27, 2026",
-   "lu": "https://docs.cloud.google.com/armor/docs/release-notes#October_27_2026",
-   "n30": 2,
+   "last": "2026-11-16",
+   "lt": "Cloud Armor release notes: November 16, 2026",
+   "lu": "https://docs.cloud.google.com/armor/docs/release-notes#November_16_2026",
+   "n30": 3,
    "n90": 6,
    "name": "Google Cloud Armor",
    "v": "gcp",
