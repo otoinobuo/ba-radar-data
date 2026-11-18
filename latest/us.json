@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-16",
+ "asof": "2026-11-17",
  "coverage": {
   "ca": "2023-10-12",
   "full_from": "2023-12-18",
@@ -9,8 +9,318 @@
   "sec8k": "2023-12-18"
  },
  "edition": "us",
- "generated": "2026-11-17T01:02:53Z",
+ "generated": "2026-11-18T01:13:28Z",
  "incidents": [
+  {
+   "a": null,
+   "bd": "",
+   "ch": [
+    "press"
+   ],
+   "cl": "no",
+   "d": "2026-11-17",
+   "dd": "",
+   "id": 3855,
+   "nd": "",
+   "nn": [],
+   "o": "Fandango",
+   "on": "",
+   "s": [
+    {
+     "h": "securityweek.com",
+     "p": "2026-11-17",
+     "t": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+     "u": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/"
+    }
+   ],
+   "sec": "other",
+   "st": "",
+   "t": "data_breach",
+   "v": "email_phishing",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "",
+   "ch": [
+    "press"
+   ],
+   "cl": "no",
+   "d": "2026-11-17",
+   "dd": "",
+   "id": 3854,
+   "nd": "",
+   "nn": [],
+   "o": "Monadnock Community Hospital",
+   "on": "",
+   "s": [
+    {
+     "h": "databreaches.net",
+     "p": "2026-11-17",
+     "t": "NH: Monadnock Community Hospital server outage due to ‘cyber incident,’ officials say",
+     "u": "https://databreaches.net/2026/11/17/nh-monadnock-community-hospital-server-outage-due-to-cyber-incident-officials-say/"
+    }
+   ],
+   "sec": "healthcare",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "2026-09-01",
+   "ch": [
+    "ca"
+   ],
+   "cl": "no",
+   "d": "2026-11-17",
+   "dd": "2026-10-22",
+   "id": 3853,
+   "nd": "2026-11-17",
+   "nn": [
+    {
+     "d": "2026-11-17",
+     "k": "ca",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633042"
+    },
+    {
+     "d": "2026-11-17",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Breach%20Notification%20Letter-v3%2011-16-26%20%28credential%20and%20credit%20card%29.pdf"
+    }
+   ],
+   "o": "Photoworks Inc.",
+   "on": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633042",
+   "s": [
+    {
+     "h": "oag.ca.gov",
+     "p": "2026-11-17",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633042"
+    }
+   ],
+   "sec": "other",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "",
+   "ch": [
+    "ca"
+   ],
+   "cl": "no",
+   "d": "2026-11-16",
+   "dd": "2026-05-27",
+   "id": 3852,
+   "nd": "2026-11-16",
+   "nn": [
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632984"
+    },
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/HCAI%20Notice%20of%20Data%20Breach_0.pdf"
+    }
+   ],
+   "o": "Department of Health Care Access and Information",
+   "on": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632984",
+   "s": [
+    {
+     "h": "oag.ca.gov",
+     "p": "2026-11-16",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632984"
+    }
+   ],
+   "sec": "healthcare",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "2026-08-09",
+   "ch": [
+    "ca"
+   ],
+   "cl": "no",
+   "d": "2026-11-16",
+   "dd": "2026-08-18",
+   "id": 3851,
+   "nd": "2026-11-16",
+   "nn": [
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632988"
+    },
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/CA%20-%20California%20AG%20Notice_0.pdf"
+    }
+   ],
+   "o": "Colla Health, Inc.",
+   "on": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632988",
+   "s": [
+    {
+     "h": "oag.ca.gov",
+     "p": "2026-11-16",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632988"
+    }
+   ],
+   "sec": "healthcare",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "2026-08-18",
+   "ch": [
+    "ca"
+   ],
+   "cl": "no",
+   "d": "2026-11-16",
+   "dd": "",
+   "id": 3850,
+   "nd": "2026-11-16",
+   "nn": [
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633009"
+    },
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/PayrHealth_Sample%20individual%20notice_Redacted.pdf"
+    }
+   ],
+   "o": "PayrHealth",
+   "on": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633009",
+   "s": [
+    {
+     "h": "oag.ca.gov",
+     "p": "2026-11-16",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633009"
+    }
+   ],
+   "sec": "other",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "2026-08-26",
+   "ch": [
+    "ca"
+   ],
+   "cl": "no",
+   "d": "2026-11-16",
+   "dd": "",
+   "id": 3849,
+   "nd": "2026-11-16",
+   "nn": [
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633010"
+    },
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/California%20-%20Sample%20Notification%20Letter%20-%20AIR%20-%2011.16.26_Redacted.pdf"
+    }
+   ],
+   "o": "Apartment Income REIT LLC",
+   "on": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633010",
+   "s": [
+    {
+     "h": "oag.ca.gov",
+     "p": "2026-11-16",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633010"
+    }
+   ],
+   "sec": "other",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "2026-09-16",
+   "ch": [
+    "ca"
+   ],
+   "cl": "no",
+   "d": "2026-11-16",
+   "dd": "",
+   "id": 3848,
+   "nd": "2026-11-16",
+   "nn": [
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633011"
+    },
+    {
+     "d": "2026-11-16",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/DBM-6224_KERN_SAS_L01.pdf"
+    }
+   ],
+   "o": "Kern Medical, owned and operated by Kern County Hospital Authority (\"Kern Medical\")",
+   "on": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633011",
+   "s": [
+    {
+     "h": "oag.ca.gov",
+     "p": "2026-11-16",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633011"
+    }
+   ],
+   "sec": "healthcare",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
   {
    "a": null,
    "bd": "",
@@ -31,11 +341,17 @@
      "p": "2026-11-16",
      "t": "Uber Data Breach Impacts 150,000 People",
      "u": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/"
+    },
+    {
+     "h": "bleepingcomputer.com",
+     "p": "2026-11-17",
+     "t": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+     "u": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/"
     }
    ],
    "sec": "other",
    "st": "",
-   "t": "data_breach",
+   "t": "bec",
    "v": "email_phishing",
    "vl": [],
    "x": "unknown"
@@ -104,7 +420,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632938"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -392,7 +708,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632875"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -925,6 +1241,48 @@
      "p": "2026-11-09",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632613"
+    }
+   ],
+   "sec": "healthcare",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "2026-09-09",
+   "ch": [
+    "ca"
+   ],
+   "cl": "no",
+   "d": "2026-11-08",
+   "dd": "",
+   "id": 3847,
+   "nd": "2026-11-08",
+   "nn": [
+    {
+     "d": "2026-11-08",
+     "k": "ca",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632600"
+    },
+    {
+     "d": "2026-11-08",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/AltaMed.Adult_.Patient.CM_.10.27.26%20Final_Redacted.pdf"
+    }
+   ],
+   "o": "AltaMed Health Services Corporation",
+   "on": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632600",
+   "s": [
+    {
+     "h": "oag.ca.gov",
+     "p": "2026-11-08",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632600"
     }
    ],
    "sec": "healthcare",
@@ -1833,7 +2191,7 @@
      "u": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "webapp_vuln",
@@ -2199,7 +2557,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632203"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "misdirected",
@@ -3468,7 +3826,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-631594"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -9201,7 +9559,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-629696"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "third_party",
@@ -10194,7 +10552,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-629294"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "webapp_vuln",
@@ -11774,7 +12132,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-628794"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -12675,7 +13033,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-628449"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -15798,7 +16156,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-626998"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -17803,7 +18161,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-626404"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -18109,7 +18467,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-626446"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -19865,7 +20223,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625494"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -20312,7 +20670,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625462"
     }
    ],
-   "sec": "other",
+   "sec": "professional_services",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -20636,7 +20994,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625323"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -28022,7 +28380,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-622211"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -28515,7 +28873,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-621924"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -32453,7 +32811,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-620355"
     }
    ],
-   "sec": "other",
+   "sec": "education",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -33018,7 +33376,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-619986"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -33920,7 +34278,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-619635"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -35427,7 +35785,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-619003"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -37379,7 +37737,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-618088"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -43220,7 +43578,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-615688"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -46767,7 +47125,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-614128"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -49216,7 +49574,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-612889"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -51187,7 +51545,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-610568"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -54962,7 +55320,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-607578"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -59284,7 +59642,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-605455"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -59849,7 +60207,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-605206"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -60549,7 +60907,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-604836"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -65240,7 +65598,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-603009"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -70125,7 +70483,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-600839"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -81491,7 +81849,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-594369"
     }
    ],
-   "sec": "other",
+   "sec": "government",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -83633,7 +83991,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-593101"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -84095,7 +84453,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-592808"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -87695,7 +88053,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-589989"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -89681,7 +90039,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-588292"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -94415,7 +94773,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-584833"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -94835,7 +95193,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-584606"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "webapp_vuln",
@@ -95689,7 +96047,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-584127"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -102601,7 +102959,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579990"
     }
    ],
-   "sec": "other",
+   "sec": "professional_services",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -102737,7 +103095,7 @@
    ],
    "sec": "education",
    "st": "",
-   "t": "data_breach",
+   "t": "ransomware",
    "v": "unknown",
    "vl": [],
    "x": "unknown"
@@ -102780,7 +103138,7 @@
    "sec": "finance",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "email_phishing",
    "vl": [],
    "x": "unknown"
   },
@@ -102819,10 +103177,10 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579880"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "third_party",
    "vl": [],
    "x": "unknown"
   },
@@ -102905,7 +103263,7 @@
    ],
    "sec": "finance",
    "st": "",
-   "t": "data_breach",
+   "t": "ransomware",
    "v": "unknown",
    "vl": [],
    "x": "unknown"
@@ -102945,12 +103303,12 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579679"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "credential",
    "vl": [],
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "a": null,
@@ -102989,7 +103347,7 @@
    ],
    "sec": "finance",
    "st": "",
-   "t": "data_breach",
+   "t": "ransomware",
    "v": "unknown",
    "vl": [],
    "x": "unknown"
@@ -103029,7 +103387,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579619"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -103173,7 +103531,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579494"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -103218,7 +103576,7 @@
    "sec": "finance",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "third_party",
    "vl": [],
    "x": "unknown"
   },
@@ -103341,7 +103699,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579282"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -103425,7 +103783,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579322"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -103469,7 +103827,7 @@
    ],
    "sec": "healthcare",
    "st": "",
-   "t": "data_breach",
+   "t": "ransomware",
    "v": "unknown",
    "vl": [],
    "x": "unknown"
@@ -103512,9 +103870,9 @@
    "sec": "other",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "cloud_misconfig",
    "vl": [],
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "a": null,
@@ -103553,8 +103911,8 @@
    ],
    "sec": "other",
    "st": "",
-   "t": "data_breach",
-   "v": "unknown",
+   "t": "ransomware",
+   "v": "third_party",
    "vl": [],
    "x": "unknown"
   },
@@ -103635,7 +103993,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579194"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -103677,10 +104035,10 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579196"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "webapp_vuln",
    "vl": [
     {
      "b": "official",
@@ -103690,7 +104048,7 @@
      "v": ""
     }
    ],
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "a": null,
@@ -103781,7 +104139,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578895"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -103973,10 +104331,10 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578830"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "webapp_vuln",
    "vl": [
     {
      "b": "official",
@@ -103986,7 +104344,7 @@
      "v": ""
     }
    ],
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "a": null,
@@ -104023,7 +104381,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578867"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -104110,9 +104468,9 @@
    "sec": "other",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "insider",
    "vl": [],
-   "x": "unknown"
+   "x": "no"
   },
   {
    "a": null,
@@ -104152,7 +104510,7 @@
    "sec": "government",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "email_phishing",
    "vl": [],
    "x": "unknown"
   },
@@ -104235,7 +104593,7 @@
    ],
    "sec": "other",
    "st": "",
-   "t": "data_breach",
+   "t": "ransomware",
    "v": "unknown",
    "vl": [],
    "x": "unknown"
@@ -104248,7 +104606,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-29",
-   "dd": "",
+   "dd": "2023-07-25",
    "id": 2771,
    "nd": "2023-12-29",
    "nn": [
@@ -104257,6 +104615,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578562"
+    },
+    {
+     "d": "2023-12-29",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Navvis%20%26%20Company%2C%20LLC%20-%20Notice%20of%20Data%20Event%20-%20CA_0.pdf"
     },
     {
      "d": "2024-01-09",
@@ -104308,7 +104672,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-29",
-   "dd": "",
+   "dd": "2023-05-23",
    "id": 2770,
    "nd": "2023-12-29",
    "nn": [
@@ -104317,6 +104681,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578568"
+    },
+    {
+     "d": "2023-12-29",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/BHCC%20Individual%20Notification%20Letter_Redacted.pdf"
     }
    ],
    "o": "Bunker Hill Community College",
@@ -104353,6 +104723,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578587"
+    },
+    {
+     "d": "2023-12-29",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/AmWins%20-%20CA%20Exhibit%201_0.pdf"
     }
    ],
    "o": "Amwins Group, Inc.",
@@ -104410,7 +104786,7 @@
    "sec": "healthcare",
    "st": "",
    "t": "data_breach",
-   "v": "unknown",
+   "v": "email_phishing",
    "vl": [],
    "x": "unknown"
   },
@@ -104473,6 +104849,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578522"
+    },
+    {
+     "d": "2023-12-28",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/ELN-18626%20FiServ%20Impacted%20Ind%20Adult%20CM%2024%20Mo%20r3prf.pdf"
     }
    ],
    "o": "Merrick Bank",
@@ -104509,6 +104891,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578536"
+    },
+    {
+     "d": "2023-12-28",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_JG_Final_Redacted.pdf"
     }
    ],
    "o": "Maxco Supply, Inc.",
@@ -104536,7 +104924,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-22",
-   "dd": "",
+   "dd": "2022-12-15",
    "id": 2764,
    "nd": "2023-12-22",
    "nn": [
@@ -104545,6 +104933,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578357"
+    },
+    {
+     "d": "2023-12-22",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/National%20Amusements%2C%20Inc.%20-%20Exhibit%20A.pdf"
     }
    ],
    "o": "National Amusements, Inc.",
@@ -104572,7 +104966,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-22",
-   "dd": "",
+   "dd": "2023-11-19",
    "id": 2763,
    "nd": "2023-12-22",
    "nn": [
@@ -104581,6 +104975,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578365"
+    },
+    {
+     "d": "2023-12-22",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Fred%20Hutch%20-%20California%20Notification.pdf"
     }
    ],
    "o": "Fred Hutchinson Cancer Center",
@@ -104617,6 +105017,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578386"
+    },
+    {
+     "d": "2023-12-22",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/LoanCare_Individual%20Notification%20Sample.pdf"
     }
    ],
    "o": "LoanCare, LLC",
@@ -104644,7 +105050,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-22",
-   "dd": "",
+   "dd": "2022-12-30",
    "id": 2761,
    "nd": "2023-12-22",
    "nn": [
@@ -104653,6 +105059,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578391"
+    },
+    {
+     "d": "2023-12-22",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Sample%20Consumer%20Notice%20Letter%20%28US%29%20-%20Panasonic%20Avionics%20Corporation.pdf"
     }
    ],
    "o": "Panasonic Avionics Corporation",
@@ -104680,7 +105092,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-22",
-   "dd": "",
+   "dd": "2023-09-05",
    "id": 2760,
    "nd": "2023-12-22",
    "nn": [
@@ -104689,6 +105101,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578394"
+    },
+    {
+     "d": "2023-12-22",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Brown%20_%20Streza%20LLP%20-%20Regulatory%20Notification%20Letter%20-%20CA_0_0.pdf"
     }
    ],
    "o": "Brown & Streza LLP",
@@ -104794,7 +105212,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-21",
-   "dd": "",
+   "dd": "2022-01-08",
    "id": 2759,
    "nd": "2023-12-21",
    "nn": [
@@ -104803,6 +105221,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578318"
+    },
+    {
+     "d": "2023-12-21",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Illuminate%20Education%20-%20Notice%20of%20Data%20Event%20-%20CA%20%28Riverside%29_0.pdf"
     }
    ],
    "o": "Illuminate Education, Inc. (on behalf of Riverside Unified School District)",
@@ -104830,7 +105254,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-21",
-   "dd": "",
+   "dd": "2022-01-08",
    "id": 2758,
    "nd": "2023-12-21",
    "nn": [
@@ -104839,6 +105263,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578320"
+    },
+    {
+     "d": "2023-12-21",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Illuminate%20Education%20-%20Notice%20of%20Data%20Event%20-%20CA%20%28Orcutt%29_0.pdf"
     }
    ],
    "o": "Illuminate Education, Inc. (on behalf of Orcutt Union School District)",
@@ -104866,7 +105296,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-21",
-   "dd": "",
+   "dd": "2023-11-04",
    "id": 2757,
    "nd": "2023-12-21",
    "nn": [
@@ -104875,6 +105305,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578321"
+    },
+    {
+     "d": "2023-12-21",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/2023-12-21%20-%20FSH%20Individual%20Notice%20Letters.pdf"
     }
    ],
    "o": "Fresno Surgical Hospital",
@@ -104902,7 +105338,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-21",
-   "dd": "",
+   "dd": "2023-03-13",
    "id": 2756,
    "nd": "2023-12-21",
    "nn": [
@@ -104911,6 +105347,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578336"
+    },
+    {
+     "d": "2023-12-21",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/ELN-19458%20CC%20Dev%20Ad%20CM%2012m%20A%20r3prf.pdf"
     }
    ],
    "o": "Classic Residence Management Limited Partnership d/b/a Vi Living (\"Vi\")",
@@ -104938,7 +105380,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-21",
-   "dd": "",
+   "dd": "2023-11-02",
    "id": 2755,
    "nd": "2023-12-21",
    "nn": [
@@ -104947,6 +105389,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578338"
+    },
+    {
+     "d": "2023-12-21",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/CNSU%20-%20California%20Notification.pdf"
     }
    ],
    "o": "California Northstate University",
@@ -104983,6 +105431,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578341"
+    },
+    {
+     "d": "2023-12-21",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Data%20Breach%20Notification%20Final.pdf"
     }
    ],
    "o": "Fresno Regional Workforce Development Board",
@@ -105019,6 +105473,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578344"
+    },
+    {
+     "d": "2023-12-21",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/The%20Middlefield%20Banking%20Company%20-%20Notice%20of%20Data%20Event%20-%20CA_0.pdf"
     }
    ],
    "o": "The Middlefield Banking Company",
@@ -105055,6 +105515,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578351"
+    },
+    {
+     "d": "2023-12-21",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20Sample%204861-2942-5048%20v1.pdf"
     }
    ],
    "o": "Los Angeles County Department of Mental Health",
@@ -105071,7 +105537,15 @@
    "st": "",
    "t": "data_breach",
    "v": "unknown",
-   "vl": [],
+   "vl": [
+    {
+     "b": "official",
+     "c": "",
+     "p": "Microsoft Office 365",
+     "s": "https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20Sample%204861-2942-5048%20v1.pdf",
+     "v": ""
+    }
+   ],
    "x": "unknown"
   },
   {
@@ -105091,6 +105565,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578282"
+    },
+    {
+     "d": "2023-12-20",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Merced%20City%20School%20District%20-Notice%20of%20Data%20Event%20-%20CA-%20Exhibit%201_Redacted.pdf"
     }
    ],
    "o": "Merced City School District",
@@ -105118,7 +105598,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-20",
-   "dd": "",
+   "dd": "2023-11-02",
    "id": 2750,
    "nd": "2023-12-20",
    "nn": [
@@ -105127,6 +105607,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578304"
+    },
+    {
+     "d": "2023-12-20",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Recology%20-%20Notification%20Letter%20Proof%2892695379.1%29.pdf"
     }
    ],
    "o": "Recology Inc.",
@@ -105163,6 +105649,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578123"
+    },
+    {
+     "d": "2023-12-19",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Los%20Altos%20-%20Draft%20Notification%20Letter%20-%20Language%20Combined.pdf"
     }
    ],
    "o": "Los Altos Food Products, LLC",
@@ -105190,7 +105682,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-19",
-   "dd": "",
+   "dd": "2023-09-28",
    "id": 2748,
    "nd": "2023-12-19",
    "nn": [
@@ -105199,6 +105691,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578125"
+    },
+    {
+     "d": "2023-12-19",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/California%20AG%20Notification%20%28Final%29%2812.18.2023%29_1.pdf"
     },
     {
      "d": "2023-12-20",
@@ -105238,7 +105736,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-19",
-   "dd": "",
+   "dd": "2023-10-04",
    "id": 2747,
    "nd": "2023-12-19",
    "nn": [
@@ -105247,6 +105745,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578132"
+    },
+    {
+     "d": "2023-12-19",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Sample%20TTM%20Notification.pdf"
     }
    ],
    "o": "TTM Technologies",
@@ -105274,7 +105778,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-19",
-   "dd": "",
+   "dd": "2023-06-24",
    "id": 2746,
    "nd": "2023-12-19",
    "nn": [
@@ -105283,6 +105787,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578164"
+    },
+    {
+     "d": "2023-12-19",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Kimco%20Staffing%20-%20Notice%20of%20Data%20Event%20-%20CA_0.pdf"
     }
    ],
    "o": "Kimco Staffing Services Inc.",
@@ -105310,7 +105820,7 @@
    ],
    "cl": "unchecked",
    "d": "2023-12-19",
-   "dd": "",
+   "dd": "2023-11-10",
    "id": 2745,
    "nd": "2023-12-19",
    "nn": [
@@ -105319,6 +105829,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578193"
+    },
+    {
+     "d": "2023-12-19",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Glendale%20Community%20College%20-%201%20YR%20CM%20Employee%20Notice%20Letter%20V2___Static_Proof_R1.pdf"
     }
    ],
    "o": "Glendale Community College",
@@ -105355,6 +105871,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578075"
+    },
+    {
+     "d": "2023-12-18",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/E9%20EXPERIAN_K5080_ZOLL_MEDICAL_CORPORATION_L13E9_SAS_1_Redacted.pdf"
     }
    ],
    "o": "ZOLL Medical Corporation",
@@ -105391,6 +105913,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578091"
+    },
+    {
+     "d": "2023-12-18",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Copy%20of%20Customer%20Notice.pdf"
     }
    ],
    "o": "Comcast Cable Communications LLC",
@@ -105427,6 +105955,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578093"
+    },
+    {
+     "d": "2023-12-18",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/DB08174-ILS-letter-Individual-V4-ILSonly_masked_0.pdf"
     }
    ],
    "o": "Health Net Community Solutions",
@@ -105523,6 +106057,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578019"
+    },
+    {
+     "d": "2023-12-15",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/ELN-19965_Flagstar_3_Ad_CM_2Y_FIS_CA_r4prf.PDF"
     }
    ],
    "o": "Flagstar Bank, N.A.",
@@ -105559,6 +106099,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578028"
+    },
+    {
+     "d": "2023-12-15",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Mr.%20Cooper%20Individual%20Notice%20-%20Proof%20-%20Redacted.pdf"
     }
    ],
    "o": "Nationstar Mortgage LLC (dba Mr. Cooper)",
@@ -105595,6 +106141,12 @@
      "k": "ca",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578039"
+    },
+    {
+     "d": "2023-12-15",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/ELN-19645%20Kirkland%20Mi%201y%20r2prf_0.pdf"
     }
    ],
    "o": "Kirkland & Ellis LLP on behalf of the Riverside County Office Of Education",
@@ -105611,7 +106163,15 @@
    "st": "",
    "t": "data_breach",
    "v": "unknown",
-   "vl": [],
+   "vl": [
+    {
+     "b": "official",
+     "c": "",
+     "p": "MOVEit Transfer",
+     "s": "https://oag.ca.gov/system/files/ELN-19645%20Kirkland%20Mi%201y%20r2prf_0.pdf",
+     "v": ""
+    }
+   ],
    "x": "unknown"
   },
   {
@@ -109838,17 +110398,17 @@
   {
    "hhs": 0,
    "m": "2026-11",
-   "n": 47,
+   "n": 56,
    "pc": {
     "hhs": 0,
-    "press": 11,
+    "press": 13,
     "sec8k": 0,
-    "stateag": 36
+    "stateag": 43
    },
-   "press": 14,
+   "press": 16,
    "ransomware": 3,
    "sec8k": 0,
-   "stateag": 36
+   "stateag": 43
   }
  ],
  "playbooks": {
@@ -109951,65 +110511,65 @@
    },
    "both": 4,
    "ch": {
-    "ca": 67,
+    "ca": 73,
     "hhs": 0,
     "me": 0,
-    "press": 27,
+    "press": 29,
     "sec8k": 0,
-    "stateag": 67
+    "stateag": 73
    },
    "claim": 5,
-   "claim_checked": 90,
+   "claim_checked": 98,
    "ext_no": 3,
-   "ext_unknown": 78,
+   "ext_unknown": 86,
    "ext_yes": 9,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 35,
+      "known": 38,
       "median": 78,
-      "p90": 297
+      "p90": 293
      }
     },
     "hist": {
      "31_60": 9,
-     "61_90": 6,
-     "8_30": 4,
-     "91_180": 4,
+     "61_90": 7,
+     "8_30": 5,
+     "91_180": 5,
      "gt180": 12,
      "lt8": 0
     },
-    "known": 35,
+    "known": 38,
     "median": 78,
-    "p90": 297
+    "p90": 293
    },
-   "n": 90,
-   "official_only": 63,
-   "press_only": 23,
-   "prev": 114,
-   "route_unknown": 62,
+   "n": 98,
+   "official_only": 69,
+   "press_only": 25,
+   "prev": 106,
+   "route_unknown": 69,
    "routes": {
     "credential": 5,
-    "email_phishing": 9,
+    "email_phishing": 10,
     "misdirected": 3,
     "third_party": 7,
-    "unknown": 62,
+    "unknown": 69,
     "webapp_vuln": 4
    },
    "sectors": {
     "education": 11,
     "finance": 5,
     "government": 3,
-    "healthcare": 20,
-    "manufacturing": 1,
-    "other": 30,
+    "healthcare": 26,
+    "manufacturing": 4,
+    "other": 28,
     "professional_services": 7,
-    "retail": 1,
+    "retail": 2,
     "technology": 12
    },
    "types": {
-    "bec": 3,
-    "data_breach": 78,
+    "bec": 4,
+    "data_breach": 85,
     "ransomware": 9
    },
    "vuln": 3,
@@ -110039,43 +110599,43 @@
      "p": "Patches"
     }
    ],
-   "yoy": 57
+   "yoy": 58
   },
   "365": {
    "affected": {
     "buckets": {
      "100k": 39,
-     "10k": 138,
+     "10k": 137,
      "1k": 192,
      "1m": 16,
      "lt1k": 118
     },
-    "known": 503,
+    "known": 502,
     "max": 15000000,
-    "median": 5207,
-    "p90": 117516,
-    "sum": 82204345
+    "median": 5200,
+    "p90": 118040,
+    "sum": 82178561
    },
    "both": 7,
    "ch": {
-    "ca": 576,
-    "hhs": 503,
+    "ca": 583,
+    "hhs": 502,
     "me": 0,
-    "press": 33,
+    "press": 35,
     "sec8k": 20,
-    "stateag": 576
+    "stateag": 583
    },
    "claim": 6,
-   "claim_checked": 310,
+   "claim_checked": 319,
    "ext_no": 36,
-   "ext_unknown": 982,
+   "ext_unknown": 990,
    "ext_yes": 51,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 294,
+      "known": 297,
       "median": 106,
-      "p90": 354
+      "p90": 351
      },
      "hhs": {
       "known": 40,
@@ -110090,48 +110650,48 @@
     },
     "hist": {
      "31_60": 59,
-     "61_90": 41,
-     "8_30": 29,
-     "91_180": 65,
+     "61_90": 42,
+     "8_30": 30,
+     "91_180": 66,
      "gt180": 96,
      "lt8": 4
     },
-    "known": 294,
+    "known": 297,
     "median": 106,
-    "p90": 354
+    "p90": 351
    },
-   "n": 1069,
-   "official_only": 1036,
-   "press_only": 26,
-   "prev": 770,
-   "route_unknown": 795,
+   "n": 1077,
+   "official_only": 1042,
+   "press_only": 28,
+   "prev": 771,
+   "route_unknown": 802,
    "routes": {
     "cloud_misconfig": 3,
     "credential": 21,
     "device": 1,
-    "email_phishing": 139,
+    "email_phishing": 140,
     "insider": 9,
     "misdirected": 23,
     "physical": 3,
     "third_party": 48,
-    "unknown": 795,
+    "unknown": 802,
     "webapp_vuln": 27
    },
    "sectors": {
-    "education": 40,
-    "finance": 73,
+    "education": 41,
+    "finance": 77,
     "government": 18,
-    "healthcare": 617,
-    "manufacturing": 15,
-    "other": 184,
-    "professional_services": 63,
-    "retail": 16,
-    "technology": 43
+    "healthcare": 623,
+    "manufacturing": 18,
+    "other": 165,
+    "professional_services": 64,
+    "retail": 21,
+    "technology": 50
    },
    "types": {
-    "bec": 3,
-    "data_breach": 562,
-    "intrusion": 485,
+    "bec": 4,
+    "data_breach": 570,
+    "intrusion": 484,
     "ransomware": 19
    },
    "vuln": 16,
@@ -110197,7 +110757,7 @@
      "p": "Oracle E-Business Suite (EBS)"
     }
    ],
-   "yoy": 770
+   "yoy": 771
   },
   "7": {
    "affected": {
@@ -110216,107 +110776,101 @@
    },
    "both": 1,
    "ch": {
-    "ca": 13,
+    "ca": 18,
     "hhs": 0,
     "me": 0,
-    "press": 5,
+    "press": 6,
     "sec8k": 0,
-    "stateag": 13
+    "stateag": 18
    },
    "claim": 2,
-   "claim_checked": 17,
+   "claim_checked": 23,
    "ext_no": 0,
-   "ext_unknown": 17,
+   "ext_unknown": 23,
    "ext_yes": 0,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 6,
-      "median": 296,
-      "p90": 453
+      "known": 9,
+      "median": 266,
+      "p90": 422
      }
     },
     "hist": {
      "31_60": 0,
-     "61_90": 0,
-     "8_30": 1,
-     "91_180": 0,
+     "61_90": 1,
+     "8_30": 2,
+     "91_180": 1,
      "gt180": 5,
      "lt8": 0
     },
-    "known": 6,
-    "median": 296,
-    "p90": 453
+    "known": 9,
+    "median": 266,
+    "p90": 422
    },
-   "n": 17,
-   "official_only": 12,
-   "press_only": 4,
-   "prev": 23,
-   "route_unknown": 10,
+   "n": 23,
+   "official_only": 17,
+   "press_only": 5,
+   "prev": 21,
+   "route_unknown": 17,
    "routes": {
     "email_phishing": 5,
-    "third_party": 2,
-    "unknown": 10
+    "third_party": 1,
+    "unknown": 17
    },
    "sectors": {
     "education": 2,
     "finance": 1,
-    "healthcare": 4,
-    "other": 4,
+    "healthcare": 8,
+    "manufacturing": 2,
+    "other": 5,
     "professional_services": 2,
-    "technology": 4
+    "technology": 3
    },
    "types": {
     "bec": 2,
-    "data_breach": 14,
+    "data_breach": 20,
     "ransomware": 1
    },
-   "vuln": 1,
-   "vulns_top": [
-    {
-     "c": "",
-     "kev": false,
-     "n": 1,
-     "p": "Patches"
-    }
-   ],
-   "yoy": 11
+   "vuln": 0,
+   "vulns_top": [],
+   "yoy": 10
   },
   "90": {
    "affected": {
     "buckets": {
      "100k": 10,
      "10k": 22,
-     "1k": 36,
+     "1k": 35,
      "1m": 2,
      "lt1k": 38
     },
-    "known": 108,
+    "known": 107,
     "max": 8179772,
-    "median": 2906,
-    "p90": 129940,
-    "sum": 13811109
+    "median": 2753,
+    "p90": 131188,
+    "sum": 13806460
    },
    "both": 7,
    "ch": {
-    "ca": 167,
-    "hhs": 108,
+    "ca": 173,
+    "hhs": 107,
     "me": 0,
-    "press": 33,
+    "press": 35,
     "sec8k": 4,
-    "stateag": 167
+    "stateag": 173
    },
    "claim": 6,
-   "claim_checked": 296,
+   "claim_checked": 303,
    "ext_no": 13,
-   "ext_unknown": 263,
+   "ext_unknown": 270,
    "ext_yes": 20,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 85,
+      "known": 87,
       "median": 92,
-      "p90": 389
+      "p90": 382
      },
      "hhs": {
       "known": 6,
@@ -110326,46 +110880,46 @@
     },
     "hist": {
      "31_60": 19,
-     "61_90": 11,
+     "61_90": 12,
      "8_30": 12,
-     "91_180": 12,
+     "91_180": 13,
      "gt180": 31,
      "lt8": 0
     },
-    "known": 85,
+    "known": 87,
     "median": 92,
-    "p90": 389
+    "p90": 382
    },
-   "n": 296,
-   "official_only": 263,
-   "press_only": 26,
-   "prev": 277,
-   "route_unknown": 213,
+   "n": 303,
+   "official_only": 268,
+   "press_only": 28,
+   "prev": 275,
+   "route_unknown": 220,
    "routes": {
     "credential": 9,
-    "email_phishing": 33,
+    "email_phishing": 34,
     "insider": 1,
     "misdirected": 11,
     "physical": 1,
-    "third_party": 17,
-    "unknown": 213,
+    "third_party": 16,
+    "unknown": 220,
     "webapp_vuln": 11
    },
    "sectors": {
     "education": 21,
-    "finance": 16,
+    "finance": 17,
     "government": 6,
-    "healthcare": 150,
-    "manufacturing": 2,
-    "other": 61,
+    "healthcare": 154,
+    "manufacturing": 5,
+    "other": 57,
     "professional_services": 23,
-    "retail": 3,
-    "technology": 14
+    "retail": 5,
+    "technology": 15
    },
    "types": {
-    "bec": 3,
-    "data_breach": 183,
-    "intrusion": 100,
+    "bec": 4,
+    "data_breach": 190,
+    "intrusion": 99,
     "ransomware": 10
    },
    "vuln": 7,
@@ -110407,7 +110961,7 @@
      "p": "Patches"
     }
    ],
-   "yoy": 210
+   "yoy": 207
   },
   "all": {
    "affected": {
@@ -110426,24 +110980,24 @@
    },
    "both": 7,
    "ch": {
-    "ca": 1706,
+    "ca": 1713,
     "hhs": 811,
     "me": 0,
-    "press": 33,
+    "press": 35,
     "sec8k": 63,
-    "stateag": 1706
+    "stateag": 1713
    },
    "claim": 6,
-   "claim_checked": 310,
-   "ext_no": 84,
-   "ext_unknown": 2317,
-   "ext_yes": 126,
+   "claim_checked": 319,
+   "ext_no": 85,
+   "ext_unknown": 2321,
+   "ext_yes": 130,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 847,
+      "known": 866,
       "median": 122,
-      "p90": 348
+      "p90": 352
      },
      "hhs": {
       "known": 51,
@@ -110457,52 +111011,52 @@
      }
     },
     "hist": {
-     "31_60": 146,
-     "61_90": 98,
-     "8_30": 70,
-     "91_180": 224,
-     "gt180": 300,
+     "31_60": 151,
+     "61_90": 101,
+     "8_30": 71,
+     "91_180": 228,
+     "gt180": 306,
      "lt8": 9
     },
-    "known": 847,
+    "known": 866,
     "median": 122,
-    "p90": 348
+    "p90": 352
    },
-   "n": 2527,
-   "official_only": 2494,
-   "press_only": 26,
+   "n": 2536,
+   "official_only": 2501,
+   "press_only": 28,
    "prev": null,
-   "route_unknown": 1936,
+   "route_unknown": 1933,
    "routes": {
-    "cloud_misconfig": 7,
-    "credential": 65,
+    "cloud_misconfig": 8,
+    "credential": 66,
     "device": 8,
-    "email_phishing": 273,
-    "insider": 18,
+    "email_phishing": 277,
+    "insider": 19,
     "misdirected": 51,
     "physical": 7,
-    "third_party": 108,
-    "unknown": 1936,
-    "webapp_vuln": 54
+    "third_party": 111,
+    "unknown": 1933,
+    "webapp_vuln": 56
    },
    "sectors": {
-    "education": 124,
-    "finance": 249,
-    "government": 52,
-    "healthcare": 1149,
-    "manufacturing": 41,
-    "other": 569,
-    "professional_services": 167,
-    "retail": 58,
-    "technology": 118
+    "education": 125,
+    "finance": 258,
+    "government": 53,
+    "healthcare": 1167,
+    "manufacturing": 47,
+    "other": 521,
+    "professional_services": 169,
+    "retail": 64,
+    "technology": 132
    },
    "types": {
-    "bec": 3,
-    "data_breach": 1645,
+    "bec": 4,
+    "data_breach": 1647,
     "intrusion": 797,
-    "ransomware": 82
+    "ransomware": 88
    },
-   "vuln": 42,
+   "vuln": 44,
    "vulns_top": [
     {
      "c": "",
@@ -110513,7 +111067,7 @@
     {
      "c": "",
      "kev": false,
-     "n": 6,
+     "n": 7,
      "p": "MOVEit Transfer"
     },
     {
@@ -110526,13 +111080,13 @@
      "c": "",
      "kev": false,
      "n": 3,
-     "p": "Oracle E-Business Suite"
+     "p": "Microsoft Office 365"
     },
     {
      "c": "",
      "kev": false,
-     "n": 2,
-     "p": "Microsoft Office 365"
+     "n": 3,
+     "p": "Oracle E-Business Suite"
     },
     {
      "c": "",

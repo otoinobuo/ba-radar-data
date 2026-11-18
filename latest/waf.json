@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-17",
+ "asof": "2026-11-18",
  "coverage": {
   "any": 17,
-  "kev90": 110,
+  "kev90": 109,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -16,6 +16,23 @@
   "radar_obs": 11,
   "radar_only": 9,
   "rows": [
+   {
+    "added": "2026-11-17",
+    "c": "CVE-2026-115731",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Perforce Puppet Enterprise",
+    "src": "kev"
+   },
    {
     "added": "2026-11-13",
     "c": "CVE-2026-123039",
@@ -1953,40 +1970,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-20",
-    "c": "CVE-2026-72530",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "TrueConf Server",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-20",
-    "c": "CVE-2026-72529",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "TrueConf Server",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-72898",
     "cov": {
@@ -2186,12 +2169,12 @@
     "src": "radar"
    }
   ],
-  "targets": 119
+  "targets": 118
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-17T01:30:14Z",
+ "generated": "2026-11-18T01:30:14Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2325,13 +2308,52 @@
   }
  ],
  "totals": {
-  "items_all": 365,
-  "n30": 39,
-  "n90": 77,
+  "items_all": 369,
+  "n30": 41,
+  "n90": 80,
   "since": "2022-02-01",
   "vendors30": 6
  },
  "updates": [
+  {
+   "cve": [],
+   "d": "2026-11-17",
+   "k": "rules_update",
+   "t": "AWS WAF Bot Control rule group: Released static version 2.1 of this rule group. Updated the default version to use version 2.1.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-17-021fb78058",
+   "v": "aws",
+   "ver": "2.1"
+  },
+  {
+   "cve": [],
+   "d": "2026-11-17",
+   "k": "rules_update",
+   "t": "AWS WAF Bot Control rule group: Released static version 8.0 of this rule group. Increased the WCU of the rule group from 100 to 120. This static version doesn't change the ",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-17-54285244ba",
+   "v": "aws",
+   "ver": "8.0"
+  },
+  {
+   "cve": [],
+   "d": "2026-11-17",
+   "k": "rules_update",
+   "t": "Windows operating system managed rule group: Released static version 2.6 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-17-12a641db6b",
+   "v": "aws",
+   "ver": "2.6"
+  },
+  {
+   "cve": [
+    "CVE-2026-119618",
+    "CVE-2026-114938"
+   ],
+   "d": "2026-11-17",
+   "k": "rules_update",
+   "t": "Known bad inputs managed rule group : Released static versions 1.27 and 1.28 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-17-0309f2bcda",
+   "v": "aws",
+   "ver": "1.27"
+  },
   {
    "cve": [],
    "d": "2026-11-16",
@@ -3115,15 +3137,6 @@
    "u": "https://azure.microsoft.com/updates?id=569504",
    "v": "azure",
    "ver": ""
-  },
-  {
-   "cve": [],
-   "d": "2026-08-20",
-   "k": "release",
-   "t": "WAF - Leaked credentials detection now scans Authorization headers",
-   "u": "https://developers.cloudflare.com/changelog/post/2026-08-20-leaked-credentials-authorization-header/",
-   "v": "cloudflare",
-   "ver": ""
   }
  ],
  "vendor_table": [
@@ -3137,8 +3150,8 @@
    "last": "2026-11-12",
    "lt": "WAF - Payload logging for WAF custom rules",
    "lu": "https://developers.cloudflare.com/changelog/post/2026-11-12-custom-rules-payload-logging/",
-   "n30": 19,
-   "n90": 38,
+   "n30": 18,
+   "n90": 37,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": ""
@@ -3148,14 +3161,14 @@
    "k": [
     "rules_update"
    ],
-   "last": "2026-11-04",
-   "lt": "POSIX operating system managed rule group: Released static version 3.3 of this rule group.",
-   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-04-803f16ca3d",
-   "n30": 4,
-   "n90": 7,
+   "last": "2026-11-17",
+   "lt": "AWS WAF Bot Control rule group: Released static version 2.1 of this rule group. Updated the default version to use version 2.1.",
+   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-17-021fb78058",
+   "n30": 8,
+   "n90": 11,
    "name": "AWS WAF",
    "v": "aws",
-   "ver": "3.3"
+   "ver": "2.1"
   },
   {
    "gap": 46,
@@ -3179,7 +3192,7 @@
    "last": "2026-11-16",
    "lt": "Cloud Armor release notes: November 16, 2026",
    "lu": "https://docs.cloud.google.com/armor/docs/release-notes#November_16_2026",
-   "n30": 3,
+   "n30": 2,
    "n90": 6,
    "name": "Google Cloud Armor",
    "v": "gcp",
