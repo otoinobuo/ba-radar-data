@@ -1,13 +1,14 @@
 {
  "asof": "2026-11-19",
  "coverage": {
-  "any": 17,
+  "any": 23,
   "kev90": 112,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
    "azure": 0,
    "cloudflare": 16,
+   "crowdsec": 14,
    "crs": 1,
    "gcp": 1,
    "imperva": 5,
@@ -24,6 +25,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -41,6 +43,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -58,6 +61,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -75,6 +79,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -92,6 +97,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -109,6 +115,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -126,6 +133,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -143,6 +151,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -160,6 +169,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -177,6 +187,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -194,6 +205,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -211,6 +223,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -228,6 +241,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -245,6 +259,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -262,6 +277,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -279,6 +295,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -296,6 +313,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -313,6 +331,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -330,6 +349,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -347,6 +367,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -368,6 +389,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -387,6 +409,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -406,6 +429,11 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": {
+      "d": "2026-11-04",
+      "t": "WAF rules - 2026-11-04 (#1982)",
+      "u": "https://github.com/crowdsecurity/hub/commit/5b7360c16c0bf49b494dc25aa3337d1c44031467"
+     },
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -423,6 +451,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -440,6 +469,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -457,6 +487,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -474,6 +505,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -494,6 +526,11 @@
       "d": "2026-10-25",
       "t": "WAF - WAF Release - 2026-10-25 - Emergency - Cloudflare Managed Ruleset",
       "u": "https://developers.cloudflare.com/changelog/post/2026-10-25-emergency-waf-release/"
+     },
+     "crowdsec": {
+      "d": "2026-10-29",
+      "t": "CVE-2026-111497: opt-in rule blocking Brotli-encoded request bodies (#1971)",
+      "u": "https://github.com/crowdsecurity/hub/commit/cf1cab8471558025811927c4cc57be395d9ec387"
      },
      "crs": null,
      "gcp": null,
@@ -528,6 +565,11 @@
       "t": "Cloudflare deploys protections against php2shell vulnerability",
       "u": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
      },
+     "crowdsec": {
+      "d": "2026-10-21",
+      "t": "update rules for CVE-2026-109618 and CVE-2026-109619 (#1957)",
+      "u": "https://github.com/crowdsecurity/hub/commit/e9ff3f68bbf6b3cc18e1c3de53a78b69dc68c082"
+     },
      "crs": null,
      "gcp": null,
      "imperva": {
@@ -561,6 +603,11 @@
       "t": "Cloudflare deploys protections against php2shell vulnerability",
       "u": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
      },
+     "crowdsec": {
+      "d": "2026-10-21",
+      "t": "**tentative vpatch** CVE-2026-109618/109619 (#1953)",
+      "u": "https://github.com/crowdsecurity/hub/commit/8b378b91f519cf4e5793e5368b94104afd2609e0"
+     },
      "crs": null,
      "gcp": null,
      "imperva": {
@@ -586,6 +633,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -603,6 +651,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -620,6 +669,11 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": {
+      "d": "2026-10-28",
+      "t": "add plex2shell virtual patching rules (#1968)",
+      "u": "https://github.com/crowdsecurity/hub/commit/774aba8d68d3640f333c0057507be528ec2651d5"
+     },
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -637,6 +691,11 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": {
+      "d": "2026-10-28",
+      "t": "add plex2shell virtual patching rules (#1968)",
+      "u": "https://github.com/crowdsecurity/hub/commit/774aba8d68d3640f333c0057507be528ec2651d5"
+     },
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -654,6 +713,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -671,6 +731,11 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": {
+      "d": "2026-10-28",
+      "t": "add plex2shell virtual patching rules (#1968)",
+      "u": "https://github.com/crowdsecurity/hub/commit/774aba8d68d3640f333c0057507be528ec2651d5"
+     },
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -688,6 +753,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -705,6 +771,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -722,6 +789,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -739,6 +807,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -759,6 +828,11 @@
       "d": "2026-10-12",
       "t": "WAF - WAF Release - 2026-10-12",
       "u": "https://developers.cloudflare.com/changelog/post/2026-10-12-waf-release/"
+     },
+     "crowdsec": {
+      "d": "2026-10-07",
+      "t": "Add new vpatch WAF rules (#1922)",
+      "u": "https://github.com/crowdsecurity/hub/commit/1d30a35efe224f294d94434cefb8b502adfabf29"
      },
      "crs": null,
      "gcp": null,
@@ -781,6 +855,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -798,6 +873,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -815,6 +891,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -832,6 +909,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -849,6 +927,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -866,6 +945,11 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": {
+      "d": "2026-10-21",
+      "t": "sync hub-dev (#1954)",
+      "u": "https://github.com/crowdsecurity/hub/commit/e3e137e2e586bf159feede56da5b31fcc2d3c3a5"
+     },
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -883,6 +967,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -900,6 +985,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -917,6 +1003,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -934,6 +1021,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -951,6 +1039,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -968,6 +1057,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -985,6 +1075,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1002,6 +1093,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1019,6 +1111,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1036,6 +1129,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1053,6 +1147,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1074,6 +1169,7 @@
       "t": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
       "u": "https://blog.cloudflare.com/protect-your-netscaler-gateway/"
      },
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1095,6 +1191,7 @@
       "t": "WAF - WAF Release - 2026-10-01 - Emergency",
       "u": "https://developers.cloudflare.com/changelog/post/2026-10-01-emergency-waf-release/"
      },
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1116,6 +1213,11 @@
       "t": "WAF - WAF Release - 2026-09-25 - Emergency",
       "u": "https://developers.cloudflare.com/changelog/post/2026-09-25-emergency-waf-release/"
      },
+     "crowdsec": {
+      "d": "2026-09-23",
+      "t": "CVE-2026-87902 (#1904)",
+      "u": "https://github.com/crowdsecurity/hub/commit/bc436a0970c672b2d6707be43a8566d1364ce7d4"
+     },
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1133,6 +1235,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1150,6 +1253,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1167,6 +1271,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1184,6 +1289,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1205,6 +1311,7 @@
       "t": "WAF - WAF Release - 2026-10-06",
       "u": "https://developers.cloudflare.com/changelog/post/2026-10-06-waf-release/"
      },
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1222,6 +1329,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1239,6 +1347,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1256,6 +1365,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1273,6 +1383,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1290,6 +1401,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1307,6 +1419,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1324,6 +1437,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1341,6 +1455,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1358,6 +1473,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1375,6 +1491,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1392,6 +1509,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1413,6 +1531,11 @@
       "t": "WAF - WAF Release - 2026-09-30",
       "u": "https://developers.cloudflare.com/changelog/post/2026-09-30-waf-release/"
      },
+     "crowdsec": {
+      "d": "2026-09-28",
+      "t": "CVE-2026-85706 (#1907)",
+      "u": "https://github.com/crowdsecurity/hub/commit/09e9315bdeff79663208929ccf124e457a5edea4"
+     },
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1430,6 +1553,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1451,6 +1575,7 @@
       "t": "WAF - WAF Release - 2026-09-25 - Emergency",
       "u": "https://developers.cloudflare.com/changelog/post/2026-09-25-emergency-waf-release/"
      },
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1468,6 +1593,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1485,6 +1611,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1502,6 +1629,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1519,6 +1647,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1540,6 +1669,7 @@
       "t": "WAF - WAF Release - 2026-04-15",
       "u": "https://developers.cloudflare.com/changelog/post/2026-04-15-waf-release/"
      },
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1557,6 +1687,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1574,6 +1705,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1591,6 +1723,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1608,6 +1741,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1625,6 +1759,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1645,6 +1780,11 @@
       "d": "2026-09-10",
       "t": "WAF - WAF Release - 2026-09-10 - Emergency",
       "u": "https://developers.cloudflare.com/changelog/post/2026-09-10-emergency-waf-release/"
+     },
+     "crowdsec": {
+      "d": "2026-09-09",
+      "t": "add vpatch rule for CVE-2026-75650 (#1884)",
+      "u": "https://github.com/crowdsecurity/hub/commit/e4d56fffeb12565f1a7dc0aaac74301bf74111cb"
      },
      "crs": null,
      "gcp": null,
@@ -1667,6 +1807,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1684,6 +1825,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1701,6 +1843,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1718,6 +1861,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1739,6 +1883,7 @@
       "t": "WAF - WAF Release - 2026-09-25 - Emergency",
       "u": "https://developers.cloudflare.com/changelog/post/2026-09-25-emergency-waf-release/"
      },
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1756,6 +1901,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1773,6 +1919,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1790,6 +1937,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1807,6 +1955,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1824,6 +1973,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1841,6 +1991,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1858,6 +2009,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1875,6 +2027,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1892,6 +2045,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1909,6 +2063,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1926,6 +2081,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1943,6 +2099,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1960,6 +2117,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1977,6 +2135,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -1994,6 +2153,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -2011,6 +2171,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -2028,6 +2189,11 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": {
+      "d": "2026-08-12",
+      "t": "CVE-2026-72898 (#1860)",
+      "u": "https://github.com/crowdsecurity/hub/commit/92931bffb2bc9019c6c85146d6e3bb86d124ff50"
+     },
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -2050,6 +2216,11 @@
       "d": "2026-07-21",
       "t": "WAF - WAF Release - 2026-07-21",
       "u": "https://developers.cloudflare.com/changelog/post/2026-07-21-waf-release/"
+     },
+     "crowdsec": {
+      "d": "2026-07-20",
+      "t": "WAF rule for CVE-2026-63030 (#1846)",
+      "u": "https://github.com/crowdsecurity/hub/commit/e35d3af00b1da926245381ce3ac340e92202f878"
      },
      "crs": null,
      "gcp": null,
@@ -2078,6 +2249,7 @@
       "t": "WAF - WAF Release - 2026-07-21",
       "u": "https://developers.cloudflare.com/changelog/post/2026-07-21-waf-release/"
      },
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -2101,6 +2273,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -2124,6 +2297,7 @@
       "t": "WAF - WAF Release - 2025-12-03 - Emergency",
       "u": "https://developers.cloudflare.com/changelog/post/2025-12-03-emergency-waf-release/"
      },
+     "crowdsec": null,
      "crs": {
       "d": "2026-01-05",
       "t": "v4.22.0",
@@ -2151,6 +2325,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -2170,6 +2345,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -2189,6 +2365,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -2208,6 +2385,7 @@
      "aws": null,
      "azure": null,
      "cloudflare": null,
+     "crowdsec": null,
      "crs": null,
      "gcp": null,
      "imperva": null,
@@ -2223,9 +2401,9 @@
   "targets": 121
  },
  "edition": "waf",
- "feeds_n": 10,
- "feeds_ok": 10,
- "generated": "2026-11-19T01:30:16Z",
+ "feeds_n": 11,
+ "feeds_ok": 11,
+ "generated": "2026-11-19T12:02:34Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2233,8 +2411,8 @@
   "inclusion_ja": "更新は、各社が公開した日付と文言のまま載せる。書き換えも採点もしない。CVE ID は、各社の本文に逐語で現れるものだけを取る。",
   "limits": "Vendors differ in how much they publish: Cloudflare names CVEs in nearly every release, AWS and Google rarely do, and some vendors (Fastly, F5, Trend Micro) publish nothing readable without a login. Counts compare how often vendors publish, not how well they protect. Blog posts and advisories describe a protection that may predate or follow the date shown.",
   "limits_ja": "公開の量は各社で違う。Cloudflare はほぼ毎回 CVE を名指しし、AWS と Google はまれにしか名指ししない。Fastly・F5・Trend Micro のようにログインなしでは読める情報が無い社もある。件数は公開の頻度の比較であって、防御の優劣ではない。ブログや注意喚起が述べる防御は、表示の日付より前または後のことがある。",
-  "sources": "Vendors' own public pages are read once a day (feeds where they exist, otherwise the page itself): the Cloudflare WAF change log, the AWS Managed Rules changelog, OWASP CRS releases, Google Cloud Armor release notes, Azure service updates that name WAF, the Akamai Application Security changelog, WafCharm vulnerability advisories, and Imperva and Cloudflare blog posts that name a CVE ID. Requests identify themselves, wait at least a second per host and follow robots.txt.",
-  "sources_ja": "各社が自ら公開しているページを日に 1 回読む(フィードがあればフィード、なければ頁そのもの)。Cloudflare の WAF 変更履歴、AWS Managed Rules の変更履歴、OWASP CRS のリリース、Google Cloud Armor のリリースノート、WAF に触れる Azure のサービス更新、Akamai Application Security の変更履歴、WafCharm の脆弱性注意喚起、CVE ID を挙げる Imperva と Cloudflare のブログ。取得は識別子つきで、1 ホスト 1 秒以上あけ、robots.txt に従う。"
+  "sources": "Vendors' own public pages are read once a day (feeds where they exist, otherwise the page itself): the Cloudflare WAF change log, the AWS Managed Rules changelog, OWASP CRS releases, Google Cloud Armor release notes, Azure service updates that name WAF, the Akamai Application Security changelog, WafCharm vulnerability advisories, the CrowdSec Hub WAF rule history, and Imperva and Cloudflare blog posts that name a CVE ID. Requests identify themselves, wait at least a second per host and follow robots.txt.",
+  "sources_ja": "各社が自ら公開しているページを日に 1 回読む(フィードがあればフィード、なければ頁そのもの)。Cloudflare の WAF 変更履歴、AWS Managed Rules の変更履歴、OWASP CRS のリリース、Google Cloud Armor のリリースノート、WAF に触れる Azure のサービス更新、Akamai Application Security の変更履歴、WafCharm の脆弱性注意喚起、CrowdSec Hub の WAF ルールの変更履歴、CVE ID を挙げる Imperva と Cloudflare のブログ。取得は識別子つきで、1 ホスト 1 秒以上あけ、robots.txt に従う。"
  },
  "sources": [
   {
@@ -2318,6 +2496,16 @@
    "v": "wafcharm"
   },
   {
+   "how": "GitHub commits API (unauthenticated)",
+   "how_ja": "GitHub commits API(認証なし)",
+   "name": "CrowdSec Hub WAF rules (appsec-rules)",
+   "note": "Open-source virtual-patching rules; CVE IDs come from the rule file names.",
+   "note_ja": "オープンソースの仮想パッチルール。CVE ID はルールのファイル名から取る。",
+   "ok": true,
+   "url": "https://github.com/crowdsecurity/hub/tree/master/appsec-rules/crowdsecurity",
+   "v": "crowdsec"
+  },
+  {
    "how": "JSON catalogue",
    "how_ja": "JSON カタログ",
    "name": "CISA Known Exploited Vulnerabilities",
@@ -2359,13 +2547,35 @@
   }
  ],
  "totals": {
-  "items_all": 375,
-  "n30": 46,
-  "n90": 86,
+  "items_all": 406,
+  "n30": 58,
+  "n90": 105,
   "since": "2022-02-01",
-  "vendors30": 6
+  "vendors30": 7
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-114938"
+   ],
+   "d": "2026-11-19",
+   "k": "cve_coverage",
+   "t": "Javaの脆弱性「Java4Shell」（CVE-2026-114938）の注意喚起および、WafCharmでの対応に関して",
+   "u": "https://www.wafcharm.com/jp/news/20261119/",
+   "v": "wafcharm",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-114938"
+   ],
+   "d": "2026-11-18",
+   "k": "rules_update",
+   "t": "java4shell - CVE-2026-114938 (#2016)",
+   "u": "https://github.com/crowdsecurity/hub/commit/8529847463e34789e8e2a3890d2092504b2de1df",
+   "v": "crowdsec",
+   "ver": ""
+  },
   {
    "cve": [
     "CVE-2026-114938"
@@ -2478,6 +2688,17 @@
    "ver": ""
   },
   {
+   "cve": [
+    "CVE-2023-42793"
+   ],
+   "d": "2026-11-12",
+   "k": "rules_update",
+   "t": "fix(vpatch-CVE-2023-42793): restrict TeamCity auth bypass to /app/rest/ paths (#1852) (#1997)",
+   "u": "https://github.com/crowdsecurity/hub/commit/35f2d67eac80165c9f69ee9735780f0194b188cf",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
    "cve": [],
    "d": "2026-11-12",
    "k": "release",
@@ -2525,6 +2746,23 @@
    "ver": ""
   },
   {
+   "cve": [
+    "CVE-2026-115886",
+    "CVE-2026-104736",
+    "CVE-2026-34151",
+    "CVE-2026-7873",
+    "CVE-2026-116690",
+    "CVE-2026-97229",
+    "CVE-2026-114509"
+   ],
+   "d": "2026-11-04",
+   "k": "rules_update",
+   "t": "WAF rules - 2026-11-04 (#1982)",
+   "u": "https://github.com/crowdsecurity/hub/commit/5b7360c16c0bf49b494dc25aa3337d1c44031467",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
    "cve": [],
    "d": "2026-11-04",
    "k": "rules_update",
@@ -2554,6 +2792,15 @@
    "u": "https://developers.cloudflare.com/changelog/post/scheduled-waf-release/",
    "v": "cloudflare",
    "ver": "scheduled 2026-11-10"
+  },
+  {
+   "cve": [],
+   "d": "2026-11-02",
+   "k": "rules_update",
+   "t": "override intent for some scenarios (#1973)",
+   "u": "https://github.com/crowdsecurity/hub/commit/019d97c13c5609cbfdff1b6c5b290926edf6aa8c",
+   "v": "crowdsec",
+   "ver": ""
   },
   {
    "cve": [
@@ -2600,12 +2847,48 @@
    "ver": "2026-10-30 Emergency"
   },
   {
+   "cve": [
+    "CVE-2026-111497"
+   ],
+   "d": "2026-10-29",
+   "k": "rules_update",
+   "t": "CVE-2026-111497: opt-in rule blocking Brotli-encoded request bodies (#1971)",
+   "u": "https://github.com/crowdsecurity/hub/commit/cf1cab8471558025811927c4cc57be395d9ec387",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
    "cve": [],
    "d": "2026-10-29",
    "k": "release",
    "t": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
    "u": "https://azure.microsoft.com/updates?id=578681",
    "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-28",
+   "k": "rules_update",
+   "t": "Update appsec rule label (#1959)",
+   "u": "https://github.com/crowdsecurity/hub/commit/ef3aa5ea1412eb63206c1ea42d12974429852d75",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-96652",
+    "CVE-2026-96655",
+    "CVE-2026-96656"
+   ],
+   "d": "2026-10-28",
+   "k": "rules_update",
+   "t": "add plex2shell virtual patching rules (#1968)",
+   "u": "https://github.com/crowdsecurity/hub/commit/774aba8d68d3640f333c0057507be528ec2651d5",
+   "v": "crowdsec",
    "ver": ""
   },
   {
@@ -2791,6 +3074,55 @@
    "ver": ""
   },
   {
+   "cve": [
+    "CVE-2026-109618"
+   ],
+   "d": "2026-10-21",
+   "k": "rules_update",
+   "t": "**tentative vpatch** CVE-2026-109618/109619 (#1953)",
+   "u": "https://github.com/crowdsecurity/hub/commit/8b378b91f519cf4e5793e5368b94104afd2609e0",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-26217",
+    "CVE-2026-34910",
+    "CVE-2026-0768",
+    "CVE-2026-21589",
+    "CVE-2026-104935"
+   ],
+   "d": "2026-10-21",
+   "k": "rules_update",
+   "t": "sync hub-dev (#1954)",
+   "u": "https://github.com/crowdsecurity/hub/commit/e3e137e2e586bf159feede56da5b31fcc2d3c3a5",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-109618"
+   ],
+   "d": "2026-10-21",
+   "k": "rules_update",
+   "t": "harden vpatch-CVE-2026-109618 (#1956)",
+   "u": "https://github.com/crowdsecurity/hub/commit/7bd6d808d78c1f68ecc950cb62cd2479d007b522",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "k": "rules_update",
+   "t": "update rules for CVE-2026-109618 and CVE-2026-109619 (#1957)",
+   "u": "https://github.com/crowdsecurity/hub/commit/e9ff3f68bbf6b3cc18e1c3de53a78b69dc68c082",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
    "cve": [],
    "d": "2026-10-21",
    "k": "release",
@@ -2963,6 +3295,20 @@
    "ver": ""
   },
   {
+   "cve": [
+    "CVE-2026-26217",
+    "CVE-2026-34910",
+    "CVE-2026-0768",
+    "CVE-2026-21589"
+   ],
+   "d": "2026-10-07",
+   "k": "rules_update",
+   "t": "Add new vpatch WAF rules (#1922)",
+   "u": "https://github.com/crowdsecurity/hub/commit/1d30a35efe224f294d94434cefb8b502adfabf29",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
    "cve": [],
    "d": "2026-10-07",
    "k": "release",
@@ -2978,6 +3324,15 @@
    "t": "WAF - Updated unsafe topic detection for AI Security for Apps",
    "u": "https://developers.cloudflare.com/changelog/post/2026-10-07-ai-security-for-apps-unsafe-topic-detection/",
    "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-10-06",
+   "k": "rules_update",
+   "t": "Add behaviors intent and adapt scenario behaviors (#1910)",
+   "u": "https://github.com/crowdsecurity/hub/commit/b848e6600dc9fd2242483c6ed8b575370e34b068",
+   "v": "crowdsec",
    "ver": ""
   },
   {
@@ -3057,6 +3412,17 @@
   },
   {
    "cve": [
+    "CVE-2026-85706"
+   ],
+   "d": "2026-09-28",
+   "k": "rules_update",
+   "t": "CVE-2026-85706 (#1907)",
+   "u": "https://github.com/crowdsecurity/hub/commit/09e9315bdeff79663208929ccf124e457a5edea4",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
+   "cve": [
     "CVE-2026-23864"
    ],
    "d": "2026-09-28",
@@ -3090,6 +3456,17 @@
    "u": "https://developers.cloudflare.com/changelog/post/2026-09-25-emergency-waf-release/",
    "v": "cloudflare",
    "ver": "2026-09-25 Emergency"
+  },
+  {
+   "cve": [
+    "CVE-2026-87902"
+   ],
+   "d": "2026-09-23",
+   "k": "rules_update",
+   "t": "CVE-2026-87902 (#1904)",
+   "u": "https://github.com/crowdsecurity/hub/commit/bc436a0970c672b2d6707be43a8566d1364ce7d4",
+   "v": "crowdsec",
+   "ver": ""
   },
   {
    "cve": [],
@@ -3148,6 +3525,120 @@
    "u": "https://developers.cloudflare.com/changelog/post/2026-09-10-emergency-waf-release/",
    "v": "cloudflare",
    "ver": "2026-09-10 Emergency"
+  },
+  {
+   "cve": [
+    "CVE-2019-5418",
+    "CVE-2024-8181",
+    "CVE-2026-41940",
+    "CVE-2026-46725",
+    "CVE-2026-63030"
+   ],
+   "d": "2026-09-09",
+   "k": "rules_update",
+   "t": "fix(appsec): urldecode before lowercase on raw zones (#1872)",
+   "u": "https://github.com/crowdsecurity/hub/commit/a3cc20eb85d6b11372475324330f9b214570d282",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2025-57819",
+    "CVE-2002-1131",
+    "CVE-2007-0885",
+    "CVE-2014-5181",
+    "CVE-2018-11511",
+    "CVE-2018-13317",
+    "CVE-2019-9762",
+    "CVE-2020-10987",
+    "CVE-2020-13640",
+    "CVE-2020-25078",
+    "CVE-2020-37123",
+    "CVE-2020-5902",
+    "CVE-2020-8656",
+    "CVE-2021-26072",
+    "CVE-2021-26294",
+    "CVE-2021-32478",
+    "CVE-2021-34427",
+    "CVE-2022-25322",
+    "CVE-2022-26134",
+    "CVE-2022-31499",
+    "CVE-2022-3236",
+    "CVE-2022-3254",
+    "CVE-2022-38627",
+    "CVE-2023-0297",
+    "CVE-2023-23063",
+    "CVE-2023-24000",
+    "CVE-2023-3169",
+    "CVE-2023-3197",
+    "CVE-2023-6000",
+    "CVE-2024-0204",
+    "CVE-2024-28255",
+    "CVE-2024-29028",
+    "CVE-2024-32870",
+    "CVE-2024-3408",
+    "CVE-2024-38816",
+    "CVE-2024-41713",
+    "CVE-2024-5057",
+    "CVE-2024-51482",
+    "CVE-2024-51567",
+    "CVE-2024-51977",
+    "CVE-2024-6671",
+    "CVE-2024-7593",
+    "CVE-2024-8911",
+    "CVE-2024-8963",
+    "CVE-2024-9465",
+    "CVE-2025-10353",
+    "CVE-2025-13956",
+    "CVE-2025-15503",
+    "CVE-2025-24582",
+    "CVE-2025-24786",
+    "CVE-2025-27222",
+    "CVE-2025-27223",
+    "CVE-2025-28367",
+    "CVE-2025-29306",
+    "CVE-2025-36604",
+    "CVE-2025-40552",
+    "CVE-2025-4689",
+    "CVE-2025-47812",
+    "CVE-2025-49132",
+    "CVE-2025-53693",
+    "CVE-2025-54249",
+    "CVE-2025-55748",
+    "CVE-2025-55749",
+    "CVE-2025-56520",
+    "CVE-2025-59528",
+    "CVE-2025-61678",
+    "CVE-2025-61882",
+    "CVE-2025-66039",
+    "CVE-2025-8110",
+    "CVE-2026-0926",
+    "CVE-2026-1207",
+    "CVE-2026-1281",
+    "CVE-2026-1557",
+    "CVE-2026-20127",
+    "CVE-2026-26980",
+    "CVE-2026-61511",
+    "CVE-2026-72898",
+    "CVE-2026-9082"
+   ],
+   "d": "2026-09-09",
+   "k": "rules_update",
+   "t": "fix(appsec): urldecode before lowercase on pre-decoded zones (#1873)",
+   "u": "https://github.com/crowdsecurity/hub/commit/ebcaa6ca41ee85ef8838c4106caf1340e2043a2e",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-75650"
+   ],
+   "d": "2026-09-09",
+   "k": "rules_update",
+   "t": "add vpatch rule for CVE-2026-75650 (#1884)",
+   "u": "https://github.com/crowdsecurity/hub/commit/e4d56fffeb12565f1a7dc0aaac74301bf74111cb",
+   "v": "crowdsec",
+   "ver": ""
   },
   {
    "cve": [
@@ -3355,17 +3846,31 @@
    "ver": ""
   },
   {
-   "gap": 6,
+   "gap": 12,
    "k": [
     "cve_coverage"
    ],
-   "last": "2026-11-02",
-   "lt": "WordPress脆弱性CVE-2026-119977への注意喚起および、WafCharmでの対応に関して",
-   "lu": "https://www.wafcharm.com/jp/news/20261102/",
-   "n30": 3,
-   "n90": 3,
+   "last": "2026-11-19",
+   "lt": "Javaの脆弱性「Java4Shell」（CVE-2026-114938）の注意喚起および、WafCharmでの対応に関して",
+   "lu": "https://www.wafcharm.com/jp/news/20261119/",
+   "n30": 4,
+   "n90": 4,
    "name": "WafCharm",
    "v": "wafcharm",
+   "ver": ""
+  },
+  {
+   "gap": 8,
+   "k": [
+    "rules_update"
+   ],
+   "last": "2026-11-18",
+   "lt": "java4shell - CVE-2026-114938 (#2016)",
+   "lu": "https://github.com/crowdsecurity/hub/commit/8529847463e34789e8e2a3890d2092504b2de1df",
+   "n30": 11,
+   "n90": 18,
+   "name": "CrowdSec",
+   "v": "crowdsec",
    "ver": ""
   }
  ],
@@ -3401,6 +3906,10 @@
   {
    "id": "wafcharm",
    "name": "WafCharm"
+  },
+  {
+   "id": "crowdsec",
+   "name": "CrowdSec"
   }
  ]
 }

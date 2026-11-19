@@ -310,7 +310,7 @@
  "edition": "php2shell",
  "feeds_n": 40,
  "feeds_ok": 40,
- "generated": "2026-11-19T02:31:01Z",
+ "generated": "2026-11-19T14:30:50Z",
  "headline": {
   "attempts": 18,
   "confirmed": 0,
@@ -329,7 +329,7 @@
   {
    "added": "2026-10-26",
    "c": "CVE-2026-109618",
-   "checked": "2026-11-19T02:31:01Z",
+   "checked": "2026-11-19T14:30:50Z",
    "due": "2026-10-29",
    "listed": true,
    "rw": "Unknown"
@@ -337,7 +337,7 @@
   {
    "added": "2026-10-26",
    "c": "CVE-2026-109619",
-   "checked": "2026-11-19T02:31:01Z",
+   "checked": "2026-11-19T14:30:50Z",
    "due": "2026-10-29",
    "listed": true,
    "rw": "Unknown"
@@ -353,7 +353,7 @@
   "success": "An attack counts as successful only when a real system (not a honeypot or a lab) is said to have been compromised through CVE-2026-109618 or CVE-2026-109619. 'Confirmed' means the victim itself or a government authority says so; 'reported' means a security firm or researcher says so about victims it has seen. The headline figure is the number of such reports, not the number of victims; victims are added up only where a report states a number.",
   "success_ja": "攻撃成立と数えるのは、ハニーポットや検証環境ではない実在のシステムが CVE-2026-109618 または CVE-2026-109619 によって侵害されたと述べる報告だけ。「確認」は被害組織自身か政府機関が述べたもの、「報告」はセキュリティ企業や研究者が自ら見た被害について述べたもの。見出しの数は報告の数で、被害組織の数ではない。被害の数は、報告が数を述べている場合だけ合計する。"
  },
- "prot_vendors": 4,
+ "prot_vendors": 5,
  "protections": [
   {
    "cve": [
@@ -387,6 +387,37 @@
    "t": "PHP application managed rule group : Released static version 2.3 of this rule group.",
    "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-10-21-1c14d4bcce",
    "v": "aws"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "d": "2026-10-21",
+   "name": "crowdsec",
+   "t": "update rules for CVE-2026-109618 and CVE-2026-109619 (#1957)",
+   "u": "https://github.com/crowdsecurity/hub/commit/e9ff3f68bbf6b3cc18e1c3de53a78b69dc68c082",
+   "v": "crowdsec"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618"
+   ],
+   "d": "2026-10-21",
+   "name": "crowdsec",
+   "t": "harden vpatch-CVE-2026-109618 (#1956)",
+   "u": "https://github.com/crowdsecurity/hub/commit/7bd6d808d78c1f68ecc950cb62cd2479d007b522",
+   "v": "crowdsec"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618"
+   ],
+   "d": "2026-10-21",
+   "name": "crowdsec",
+   "t": "**tentative vpatch** CVE-2026-109618/109619 (#1953)",
+   "u": "https://github.com/crowdsecurity/hub/commit/8b378b91f519cf4e5793e5368b94104afd2609e0",
+   "v": "crowdsec"
   },
   {
    "cve": [
@@ -502,6 +533,17 @@
     "CVE-2026-109618",
     "CVE-2026-109619"
    ],
+   "d": "2026-10-28",
+   "name": "crowdsec",
+   "t": "Update appsec rule label (#1959)",
+   "u": "https://github.com/crowdsecurity/hub/commit/ef3aa5ea1412eb63206c1ea42d12974429852d75",
+   "v": "crowdsec"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
    "d": "2026-10-30",
    "name": "Cloudflare",
    "t": "WAF - WAF Release - 2026-10-30",
@@ -529,7 +571,7 @@
    "ja": "PHP2Shell とは別の欠陥。設定で session.serialize_handler を php_binary か php_serialize にし、アプリが session_start() の前に ini_set() で php に切り替え、セッションのアップロード進捗が有効(既定)のまま、というまれな組み合わせでだけ起きる。PHP は次の定例の修正版で直すとし、それまでは session.upload_progress.enabled=0 にするよう勧めている。これは 10/21 に CVE-2026-109619 の回避策として挙がっていた設定で、適用済みならそのまま維持すればよいとしている。影響する版と深刻度は未公表。",
    "kev": {
     "added": "",
-    "checked": "2026-11-19T02:31:01Z",
+    "checked": "2026-11-19T14:30:50Z",
     "listed": false
    },
    "pub": "PHP",
