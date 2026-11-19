@@ -1,6 +1,476 @@
 {
- "generated": "2026-11-18T00:03:00Z",
+ "generated": "2026-11-19T00:01:07Z",
  "incidents": [
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "o": "株式会社関通",
+   "oe": "Sekutsu Corporation",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "日本セキュリティ大賞2026、新卒1年目が1万人規模の教育を刷新した日本精工や被害経験をもとに支援するCyber Governance Labなど13組が受賞",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56845.html"
+    }
+   ],
+   "t": "other",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "o": "一般社団法人JPCERTコーディネーションセンター(JPCERT/CC)",
+   "oe": "JPCERT Coordination Center",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "調査の妥当性や収束の判断に迷う被害組織と報告書を作る調査ベンダーを支援 ～ JPCERT/CC「インシデント調査報告書チェックリスト」と全42ページのサンプル公開",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56844.html"
+    }
+   ],
+   "t": "other",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-12",
+     "t": "当社開発環境における情報漏えいのおそれに関するお知らせとお詫び（第一報）",
+     "u": "https://www.cscloud.co.jp/news/info/20261112-2"
+    }
+   ],
+   "o": "株式会社サイバーセキュリティクラウド",
+   "oe": "Cyber Security Cloud, Inc.",
+   "on": "https://www.cscloud.co.jp/news/info/20261112-2",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "サイバーセキュリティクラウドの開発環境に不正アクセス、GitHubに保存されていた個人情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56842.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-11",
+     "t": "当社が利用するクラウドサービスの委託先への不正アクセスに伴う、AI機能での入力情報の流出の可能性に関するお知らせ（第一報）",
+     "u": "https://www.lrm.jp/info/news/info_20261111"
+    }
+   ],
+   "o": "Notion AIの処理を委託していたFireworks AI社",
+   "oe": "Fireworks AI",
+   "on": "https://www.lrm.jp/info/news/info_20261111",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "Notion AIの処理を委託していたFireworks AI社に不正アクセス、LRMのワークスペースでのやり取りが流出した可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56840.html"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "SecureNaviが利用するクラウドサービス「Notion」のAI機能の委託先に不正アクセス、回答を含むやりとりの記録が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56841.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "no"
+  },
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "「Notion AI」のチャット履歴の漏えいのおそれに関するお詫びとお知らせ（第一報）",
+     "u": "https://3-shake.com/notion-ai"
+    }
+   ],
+   "o": "スリーシェイク",
+   "oe": "Three Shake",
+   "on": "https://3-shake.com/notion-ai",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "スリーシェイクが利用するNotion AIの委託先に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56839.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "no"
+  },
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-11",
+     "t": "当社が運営するアンケートサイト「infoQ」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ（最終報）",
+     "u": "https://gmo-research.ai/pressroom/notice/notice-20261111"
+    }
+   ],
+   "o": "GMOリサーチ&AI株式会社",
+   "oe": "GMO Research & AI Co., Ltd.",
+   "on": "https://gmo-research.ai/pressroom/notice/notice-20261111",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "GMOリサーチ&AI 運営のアンケートサイト「infoQ」に不正アクセス、計643件・計295万5,000円のポイント不正交換確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56838.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-10",
+     "t": "第三者による不正アクセスに伴う個人情報の流出に関するお詫びとお知らせ",
+     "u": "https://www.aeon-st.co.jp/news/20261110_security-notice/AST261110.pdf"
+    }
+   ],
+   "o": "イオンスマートテクノロジー株式会社",
+   "oe": "AEON Smart Technology Co., Ltd.",
+   "on": "https://www.aeon-st.co.jp/news/20261110_security-notice/AST261110.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "イオングループの一部Webサイトに不正アクセス、414件の顧客情報が流出",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56836.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-17",
+     "t": "不正アクセスによるシステム障害発生のお詫びとお知らせ",
+     "u": "https://www.joshin.co.jp/ja/news/info/info-20261017/main/0/link/20261017Notice%20and%20Apology%20Regarding%20System%20Disruption%20Caused%20by%20Unauthorized%20Access.pdf"
+    },
+    {
+     "d": "2026-10-26",
+     "t": "不正アクセスによるシステム障害発生のお詫びとお知らせ（第 2 報）",
+     "u": "https://www.joshin.co.jp/ja/ir/news/auto_20261026556267/pdfFile.pdf"
+    }
+   ],
+   "o": "株式会社Joshin",
+   "oe": "Joshin Corporation",
+   "on": "https://www.joshin.co.jp/ja/news/info/info-20261017/main/0/link/20261017Notice%20and%20Apology%20Regarding%20System%20Disruption%20Caused%20by%20Unauthorized%20Access.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "Joshinのネットワークに不正アクセス、免許証画像やマイナンバーカード情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56835.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://www.treasure-f.com/info/detail/st825"
+    },
+    {
+     "d": "",
+     "t": "不正アクセスによる個人情報漏えいに関する専用お問い合わせ窓口開設のお知らせ",
+     "u": "https://www.treasure-f.com/info/detail/st830"
+    }
+   ],
+   "o": "株式会社トレジャー・ファクトリー",
+   "oe": "Treasure Factory Co., Ltd.",
+   "on": "https://www.treasure-f.com/info/detail/st825",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "トレジャー・ファクトリーの案件管理システムに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56834.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-19",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "GSX",
+     "u": "https://www.gsx.co.jp/news/pr/pr_2611_hokuden_kel.html"
+    }
+   ],
+   "o": "GSX",
+   "oe": "GSX",
+   "on": "https://www.gsx.co.jp/news/pr/pr_2611_hokuden_kel.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "GSX、ほくでん情報テクノロジー・兼松エレクトロニクスと連携 ～ 北海道企業約13万社に平時対策から被害復旧まで一貫支援",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56830.html"
+    }
+   ],
+   "t": "other",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-18",
+     "t": "当社サービス「Cacoo」における不正アクセスに関する現在の状況について（第二報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261118582953.pdf"
+    }
+   ],
+   "o": "Ｇ－ヌーラボ",
+   "oe": "Nulab Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261118582953.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-18",
+     "t": "当社サービス「Cacoo」における不正アクセスに関する現在の状況について（第二報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261118582953.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-18",
+     "t": "ランサムウェアによるサイバー攻撃に伴う生産停止の発生に関するお知らせ（第一報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261118582902.pdf"
+    }
+   ],
+   "o": "大崎電",
+   "oe": "Osaki Electric Co., Ltd.",
+   "on": "https://www.release.tdnet.info/inbs/140120261118582902.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-18",
+     "t": "ランサムウェアによるサイバー攻撃に伴う生産停止の発生に関するお知らせ（第一報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261118582902.pdf"
+    }
+   ],
+   "t": "ransomware",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-18",
+     "t": "（開示事項の経過）不正アクセスによるお客様情報の流出に関するお詫びとお知らせ（第4報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261118582686.pdf"
+    }
+   ],
+   "o": "Ｇ－アドベンチャー",
+   "oe": "Adventure, Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261118582686.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-18",
+     "t": "（開示事項の経過）不正アクセスによるお客様情報の流出に関するお詫びとお知らせ（第4報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261118582686.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-18",
+     "t": "当社連結子会社のクラウド環境への不正アクセスに関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261117582184.pdf"
+    }
+   ],
+   "o": "オープンＧ",
+   "oe": "Open Group, Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261117582184.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-18",
+     "t": "当社連結子会社のクラウド環境への不正アクセスに関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261117582184.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-18",
+   "ls": "none_found",
+   "o": "楽天証券がテスト環境",
+   "oe": "Rakuten Securities",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-18",
+     "t": "楽天証券がテスト環境への不正アクセスで最大1,125万口座分の情報漏えいの恐れと発表",
+     "u": "https://cybersecurity-jp.com/news/118606"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-18",
+   "ls": "none_found",
+   "o": "ジンズHDがプレイド経由",
+   "oe": "Jins Holdings",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-18",
+     "t": "ジンズHDがプレイド経由の不正アクセスで会員情報最大約1,829万件の流出可能性を発表",
+     "u": "https://cybersecurity-jp.com/news/118607"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-18",
+   "ls": "none_found",
+   "o": "ミスミグループ本社",
+   "oe": "Misumi Group Inc.",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-18",
+     "t": "ミスミグループ本社は、顧客の氏名・所属会社名・支店名約140,000件の漏えいを発表した",
+     "u": "https://cybersecurity-jp.com/news/118610"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-18",
+     "t": "外部委託先への不正アクセスに伴う情報漏えいに関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261117582347.pdf"
+    }
+   ],
+   "o": "Ｇ－インフキュリオン",
+   "oe": "Infcurion, Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261117582347.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-18",
+     "t": "外部委託先への不正アクセスに伴う情報漏えいに関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261117582347.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-18",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-18",
+     "t": "当社連結子会社が提供するシステムへの不正アクセスに関するお知らせ（第2報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261118582408.pdf"
+    }
+   ],
+   "o": "Ｇ－ペイクラウドＨＤ",
+   "oe": "Paycloud Holdings Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261118582408.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-18",
+     "t": "当社連結子会社が提供するシステムへの不正アクセスに関するお知らせ（第2報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261118582408.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
   {
    "d": "2026-11-18",
    "ls": "none_found",
@@ -24,8 +494,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-18",
@@ -81,8 +551,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "cloud_misconfig",
+   "x": "yes"
   },
   {
    "d": "2026-11-18",
@@ -107,8 +577,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-18",
@@ -133,8 +603,8 @@
     }
    ],
    "t": "other",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "email",
+   "x": "yes"
   },
   {
    "d": "2026-11-18",
@@ -159,8 +629,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-18",
@@ -185,7 +655,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -221,7 +691,7 @@
     }
    ],
    "t": "ransomware",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -249,6 +719,38 @@
      "p": "2026-11-18",
      "t": "八十二長野銀行職員のメールアカウントに不正アクセス、海外企業を騙るフィッシングメールを受信し認証操作",
      "u": "https://scan.netsecurity.ne.jp/article/2026/11/18/56816.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "email",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-17",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "チャットプラス 当社サービスに対する不正アクセスに関するお知らせ（第一報）（TDnet）",
+     "u": "https://www.release.tdnet.info/inbs/140120261117582334.pdf"
+    }
+   ],
+   "o": "チャットプラス",
+   "oe": "ChatPlus Co., Ltd.",
+   "on": "https://www.release.tdnet.info/inbs/140120261117582334.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-17",
+     "t": "当社サービスに対する不正アクセスに関するお知らせ（第一報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261117582334.pdf"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-18",
+     "t": "チャットプラスの3サービスで不正アクセス 個人データ流出の可能性",
+     "u": "https://cybersecurity-jp.com/news/118611"
     }
    ],
    "t": "unauthorized_access",
@@ -296,8 +798,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-17",
@@ -340,8 +842,8 @@
     }
    ],
    "t": "leak",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "email",
+   "x": "yes"
   },
   {
    "d": "2026-11-17",
@@ -376,8 +878,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-17",
@@ -402,33 +904,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
-  },
-  {
-   "d": "2026-11-17",
-   "ls": "none_found",
-   "nn": [
-    {
-     "d": "2026-11-17",
-     "t": "当社サービスに対する不正アクセスに関するお知らせ（第一報）",
-     "u": "https://www.release.tdnet.info/inbs/140120261117582334.pdf"
-    }
-   ],
-   "o": "Ｇ－チャットプラス",
-   "oe": "ChatPlus Co., Ltd.",
-   "on": "https://www.release.tdnet.info/inbs/140120261117582334.pdf",
-   "os": "tdnet",
-   "s": [
-    {
-     "h": "release.tdnet.info",
-     "p": "2026-11-17",
-     "t": "当社サービスに対する不正アクセスに関するお知らせ（第一報）",
-     "u": "https://www.release.tdnet.info/inbs/140120261117582334.pdf"
-    }
-   ],
-   "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -454,8 +930,8 @@
     }
    ],
    "t": "leak",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "email",
+   "x": "no"
   },
   {
    "d": "2026-11-17",
@@ -524,6 +1000,11 @@
      "u": "https://plaid.co.jp/news/20261113"
     },
     {
+     "d": "2026-11-13",
+     "t": "緊急メンテナンスのためKARTE全体のサービスを停止します",
+     "u": "https://status.karte.io/incidents/rs1gsmckc197"
+    },
+    {
      "d": "2026-11-16",
      "t": "不正アクセスによる個人情報を含む可能性のある情報等の漏えいに関するお詫びとお知らせ",
      "u": "https://plaid.co.jp/news/20261116"
@@ -545,6 +1026,18 @@
      "p": "2026-11-18",
      "t": "プレイドのCXプラットフォーム「KARTE」への不正アクセスについてまとめてみた",
      "u": "https://piyolog.hatenadiary.jp/entry/2026/11/18/010752"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-18",
+     "t": "日本経済新聞社 日経電子版利用者情報が漏えいの可能性 委託先KARTEに不正アクセス",
+     "u": "https://cybersecurity-jp.com/news/118609"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-18",
+     "t": "WOWOWが委託先KARTEへの不正アクセスで顧客情報の一部漏えいの可能性を公表",
+     "u": "https://cybersecurity-jp.com/news/118608"
     }
    ],
    "t": "unauthorized_access",
@@ -600,8 +1093,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-17",
@@ -626,8 +1119,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "no"
   },
   {
    "d": "2026-11-17",
@@ -644,7 +1137,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -826,6 +1319,18 @@
      "p": "2026-11-17",
      "t": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた",
      "u": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-18",
+     "t": "理化学研究所と富岳不正アクセス、最大4,597人の情報漏えいのおそれを発表",
+     "u": "https://cybersecurity-jp.com/news/118612"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-11-18",
+     "t": "理研「富岳」で侵害 - 窃取情報で他システムへの攻撃試行も",
+     "u": "https://www.security-next.com/192952"
     }
    ],
    "t": "unauthorized_access",
@@ -980,6 +1485,11 @@
      "d": "2026-11-13",
      "t": "プレイド 当社サービスへの不正アクセスに関するご報告",
      "u": "https://plaid.co.jp/news/20261113"
+    },
+    {
+     "d": "2026-11-16",
+     "t": "プレイド 公式発表（プレスリリース）",
+     "u": "https://plaid.co.jp/news/20261116"
     }
    ],
    "o": "プレイド",
@@ -992,6 +1502,12 @@
      "p": "2026-11-16",
      "t": "プレイドのKARTEへの不正アクセスで全機能停止が続きネットワーク遮断を完了",
      "u": "https://cybersecurity-jp.com/news/118462"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-18",
+     "t": "プレイドのKARTE不正アクセスでメール約8万件など漏えい",
+     "u": "https://cybersecurity-jp.com/news/118613"
     }
    ],
    "t": "unauthorized_access",
@@ -2280,6 +2796,12 @@
      "p": "2026-11-11",
      "t": "日本商工会議所のネット試験で不正アクセス、最大約98万人分の受験者情報漏えいのおそれ",
      "u": "https://cybersecurity-jp.com/news/118275"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-19",
+     "t": "商工会議所ネット試験管理システムに不正アクセス、最大約98万人分の受験者情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/19/56837.html"
     }
    ],
    "t": "unauthorized_access",
@@ -4015,6 +4537,12 @@
      "p": "2026-11-06",
      "t": "日本郵便がメールマガジンの配信業務を委託している事業者に不正アクセス",
      "u": "https://scan.netsecurity.ne.jp/article/2026/11/06/56694.html"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-11-18",
+     "t": "法人顧客向けサイトで顧客情報が閲覧可能に - 日本郵便",
+     "u": "https://www.security-next.com/192585"
     }
    ],
    "t": "unauthorized_access",
@@ -5613,6 +6141,11 @@
      "d": "2026-10-31",
      "t": "楽天証券 外部サービス提供元への不正アクセスによるお客様情報漏えいの可能性について",
      "u": "https://www.rakuten-sec.co.jp/web/info/info20261031-01.html"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "当社お客様の情報漏えいの可能性に関するお詫びとお知らせ",
+     "u": "https://www.rakuten-sec.co.jp/web/info/info20261117-02.html"
     }
    ],
    "o": "楽天証券",
@@ -5625,6 +6158,18 @@
      "p": "2026-11-01",
      "t": "楽天証券がNTTデータ委託先の不正アクセスで社債購入者情報362件の漏えい可能性を公表",
      "u": "https://cybersecurity-jp.com/news/118014"
+    },
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-11-18",
+     "t": "楽天証券への不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-11-18",
+     "t": "年収や資産情報など個人情報流出の可能性 - 楽天証券",
+     "u": "https://www.security-next.com/193015"
     }
    ],
    "t": "unauthorized_access",

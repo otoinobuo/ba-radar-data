@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-18",
+ "asof": "2026-11-19",
  "coverage": {
   "any": 17,
-  "kev90": 109,
+  "kev90": 112,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -16,6 +16,74 @@
   "radar_obs": 11,
   "radar_only": 9,
   "rows": [
+   {
+    "added": "2026-11-18",
+    "c": "CVE-2026-90817",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Vanderbilt University Research Electronic Data Capture (REDCap)",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-18",
+    "c": "CVE-2026-90436",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Apache Axis",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-18",
+    "c": "CVE-2026-40217",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "BerriAI LiteLLM",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-18",
+    "c": "CVE-2024-10441",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Synology DiskStation Manager (DSM)",
+    "src": "kev"
+   },
    {
     "added": "2026-11-17",
     "c": "CVE-2026-115731",
@@ -1953,23 +2021,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-21",
-    "c": "CVE-2026-73570",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Synacor Zimbra Collaboration Suite (ZCS)",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-72898",
     "cov": {
@@ -2169,12 +2220,12 @@
     "src": "radar"
    }
   ],
-  "targets": 118
+  "targets": 121
  },
  "edition": "waf",
  "feeds_n": 10,
  "feeds_ok": 10,
- "generated": "2026-11-18T01:30:14Z",
+ "generated": "2026-11-19T01:30:16Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2308,13 +2359,76 @@
   }
  ],
  "totals": {
-  "items_all": 369,
-  "n30": 41,
-  "n90": 80,
+  "items_all": 375,
+  "n30": 46,
+  "n90": 86,
   "since": "2022-02-01",
   "vendors30": 6
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-114938"
+   ],
+   "d": "2026-11-18",
+   "k": "cve_coverage",
+   "t": "Java4Shell (CVE-2026-114938): What You Need to Know and How Imperva Protects You",
+   "u": "https://www.imperva.com/blog/java4shell-cve-2026-114938-what-you-need-to-know-and-how-imperva-protects-you/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-123633",
+    "CVE-2026-123007"
+   ],
+   "d": "2026-11-18",
+   "k": "cve_coverage",
+   "t": "Critical NGINX HTTP/2 Vulnerabilities (CVE-2026-123633 and CVE-2026-123007): What Imperva Customers Need to Know",
+   "u": "https://www.imperva.com/blog/critical-nginx-http-2-vulnerabilities-cve-2026-123633-and-cve-2026-123007-what-imperva-customers-need-to-know/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-114938"
+   ],
+   "d": "2026-11-18",
+   "k": "cve_coverage",
+   "t": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+   "u": "https://blog.cloudflare.com/java4shell-waf-protection/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-18",
+   "k": "release",
+   "t": "[In preview] Public Preview: AI bot ruleset for Azure Front Door Premium WAF",
+   "u": "https://azure.microsoft.com/updates?id=581604",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-114938"
+   ],
+   "d": "2026-11-18",
+   "k": "release",
+   "t": "WAF - WAF Emergency Release - 2026-11-18",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-11-18-emergency-waf-release/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-17",
+   "k": "rules_update",
+   "t": "AWS WAF Bot Control rule group: Released static version 8.0 of this rule group. This static version doesn't change the default version.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-17-348dfab651",
+   "v": "aws",
+   "ver": "8.0"
+  },
   {
    "cve": [],
    "d": "2026-11-17",
@@ -3147,11 +3261,11 @@
     "release",
     "rules_update"
    ],
-   "last": "2026-11-12",
-   "lt": "WAF - Payload logging for WAF custom rules",
-   "lu": "https://developers.cloudflare.com/changelog/post/2026-11-12-custom-rules-payload-logging/",
-   "n30": 18,
-   "n90": 37,
+   "last": "2026-11-18",
+   "lt": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+   "lu": "https://blog.cloudflare.com/java4shell-waf-protection/",
+   "n30": 20,
+   "n90": 39,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": ""
@@ -3162,13 +3276,13 @@
     "rules_update"
    ],
    "last": "2026-11-17",
-   "lt": "AWS WAF Bot Control rule group: Released static version 2.1 of this rule group. Updated the default version to use version 2.1.",
-   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-17-021fb78058",
-   "n30": 8,
-   "n90": 11,
+   "lt": "AWS WAF Bot Control rule group: Released static version 8.0 of this rule group. This static version doesn't change the default version.",
+   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-17-348dfab651",
+   "n30": 9,
+   "n90": 12,
    "name": "AWS WAF",
    "v": "aws",
-   "ver": "2.1"
+   "ver": "8.0"
   },
   {
    "gap": 46,
@@ -3203,11 +3317,11 @@
    "k": [
     "release"
    ],
-   "last": "2026-11-11",
-   "lt": "[In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF",
-   "lu": "https://azure.microsoft.com/updates?id=580155",
+   "last": "2026-11-18",
+   "lt": "[In preview] Public Preview: AI bot ruleset for Azure Front Door Premium WAF",
+   "lu": "https://azure.microsoft.com/updates?id=581604",
    "n30": 5,
-   "n90": 9,
+   "n90": 10,
    "name": "Azure WAF",
    "v": "azure",
    "ver": ""
@@ -3227,15 +3341,15 @@
    "ver": ""
   },
   {
-   "gap": 9,
+   "gap": 8,
    "k": [
     "cve_coverage"
    ],
-   "last": "2026-11-12",
-   "lt": "Critical Apache HTTP/2 Vulnerability (CVE-2026-119618): How Imperva Protects Customers",
-   "lu": "https://www.imperva.com/blog/critical-apache-http-2-vulnerability-cve-2026-119618-how-imperva-protects-customers/",
-   "n30": 5,
-   "n90": 10,
+   "last": "2026-11-18",
+   "lt": "Java4Shell (CVE-2026-114938): What You Need to Know and How Imperva Protects You",
+   "lu": "https://www.imperva.com/blog/java4shell-cve-2026-114938-what-you-need-to-know-and-how-imperva-protects-you/",
+   "n30": 7,
+   "n90": 12,
    "name": "Imperva",
    "v": "imperva",
    "ver": ""
