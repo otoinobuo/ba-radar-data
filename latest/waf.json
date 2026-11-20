@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-19",
+ "asof": "2026-11-20",
  "coverage": {
   "any": 23,
   "kev90": 112,
@@ -2403,7 +2403,7 @@
  "edition": "waf",
  "feeds_n": 11,
  "feeds_ok": 11,
- "generated": "2026-11-19T12:02:34Z",
+ "generated": "2026-11-20T01:30:17Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2547,13 +2547,68 @@
   }
  ],
  "totals": {
-  "items_all": 406,
-  "n30": 58,
-  "n90": 105,
+  "items_all": 410,
+  "n30": 52,
+  "n90": 109,
   "since": "2022-02-01",
   "vendors30": 7
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-132825"
+   ],
+   "d": "2026-11-19",
+   "k": "rules_update",
+   "t": "add rules and tests for ruby2shell - CVE-2026-132825 (#2019)",
+   "u": "https://github.com/crowdsecurity/hub/commit/88116ce09d71b43f4ffaec8bc6bd22d8da242401",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619",
+    "CVE-2026-111497",
+    "CVE-2026-115560"
+   ],
+   "d": "2026-11-19",
+   "k": "cve_coverage",
+   "t": "Four Days Early: Why AI-Found Vulnerabilities Demand Protection That’s Already On",
+   "u": "https://www.imperva.com/blog/why-ai-found-vulnerabilities-demand-protection-thats-already-on/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-115560",
+    "CVE-2026-129289"
+   ],
+   "d": "2026-11-19",
+   "k": "rules_update",
+   "t": "PHP application managed rule group : Released static version 2.6 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-19-d705284abd",
+   "v": "aws",
+   "ver": "2.6"
+  },
+  {
+   "cve": [
+    "CVE-2026-109618",
+    "CVE-2026-109619",
+    "CVE-2026-115560",
+    "CVE-2026-126714",
+    "CVE-2026-13282",
+    "CVE-2026-129289",
+    "CVE-2026-15353",
+    "CVE-2026-129506"
+   ],
+   "d": "2026-11-19",
+   "k": "release",
+   "t": "WAF - WAF Emergency Release - 2026-11-19",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-11-19-emergency-waf-release/",
+   "v": "cloudflare",
+   "ver": ""
+  },
   {
    "cve": [
     "CVE-2026-114938"
@@ -3752,11 +3807,11 @@
     "release",
     "rules_update"
    ],
-   "last": "2026-11-18",
-   "lt": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
-   "lu": "https://blog.cloudflare.com/java4shell-waf-protection/",
-   "n30": 20,
-   "n90": 39,
+   "last": "2026-11-19",
+   "lt": "WAF - WAF Emergency Release - 2026-11-19",
+   "lu": "https://developers.cloudflare.com/changelog/post/2026-11-19-emergency-waf-release/",
+   "n30": 17,
+   "n90": 40,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": ""
@@ -3766,14 +3821,14 @@
    "k": [
     "rules_update"
    ],
-   "last": "2026-11-17",
-   "lt": "AWS WAF Bot Control rule group: Released static version 8.0 of this rule group. This static version doesn't change the default version.",
-   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-17-348dfab651",
+   "last": "2026-11-19",
+   "lt": "PHP application managed rule group : Released static version 2.6 of this rule group.",
+   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-19-d705284abd",
    "n30": 9,
-   "n90": 12,
+   "n90": 13,
    "name": "AWS WAF",
    "v": "aws",
-   "ver": "8.0"
+   "ver": "2.6"
   },
   {
    "gap": 46,
@@ -3832,15 +3887,15 @@
    "ver": ""
   },
   {
-   "gap": 8,
+   "gap": 7,
    "k": [
     "cve_coverage"
    ],
-   "last": "2026-11-18",
-   "lt": "Java4Shell (CVE-2026-114938): What You Need to Know and How Imperva Protects You",
-   "lu": "https://www.imperva.com/blog/java4shell-cve-2026-114938-what-you-need-to-know-and-how-imperva-protects-you/",
+   "last": "2026-11-19",
+   "lt": "Four Days Early: Why AI-Found Vulnerabilities Demand Protection That’s Already On",
+   "lu": "https://www.imperva.com/blog/why-ai-found-vulnerabilities-demand-protection-thats-already-on/",
    "n30": 7,
-   "n90": 12,
+   "n90": 13,
    "name": "Imperva",
    "v": "imperva",
    "ver": ""
@@ -3864,11 +3919,11 @@
    "k": [
     "rules_update"
    ],
-   "last": "2026-11-18",
-   "lt": "java4shell - CVE-2026-114938 (#2016)",
-   "lu": "https://github.com/crowdsecurity/hub/commit/8529847463e34789e8e2a3890d2092504b2de1df",
-   "n30": 11,
-   "n90": 18,
+   "last": "2026-11-19",
+   "lt": "add rules and tests for ruby2shell - CVE-2026-132825 (#2019)",
+   "lu": "https://github.com/crowdsecurity/hub/commit/88116ce09d71b43f4ffaec8bc6bd22d8da242401",
+   "n30": 8,
+   "n90": 19,
    "name": "CrowdSec",
    "v": "crowdsec",
    "ver": ""
