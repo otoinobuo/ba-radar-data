@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-20",
+ "asof": "2026-11-21",
  "coverage": {
   "any": 23,
-  "kev90": 112,
+  "kev90": 116,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -17,6 +17,78 @@
   "radar_obs": 11,
   "radar_only": 9,
   "rows": [
+   {
+    "added": "2026-11-20",
+    "c": "CVE-2026-76466",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crowdsec": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Cisco Expressway Series",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-20",
+    "c": "CVE-2026-129448",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crowdsec": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Apache Roller",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-20",
+    "c": "CVE-2026-123890",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crowdsec": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Broadcom VMware vCenter",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-20",
+    "c": "CVE-2025-42884",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crowdsec": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "SAP NetWeaver",
+    "src": "kev"
+   },
    {
     "added": "2026-11-18",
     "c": "CVE-2026-90817",
@@ -2398,12 +2470,12 @@
     "src": "radar"
    }
   ],
-  "targets": 121
+  "targets": 125
  },
  "edition": "waf",
  "feeds_n": 11,
  "feeds_ok": 11,
- "generated": "2026-11-20T01:30:17Z",
+ "generated": "2026-11-21T01:30:18Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2547,13 +2619,113 @@
   }
  ],
  "totals": {
-  "items_all": 410,
+  "items_all": 417,
   "n30": 52,
-  "n90": 109,
+  "n90": 116,
   "since": "2022-02-01",
   "vendors30": 7
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-129289",
+    "CVE-2026-129496",
+    "CVE-2026-126714",
+    "CVE-2026-115560",
+    "CVE-2026-129481",
+    "CVE-2026-129474",
+    "CVE-2026-129182"
+   ],
+   "d": "2026-11-20",
+   "k": "cve_coverage",
+   "t": "PHP Runtime Vulnerabilities: What You Need To Know",
+   "u": "https://www.imperva.com/blog/php-runtime-vulnerabilities-what-you-need-to-know/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-132825"
+   ],
+   "d": "2026-11-20",
+   "k": "cve_coverage",
+   "t": "Critical Ruby String Case-Conversion Vulnerabilities Could Lead to Remote Code Execution",
+   "u": "https://www.imperva.com/blog/critical-ruby-string-case-conversion-vulnerabilities-could-lead-to-remote-code-execution/",
+   "v": "imperva",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-123007",
+    "CVE-2026-123633",
+    "CVE-2026-118899",
+    "CVE-2026-121810",
+    "CVE-2026-123634",
+    "CVE-2026-113425"
+   ],
+   "d": "2026-11-20",
+   "k": "cve_coverage",
+   "t": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+   "u": "https://blog.cloudflare.com/nginx2root/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-126714",
+    "CVE-2026-129289",
+    "CVE-2026-15353",
+    "CVE-2026-129506",
+    "CVE-2026-115560",
+    "CVE-2026-129496",
+    "CVE-2026-129481",
+    "CVE-2026-109619",
+    "CVE-2026-129474",
+    "CVE-2026-129182",
+    "CVE-2026-109618"
+   ],
+   "d": "2026-11-20",
+   "k": "cve_coverage",
+   "t": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+   "u": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-132825"
+   ],
+   "d": "2026-11-20",
+   "k": "cve_coverage",
+   "t": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+   "u": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-13282",
+    "CVE-2026-132825"
+   ],
+   "d": "2026-11-20",
+   "k": "release",
+   "t": "WAF - Update: WAF Emergency Release - 2026-11-19",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-11-19-emergency-waf-release/#update-2026-11-19T00-00",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-132825",
+    "CVE-2026-114938"
+   ],
+   "d": "2026-11-19",
+   "k": "rules_update",
+   "t": "Known bad inputs managed rule group : Released static version 1.29 of this rule group.",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-19-b11240ea07",
+   "v": "aws",
+   "ver": "1.29"
+  },
   {
    "cve": [
     "CVE-2026-132825"
@@ -2597,7 +2769,7 @@
     "CVE-2026-109619",
     "CVE-2026-115560",
     "CVE-2026-126714",
-    "CVE-2026-13282",
+    "CVE-2026-132825",
     "CVE-2026-129289",
     "CVE-2026-15353",
     "CVE-2026-129506"
@@ -3801,17 +3973,17 @@
  ],
  "vendor_table": [
   {
-   "gap": 4,
+   "gap": 3,
    "k": [
     "cve_coverage",
     "release",
     "rules_update"
    ],
-   "last": "2026-11-19",
-   "lt": "WAF - WAF Emergency Release - 2026-11-19",
-   "lu": "https://developers.cloudflare.com/changelog/post/2026-11-19-emergency-waf-release/",
-   "n30": 17,
-   "n90": 40,
+   "last": "2026-11-20",
+   "lt": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+   "lu": "https://blog.cloudflare.com/nginx2root/",
+   "n30": 19,
+   "n90": 44,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": ""
@@ -3822,13 +3994,13 @@
     "rules_update"
    ],
    "last": "2026-11-19",
-   "lt": "PHP application managed rule group : Released static version 2.6 of this rule group.",
-   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-19-d705284abd",
-   "n30": 9,
-   "n90": 13,
+   "lt": "Known bad inputs managed rule group : Released static version 1.29 of this rule group.",
+   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-19-b11240ea07",
+   "n30": 8,
+   "n90": 14,
    "name": "AWS WAF",
    "v": "aws",
-   "ver": "2.6"
+   "ver": "1.29"
   },
   {
    "gap": 46,
@@ -3887,15 +4059,15 @@
    "ver": ""
   },
   {
-   "gap": 7,
+   "gap": 6,
    "k": [
     "cve_coverage"
    ],
-   "last": "2026-11-19",
-   "lt": "Four Days Early: Why AI-Found Vulnerabilities Demand Protection That’s Already On",
-   "lu": "https://www.imperva.com/blog/why-ai-found-vulnerabilities-demand-protection-thats-already-on/",
+   "last": "2026-11-20",
+   "lt": "PHP Runtime Vulnerabilities: What You Need To Know",
+   "lu": "https://www.imperva.com/blog/php-runtime-vulnerabilities-what-you-need-to-know/",
    "n30": 7,
-   "n90": 13,
+   "n90": 15,
    "name": "Imperva",
    "v": "imperva",
    "ver": ""
@@ -3908,7 +4080,7 @@
    "last": "2026-11-19",
    "lt": "Javaの脆弱性「Java4Shell」（CVE-2026-114938）の注意喚起および、WafCharmでの対応に関して",
    "lu": "https://www.wafcharm.com/jp/news/20261119/",
-   "n30": 4,
+   "n30": 3,
    "n90": 4,
    "name": "WafCharm",
    "v": "wafcharm",
