@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T02:06:39Z",
+ "generated": "2026-11-22T11:45:04Z",
  "incidents": [
   {
    "d": "2026-11-21",
@@ -160,8 +160,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-20",
@@ -435,8 +435,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-19",
@@ -461,7 +461,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -487,8 +487,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-19",
@@ -518,8 +518,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-19",
@@ -697,7 +697,7 @@
      "u": "https://www.release.tdnet.info/inbs/140120261119583325.pdf"
     }
    ],
-   "o": "Schoo",
+   "o": "スクー",
    "oe": "Schoo",
    "on": "https://www.release.tdnet.info/inbs/140120261119583325.pdf",
    "os": "tdnet",
@@ -883,9 +883,22 @@
   {
    "d": "2026-11-18",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-13",
+     "t": "「JP Business Tool Box」におけるお客さま情報の漏えいのおそれについて",
+     "u": "https://files.japanpost.jp/assets/34d9d11432734cfaa759e78fe395b688/f3f28b64a67841a1bd88dec64017f917/20261013_03_01.pdf"
+    },
+    {
+     "d": "",
+     "t": "日本郵便",
+     "u": "https://www.post.japanpost.jp/"
+    }
+   ],
    "o": "日本郵便",
    "oe": "Japan Post Co., Ltd.",
-   "os": "candidate",
+   "on": "https://files.japanpost.jp/assets/34d9d11432734cfaa759e78fe395b688/f3f28b64a67841a1bd88dec64017f917/20261013_03_01.pdf",
+   "os": "found",
    "s": [
     {
      "h": "security-next.com",
@@ -895,15 +908,28 @@
     }
    ],
    "t": "leak",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "no"
   },
   {
    "d": "2026-11-18",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-17",
+     "t": "業務委託先に対する不正アクセスに伴うお客さまの個人情報漏えいの可能性に関するお知らせとお詫び",
+     "u": "https://corporate.wowow.co.jp/news/info/7251.html"
+    },
+    {
+     "d": "",
+     "t": "企業情報オンライン（日本インタビュ新聞）",
+     "u": "https://www.media-ir.com/news?p=188606"
+    }
+   ],
    "o": "WOWOW",
    "oe": "WOWOW",
-   "os": "candidate",
+   "on": "https://corporate.wowow.co.jp/news/info/7251.html",
+   "os": "found",
    "s": [
     {
      "h": "cybersecurity-jp.com",
@@ -939,8 +965,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-18",
@@ -1423,8 +1449,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-17",
@@ -2445,9 +2471,22 @@
   {
    "d": "2026-11-14",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-13",
+     "t": "NHK",
+     "u": "https://news.web.nhk/newsweb/na/nd-20261113de75739"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "当社リフォーム管理システムへの不正アクセス発覚に関するお詫びとお知らせ",
+     "u": "https://www.yamada-denki.jp/information/pdf/261113_1.pdf"
+    }
+   ],
    "o": "ヤマダデンキ",
    "oe": "YAMADA Denki Co., Ltd.",
-   "os": "candidate",
+   "on": "https://www.yamada-denki.jp/information/pdf/261113_1.pdf",
+   "os": "found",
    "s": [
     {
      "h": "cybersecurity-jp.com",
@@ -2513,9 +2552,22 @@
   {
    "d": "2026-11-13",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-12",
+     "t": "外部メール配信サービスへの不正アクセスに伴うメールアドレス流出のお詫びとお知らせ",
+     "u": "https://www.aohata.co.jp/notices/20261112.html"
+    },
+    {
+     "d": "",
+     "t": "株式会社アクト",
+     "u": "https://act1.co.jp/2026-11-12-07"
+    }
+   ],
    "o": "キユーピー",
    "oe": "Kewpie Corporation",
-   "os": "candidate",
+   "on": "https://www.aohata.co.jp/notices/20261112.html",
+   "os": "found",
    "s": [
     {
      "h": "cybersecurity-jp.com",
@@ -2525,8 +2577,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-13",
@@ -2551,7 +2603,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -2577,8 +2629,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-13",
@@ -3726,9 +3778,22 @@
   {
    "d": "2026-11-10",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-06",
+     "t": "当社公式通販サイトにおける個人情報漏えいの可能性に関するお詫びとお知らせ",
+     "u": "https://www.doutor.co.jp/news/newsrelease/detail/20261106150715.html"
+    },
+    {
+     "d": "",
+     "t": "ドトールコーヒー",
+     "u": "https://www.doutor.co.jp/"
+    }
+   ],
    "o": "ドトールコーヒー",
    "oe": "Doutor Coffee Co., Ltd.",
-   "os": "candidate",
+   "on": "https://www.doutor.co.jp/news/newsrelease/detail/20261106150715.html",
+   "os": "found",
    "s": [
     {
      "h": "security-next.com",
@@ -3738,7 +3803,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -4117,8 +4182,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-09",
@@ -4786,15 +4851,28 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "no"
   },
   {
    "d": "2026-11-06",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-02",
+     "t": "アララ株式会社 アララメッセージへの不正アクセスによる情報流出およびサービス停止について（第2報）",
+     "u": "https://www.arara.com/dcms_media/other/arara_20261102__.pdf"
+    },
+    {
+     "d": "2026-11-05",
+     "t": "堺市電子申請システムで利用するメール配信サービスにおける不正アクセスに伴う情報漏えいのおそれについて",
+     "u": "https://www.city.sakai.lg.jp/shisei/koho/hodo/hodoteikyoshiryo/kakohodo/r8/r811/081105_06.html"
+    }
+   ],
    "o": "堺市",
    "oe": "Sakai City",
-   "os": "candidate",
+   "on": "https://www.city.sakai.lg.jp/shisei/koho/hodo/hodoteikyoshiryo/kakohodo/r8/r811/081105_06.html",
+   "os": "found",
    "s": [
     {
      "h": "cybersecurity-jp.com",
@@ -4804,8 +4882,8 @@
     }
    ],
    "t": "leak",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-06",
@@ -5960,9 +6038,22 @@
   {
    "d": "2026-11-03",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-02",
+     "t": "メール配信委託先への不正アクセスによる情報漏えいに関する件（第2報）",
+     "u": "https://www.tkc.jp/news/2026/20261102_2/"
+    },
+    {
+     "d": "",
+     "t": "下野新聞デジタル",
+     "u": "https://smart.shimotsuke.co.jp/articles/-/1452350"
+    }
+   ],
    "o": "TKC",
    "oe": "TKC",
-   "os": "candidate",
+   "on": "https://www.tkc.jp/news/2026/20261102_2/",
+   "os": "found",
    "s": [
     {
      "h": "cybersecurity-jp.com",
@@ -5972,15 +6063,23 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-03",
    "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【重要】当社委託先のメール配信サービスへの不正アクセスによるお客さま情報の流出について｜FitDish",
+     "u": "https://www.fitdish.jp/news/3ccb218ce63bcb240d990522939b83e69c96b268.html"
+    }
+   ],
    "o": "大阪ガス",
    "oe": "Osaka Gas Co., Ltd.",
-   "os": "candidate",
+   "on": "https://www.fitdish.jp/news/3ccb218ce63bcb240d990522939b83e69c96b268.html",
+   "os": "found",
    "s": [
     {
      "h": "cybersecurity-jp.com",
@@ -5990,8 +6089,8 @@
     }
    ],
    "t": "leak",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-03",
@@ -6417,32 +6516,6 @@
    "nn": [
     {
      "d": "",
-     "t": "当社への不正アクセスに関するお知らせとお詫び",
-     "u": "https://www.daj.jp/webtopics/1354"
-    }
-   ],
-   "o": "デジタルアーツ株式会社",
-   "oe": "Digital Arts Inc.",
-   "on": "https://www.daj.jp/webtopics/1354",
-   "os": "found",
-   "s": [
-    {
-     "h": "scan.netsecurity.ne.jp",
-     "p": "2026-11-02",
-     "t": "AI を活用した総点検で発見 ～ デジタルアーツのクラウドサービス運用環境に不正アクセス",
-     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56649.html"
-    }
-   ],
-   "t": "unauthorized_access",
-   "v": "credential",
-   "x": "unknown"
-  },
-  {
-   "d": "2026-11-02",
-   "ls": "none_found",
-   "nn": [
-    {
-     "d": "",
      "t": "当社ウェブサイトへの不正アクセスに関するお詫びとお知らせ",
      "u": "https://www.tsslk.jp/news/info/security_notice_202610"
     }
@@ -6734,7 +6807,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -6994,7 +7067,7 @@
    ],
    "t": "leak",
    "v": "unknown",
-   "x": "unknown"
+   "x": "no"
   },
   {
    "d": "2026-10-30",
@@ -9217,42 +9290,6 @@
   {
    "d": "2026-10-22",
    "ls": "none_found",
-   "nn": [
-    {
-     "d": "2026-10-16",
-     "t": "外部委託先への不正アクセスに伴うお客様情報の漏洩について",
-     "u": "https://www.iwaicosmo.co.jp/news/2026/10161410.html"
-    },
-    {
-     "d": "2026-10-20",
-     "t": "外部委託先への不正アクセスに伴うお客様情報の漏洩について(第2報)",
-     "u": "https://www.iwaicosmo.co.jp/info/2026/10201710.html"
-    },
-    {
-     "d": "2026-10-21",
-     "t": "不正アクセスによる個人情報漏洩および不正取引に関するご報告",
-     "u": "https://www.iwaicosmo.net/info/post_499.html"
-    }
-   ],
-   "o": "岩井コスモ証券",
-   "oe": "Iwai Cosmo Securities",
-   "on": "https://www.iwaicosmo.co.jp/news/2026/10161410.html",
-   "os": "found",
-   "s": [
-    {
-     "h": "piyolog.hatenadiary.jp",
-     "p": "2026-10-22",
-     "t": "不正取引も行われた岩井コスモ証券への不正アクセスについてまとめてみた",
-     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/22/113434"
-    }
-   ],
-   "t": "unauthorized_access",
-   "v": "vendor_cloud",
-   "x": "unknown"
-  },
-  {
-   "d": "2026-10-22",
-   "ls": "none_found",
    "o": "国土交通省",
    "oe": "Ministry of Land, Infrastructure, Transport and Tourism",
    "os": "candidate",
@@ -9473,6 +9510,12 @@
      "p": "2026-10-28",
      "t": "AI活用の総点検で不正アクセス発覚、クラウド利用者にパスワード変更要請│デジタルアーツ株式会社",
      "u": "https://cybersecurity-jp.com/news/117802"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-02",
+     "t": "AI を活用した総点検で発見 ～ デジタルアーツのクラウドサービス運用環境に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/02/56649.html"
     }
    ],
    "t": "unauthorized_access",
@@ -10851,6 +10894,16 @@
    "ls": "none_found",
    "nn": [
     {
+     "d": "2026-10-20",
+     "t": "外部委託先への不正アクセスに伴うお客様情報の漏洩について(第2報)",
+     "u": "https://www.iwaicosmo.co.jp/info/2026/10201710.html"
+    },
+    {
+     "d": "2026-10-21",
+     "t": "不正アクセスによる個人情報漏洩および不正取引に関するご報告",
+     "u": "https://www.iwaicosmo.net/info/post_499.html"
+    },
+    {
      "d": "",
      "t": "岩井コスモ証券「外部委託先への不正アクセスに伴うお客様情報の漏洩について」",
      "u": "https://www.iwaicosmo.co.jp/news/2026/10161410.html"
@@ -10872,6 +10925,12 @@
      "p": "2026-10-21",
      "t": "個人情報流出が判明、意図しない売買も - 岩井コスモ証券",
      "u": "https://www.security-next.com/191717"
+    },
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-10-22",
+     "t": "不正取引も行われた岩井コスモ証券への不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/10/22/113434"
     }
    ],
    "t": "unauthorized_access",
