@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-22",
+ "asof": "2026-11-23",
  "coverage": {
   "any": 23,
-  "kev90": 115,
+  "kev90": 114,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -2218,24 +2218,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-25",
-    "c": "CVE-2026-60004",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Gitea Gitea",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-72898",
     "cov": {
@@ -2452,12 +2434,12 @@
     "src": "radar"
    }
   ],
-  "targets": 124
+  "targets": 123
  },
  "edition": "waf",
  "feeds_n": 11,
  "feeds_ok": 11,
- "generated": "2026-11-22T01:30:19Z",
+ "generated": "2026-11-23T01:30:20Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2603,7 +2585,7 @@
  "totals": {
   "items_all": 417,
   "n30": 50,
-  "n90": 115,
+  "n90": 114,
   "since": "2022-02-01",
   "vendors30": 7
  },
@@ -3933,15 +3915,6 @@
    "u": "https://developers.cloudflare.com/changelog/post/2026-08-26-emergency-waf-release/",
    "v": "cloudflare",
    "ver": "2026-08-26 Emergency"
-  },
-  {
-   "cve": [],
-   "d": "2026-08-25",
-   "k": "rules_update",
-   "t": "WAF - WAF Release - 2026-08-25",
-   "u": "https://developers.cloudflare.com/changelog/post/2026-08-25-waf-release/",
-   "v": "cloudflare",
-   "ver": "2026-08-25"
   }
  ],
  "vendor_table": [
@@ -3956,7 +3929,7 @@
    "lt": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
    "lu": "https://blog.cloudflare.com/nginx2root/",
    "n30": 17,
-   "n90": 44,
+   "n90": 43,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": ""

@@ -1,6 +1,102 @@
 {
- "generated": "2026-11-22T11:45:04Z",
+ "generated": "2026-11-22T23:56:04Z",
  "incidents": [
+  {
+   "d": "2026-11-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-20",
+     "t": "ピーチ・アビエーション 公式発表（PDF）",
+     "u": "https://www.flypeach.com/application/files/3617/9515/4415/20261120_INFO_JP.pdf"
+    }
+   ],
+   "o": "ピーチ・アビエーション",
+   "oe": "Peach Aviation Limited",
+   "on": "https://www.flypeach.com/application/files/3617/9515/4415/20261120_INFO_JP.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-22",
+     "t": "ピーチ・アビエーションが委託先への不正アクセスで顧客899万件の情報漏えいを発表",
+     "u": "https://cybersecurity-jp.com/news/118777"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-22",
+   "ls": "none_found",
+   "o": "毎日新聞社",
+   "oe": "Mainichi Newspapers Co., Ltd.",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-22",
+     "t": "毎日新聞社がデジタル会員約14万人分の姓の漏えいを発表 委託先KARTEが不正アクセス",
+     "u": "https://cybersecurity-jp.com/news/118766"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-20",
+     "t": "メルカリ 当社グループが利用するクラウドサービスの委託先への不正アクセスによる情報流出の可能性について",
+     "u": "https://about.mercari.com/press/news/articles/20261120_incidentreport"
+    }
+   ],
+   "o": "メルカリ",
+   "oe": "Mercari, Inc.",
+   "on": "https://about.mercari.com/press/news/articles/20261120_incidentreport",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-22",
+     "t": "メルカリ、Notion AI委託先への不正アクセスで3,796名分の情報流出のおそれ",
+     "u": "https://cybersecurity-jp.com/news/118764"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "no"
+  },
+  {
+   "d": "2026-11-22",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "西宮市ホームページ（第1報）",
+     "u": "https://www.nishi.or.jp/shisei/koho/kishahappyoshiryo/2026/202611/R081104_suma-toshin.html"
+    }
+   ],
+   "o": "西宮市",
+   "oe": "Nishinomiya City",
+   "on": "https://www.nishi.or.jp/shisei/koho/kishahappyoshiryo/2026/202611/R081104_suma-toshin.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-22",
+     "t": "西宮市と尼崎市のメールアドレス計4万件超が流出 アララへの不正アクセスが原因",
+     "u": "https://cybersecurity-jp.com/news/118762"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
   {
    "d": "2026-11-21",
    "ls": "none_found",
@@ -84,7 +180,7 @@
    "ls": "none_found",
    "nn": [
     {
-     "d": "",
+     "d": "2026-11-20",
      "t": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について（デジタル庁）",
      "u": "https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986"
     }
@@ -285,6 +381,11 @@
      "d": "2026-11-21",
      "t": "【第二報】「六花亭オンラインショップ」への不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ",
      "u": "https://www.rokkatei.co.jp/news/info/20261121-25796/"
+    },
+    {
+     "d": "2026-11-21",
+     "t": "六花亭 第二報「六花亭オンラインショップ」への不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ",
+     "u": "https://www.rokkatei.co.jp/news/info/20261121-25796"
     }
    ],
    "o": "六花亭",
@@ -297,6 +398,12 @@
      "p": "2026-11-20",
      "t": "六花亭のオンラインショップで決済画面が改ざん被害 カード情報約8,000件流出の恐れ",
      "u": "https://cybersecurity-jp.com/news/118664"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-22",
+     "t": "六花亭がオンラインショップのカード情報流出でカード不正利用1件を確認と発表",
+     "u": "https://cybersecurity-jp.com/news/118765"
     }
    ],
    "t": "unauthorized_access",
@@ -698,7 +805,7 @@
     }
    ],
    "o": "スクー",
-   "oe": "Schoo",
+   "oe": "Schoo, inc.",
    "on": "https://www.release.tdnet.info/inbs/140120261119583325.pdf",
    "os": "tdnet",
    "s": [
@@ -4385,6 +4492,11 @@
      "d": "",
      "t": "早稲田大学 PHPの脆弱性対応に伴う一部サービスへのアクセス制限について",
      "u": "https://www.waseda.jp/top/information/123810"
+    },
+    {
+     "d": "",
+     "t": "早稲田大学 不正アクセスによる個人情報漏えいについて",
+     "u": "https://www.waseda.jp/top/news/topic/124183?lng=en"
     }
    ],
    "o": "早稲田大学",
@@ -4403,6 +4515,12 @@
      "p": "2026-11-21",
      "t": "個人情報管理システムが侵害、脆弱性対応中に判明 - 早稲田大",
      "u": "https://www.security-next.com/192578"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-22",
+     "t": "早稲田大学のMyWasedaログイン用ユーザー情報管理システムが不正アクセスを受け延べ3,342件の情報が漏えい",
+     "u": "https://cybersecurity-jp.com/news/118763"
     }
    ],
    "t": "unauthorized_access",

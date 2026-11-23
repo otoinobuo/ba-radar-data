@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-21",
+ "asof": "2026-11-22",
  "coverage": {
   "ca": "2023-10-12",
   "full_from": "2023-12-18",
@@ -9,7 +9,7 @@
   "sec8k": "2023-12-18"
  },
  "edition": "us",
- "generated": "2026-11-22T00:55:37Z",
+ "generated": "2026-11-23T00:47:03Z",
  "incidents": [
   {
    "a": null,
@@ -37,12 +37,18 @@
      "p": "2026-11-21",
      "t": "FBI reportedly hacked again, this time targeting nationwide police database",
      "u": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
+    },
+    {
+     "h": "securityweek.com",
+     "p": "2026-11-22",
+     "t": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+     "u": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
     }
    ],
-   "sec": "other",
+   "sec": "government",
    "st": "",
-   "t": "bec",
-   "v": "email_phishing",
+   "t": "ransomware",
+   "v": "webapp_vuln",
    "vl": [
     {
      "b": "report",
@@ -50,9 +56,16 @@
      "p": "Oracle PeopleSoft",
      "s": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
      "v": ""
+    },
+    {
+     "b": "report",
+     "c": "",
+     "p": "PHP Patches Seven",
+     "s": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+     "v": ""
     }
    ],
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "a": null,
@@ -74,12 +87,18 @@
      "p": "2026-11-21",
      "t": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
      "u": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+    },
+    {
+     "h": "bleepingcomputer.com",
+     "p": "2026-11-22",
+     "t": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+     "u": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "bec",
-   "v": "email_phishing",
+   "v": "webapp_vuln",
    "vl": [
     {
      "b": "report",
@@ -103,7 +122,7 @@
      "v": ""
     }
    ],
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "a": null,
@@ -227,7 +246,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633174"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -524,7 +543,7 @@
      "u": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -763,7 +782,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633010"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -1451,7 +1470,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632751"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "third_party",
@@ -2167,7 +2186,7 @@
    "ch": [
     "press"
    ],
-   "cl": "no",
+   "cl": "yes",
    "d": "2026-11-05",
    "dd": "",
    "id": 3803,
@@ -2548,7 +2567,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632247"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -3174,7 +3193,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632070"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -3531,7 +3550,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-631954"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -3741,7 +3760,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-631984"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "credential",
@@ -4001,7 +4020,7 @@
      "u": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "ransomware",
    "v": "third_party",
@@ -4352,7 +4371,7 @@
      "u": "https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "ransomware",
    "v": "email_phishing",
@@ -4717,7 +4736,7 @@
      "u": "https://databreaches.net/2026/10/27/covered-california-agent-data-exposed-in-phishing-attack/"
     }
    ],
-   "sec": "other",
+   "sec": "government",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -4801,7 +4820,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-631463"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "misdirected",
@@ -7322,7 +7341,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-630604"
     }
    ],
-   "sec": "other",
+   "sec": "education",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -9545,7 +9564,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-629908"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "misdirected",
@@ -9900,7 +9919,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-629789"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -11447,7 +11466,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-629190"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "credential",
@@ -12809,7 +12828,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-628646"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "credential",
@@ -13248,7 +13267,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-628551"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -15161,7 +15180,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-627755"
     }
    ],
-   "sec": "other",
+   "sec": "government",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -19331,7 +19350,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-626225"
     }
    ],
-   "sec": "other",
+   "sec": "education",
    "st": "",
    "t": "data_breach",
    "v": "third_party",
@@ -20816,7 +20835,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625558"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -23413,7 +23432,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624475"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -24922,7 +24941,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-623996"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "ransomware",
    "v": "unknown",
@@ -25090,7 +25109,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-623979"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -25896,7 +25915,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-623719"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -26148,7 +26167,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-623614"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -29172,7 +29191,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-622075"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -29256,7 +29275,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-622024"
     }
    ],
-   "sec": "other",
+   "sec": "professional_services",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -31674,7 +31693,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-621025"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "webapp_vuln",
@@ -32988,7 +33007,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-620455"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -35469,7 +35488,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-619390"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "third_party",
@@ -35763,7 +35782,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-619235"
     }
    ],
-   "sec": "other",
+   "sec": "education",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -38931,7 +38950,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-617733"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "ransomware",
    "v": "email_phishing",
@@ -42096,7 +42115,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-616419"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "third_party",
@@ -42505,7 +42524,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-616318"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -43641,7 +43660,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-615917"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -44381,7 +44400,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-615594"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -44591,7 +44610,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-615566"
     }
    ],
-   "sec": "other",
+   "sec": "professional_services",
    "st": "",
    "t": "data_breach",
    "v": "third_party",
@@ -48192,7 +48211,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-614005"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -48937,7 +48956,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-613583"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -51087,7 +51106,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-612354"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -53693,7 +53712,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-608462"
     }
    ],
-   "sec": "other",
+   "sec": "government",
    "st": "",
    "t": "data_breach",
    "v": "physical",
@@ -55037,7 +55056,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-607772"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -55079,7 +55098,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-607780"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -56237,7 +56256,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-607506"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -57648,7 +57667,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-606691"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -58393,7 +58412,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-606336"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -59491,7 +59510,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-605664"
     }
    ],
-   "sec": "other",
+   "sec": "education",
    "st": "",
    "t": "data_breach",
    "v": "third_party",
@@ -59743,7 +59762,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-605483"
     }
    ],
-   "sec": "other",
+   "sec": "professional_services",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -62533,7 +62552,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-605594"
     }
    ],
-   "sec": "other",
+   "sec": "government",
    "st": "",
    "t": "data_breach",
    "v": "misdirected",
@@ -63860,7 +63879,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-603975"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -64246,7 +64265,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-603858"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -65981,7 +66000,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-603095"
     }
    ],
-   "sec": "other",
+   "sec": "manufacturing",
    "st": "",
    "t": "ransomware",
    "v": "unknown",
@@ -67241,7 +67260,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-602415"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -67325,7 +67344,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-602338"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -70686,7 +70705,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-600989"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -71527,7 +71546,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-600565"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -73855,7 +73874,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-599546"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -74180,7 +74199,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-599438"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -74348,7 +74367,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-599269"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -76618,7 +76637,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-597819"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -76828,7 +76847,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-597714"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -78089,7 +78108,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-596806"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -79439,7 +79458,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-595939"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "webapp_vuln",
@@ -80009,7 +80028,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-595604"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -81002,7 +81021,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-595054"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -81170,7 +81189,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-594961"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -87596,7 +87615,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-590635"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "webapp_vuln",
@@ -88238,7 +88257,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-590178"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "cloud_misconfig",
@@ -90476,7 +90495,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-588491"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -92740,7 +92759,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-586512"
     }
    ],
-   "sec": "other",
+   "sec": "retail",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -93510,7 +93529,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-586037"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "email_phishing",
@@ -94518,7 +94537,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-585424"
     }
    ],
-   "sec": "other",
+   "sec": "professional_services",
    "st": "",
    "t": "data_breach",
    "v": "misdirected",
@@ -94746,7 +94765,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-585048"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "misdirected",
@@ -97379,7 +97398,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-583547"
     }
    ],
-   "sec": "other",
+   "sec": "government",
    "st": "",
    "t": "data_breach",
    "v": "credential",
@@ -99325,7 +99344,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-582687"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "credential",
@@ -101678,7 +101697,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-581276"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -104304,7 +104323,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579314"
     }
    ],
-   "sec": "other",
+   "sec": "healthcare",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -104430,7 +104449,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-579226"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "cloud_misconfig",
@@ -106494,7 +106513,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-578091"
     }
    ],
-   "sec": "other",
+   "sec": "technology",
    "st": "",
    "t": "data_breach",
    "v": "third_party",
@@ -106922,7 +106941,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-577840"
     }
    ],
-   "sec": "other",
+   "sec": "finance",
    "st": "",
    "t": "data_breach",
    "v": "credential",
@@ -107994,7 +108013,7 @@
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-577264"
     }
    ],
-   "sec": "other",
+   "sec": "government",
    "st": "",
    "t": "data_breach",
    "v": "unknown",
@@ -111726,7 +111745,7 @@
     "stateag": 49
    },
    "press": 23,
-   "ransomware": 4,
+   "ransomware": 5,
    "sec8k": 0,
    "stateag": 49
   }
@@ -111831,23 +111850,23 @@
    },
    "both": 4,
    "ch": {
-    "ca": 73,
+    "ca": 71,
     "hhs": 0,
     "me": 0,
-    "press": 33,
+    "press": 32,
     "sec8k": 0,
-    "stateag": 73
+    "stateag": 71
    },
-   "claim": 5,
-   "claim_checked": 102,
+   "claim": 6,
+   "claim_checked": 99,
    "ext_no": 3,
-   "ext_unknown": 86,
-   "ext_yes": 13,
+   "ext_unknown": 81,
+   "ext_yes": 15,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 39,
-      "median": 90,
+      "known": 38,
+      "median": 84,
       "p90": 289
      }
     },
@@ -111856,42 +111875,42 @@
      "61_90": 7,
      "8_30": 6,
      "91_180": 7,
-     "gt180": 12,
+     "gt180": 11,
      "lt8": 0
     },
-    "known": 39,
-    "median": 90,
+    "known": 38,
+    "median": 84,
     "p90": 289
    },
-   "n": 102,
-   "official_only": 69,
-   "press_only": 29,
+   "n": 99,
+   "official_only": 67,
+   "press_only": 28,
    "prev": 108,
-   "route_unknown": 65,
+   "route_unknown": 63,
    "routes": {
     "cloud_misconfig": 1,
     "credential": 7,
-    "email_phishing": 13,
+    "email_phishing": 10,
     "misdirected": 3,
     "third_party": 8,
-    "unknown": 65,
-    "webapp_vuln": 5
+    "unknown": 63,
+    "webapp_vuln": 7
    },
    "sectors": {
     "education": 12,
     "finance": 5,
-    "government": 4,
+    "government": 5,
     "healthcare": 29,
     "manufacturing": 3,
-    "other": 24,
+    "other": 12,
     "professional_services": 7,
-    "retail": 3,
-    "technology": 15
+    "retail": 7,
+    "technology": 19
    },
    "types": {
-    "bec": 6,
-    "data_breach": 88,
-    "ransomware": 8
+    "bec": 5,
+    "data_breach": 85,
+    "ransomware": 9
    },
    "vuln": 5,
    "vulns_top": [
@@ -111941,10 +111960,16 @@
      "c": "",
      "kev": false,
      "n": 1,
+     "p": "PHP Patches Seven"
+    },
+    {
+     "c": "",
+     "kev": false,
+     "n": 1,
      "p": "Patches"
     }
    ],
-   "yoy": 78
+   "yoy": 75
   },
   "365": {
    "affected": {
@@ -111970,11 +111995,11 @@
     "sec8k": 20,
     "stateag": 575
    },
-   "claim": 7,
+   "claim": 8,
    "claim_checked": 332,
    "ext_no": 35,
-   "ext_unknown": 979,
-   "ext_yes": 54,
+   "ext_unknown": 977,
+   "ext_yes": 56,
    "lag": {
     "by_ch": {
      "ca": {
@@ -112008,36 +112033,36 @@
    "n": 1068,
    "official_only": 1026,
    "press_only": 35,
-   "prev": 784,
+   "prev": 781,
    "route_unknown": 790,
    "routes": {
     "cloud_misconfig": 4,
     "credential": 23,
     "device": 1,
-    "email_phishing": 141,
+    "email_phishing": 139,
     "insider": 9,
     "misdirected": 22,
     "physical": 3,
     "third_party": 48,
     "unknown": 790,
-    "webapp_vuln": 27
+    "webapp_vuln": 29
    },
    "sectors": {
-    "education": 43,
-    "finance": 81,
-    "government": 22,
-    "healthcare": 623,
-    "manufacturing": 21,
-    "other": 116,
-    "professional_services": 72,
-    "retail": 26,
-    "technology": 64
+    "education": 46,
+    "finance": 85,
+    "government": 25,
+    "healthcare": 628,
+    "manufacturing": 22,
+    "other": 76,
+    "professional_services": 74,
+    "retail": 34,
+    "technology": 78
    },
    "types": {
-    "bec": 6,
+    "bec": 5,
     "data_breach": 568,
     "intrusion": 474,
-    "ransomware": 20
+    "ransomware": 21
    },
    "vuln": 17,
    "vulns_top": [
@@ -112102,7 +112127,7 @@
      "p": "GoAnywhere"
     }
    ],
-   "yoy": 784
+   "yoy": 781
   },
   "7": {
    "affected": {
@@ -112131,8 +112156,8 @@
    "claim": 1,
    "claim_checked": 23,
    "ext_no": 0,
-   "ext_unknown": 19,
-   "ext_yes": 4,
+   "ext_unknown": 17,
+   "ext_yes": 6,
    "lag": {
     "by_ch": {
      "ca": {
@@ -112156,28 +112181,29 @@
    "n": 23,
    "official_only": 12,
    "press_only": 11,
-   "prev": 21,
+   "prev": 20,
    "route_unknown": 12,
    "routes": {
     "cloud_misconfig": 1,
     "credential": 2,
-    "email_phishing": 5,
+    "email_phishing": 3,
     "third_party": 2,
     "unknown": 12,
-    "webapp_vuln": 1
+    "webapp_vuln": 3
    },
    "sectors": {
     "education": 2,
-    "government": 2,
+    "finance": 1,
+    "government": 3,
     "healthcare": 8,
-    "other": 9,
-    "retail": 1,
-    "technology": 1
+    "other": 4,
+    "retail": 2,
+    "technology": 3
    },
    "types": {
-    "bec": 3,
+    "bec": 2,
     "data_breach": 19,
-    "ransomware": 1
+    "ransomware": 2
    },
    "vuln": 2,
    "vulns_top": [
@@ -112204,6 +112230,12 @@
      "kev": false,
      "n": 1,
      "p": "Outlook"
+    },
+    {
+     "c": "",
+     "kev": false,
+     "n": 1,
+     "p": "PHP Patches Seven"
     }
    ],
    "yoy": 24
@@ -112225,24 +112257,24 @@
    },
    "both": 7,
    "ch": {
-    "ca": 171,
+    "ca": 168,
     "hhs": 99,
     "me": 0,
     "press": 42,
     "sec8k": 4,
-    "stateag": 171
+    "stateag": 168
    },
-   "claim": 7,
-   "claim_checked": 301,
+   "claim": 8,
+   "claim_checked": 298,
    "ext_no": 12,
-   "ext_unknown": 266,
-   "ext_yes": 23,
+   "ext_unknown": 261,
+   "ext_yes": 25,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 88,
-      "median": 96,
-      "p90": 340
+      "known": 86,
+      "median": 91,
+      "p90": 338
      },
      "hhs": {
       "known": 6,
@@ -112254,45 +112286,45 @@
      "31_60": 19,
      "61_90": 12,
      "8_30": 12,
-     "91_180": 15,
-     "gt180": 30,
+     "91_180": 14,
+     "gt180": 29,
      "lt8": 0
     },
-    "known": 88,
-    "median": 96,
-    "p90": 340
+    "known": 86,
+    "median": 91,
+    "p90": 338
    },
-   "n": 301,
-   "official_only": 259,
+   "n": 298,
+   "official_only": 256,
    "press_only": 35,
    "prev": 280,
-   "route_unknown": 215,
+   "route_unknown": 212,
    "routes": {
     "cloud_misconfig": 1,
     "credential": 10,
-    "email_phishing": 34,
+    "email_phishing": 32,
     "misdirected": 11,
     "physical": 1,
     "third_party": 17,
-    "unknown": 215,
-    "webapp_vuln": 12
+    "unknown": 212,
+    "webapp_vuln": 14
    },
    "sectors": {
-    "education": 21,
-    "finance": 18,
-    "government": 10,
-    "healthcare": 147,
+    "education": 22,
+    "finance": 19,
+    "government": 12,
+    "healthcare": 149,
     "manufacturing": 5,
-    "other": 46,
-    "professional_services": 27,
-    "retail": 6,
-    "technology": 21
+    "other": 28,
+    "professional_services": 26,
+    "retail": 10,
+    "technology": 27
    },
    "types": {
-    "bec": 6,
-    "data_breach": 193,
+    "bec": 5,
+    "data_breach": 190,
     "intrusion": 91,
-    "ransomware": 11
+    "ransomware": 12
    },
    "vuln": 9,
    "vulns_top": [
@@ -112354,10 +112386,10 @@
      "c": "",
      "kev": false,
      "n": 1,
-     "p": "Patches"
+     "p": "PHP Patches Seven"
     }
    ],
-   "yoy": 213
+   "yoy": 212
   },
   "all": {
    "affected": {
@@ -112383,11 +112415,11 @@
     "sec8k": 63,
     "stateag": 1719
    },
-   "claim": 7,
+   "claim": 8,
    "claim_checked": 332,
    "ext_no": 85,
-   "ext_unknown": 2307,
-   "ext_yes": 158,
+   "ext_unknown": 2305,
+   "ext_yes": 160,
    "lag": {
     "by_ch": {
      "ca": {
@@ -112427,30 +112459,30 @@
     "cloud_misconfig": 9,
     "credential": 72,
     "device": 8,
-    "email_phishing": 288,
+    "email_phishing": 286,
     "insider": 19,
     "misdirected": 51,
     "physical": 7,
     "third_party": 121,
     "unknown": 1898,
-    "webapp_vuln": 77
+    "webapp_vuln": 79
    },
    "sectors": {
-    "education": 131,
-    "finance": 277,
-    "government": 61,
-    "healthcare": 1206,
-    "manufacturing": 55,
-    "other": 341,
-    "professional_services": 195,
-    "retail": 88,
-    "technology": 196
+    "education": 135,
+    "finance": 288,
+    "government": 68,
+    "healthcare": 1216,
+    "manufacturing": 60,
+    "other": 257,
+    "professional_services": 199,
+    "retail": 101,
+    "technology": 226
    },
    "types": {
-    "bec": 6,
+    "bec": 5,
     "data_breach": 1646,
     "intrusion": 798,
-    "ransomware": 100
+    "ransomware": 101
    },
    "vuln": 64,
    "vulns_top": [
