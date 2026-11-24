@@ -1,8 +1,8 @@
 {
- "asof": "2026-11-23",
+ "asof": "2026-11-24",
  "coverage": {
   "any": 23,
-  "kev90": 114,
+  "kev90": 110,
   "per_vendor": {
    "akamai": 0,
    "aws": 2,
@@ -17,6 +17,42 @@
   "radar_obs": 11,
   "radar_only": 9,
   "rows": [
+   {
+    "added": "2026-11-23",
+    "c": "CVE-2026-134624",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crowdsec": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "N-able MailAssure",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-23",
+    "c": "CVE-2026-133968",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crowdsec": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Project MONAI MONAI Label",
+    "src": "kev"
+   },
    {
     "added": "2026-11-20",
     "c": "CVE-2026-76466",
@@ -2110,114 +2146,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-26",
-    "c": "CVE-2026-8452",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Citrix NetScaler ADC and NetScaler Gateway",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-26",
-    "c": "CVE-2022-0995",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Linux Kernel",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-26",
-    "c": "CVE-2021-23758",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Ajax.NET Professional Ajax.NET Professional",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-26",
-    "c": "CVE-2019-1068",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Microsoft SQL Server",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-26",
-    "c": "CVE-2015-5287",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Red Hat Automatic Bug Reporting Tool",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-26",
-    "c": "CVE-2015-3246",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Red Hat Libuser",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-72898",
     "cov": {
@@ -2434,12 +2362,12 @@
     "src": "radar"
    }
   ],
-  "targets": 123
+  "targets": 119
  },
  "edition": "waf",
  "feeds_n": 11,
  "feeds_ok": 11,
- "generated": "2026-11-23T01:30:20Z",
+ "generated": "2026-11-24T01:30:15Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2583,13 +2511,58 @@
   }
  ],
  "totals": {
-  "items_all": 417,
-  "n30": 50,
-  "n90": 114,
+  "items_all": 421,
+  "n30": 53,
+  "n90": 117,
   "since": "2022-02-01",
-  "vendors30": 7
+  "vendors30": 8
  },
  "updates": [
+  {
+   "cve": [],
+   "d": "2026-11-23",
+   "k": "release",
+   "t": "[Launched] Generally Available: WAF Insights for Azure Front Door",
+   "u": "https://azure.microsoft.com/updates?id=579285",
+   "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-23",
+   "k": "rules_update",
+   "t": "v4.31.0",
+   "u": "https://github.com/coreruleset/coreruleset/releases/tag/v4.31.0",
+   "v": "crs",
+   "ver": "4.31.0"
+  },
+  {
+   "cve": [],
+   "d": "2026-11-23",
+   "k": "rules_update",
+   "t": "AWS WAF AI Security rule group: Released Version_1.0 of the AWS WAF AI Security managed rule group, AWSManagedRulesAISecurityRuleSet .",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-23-c1e2f9fa4c",
+   "v": "aws",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-23",
+   "k": "rules_update",
+   "t": "AWS WAF API Security rule group: Released Version_1.0 of the AWS WAF API Security managed rule group, AWSManagedRulesAPISecurityRuleSet .",
+   "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-23-446d68c0fe",
+   "v": "aws",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-23",
+   "k": "release",
+   "t": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
+   "u": "https://azure.microsoft.com/updates?id=579280",
+   "v": "azure",
+   "ver": ""
+  },
   {
    "cve": [
     "CVE-2026-129289",
@@ -2924,15 +2897,6 @@
    "k": "release",
    "t": "[In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF",
    "u": "https://azure.microsoft.com/updates?id=580155",
-   "v": "azure",
-   "ver": ""
-  },
-  {
-   "cve": [],
-   "d": "2026-11-05",
-   "k": "release",
-   "t": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
-   "u": "https://azure.microsoft.com/updates?id=579280",
    "v": "azure",
    "ver": ""
   },
@@ -3904,17 +3868,6 @@
    "u": "https://docs.cloud.google.com/armor/docs/release-notes#August_27_2026",
    "v": "gcp",
    "ver": ""
-  },
-  {
-   "cve": [
-    "CVE-2026-75604"
-   ],
-   "d": "2026-08-26",
-   "k": "rules_update",
-   "t": "WAF - WAF Release - 2026-08-26 - Emergency",
-   "u": "https://developers.cloudflare.com/changelog/post/2026-08-26-emergency-waf-release/",
-   "v": "cloudflare",
-   "ver": "2026-08-26 Emergency"
   }
  ],
  "vendor_table": [
@@ -3928,8 +3881,8 @@
    "last": "2026-11-20",
    "lt": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
    "lu": "https://blog.cloudflare.com/nginx2root/",
-   "n30": 17,
-   "n90": 43,
+   "n30": 16,
+   "n90": 42,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": ""
@@ -3939,28 +3892,28 @@
    "k": [
     "rules_update"
    ],
-   "last": "2026-11-19",
-   "lt": "Known bad inputs managed rule group : Released static version 1.29 of this rule group.",
-   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-19-b11240ea07",
-   "n30": 8,
-   "n90": 14,
+   "last": "2026-11-23",
+   "lt": "AWS WAF AI Security rule group: Released Version_1.0 of the AWS WAF AI Security managed rule group, AWSManagedRulesAISecurityRuleSet .",
+   "lu": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-11-23-c1e2f9fa4c",
+   "n30": 10,
+   "n90": 16,
    "name": "AWS WAF",
    "v": "aws",
-   "ver": "1.29"
+   "ver": ""
   },
   {
    "gap": 46,
    "k": [
     "rules_update"
    ],
-   "last": "2026-10-02",
-   "lt": "v4.25.2 (LTS)",
-   "lu": "https://github.com/coreruleset/coreruleset/releases/tag/v4.25.2",
-   "n30": 0,
-   "n90": 2,
+   "last": "2026-11-23",
+   "lt": "v4.31.0",
+   "lu": "https://github.com/coreruleset/coreruleset/releases/tag/v4.31.0",
+   "n30": 1,
+   "n90": 3,
    "name": "OWASP CRS",
    "v": "crs",
-   "ver": "4.25.2"
+   "ver": "4.31.0"
   },
   {
    "gap": 20,
@@ -3977,15 +3930,15 @@
    "ver": ""
   },
   {
-   "gap": 7,
+   "gap": 8,
    "k": [
     "release"
    ],
-   "last": "2026-11-18",
-   "lt": "[In preview] Public Preview: AI bot ruleset for Azure Front Door Premium WAF",
-   "lu": "https://azure.microsoft.com/updates?id=581604",
-   "n30": 5,
-   "n90": 9,
+   "last": "2026-11-23",
+   "lt": "[Launched] Generally Available: WAF Insights for Azure Front Door",
+   "lu": "https://azure.microsoft.com/updates?id=579285",
+   "n30": 6,
+   "n90": 10,
    "name": "Azure WAF",
    "v": "azure",
    "ver": ""

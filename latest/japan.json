@@ -1,6 +1,107 @@
 {
- "generated": "2026-11-22T23:56:04Z",
+ "generated": "2026-11-23T23:58:14Z",
  "incidents": [
+  {
+   "d": "2026-11-24",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-12",
+     "t": "外部委託先への不正アクセスによるお客様情報漏えいの可能性について",
+     "u": "https://www.persol-career.co.jp/info/20261112_2370"
+    }
+   ],
+   "o": "パーソルキャリア株式会社",
+   "oe": "PERSOL CAREER Co., Ltd.",
+   "on": "https://www.persol-career.co.jp/info/20261112_2370",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "電通デジタル「TONARIWA」に不正アクセス、パーソルキャリアが保持していた情報が漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56877.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-24",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "【更新】代理店向けシステム「FWD navi」への不正アクセスに伴うお客さま情報の漏えいについて",
+     "u": "https://www.fwdlife.co.jp/system-information"
+    }
+   ],
+   "o": "FWD生命保険株式会社",
+   "oe": "FWD Life Insurance",
+   "on": "https://www.fwdlife.co.jp/system-information",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "保険代理店に提供システム「FWD navi」に不正アクセス、最大9,000件の契約情報が閲覧可能な状態に",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56875.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "credential",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-24",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-10-08",
+     "t": "委託先における個人情報漏えいのおそれについて ※追記あり",
+     "u": "https://www.dkkaraoke.co.jp/news/newsletter/261008_2.html"
+    },
+    {
+     "d": "2026-11-06",
+     "t": "委託先における個人情報漏えいのおそれに関する外部専門機関による調査結果および今後の対応について",
+     "u": "https://www.dkkaraoke.co.jp/news/newsletter/261106_1.html"
+    }
+   ],
+   "o": "株式会社第一興商",
+   "oe": "Daiichikosho Co., Ltd.",
+   "on": "https://www.dkkaraoke.co.jp/news/newsletter/261008_2.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "第一興商の業務委託先 日本コロムビアグループの従業員の端末がマルウェア感染、外部サーバとの不正な通信を確認",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56872.html"
+    }
+   ],
+   "t": "other",
+   "v": "vendor_cloud",
+   "x": "no"
+  },
+  {
+   "d": "2026-11-24",
+   "ls": "none_found",
+   "o": "株式会社沖縄銀行",
+   "oe": "The Bank of Okinawa, Ltd.",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "債権回収事業者に不正アクセス、地銀の個人情報漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56871.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
   {
    "d": "2026-11-22",
    "ls": "none_found",
@@ -1204,6 +1305,11 @@
      "d": "2026-11-17",
      "t": "当社お客様の情報漏えいの可能性に関するお詫びとお知らせ",
      "u": "https://www.rakuten-sec.co.jp/web/info/info20261117-02.html"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "金融庁による報告徴求命令の受領について",
+     "u": "https://www.rakuten-sec.co.jp/web/company/newsrelease/pdf/press2026111901.pdf"
     }
    ],
    "o": "楽天証券",
@@ -2487,6 +2593,11 @@
      "d": "2026-02-05",
      "t": "アットホーム株式会社 お知らせ（2月5日・引越し見積もりの件）",
      "u": "https://www.athome.co.jp/corporate/news/topics/oshirase-202602"
+    },
+    {
+     "d": "",
+     "t": "「賃貸管理システム」の管理サイトへの不正アクセスによる個人情報漏えいの可能性に関するお詫びとご報告",
+     "u": "https://www.athome.co.jp/corporate/news/topics/oshirase-202611"
     }
    ],
    "o": "アットホーム",
@@ -2499,6 +2610,12 @@
      "p": "2026-11-15",
      "t": "アットホームの賃貸管理システムに不正アクセス、6,901件の個人情報が漏えいのおそれ",
      "u": "https://cybersecurity-jp.com/news/118421"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "アットホーム提供の不動産会社向け業務管理サービス「賃貸管理システム」に不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56879.html"
     }
    ],
    "t": "unauthorized_access",
@@ -2569,6 +2686,12 @@
      "p": "2026-11-15",
      "t": "マネックス証券の委託先口座開設システムに不正アクセス 最大113万件のメールが漏えいのおそれ",
      "u": "https://cybersecurity-jp.com/news/118418"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "マネックス証券の口座開設システムに不正アクセス、本人確認書類画像データが漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56881.html"
     }
    ],
    "t": "unauthorized_access",
@@ -2638,6 +2761,11 @@
      "d": "",
      "t": "京成電鉄 【お詫び】スカイライナー座席予約システムへの不正アクセスについて（PDF）",
      "u": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/zDQUntkx.pdf"
+    },
+    {
+     "d": "",
+     "t": "【お詫び】スカイライナー座席予約システムへの不正アクセスについて",
+     "u": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/nWeYDLzk.pdf"
     }
    ],
    "o": "京成電鉄",
@@ -2650,6 +2778,12 @@
      "p": "2026-11-14",
      "t": "京成電鉄のスカイライナー座席予約システムに不正アクセス 最大337万件の情報取得の可能性",
      "u": "https://cybersecurity-jp.com/news/118415"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "スカイライナー座席予約システムに不正アクセス、最大約337万件の顧客情報が取得された可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56880.html"
     }
    ],
    "t": "unauthorized_access",
@@ -3076,6 +3210,11 @@
      "d": "",
      "t": "電通デジタル 当社が提供する「TONARIWA」における不正アクセスに伴う個人情報漏えいの可能性に関するお詫びとご報告",
      "u": "https://www.dentsudigital.co.jp/news/updates/services/2026-1111-001111"
+    },
+    {
+     "d": "",
+     "t": "【第二報】当社が提供する「TONARIWA」における不正アクセスに伴う個人情報漏えいに関するお詫びとご報告",
+     "u": "https://www.dentsudigital.co.jp/news/updates/services/2026-1112-001112"
     }
    ],
    "o": "電通デジタル",
@@ -3088,6 +3227,12 @@
      "p": "2026-11-12",
      "t": "電通デジタルのTONARIWAが不正アクセスを受け顧客企業ユーザーの個人情報が漏えいの恐れ",
      "u": "https://cybersecurity-jp.com/news/118310"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "電通デジタル「TONARIWA」に不正アクセス、導入企業 2 社で個人情報漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56878.html"
     }
    ],
    "t": "unauthorized_access",
@@ -4047,6 +4192,12 @@
      "p": "2026-11-10",
      "t": "シェアフルの社内管理システムに不正アクセス 個人情報最大約750万件が流出の可能性",
      "u": "https://cybersecurity-jp.com/news/118243"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "スキマバイトアプリ「シェアフル」の社内管理システムに不正アクセス、最大約750万件の個人情報が流出した可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56873.html"
     }
    ],
    "t": "unauthorized_access",
@@ -4436,6 +4587,12 @@
      "p": "2026-11-10",
      "t": "システム侵害で顧客情報流出の可能性 - ニトリグループ",
      "u": "https://www.security-next.com/192572"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "ニトリホールディングスに不正アクセス、最大3,762万件の個人情報が漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56874.html"
     }
    ],
    "t": "unauthorized_access",
@@ -4800,6 +4957,11 @@
      "d": "",
      "t": "ロート製薬 当社システムにおける不正アクセスの可能性について",
      "u": "https://www.rohto.co.jp/news/whatsnew/2026/0911_01"
+    },
+    {
+     "d": "",
+     "t": "不正アクセスによるお客様の個人データ漏えいに関するお詫びとお知らせ",
+     "u": "https://www.shop.rohto.co.jp/news/news_2026-11-001.html"
     }
    ],
    "o": "ロート製薬",
@@ -4818,6 +4980,12 @@
      "p": "2026-11-09",
      "t": "不正アクセスで個人情報流出、通話音声にクレカ情報も - ロート製薬",
      "u": "https://www.security-next.com/192493"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-24",
+     "t": "ロート製薬のシステムに不正アクセス、クレジットカード番号含む通話音声データが漏えい",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56876.html"
     }
    ],
    "t": "unauthorized_access",
