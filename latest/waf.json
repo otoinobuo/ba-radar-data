@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-24",
+ "asof": "2026-11-25",
  "coverage": {
   "any": 23,
   "kev90": 110,
@@ -17,6 +17,60 @@
   "radar_obs": 11,
   "radar_only": 9,
   "rows": [
+   {
+    "added": "2026-11-24",
+    "c": "CVE-2026-132224",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crowdsec": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Optimizely Web Experimentation",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-24",
+    "c": "CVE-2026-132165",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crowdsec": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Drupal Core",
+    "src": "kev"
+   },
+   {
+    "added": "2026-11-24",
+    "c": "CVE-2026-131914",
+    "cov": {
+     "akamai": null,
+     "aws": null,
+     "azure": null,
+     "cloudflare": null,
+     "crowdsec": null,
+     "crs": null,
+     "gcp": null,
+     "imperva": null,
+     "wafcharm": null
+    },
+    "obs": [],
+    "p": "Idunno AntiCsrf",
+    "src": "kev"
+   },
    {
     "added": "2026-11-23",
     "c": "CVE-2026-134624",
@@ -2092,60 +2146,6 @@
     "src": "kev"
    },
    {
-    "added": "2026-08-27",
-    "c": "CVE-2026-66384",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "JFrog Artifactory",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-27",
-    "c": "CVE-2026-53362",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "Linux Kernel",
-    "src": "kev"
-   },
-   {
-    "added": "2026-08-27",
-    "c": "CVE-2023-49105",
-    "cov": {
-     "akamai": null,
-     "aws": null,
-     "azure": null,
-     "cloudflare": null,
-     "crowdsec": null,
-     "crs": null,
-     "gcp": null,
-     "imperva": null,
-     "wafcharm": null
-    },
-    "obs": [],
-    "p": "ownCloud ownCloud",
-    "src": "kev"
-   },
-   {
     "added": "",
     "c": "CVE-2026-72898",
     "cov": {
@@ -2367,7 +2367,7 @@
  "edition": "waf",
  "feeds_n": 11,
  "feeds_ok": 11,
- "generated": "2026-11-24T01:30:15Z",
+ "generated": "2026-11-25T01:30:20Z",
  "method": {
   "coverage": "The target CVEs are the CISA KEV entries added in the last 90 days plus CVEs named as exploited in the sister Breach Radars (Japan, US). A cell shows the earliest date on which a vendor text above names the CVE. A dash means no such text was found in the sources read; it does not mean the vendor lacks a rule, and a vendor can protect without naming the CVE.",
   "coverage_ja": "対象 CVE は、直近 90 日に CISA KEV に追加されたものと、姉妹の侵害レーダー(日本・米国)が悪用されたと名指しした CVE。セルは、上の各社の文面がその CVE を名指しした最も早い日付。ダッシュは「読んだ範囲に該当文面が無い」の意味で、ルールが無いという意味ではない。名指しせずに防御している場合もある。",
@@ -2511,13 +2511,53 @@
   }
  ],
  "totals": {
-  "items_all": 421,
-  "n30": 53,
-  "n90": 117,
+  "items_all": 425,
+  "n30": 57,
+  "n90": 120,
   "since": "2022-02-01",
   "vendors30": 8
  },
  "updates": [
+  {
+   "cve": [
+    "CVE-2026-114938"
+   ],
+   "d": "2026-11-24",
+   "k": "rules_update",
+   "t": "fix potential FP with zscaler cookies (#2025)",
+   "u": "https://github.com/crowdsecurity/hub/commit/a0f8bc26207805d8f0fcfcf00e3f2c9c21680884",
+   "v": "crowdsec",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-24",
+   "k": "release",
+   "t": "WAF - WAF Emergency Release - 2026-11-24",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-11-24-emergency-waf-release/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-24",
+   "k": "release",
+   "t": "WAF - Updated prompt logging for AI Security for Apps",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-11-24-ai-security-prompt-logging/",
+   "v": "cloudflare",
+   "ver": ""
+  },
+  {
+   "cve": [
+    "CVE-2026-103849"
+   ],
+   "d": "2026-11-24",
+   "k": "rules_update",
+   "t": "WAF - WAF Release - Scheduled changes for 2026-12-01",
+   "u": "https://developers.cloudflare.com/changelog/post/scheduled-waf-release/",
+   "v": "cloudflare",
+   "ver": "scheduled 2026-12-01"
+  },
   {
    "cve": [],
    "d": "2026-11-23",
@@ -2561,6 +2601,15 @@
    "t": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
    "u": "https://azure.microsoft.com/updates?id=579280",
    "v": "azure",
+   "ver": ""
+  },
+  {
+   "cve": [],
+   "d": "2026-11-20",
+   "k": "release",
+   "t": "WAF - WAF Emergency Release - 2026-11-20",
+   "u": "https://developers.cloudflare.com/changelog/post/2026-11-20-emergency-waf-release/",
+   "v": "cloudflare",
    "ver": ""
   },
   {
@@ -2938,15 +2987,6 @@
    "u": "https://developers.cloudflare.com/changelog/post/2026-11-03-waf-release/",
    "v": "cloudflare",
    "ver": "2026-11-03"
-  },
-  {
-   "cve": [],
-   "d": "2026-11-03",
-   "k": "rules_update",
-   "t": "WAF - WAF Release - Scheduled changes for 2026-11-10",
-   "u": "https://developers.cloudflare.com/changelog/post/scheduled-waf-release/",
-   "v": "cloudflare",
-   "ver": "scheduled 2026-11-10"
   },
   {
    "cve": [],
@@ -3859,30 +3899,21 @@
    "u": "https://docs.aws.amazon.com/waf/latest/developerguide/aws-managed-rule-groups-changelog.html#2026-08-28-b0e2203067",
    "v": "aws",
    "ver": "1.23"
-  },
-  {
-   "cve": [],
-   "d": "2026-08-27",
-   "k": "release",
-   "t": "Cloud Armor release notes: August 27, 2026",
-   "u": "https://docs.cloud.google.com/armor/docs/release-notes#August_27_2026",
-   "v": "gcp",
-   "ver": ""
   }
  ],
  "vendor_table": [
   {
-   "gap": 3,
+   "gap": 4,
    "k": [
     "cve_coverage",
     "release",
     "rules_update"
    ],
-   "last": "2026-11-20",
-   "lt": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
-   "lu": "https://blog.cloudflare.com/nginx2root/",
-   "n30": 16,
-   "n90": 42,
+   "last": "2026-11-24",
+   "lt": "WAF - WAF Emergency Release - 2026-11-24",
+   "lu": "https://developers.cloudflare.com/changelog/post/2026-11-24-emergency-waf-release/",
+   "n30": 19,
+   "n90": 45,
    "name": "Cloudflare",
    "v": "cloudflare",
    "ver": ""
@@ -3924,7 +3955,7 @@
    "lt": "Cloud Armor release notes: November 16, 2026",
    "lu": "https://docs.cloud.google.com/armor/docs/release-notes#November_16_2026",
    "n30": 2,
-   "n90": 6,
+   "n90": 5,
    "name": "Google Cloud Armor",
    "v": "gcp",
    "ver": ""
@@ -3990,11 +4021,11 @@
    "k": [
     "rules_update"
    ],
-   "last": "2026-11-19",
-   "lt": "add rules and tests for ruby2shell - CVE-2026-132825 (#2019)",
-   "lu": "https://github.com/crowdsecurity/hub/commit/88116ce09d71b43f4ffaec8bc6bd22d8da242401",
-   "n30": 8,
-   "n90": 19,
+   "last": "2026-11-24",
+   "lt": "fix potential FP with zscaler cookies (#2025)",
+   "lu": "https://github.com/crowdsecurity/hub/commit/a0f8bc26207805d8f0fcfcf00e3f2c9c21680884",
+   "n30": 9,
+   "n90": 20,
    "name": "CrowdSec",
    "v": "crowdsec",
    "ver": ""

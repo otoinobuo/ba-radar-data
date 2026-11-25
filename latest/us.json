@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-23",
+ "asof": "2026-11-24",
  "coverage": {
   "ca": "2023-10-12",
   "full_from": "2023-12-18",
@@ -9,8 +9,150 @@
   "sec8k": "2023-12-18"
  },
  "edition": "us",
- "generated": "2026-11-24T00:47:14Z",
+ "generated": "2026-11-25T00:49:59Z",
  "incidents": [
+  {
+   "a": null,
+   "bd": "",
+   "ch": [
+    "press"
+   ],
+   "cl": "no",
+   "d": "2026-11-24",
+   "dd": "",
+   "id": 3873,
+   "nd": "",
+   "nn": [],
+   "o": "Colorado",
+   "on": "",
+   "s": [
+    {
+     "h": "therecord.media",
+     "p": "2026-11-24",
+     "t": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+     "u": "https://therecord.media/mycolorado-app-down-data-breach"
+    }
+   ],
+   "sec": "other",
+   "st": "",
+   "t": "ransomware",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "",
+   "ch": [
+    "press"
+   ],
+   "cl": "no",
+   "d": "2026-11-24",
+   "dd": "",
+   "id": 3872,
+   "nd": "",
+   "nn": [],
+   "o": "CIA",
+   "on": "",
+   "s": [
+    {
+     "h": "securityweek.com",
+     "p": "2026-11-24",
+     "t": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+     "u": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"
+    }
+   ],
+   "sec": "government",
+   "st": "",
+   "t": "data_breach",
+   "v": "credential",
+   "vl": [],
+   "x": "yes"
+  },
+  {
+   "a": null,
+   "bd": "2026-10-20",
+   "ch": [
+    "ca"
+   ],
+   "cl": "no",
+   "d": "2026-11-24",
+   "dd": "",
+   "id": 3871,
+   "nd": "2026-11-24",
+   "nn": [
+    {
+     "d": "2026-11-24",
+     "k": "ca",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633348"
+    },
+    {
+     "d": "2026-11-24",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Teachers%20On%20Reserve%20-%20AG%20Notice%20of%20Data%20Event%20%28CA%29%2011.24.26_0.pdf"
+    }
+   ],
+   "o": "Teachers On Reserve",
+   "on": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633348",
+   "s": [
+    {
+     "h": "oag.ca.gov",
+     "p": "2026-11-24",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633348"
+    }
+   ],
+   "sec": "education",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
+  {
+   "a": null,
+   "bd": "2026-01-19",
+   "ch": [
+    "ca"
+   ],
+   "cl": "no",
+   "d": "2026-11-23",
+   "dd": "2026-01-25",
+   "id": 3870,
+   "nd": "2026-11-23",
+   "nn": [
+    {
+     "d": "2026-11-23",
+     "k": "ca",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633318"
+    },
+    {
+     "d": "2026-11-23",
+     "k": "ca",
+     "t": "Notice of data breach (CA AG submission)",
+     "u": "https://oag.ca.gov/system/files/Notice%20of%20Data%20Security%20Incident.10.2026_Redacted.pdf"
+    }
+   ],
+   "o": "Kern County Behavioral Health & Recovery Services",
+   "on": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633318",
+   "s": [
+    {
+     "h": "oag.ca.gov",
+     "p": "2026-11-23",
+     "t": "California Attorney General breach list entry",
+     "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633318"
+    }
+   ],
+   "sec": "healthcare",
+   "st": "",
+   "t": "data_breach",
+   "v": "unknown",
+   "vl": [],
+   "x": "unknown"
+  },
   {
    "a": null,
    "bd": "",
@@ -25522,7 +25664,7 @@
    "x": "unknown"
   },
   {
-   "a": 1807,
+   "a": 601807,
    "bd": "",
    "ch": [
     "hhs"
@@ -25543,6 +25685,12 @@
      "d": "2026-05-22",
      "k": "hhs",
      "t": "HHS OCR breach portal entry",
+     "u": "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf#9438764ed1bd4a19"
+    },
+    {
+     "d": "2026-05-22",
+     "k": "hhs",
+     "t": "HHS OCR breach portal entry",
      "u": "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
     }
    ],
@@ -25554,6 +25702,12 @@
      "p": "2026-05-22",
      "t": "HHS OCR breach portal entry",
      "u": "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf#56d9461aef5731f6"
+    },
+    {
+     "h": "ocrportal.hhs.gov",
+     "p": "2026-05-22",
+     "t": "HHS OCR breach portal entry",
+     "u": "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf#9438764ed1bd4a19"
     }
    ],
    "sec": "healthcare",
@@ -111798,17 +111952,17 @@
   {
    "hhs": 0,
    "m": "2026-11",
-   "n": 69,
+   "n": 73,
    "pc": {
     "hhs": 0,
-    "press": 20,
+    "press": 22,
     "sec8k": 0,
-    "stateag": 49
+    "stateag": 51
    },
-   "press": 23,
-   "ransomware": 5,
+   "press": 25,
+   "ransomware": 6,
    "sec8k": 0,
-   "stateag": 49
+   "stateag": 51
   }
  ],
  "playbooks": {
@@ -111911,24 +112065,24 @@
    },
    "both": 4,
    "ch": {
-    "ca": 71,
+    "ca": 73,
     "hhs": 0,
     "me": 0,
-    "press": 32,
+    "press": 34,
     "sec8k": 0,
-    "stateag": 71
+    "stateag": 73
    },
    "claim": 6,
-   "claim_checked": 99,
+   "claim_checked": 103,
    "ext_no": 3,
-   "ext_unknown": 82,
-   "ext_yes": 14,
+   "ext_unknown": 85,
+   "ext_yes": 15,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 38,
-      "median": 84,
-      "p90": 289
+      "known": 39,
+      "median": 90,
+      "p90": 292
      }
     },
     "hist": {
@@ -111936,42 +112090,42 @@
      "61_90": 7,
      "8_30": 6,
      "91_180": 7,
-     "gt180": 11,
+     "gt180": 12,
      "lt8": 0
     },
-    "known": 38,
-    "median": 84,
-    "p90": 289
+    "known": 39,
+    "median": 90,
+    "p90": 292
    },
-   "n": 99,
-   "official_only": 67,
-   "press_only": 28,
-   "prev": 103,
-   "route_unknown": 64,
+   "n": 103,
+   "official_only": 69,
+   "press_only": 30,
+   "prev": 89,
+   "route_unknown": 67,
    "routes": {
     "cloud_misconfig": 1,
-    "credential": 7,
+    "credential": 8,
     "email_phishing": 10,
     "misdirected": 3,
     "third_party": 8,
-    "unknown": 64,
+    "unknown": 67,
     "webapp_vuln": 6
    },
    "sectors": {
-    "education": 13,
+    "education": 14,
     "finance": 7,
-    "government": 7,
-    "healthcare": 30,
+    "government": 8,
+    "healthcare": 31,
     "manufacturing": 3,
-    "other": 3,
+    "other": 4,
     "professional_services": 7,
     "retail": 8,
     "technology": 21
    },
    "types": {
     "bec": 5,
-    "data_breach": 85,
-    "ransomware": 9
+    "data_breach": 88,
+    "ransomware": 10
    },
    "vuln": 5,
    "vulns_top": [
@@ -112036,43 +112190,43 @@
      "p": "Patches"
     }
    ],
-   "yoy": 70
+   "yoy": 74
   },
   "365": {
    "affected": {
     "buckets": {
-     "100k": 37,
-     "10k": 132,
-     "1k": 189,
+     "100k": 38,
+     "10k": 131,
+     "1k": 187,
      "1m": 16,
      "lt1k": 117
     },
-    "known": 491,
+    "known": 489,
     "max": 15000000,
-    "median": 4979,
-    "p90": 113330,
-    "sum": 81460673
+    "median": 5000,
+    "p90": 120090,
+    "sum": 82001310
    },
    "both": 7,
    "ch": {
-    "ca": 575,
-    "hhs": 491,
+    "ca": 573,
+    "hhs": 489,
     "me": 0,
-    "press": 42,
+    "press": 44,
     "sec8k": 20,
-    "stateag": 575
+    "stateag": 573
    },
    "claim": 8,
-   "claim_checked": 332,
+   "claim_checked": 336,
    "ext_no": 35,
-   "ext_unknown": 978,
+   "ext_unknown": 976,
    "ext_yes": 55,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 290,
+      "known": 288,
       "median": 106,
-      "p90": 356
+      "p90": 357
      },
      "hhs": {
       "known": 38,
@@ -112087,51 +112241,51 @@
     },
     "hist": {
      "31_60": 58,
-     "61_90": 41,
-     "8_30": 30,
+     "61_90": 40,
+     "8_30": 29,
      "91_180": 66,
      "gt180": 92,
      "lt8": 3
     },
-    "known": 290,
+    "known": 288,
     "median": 106,
-    "p90": 356
+    "p90": 357
    },
-   "n": 1068,
-   "official_only": 1026,
-   "press_only": 35,
-   "prev": 781,
-   "route_unknown": 791,
+   "n": 1066,
+   "official_only": 1022,
+   "press_only": 37,
+   "prev": 787,
+   "route_unknown": 789,
    "routes": {
     "cloud_misconfig": 4,
-    "credential": 23,
+    "credential": 24,
     "device": 1,
     "email_phishing": 139,
     "insider": 9,
     "misdirected": 22,
     "physical": 3,
     "third_party": 48,
-    "unknown": 791,
-    "webapp_vuln": 28
+    "unknown": 789,
+    "webapp_vuln": 27
    },
    "sectors": {
     "education": 48,
     "finance": 87,
-    "government": 27,
-    "healthcare": 632,
-    "manufacturing": 22,
+    "government": 28,
+    "healthcare": 631,
+    "manufacturing": 21,
     "other": 48,
-    "professional_services": 80,
+    "professional_services": 79,
     "retail": 36,
     "technology": 88
    },
    "types": {
     "bec": 5,
-    "data_breach": 568,
-    "intrusion": 474,
-    "ransomware": 21
+    "data_breach": 567,
+    "intrusion": 472,
+    "ransomware": 22
    },
-   "vuln": 17,
+   "vuln": 16,
    "vulns_top": [
     {
      "c": "",
@@ -112144,12 +112298,6 @@
      "kev": false,
      "n": 3,
      "p": "Oracle E-Business Suite"
-    },
-    {
-     "c": "",
-     "kev": false,
-     "n": 2,
-     "p": "Oracle EBS"
     },
     {
      "c": "",
@@ -112192,9 +112340,15 @@
      "kev": false,
      "n": 1,
      "p": "File Manager"
+    },
+    {
+     "c": "",
+     "kev": false,
+     "n": 1,
+     "p": "GoAnywhere"
     }
    ],
-   "yoy": 781
+   "yoy": 787
   },
   "7": {
    "affected": {
@@ -112213,62 +112367,63 @@
    },
    "both": 0,
    "ch": {
-    "ca": 7,
+    "ca": 8,
     "hhs": 0,
     "me": 0,
     "press": 9,
     "sec8k": 0,
-    "stateag": 7
+    "stateag": 8
    },
    "claim": 1,
-   "claim_checked": 16,
+   "claim_checked": 17,
    "ext_no": 0,
    "ext_unknown": 14,
-   "ext_yes": 2,
+   "ext_yes": 3,
    "lag": {
     "by_ch": {
      "ca": {
       "known": 5,
-      "median": 142,
-      "p90": 241
+      "median": 170,
+      "p90": 297
      }
     },
     "hist": {
      "31_60": 0,
      "61_90": 0,
-     "8_30": 2,
+     "8_30": 1,
      "91_180": 2,
-     "gt180": 1,
+     "gt180": 2,
      "lt8": 0
     },
     "known": 5,
-    "median": 142,
-    "p90": 241
+    "median": 170,
+    "p90": 297
    },
-   "n": 16,
-   "official_only": 7,
+   "n": 17,
+   "official_only": 8,
    "press_only": 9,
-   "prev": 22,
-   "route_unknown": 11,
+   "prev": 23,
+   "route_unknown": 12,
    "routes": {
-    "credential": 1,
-    "email_phishing": 2,
+    "credential": 2,
+    "email_phishing": 1,
     "third_party": 1,
-    "unknown": 11,
+    "unknown": 12,
     "webapp_vuln": 1
    },
    "sectors": {
-    "education": 1,
+    "education": 2,
     "finance": 1,
-    "government": 3,
+    "government": 4,
     "healthcare": 4,
-    "retail": 3,
-    "technology": 4
+    "other": 1,
+    "retail": 2,
+    "technology": 3
    },
    "types": {
     "bec": 1,
     "data_breach": 13,
-    "ransomware": 2
+    "ransomware": 3
    },
    "vuln": 2,
    "vulns_top": [
@@ -112309,43 +112464,43 @@
      "p": "PHP Patches Seven"
     }
    ],
-   "yoy": 24
+   "yoy": 29
   },
   "90": {
    "affected": {
     "buckets": {
      "100k": 9,
-     "10k": 19,
-     "1k": 31,
+     "10k": 18,
+     "1k": 30,
      "1m": 2,
      "lt1k": 35
     },
-    "known": 96,
+    "known": 94,
     "max": 8179772,
-    "median": 2649,
-    "p90": 132436,
-    "sum": 13392295
+    "median": 2424,
+    "p90": 134933,
+    "sum": 13315166
    },
    "both": 7,
    "ch": {
-    "ca": 166,
-    "hhs": 96,
+    "ca": 167,
+    "hhs": 94,
     "me": 0,
-    "press": 42,
+    "press": 44,
     "sec8k": 4,
-    "stateag": 166
+    "stateag": 167
    },
    "claim": 8,
-   "claim_checked": 293,
+   "claim_checked": 294,
    "ext_no": 12,
    "ext_unknown": 257,
-   "ext_yes": 24,
+   "ext_yes": 25,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 86,
-      "median": 91,
-      "p90": 338
+      "known": 87,
+      "median": 92,
+      "p90": 337
      },
      "hhs": {
       "known": 6,
@@ -112358,21 +112513,21 @@
      "61_90": 12,
      "8_30": 12,
      "91_180": 14,
-     "gt180": 29,
+     "gt180": 30,
      "lt8": 0
     },
-    "known": 86,
-    "median": 91,
-    "p90": 338
+    "known": 87,
+    "median": 92,
+    "p90": 337
    },
-   "n": 293,
-   "official_only": 251,
-   "press_only": 35,
-   "prev": 282,
+   "n": 294,
+   "official_only": 250,
+   "press_only": 37,
+   "prev": 278,
    "route_unknown": 209,
    "routes": {
     "cloud_misconfig": 1,
-    "credential": 10,
+    "credential": 11,
     "email_phishing": 31,
     "misdirected": 11,
     "physical": 1,
@@ -112381,21 +112536,21 @@
     "webapp_vuln": 13
    },
    "sectors": {
-    "education": 24,
+    "education": 25,
     "finance": 21,
-    "government": 14,
-    "healthcare": 146,
+    "government": 15,
+    "healthcare": 144,
     "manufacturing": 5,
-    "other": 12,
+    "other": 13,
     "professional_services": 28,
     "retail": 12,
     "technology": 31
    },
    "types": {
     "bec": 5,
-    "data_breach": 188,
-    "intrusion": 88,
-    "ransomware": 12
+    "data_breach": 189,
+    "intrusion": 87,
+    "ransomware": 13
    },
    "vuln": 9,
    "vulns_top": [
@@ -112460,42 +112615,42 @@
      "p": "Outlook"
     }
    ],
-   "yoy": 204
+   "yoy": 207
   },
   "all": {
    "affected": {
     "buckets": {
-     "100k": 78,
+     "100k": 79,
      "10k": 246,
-     "1k": 290,
+     "1k": 289,
      "1m": 28,
      "lt1k": 170
     },
     "known": 812,
     "max": 62224658,
-    "median": 6242,
-    "p90": 143441,
-    "sum": 197385114
+    "median": 6244,
+    "p90": 143956,
+    "sum": 197985114
    },
    "both": 7,
    "ch": {
-    "ca": 1719,
+    "ca": 1721,
     "hhs": 812,
     "me": 0,
-    "press": 42,
+    "press": 44,
     "sec8k": 63,
-    "stateag": 1719
+    "stateag": 1721
    },
    "claim": 8,
-   "claim_checked": 332,
+   "claim_checked": 336,
    "ext_no": 85,
-   "ext_unknown": 2306,
-   "ext_yes": 159,
+   "ext_unknown": 2309,
+   "ext_yes": 160,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 924,
-      "median": 126,
+      "known": 925,
+      "median": 127,
       "p90": 350
      },
      "hhs": {
@@ -112514,46 +112669,46 @@
      "61_90": 105,
      "8_30": 76,
      "91_180": 246,
-     "gt180": 330,
+     "gt180": 331,
      "lt8": 9
     },
-    "known": 924,
-    "median": 126,
+    "known": 925,
+    "median": 127,
     "p90": 350
    },
-   "n": 2550,
-   "official_only": 2508,
-   "press_only": 35,
+   "n": 2554,
+   "official_only": 2510,
+   "press_only": 37,
    "prev": null,
-   "route_unknown": 1899,
+   "route_unknown": 1902,
    "routes": {
     "cloud_misconfig": 9,
-    "credential": 72,
+    "credential": 73,
     "device": 8,
     "email_phishing": 286,
     "insider": 19,
     "misdirected": 51,
     "physical": 7,
     "third_party": 121,
-    "unknown": 1899,
+    "unknown": 1902,
     "webapp_vuln": 78
    },
    "sectors": {
-    "education": 137,
+    "education": 138,
     "finance": 290,
-    "government": 72,
-    "healthcare": 1229,
+    "government": 73,
+    "healthcare": 1230,
     "manufacturing": 63,
-    "other": 204,
+    "other": 205,
     "professional_services": 207,
     "retail": 105,
     "technology": 243
    },
    "types": {
     "bec": 5,
-    "data_breach": 1646,
+    "data_breach": 1649,
     "intrusion": 798,
-    "ransomware": 101
+    "ransomware": 102
    },
    "vuln": 64,
    "vulns_top": [
