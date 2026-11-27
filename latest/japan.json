@@ -1,6 +1,426 @@
 {
- "generated": "2026-11-25T23:58:58Z",
+ "generated": "2026-11-27T00:01:22Z",
  "incidents": [
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "o": "教育委員会",
+   "oe": "Board of Education",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-27",
+     "t": "今日もどこかで情報漏えい 第54回「2026年10月の情報漏えい」教育委員会職員の不正アクセスが発覚した理由",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/27/56921.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "o": "札幌駅総合開発株式会社",
+   "oe": "Sapporo Station Redevelopment Co., Ltd.",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-27",
+     "t": "不正アクセスで札幌のクリスマス抽選会が中止に",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/27/56917.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "当社社内ネットワークへの不正アクセスに関する調査完了および対策実施について",
+     "u": "https://www.enecom.co.jp/information/4121"
+    },
+    {
+     "d": "",
+     "t": "当社の社内ネットワークへの不正アクセスについて",
+     "u": "https://www.enecom.co.jp/information/3920"
+    }
+   ],
+   "o": "株式会社エネコム",
+   "oe": "Enecom",
+   "on": "https://www.enecom.co.jp/information/4121",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-27",
+     "t": "保守用アカウントを利用しシンクライアント環境経由で侵入 ～ エネコム社内ネットワークに不正アクセス",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/27/56916.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-16",
+     "t": "不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://company.meetsmore.com/page/notice-20261116"
+    }
+   ],
+   "o": "株式会社ミツモア",
+   "oe": "MeetsMore Inc.",
+   "on": "https://company.meetsmore.com/page/notice-20261116",
+   "os": "found",
+   "s": [
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-27",
+     "t": "「ミツモア」にシステムの脆弱性を悪用した不正アクセス、最大36万6,850件の情報が取得される",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/27/56913.html"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-26",
+     "t": "弊社社内業務システムへの不正アクセスに関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261126586941.pdf"
+    }
+   ],
+   "o": "シンカ",
+   "oe": "Thinca Co., Ltd.",
+   "on": "https://www.release.tdnet.info/inbs/140120261126586941.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-26",
+     "t": "弊社社内業務システムへの不正アクセスに関するお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261126586941.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "o": "ニューバランスジャパン",
+   "oe": "New Balance Japan",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "ニューバランスジャパンがKARTE不正アクセスで最大約374万件の顧客情報漏えいを発表",
+     "u": "https://cybersecurity-jp.com/news/118983"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-25",
+     "t": "アディーレ法律事務所 公式発表",
+     "u": "https://www.official.adire.jp/pressroom/topics/20261125"
+    }
+   ],
+   "o": "アディーレ法律事務所",
+   "oe": "Adire Law Office",
+   "on": "https://www.official.adire.jp/pressroom/topics/20261125",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "アディーレ法律事務所で委託先への不正アクセスにより個人情報約1,828件が漏えい",
+     "u": "https://cybersecurity-jp.com/news/118984"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "o": "文部科学省",
+   "oe": "Ministry of Education, Culture, Sports, Science and Technology",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "文部科学省の調達システムに不正アクセス 事業者情報最大16万件超が漏えいのおそれ",
+     "u": "https://cybersecurity-jp.com/news/118985"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "o": "1Password",
+   "oe": "1Password",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-11-26",
+     "t": "1Passwordへの不正アクセスについてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/11/26/153937"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-26",
+     "t": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（最終報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261126586529.pdf"
+    }
+   ],
+   "o": "チェンジHD",
+   "oe": "Change Holdings, Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261126586529.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-26",
+     "t": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（最終報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261126586529.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "o": "HANOWA",
+   "oe": "HANOWA",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-11-26",
+     "t": "歯科医療人材マッチングサービスで設定ミス - 個人情報が閲覧可能に",
+     "u": "https://www.security-next.com/192812"
+    }
+   ],
+   "t": "leak",
+   "v": "cloud_misconfig",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-26",
+     "t": "業務委託企業への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261126586608.pdf"
+    }
+   ],
+   "o": "サイバーステップHD",
+   "oe": "CyberStep Holdings, Inc.",
+   "on": "https://www.release.tdnet.info/inbs/140120261126586608.pdf",
+   "os": "tdnet",
+   "s": [
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-26",
+     "t": "業務委託企業への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+     "u": "https://www.release.tdnet.info/inbs/140120261126586608.pdf"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-25",
+     "t": "ENEOS（公式発表）",
+     "u": "https://www.eneos.co.jp/announcement/20261125.html"
+    }
+   ],
+   "o": "ENEOS",
+   "oe": "ENEOS",
+   "on": "https://www.eneos.co.jp/announcement/20261125.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-11-26",
+     "t": "ENEOS公式アプリで侵害、サービス停止 - 影響など調査",
+     "u": "https://www.security-next.com/193377"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "ENEOSが公式アプリへの不正アクセスを検知しサービスを停止し漏えいの有無を調査中",
+     "u": "https://cybersecurity-jp.com/news/118982"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "o": "MJS M&Aパートナーズ",
+   "oe": "MJS M&A Partners",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "MJS M&Aパートナーズが不正アクセスを受け最大数千社分の情報漏えいのおそれ",
+     "u": "https://cybersecurity-jp.com/news/118920"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "ヤマトホールディングス（公式発表）",
+     "u": "https://www.yamato-hd.co.jp/important/info_261125_1.html"
+    }
+   ],
+   "o": "ヤマトホールディングス",
+   "oe": "Yamato Holdings Co., Ltd.",
+   "on": "https://www.yamato-hd.co.jp/important/info_261125_1.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "ヤマトホールディングスは不正アクセスを受け個人情報が漏洩した可能性があると発表",
+     "u": "https://cybersecurity-jp.com/news/118921"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "o": "JCB",
+   "oe": "JCB",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "JCBがKARTE不正アクセスでMyJCB関連の管理コード最大約15万件の漏えいを発表",
+     "u": "https://cybersecurity-jp.com/news/118923"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "四国銀行 お知らせ一覧",
+     "u": "https://www.shikokubank.co.jp/info"
+    }
+   ],
+   "o": "四国銀行",
+   "oe": "The Shikoku Bank, Ltd.",
+   "on": "https://www.shikokubank.co.jp/info",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "四国銀行がMikatano利用者のメールアドレス流出を発表 KARTEへの不正アクセスが原因",
+     "u": "https://cybersecurity-jp.com/news/118924"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-26",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "三菱ケミカル・クリンスイ お詫びとお知らせ（公式）",
+     "u": "https://cleansui.com/info/11541.html"
+    },
+    {
+     "d": "",
+     "t": "三菱ケミカル・クリンスイ 第2報（公式）",
+     "u": "https://cleansui.com/info/11560.html"
+    }
+   ],
+   "o": "三菱ケミカル・クリンスイ",
+   "oe": "Mitsubishi Chemical Cleansui Co., Ltd.",
+   "on": "https://cleansui.com/info/11541.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "三菱ケミカル・クリンスイがGoQSystem不正アクセスで1万466名の情報漏えい",
+     "u": "https://cybersecurity-jp.com/news/118925"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
   {
    "d": "2026-11-26",
    "ls": "none_found",
@@ -24,8 +444,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "vendor_cloud",
+   "x": "yes"
   },
   {
    "d": "2026-11-26",
@@ -50,8 +470,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-26",
@@ -164,8 +584,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-25",
@@ -453,6 +873,12 @@
      "p": "2026-11-24",
      "t": "弊社および連結子会社に対する不正アクセスによる情報漏えいに関するお知らせ",
      "u": "https://www.release.tdnet.info/inbs/140120261124585268.pdf"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-11-26",
+     "t": "個人情報含むデータが外部に流出 - 富士ユナイトHD",
+     "u": "https://www.security-next.com/193313"
     }
    ],
    "t": "unauthorized_access",
@@ -497,6 +923,12 @@
      "p": "2026-11-24",
      "t": "当社委託先への不正アクセスに伴う情報漏えいに関するお詫びとお知らせ",
      "u": "https://www.release.tdnet.info/inbs/140120261123584551.pdf"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-26",
+     "t": "PLANTは運用委託先のサーバーが不正アクセスを受け、4万2,107件の個人情報が漏洩",
+     "u": "https://cybersecurity-jp.com/news/118922"
     }
    ],
    "t": "unauthorized_access",
@@ -523,6 +955,12 @@
      "p": "2026-11-24",
      "t": "当社子会社が運用するinfoCMSへの不正アクセスおよびお客様Webサイトの一時停止に関するお知らせ（第1報）",
      "u": "https://www.release.tdnet.info/inbs/140120261124584682.pdf"
+    },
+    {
+     "h": "release.tdnet.info",
+     "p": "2026-11-26",
+     "t": "当社子会社が運用するinfoCMSへの不正アクセスに関するお知らせ（第2報）",
+     "u": "https://www.release.tdnet.info/inbs/140120261126587182.pdf"
     }
    ],
    "t": "unauthorized_access",
@@ -961,6 +1399,12 @@
      "p": "2026-11-21",
      "t": "デジタル庁の政府共通基盤GSSで不正アクセスが発生し会議資料などが漏えいした可能性",
      "u": "https://cybersecurity-jp.com/news/118709"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-27",
+     "t": "デジタル庁のファイル共有サービスに正規外アクセス、一部ファイルが漏えいした可能性",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/27/56915.html"
     }
    ],
    "t": "unauthorized_access",
@@ -1164,6 +1608,12 @@
      "p": "2026-11-22",
      "t": "六花亭がオンラインショップのカード情報流出でカード不正利用1件を確認と発表",
      "u": "https://cybersecurity-jp.com/news/118765"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-27",
+     "t": "「六花亭オンラインショップ」カード情報漏えい 不正利用 1 件確認 ～ クレカ再発行時の伝え方を案内 見舞金名目の不審な連絡にも注意喚起",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/27/56918.html"
     }
    ],
    "t": "unauthorized_access",
@@ -2039,7 +2489,7 @@
    ],
    "o": "ジンズホールディングス",
    "oe": "Jins Holdings Inc.",
-   "on": "https://www.jins.com/jp/topics_detail.html?info_id=1284",
+   "on": "https://jinsholdings.com/jp/ja/newsroom/news/information20261117",
    "os": "found",
    "s": [
     {
@@ -2790,10 +3240,25 @@
      "p": "2026-11-17",
      "t": "NewsPicksに管理ツールの脆弱性を突いた不正アクセス",
      "u": "https://scan.netsecurity.ne.jp/article/2026/11/17/56800.html"
+    },
+    {
+     "h": "scan.netsecurity.ne.jp",
+     "p": "2026-11-27",
+     "t": "NewsPicksへの不正アクセス、BIツール「Metabase」の脆弱性を悪用",
+     "u": "https://scan.netsecurity.ne.jp/article/2026/11/27/56914.html"
     }
    ],
    "t": "unauthorized_access",
    "v": "webapp",
+   "vl": [
+    {
+     "b": "report",
+     "c": "",
+     "p": "Metabase",
+     "s": "https://scan.netsecurity.ne.jp/article/2026/11/27/56914.html",
+     "v": ""
+    }
+   ],
    "x": "yes"
   },
   {
