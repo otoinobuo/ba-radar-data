@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-26",
+ "asof": "2026-11-27",
  "coverage": {
   "ca": "2023-10-12",
   "full_from": "2023-12-18",
@@ -9,8 +9,43 @@
   "sec8k": "2023-12-18"
  },
  "edition": "us",
- "generated": "2026-11-27T00:53:31Z",
+ "generated": "2026-11-28T00:47:14Z",
  "incidents": [
+  {
+   "a": null,
+   "bd": "",
+   "ch": [
+    "press"
+   ],
+   "cl": "no",
+   "d": "2026-11-27",
+   "dd": "",
+   "id": 3882,
+   "nd": "",
+   "nn": [],
+   "o": "US Air Force",
+   "on": "",
+   "s": [
+    {
+     "h": "databreaches.net",
+     "p": "2026-11-27",
+     "t": "Hackers breach US Air Force Cloud One platform, putting military data at risk",
+     "u": "https://databreaches.net/2026/11/27/hackers-breach-us-air-force-cloud-one-platform-putting-military-data-at-risk/"
+    },
+    {
+     "h": "bleepingcomputer.com",
+     "p": "2026-11-27",
+     "t": "US Air Force cloud platform reportedly hacked in latest federal breach",
+     "u": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/"
+    }
+   ],
+   "sec": "government",
+   "st": "",
+   "t": "bec",
+   "v": "email_phishing",
+   "vl": [],
+   "x": "unknown"
+  },
   {
    "a": null,
    "bd": "",
@@ -176,7 +211,8 @@
    "a": null,
    "bd": "2026-05-07",
    "ch": [
-    "ca"
+    "ca",
+    "press"
    ],
    "cl": "no",
    "d": "2026-11-25",
@@ -205,12 +241,18 @@
      "p": "2026-11-25",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633449"
+    },
+    {
+     "h": "bleepingcomputer.com",
+     "p": "2026-11-27",
+     "t": "New Boston Scientific data breach exposes personal, medical info",
+     "u": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"
     }
    ],
    "sec": "healthcare",
    "st": "",
-   "t": "data_breach",
-   "v": "unknown",
+   "t": "bec",
+   "v": "email_phishing",
    "vl": [],
    "x": "unknown"
   },
@@ -302,7 +344,8 @@
    "a": null,
    "bd": "2025-11-05",
    "ch": [
-    "ca"
+    "ca",
+    "press"
    ],
    "cl": "no",
    "d": "2026-11-24",
@@ -331,6 +374,12 @@
      "p": "2026-11-24",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-633397"
+    },
+    {
+     "h": "databreaches.net",
+     "p": "2026-11-27",
+     "t": "Barclays’ US banking arm confirms data breach",
+     "u": "https://databreaches.net/2026/11/27/barclays-us-banking-arm-confirms-data-breach/"
     }
    ],
    "sec": "finance",
@@ -366,14 +415,20 @@
      "p": "2026-11-25",
      "t": "Plagiarism Checker Turnitin Investigating Cyberattack",
      "u": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/"
+    },
+    {
+     "h": "securityweek.com",
+     "p": "2026-11-27",
+     "t": "100,000 Potentially Impacted by Colorado Data Breach",
+     "u": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/"
     }
    ],
    "sec": "government",
    "st": "",
    "t": "ransomware",
-   "v": "unknown",
+   "v": "webapp_vuln",
    "vl": [],
-   "x": "unknown"
+   "x": "yes"
   },
   {
    "a": null,
@@ -654,6 +709,18 @@
      "p": "2026-11-25",
      "t": "Microsoft: China’s Salt Typhoon hackers are using Artex",
      "u": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool"
+    },
+    {
+     "h": "bleepingcomputer.com",
+     "p": "2026-11-27",
+     "t": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+     "u": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/"
+    },
+    {
+     "h": "bleepingcomputer.com",
+     "p": "2026-11-27",
+     "t": "Microsoft removes WSUS server role in Windows Server 2028",
+     "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/"
     }
    ],
    "sec": "technology",
@@ -1200,7 +1267,8 @@
    "a": null,
    "bd": "",
    "ch": [
-    "ca"
+    "ca",
+    "press"
    ],
    "cl": "no",
    "d": "2026-11-16",
@@ -1229,6 +1297,12 @@
      "p": "2026-11-16",
      "t": "California Attorney General breach list entry",
      "u": "https://oag.ca.gov/ecrime/databreach/reports/sb24-632984"
+    },
+    {
+     "h": "databreaches.net",
+     "p": "2026-11-27",
+     "t": "Department of Health Care Access and Information (HCAI) notifies individuals of data security incident discovered in May.",
+     "u": "https://databreaches.net/2026/11/27/department-of-health-care-access-and-information-hcai-notifies-individuals-of-data-security-incident-discovered-in-may/"
     }
    ],
    "sec": "healthcare",
@@ -112324,14 +112398,14 @@
   {
    "hhs": 0,
    "m": "2026-11",
-   "n": 81,
+   "n": 82,
    "pc": {
     "hhs": 0,
-    "press": 23,
+    "press": 24,
     "sec8k": 0,
     "stateag": 58
    },
-   "press": 26,
+   "press": 30,
    "ransomware": 8,
    "sec8k": 0,
    "stateag": 58
@@ -112435,18 +112509,18 @@
     "p90": 0,
     "sum": 0
    },
-   "both": 3,
+   "both": 6,
    "ch": {
-    "ca": 71,
+    "ca": 70,
     "hhs": 0,
     "me": 0,
-    "press": 29,
+    "press": 32,
     "sec8k": 0,
-    "stateag": 71
+    "stateag": 70
    },
    "claim": 6,
-   "claim_checked": 97,
-   "ext_no": 3,
+   "claim_checked": 96,
+   "ext_no": 2,
    "ext_unknown": 82,
    "ext_yes": 12,
    "lag": {
@@ -112469,19 +112543,19 @@
     "median": 91,
     "p90": 302
    },
-   "n": 97,
-   "official_only": 68,
+   "n": 96,
+   "official_only": 64,
    "press_only": 26,
-   "prev": 102,
-   "route_unknown": 65,
+   "prev": 103,
+   "route_unknown": 63,
    "routes": {
     "cloud_misconfig": 1,
-    "credential": 6,
-    "email_phishing": 10,
-    "misdirected": 3,
+    "credential": 5,
+    "email_phishing": 12,
+    "misdirected": 2,
     "third_party": 7,
-    "unknown": 65,
-    "webapp_vuln": 5
+    "unknown": 63,
+    "webapp_vuln": 6
    },
    "sectors": {
     "education": 13,
@@ -112490,13 +112564,13 @@
     "healthcare": 29,
     "manufacturing": 3,
     "other": 4,
-    "professional_services": 8,
+    "professional_services": 7,
     "retail": 8,
     "technology": 18
    },
    "types": {
-    "bec": 5,
-    "data_breach": 83,
+    "bec": 7,
+    "data_breach": 80,
     "ransomware": 9
    },
    "vuln": 5,
@@ -112562,7 +112636,7 @@
      "p": "Patches"
     }
    ],
-   "yoy": 80
+   "yoy": 77
   },
   "365": {
    "affected": {
@@ -112579,20 +112653,20 @@
     "p90": 124669,
     "sum": 81804087
    },
-   "both": 7,
+   "both": 10,
    "ch": {
     "ca": 577,
     "hhs": 483,
     "me": 0,
-    "press": 45,
+    "press": 49,
     "sec8k": 20,
     "stateag": 577
    },
    "claim": 8,
-   "claim_checked": 344,
+   "claim_checked": 345,
    "ext_no": 35,
    "ext_unknown": 976,
-   "ext_yes": 54,
+   "ext_yes": 55,
    "lag": {
     "by_ch": {
      "ca": {
@@ -112623,27 +112697,27 @@
     "median": 106,
     "p90": 359
    },
-   "n": 1065,
-   "official_only": 1020,
-   "press_only": 38,
-   "prev": 790,
-   "route_unknown": 791,
+   "n": 1066,
+   "official_only": 1017,
+   "press_only": 39,
+   "prev": 787,
+   "route_unknown": 789,
    "routes": {
     "cloud_misconfig": 4,
     "credential": 23,
     "device": 1,
-    "email_phishing": 137,
+    "email_phishing": 139,
     "insider": 9,
     "misdirected": 22,
     "physical": 3,
     "third_party": 48,
-    "unknown": 791,
-    "webapp_vuln": 27
+    "unknown": 789,
+    "webapp_vuln": 28
    },
    "sectors": {
     "education": 48,
     "finance": 90,
-    "government": 29,
+    "government": 30,
     "healthcare": 626,
     "manufacturing": 21,
     "other": 48,
@@ -112652,8 +112726,8 @@
     "technology": 87
    },
    "types": {
-    "bec": 5,
-    "data_breach": 568,
+    "bec": 7,
+    "data_breach": 567,
     "intrusion": 468,
     "ransomware": 24
    },
@@ -112720,7 +112794,7 @@
      "p": "GoAnywhere"
     }
    ],
-   "yoy": 790
+   "yoy": 787
   },
   "7": {
    "affected": {
@@ -112737,64 +112811,63 @@
     "p90": 0,
     "sum": 0
    },
-   "both": 0,
+   "both": 2,
    "ch": {
-    "ca": 12,
+    "ca": 9,
     "hhs": 0,
     "me": 0,
     "press": 8,
     "sec8k": 0,
-    "stateag": 12
+    "stateag": 9
    },
-   "claim": 1,
-   "claim_checked": 20,
+   "claim": 0,
+   "claim_checked": 15,
    "ext_no": 0,
-   "ext_unknown": 19,
-   "ext_yes": 1,
+   "ext_unknown": 13,
+   "ext_yes": 2,
    "lag": {
     "by_ch": {
      "ca": {
-      "known": 8,
-      "median": 156,
-      "p90": 345
+      "known": 6,
+      "median": 113,
+      "p90": 374
      }
     },
     "hist": {
      "31_60": 0,
      "61_90": 0,
      "8_30": 3,
-     "91_180": 2,
+     "91_180": 0,
      "gt180": 3,
      "lt8": 0
     },
-    "known": 8,
-    "median": 156,
-    "p90": 345
+    "known": 6,
+    "median": 113,
+    "p90": 374
    },
-   "n": 20,
-   "official_only": 12,
-   "press_only": 8,
-   "prev": 24,
-   "route_unknown": 17,
+   "n": 15,
+   "official_only": 7,
+   "press_only": 6,
+   "prev": 22,
+   "route_unknown": 11,
    "routes": {
-    "email_phishing": 1,
-    "third_party": 1,
-    "unknown": 17,
-    "webapp_vuln": 1
+    "email_phishing": 2,
+    "unknown": 11,
+    "webapp_vuln": 2
    },
    "sectors": {
     "education": 1,
-    "finance": 4,
+    "finance": 3,
     "government": 4,
-    "healthcare": 4,
+    "healthcare": 2,
     "other": 1,
     "professional_services": 2,
-    "retail": 2,
-    "technology": 2
+    "retail": 1,
+    "technology": 1
    },
    "types": {
-    "bec": 1,
-    "data_breach": 15,
+    "bec": 3,
+    "data_breach": 8,
     "ransomware": 4
    },
    "vuln": 2,
@@ -112842,7 +112915,7 @@
      "p": ""
     }
    ],
-   "yoy": 24
+   "yoy": 20
   },
   "90": {
    "affected": {
@@ -112851,28 +112924,28 @@
      "10k": 17,
      "1k": 28,
      "1m": 2,
-     "lt1k": 34
+     "lt1k": 33
     },
-    "known": 90,
+    "known": 89,
     "max": 8179772,
-    "median": 2424,
-    "p90": 142195,
-    "sum": 13295428
+    "median": 2545,
+    "p90": 145712,
+    "sum": 13294928
    },
-   "both": 7,
+   "both": 10,
    "ch": {
     "ca": 172,
-    "hhs": 90,
+    "hhs": 89,
     "me": 0,
-    "press": 45,
+    "press": 49,
     "sec8k": 4,
     "stateag": 172
    },
    "claim": 8,
    "claim_checked": 296,
    "ext_no": 11,
-   "ext_unknown": 261,
-   "ext_yes": 24,
+   "ext_unknown": 260,
+   "ext_yes": 25,
    "lag": {
     "by_ch": {
      "ca": {
@@ -112899,25 +112972,25 @@
     "p90": 339
    },
    "n": 296,
-   "official_only": 251,
-   "press_only": 38,
+   "official_only": 247,
+   "press_only": 39,
    "prev": 277,
-   "route_unknown": 214,
+   "route_unknown": 211,
    "routes": {
     "cloud_misconfig": 1,
     "credential": 10,
-    "email_phishing": 31,
+    "email_phishing": 33,
     "misdirected": 10,
     "physical": 1,
     "third_party": 16,
-    "unknown": 214,
-    "webapp_vuln": 13
+    "unknown": 211,
+    "webapp_vuln": 14
    },
    "sectors": {
     "education": 24,
     "finance": 24,
-    "government": 16,
-    "healthcare": 141,
+    "government": 17,
+    "healthcare": 140,
     "manufacturing": 5,
     "other": 12,
     "professional_services": 30,
@@ -112925,9 +112998,9 @@
     "technology": 31
    },
    "types": {
-    "bec": 5,
-    "data_breach": 191,
-    "intrusion": 85,
+    "bec": 7,
+    "data_breach": 190,
+    "intrusion": 84,
     "ransomware": 15
    },
    "vuln": 9,
@@ -112993,7 +113066,7 @@
      "p": "Outlook"
     }
    ],
-   "yoy": 210
+   "yoy": 202
   },
   "all": {
    "affected": {
@@ -113010,20 +113083,20 @@
     "p90": 143956,
     "sum": 197985114
    },
-   "both": 7,
+   "both": 10,
    "ch": {
     "ca": 1728,
     "hhs": 812,
     "me": 0,
-    "press": 45,
+    "press": 49,
     "sec8k": 63,
     "stateag": 1728
    },
    "claim": 8,
-   "claim_checked": 344,
+   "claim_checked": 345,
    "ext_no": 85,
    "ext_unknown": 2318,
-   "ext_yes": 159,
+   "ext_yes": 160,
    "lag": {
     "by_ch": {
      "ca": {
@@ -113054,27 +113127,27 @@
     "median": 126,
     "p90": 351
    },
-   "n": 2562,
-   "official_only": 2517,
-   "press_only": 38,
+   "n": 2563,
+   "official_only": 2514,
+   "press_only": 39,
    "prev": null,
-   "route_unknown": 1911,
+   "route_unknown": 1909,
    "routes": {
     "cloud_misconfig": 9,
     "credential": 72,
     "device": 8,
-    "email_phishing": 286,
+    "email_phishing": 288,
     "insider": 19,
     "misdirected": 51,
     "physical": 7,
     "third_party": 121,
-    "unknown": 1911,
-    "webapp_vuln": 78
+    "unknown": 1909,
+    "webapp_vuln": 79
    },
    "sectors": {
     "education": 138,
     "finance": 293,
-    "government": 74,
+    "government": 75,
     "healthcare": 1231,
     "manufacturing": 63,
     "other": 205,
@@ -113083,8 +113156,8 @@
     "technology": 243
    },
    "types": {
-    "bec": 5,
-    "data_breach": 1655,
+    "bec": 7,
+    "data_breach": 1654,
     "intrusion": 798,
     "ransomware": 104
    },

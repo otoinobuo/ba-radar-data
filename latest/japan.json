@@ -1,6 +1,260 @@
 {
- "generated": "2026-11-27T00:01:22Z",
+ "generated": "2026-11-27T23:59:13Z",
  "incidents": [
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "o": "東京海上ダイレクト",
+   "oe": "Tokio Marine Direct General Insurance",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-11-27",
+     "t": "契約者向けマイページに不正アクセス、個人情報が流出 - 東京海上ダイレクト",
+     "u": "https://www.security-next.com/193168"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "Drupal：SA-CORE-2026-019",
+     "u": "https://www.drupal.org/sa-core-2026-019"
+    }
+   ],
+   "o": "Drupal",
+   "oe": "Drupal",
+   "on": "https://www.drupal.org/sa-core-2026-019",
+   "os": "found",
+   "s": [
+    {
+     "h": "security-next.com",
+     "p": "2026-11-27",
+     "t": "「Drupal」が再アップデート、前回更新後も一部サイトは脆弱 - 侵害調査を",
+     "u": "https://www.security-next.com/193451"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "vl": [
+    {
+     "b": "report",
+     "c": "CVE-2026-136716",
+     "p": "Drupal",
+     "s": "https://www.security-next.com/193451",
+     "v": ""
+    },
+    {
+     "b": "report",
+     "c": "CVE-2026-132165",
+     "p": "Drupal",
+     "s": "https://www.security-next.com/193451",
+     "v": ""
+    }
+   ],
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "o": "ピーチ・アビエーション",
+   "oe": "Peach Aviation Limited",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-27",
+     "t": "ピーチ・アビエーションでKARTE経由の顧客情報が最大のべ約944万件漏えい",
+     "u": "https://cybersecurity-jp.com/news/119096"
+    }
+   ],
+   "t": "leak",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-19",
+     "t": "三井不動産「三井ショッピングパークポイント会員情報の漏えいおよび三井ショッピングパークアプリサービス提供の一時停止について」（2026年11月19日、PDF）",
+     "u": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1119/download/sonota/20261119.pdf"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "三井不動産・三井不動産商業マネジメント「三井ショッピングパークポイント会員情報の漏えいについて」（2026年11月26日、PDF）",
+     "u": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1126_03/download/sonota/20261126_03.pdf"
+    }
+   ],
+   "o": "三井不動産",
+   "oe": "Mitsui Fudosan Co., Ltd.",
+   "on": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1119/download/sonota/20261119.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-27",
+     "t": "三井不動産の三井ショッピングパークアプリで不正アクセス約311万9千人分の会員情報漏えい",
+     "u": "https://cybersecurity-jp.com/news/119097"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-26",
+     "t": "集英社 株式会社プレイド提供「KARTE」への不正アクセスによる情報漏洩に関するお詫びとお知らせ（2026年11月26日、PDF）",
+     "u": "https://www.shueisha.co.jp/wp-content/uploads/2026/11/20261126.pdf"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "集英社 株式会社プレイド提供「KARTE」のサービス停止に伴うメールマガジン等の配信停止に関するお詫びとお知らせ（PDF）",
+     "u": "https://www.shueisha.co.jp/wp-content/uploads/2026/11/b985e138d872933dc2ccc3b83c3a53e9.pdf"
+    }
+   ],
+   "o": "集英社",
+   "oe": "Shueisha Inc.",
+   "on": "https://www.shueisha.co.jp/wp-content/uploads/2026/11/20261126.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-27",
+     "t": "集英社がKARTE不正アクセスで会員の生年月日70万件余の漏えいを発表",
+     "u": "https://cybersecurity-jp.com/news/119100"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-26",
+     "t": "アテニア 当社が利用していた「KARTE」への不正アクセスに伴う個人情報漏えいに関するお詫びとお知らせ（PDF）",
+     "u": "https://www.attenir.co.jp/news/pdf/news_20261126.pdf"
+    }
+   ],
+   "o": "アテニア",
+   "oe": "Attenir",
+   "on": "https://www.attenir.co.jp/news/pdf/news_20261126.pdf",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-27",
+     "t": "アテニアがKARTE不正アクセスで顧客情報最大66万3,481件の漏えいを発表",
+     "u": "https://cybersecurity-jp.com/news/119099"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "",
+     "t": "国分グループ本社株式会社 当社が利用するマーケティング支援ツール「KARTE」への不正アクセスによるお客さまの個人情報漏えいの可能性について",
+     "u": "https://www.kokubu.co.jp/news/2026/detail/1126170000.html"
+    }
+   ],
+   "o": "国分グループ本社",
+   "oe": "Kokubu Group Corporation",
+   "on": "https://www.kokubu.co.jp/news/2026/detail/1126170000.html",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-27",
+     "t": "国分グループ本社がKARTE不正アクセスで8,590件の情報漏えいの可能性",
+     "u": "https://cybersecurity-jp.com/news/119101"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "o": "国防総省サイバー防衛司令部",
+   "oe": "Defense Department Cyber Defense Command",
+   "os": "not_found",
+   "s": [
+    {
+     "h": "piyolog.hatenadiary.jp",
+     "p": "2026-11-27",
+     "t": "「ARTEX」を使った攻撃の観測と被害組織の公表についてまとめてみた",
+     "u": "https://piyolog.hatenadiary.jp/entry/2026/11/27/134842"
+    }
+   ],
+   "t": "other",
+   "v": "webapp",
+   "x": "yes"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "nn": [
+    {
+     "d": "2026-11-26",
+     "t": "不正アクセスによるお客様情報漏えいに関するお詫びとお知らせ｜エーエフシー公式オンラインショップ",
+     "u": "https://464981.com/shop/pages/important-notice-20261126"
+    }
+   ],
+   "o": "エーエフシー",
+   "oe": "AFC Co., Ltd.",
+   "on": "https://464981.com/shop/pages/important-notice-20261126",
+   "os": "found",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-27",
+     "t": "エーエフシー公式通販で不正ログイン　最大30万2,580名の個人情報が漏えいのおそれ",
+     "u": "https://cybersecurity-jp.com/news/119001"
+    }
+   ],
+   "t": "unauthorized_access",
+   "v": "unknown",
+   "x": "unknown"
+  },
+  {
+   "d": "2026-11-27",
+   "ls": "none_found",
+   "o": "トレバ株式会社",
+   "oe": "Treva",
+   "os": "candidate",
+   "s": [
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-27",
+     "t": "サイバーステップ子会社トレバの顧客情報3万1,730件が委託先経由で漏えい",
+     "u": "https://cybersecurity-jp.com/news/119003"
+    }
+   ],
+   "t": "leak",
+   "v": "vendor_cloud",
+   "x": "yes"
+  },
   {
    "d": "2026-11-27",
    "ls": "none_found",
@@ -16,8 +270,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "credential",
+   "x": "yes"
   },
   {
    "d": "2026-11-27",
@@ -34,7 +288,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "credential",
    "x": "unknown"
   },
   {
@@ -65,8 +319,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "credential",
+   "x": "no"
   },
   {
    "d": "2026-11-27",
@@ -91,8 +345,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-26",
@@ -114,6 +368,12 @@
      "p": "2026-11-26",
      "t": "弊社社内業務システムへの不正アクセスに関するお知らせ",
      "u": "https://www.release.tdnet.info/inbs/140120261126586941.pdf"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-27",
+     "t": "シンカが社内業務システムへの不正アクセスを公表し5,286件の情報漏えいを確認",
+     "u": "https://cybersecurity-jp.com/news/119002"
     }
    ],
    "t": "unauthorized_access",
@@ -176,6 +436,12 @@
      "p": "2026-11-26",
      "t": "文部科学省の調達システムに不正アクセス 事業者情報最大16万件超が漏えいのおそれ",
      "u": "https://cybersecurity-jp.com/news/118985"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-11-27",
+     "t": "政府調達情報システムのサーバから個人情報流出か - 文科省",
+     "u": "https://www.security-next.com/193439"
     }
    ],
    "t": "unauthorized_access",
@@ -197,8 +463,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "credential",
+   "x": "no"
   },
   {
    "d": "2026-11-26",
@@ -223,7 +489,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -267,7 +533,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -343,7 +609,7 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
+   "v": "vendor_cloud",
    "x": "unknown"
   },
   {
@@ -418,8 +684,8 @@
     }
    ],
    "t": "unauthorized_access",
-   "v": "unknown",
-   "x": "unknown"
+   "v": "webapp",
+   "x": "yes"
   },
   {
    "d": "2026-11-26",
@@ -569,6 +835,11 @@
      "d": "2026-11-16",
      "t": "ヴェレダ・ジャパン 不正アクセスによる情報漏えいに関するお詫びとお知らせ",
      "u": "https://weleda-notice-static-apne1.s3.ap-northeast-1.amazonaws.com/news/20261116.html"
+    },
+    {
+     "d": "",
+     "t": "ヴェレダ・ジャパン",
+     "u": "https://www.naturesway.jp/weleda"
     }
    ],
    "o": "ヴェレダ・ジャパン",
@@ -581,6 +852,12 @@
      "p": "2026-11-25",
      "t": "ヴェレダ公式ショップとベレッツァが不正アクセス被害でカード情報漏えいの可能性",
      "u": "https://cybersecurity-jp.com/news/118898"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-11-27",
+     "t": "化粧品通販サイトに不正アクセス - 個人情報流出の可能性",
+     "u": "https://www.security-next.com/193310"
     }
    ],
    "t": "unauthorized_access",
@@ -1100,6 +1377,11 @@
      "d": "2026-11-12",
      "t": "外部委託先への不正アクセスによるお客様情報漏えいの可能性について",
      "u": "https://www.persol-career.co.jp/info/20261112_2370"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "パーソルキャリア 外部委託先への不正アクセスによるお客様情報漏えいについてのお詫びとお知らせ（第二報）",
+     "u": "https://www.persol-career.co.jp/newsroom/news/information/2026/20261126_2388"
     }
    ],
    "o": "パーソルキャリア株式会社",
@@ -1112,6 +1394,12 @@
      "p": "2026-11-24",
      "t": "電通デジタル「TONARIWA」に不正アクセス、パーソルキャリアが保持していた情報が漏えいした可能性",
      "u": "https://scan.netsecurity.ne.jp/article/2026/11/24/56877.html"
+    },
+    {
+     "h": "cybersecurity-jp.com",
+     "p": "2026-11-27",
+     "t": "パーソルキャリア「doda」の求職者情報61万件超が漏えい　委託先への不正アクセスで",
+     "u": "https://cybersecurity-jp.com/news/119098"
     }
    ],
    "t": "unauthorized_access",
@@ -1723,6 +2011,12 @@
      "p": "2026-11-20",
      "t": "ソースネクスト、IR問い合わせフォーム設定不備で137件の個人情報が閲覧可能に ～ 10 / 15 の不正アクセスとは別事案",
      "u": "https://scan.netsecurity.ne.jp/article/2026/11/20/56852.html"
+    },
+    {
+     "h": "security-next.com",
+     "p": "2026-11-27",
+     "t": "問合フォームで設定不備、個人情報が閲覧可能に - ソースネクスト",
+     "u": "https://www.security-next.com/193162"
     }
    ],
    "t": "unauthorized_access",
